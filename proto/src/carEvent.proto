@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+import "carDataContainer.proto";
+
+option go_package = "./pb";
+
+package srserver;
+
+message CarEvent {
+    int64 onlineRaceId = 1;
+    CarEventType type = 2;
+    int64 timestamp = 3;
+    float time = 4;
+    CarControl control = 5;
+    //repeated CarData data = 6;
+    WorldEvent event = 7;
+}
+
+enum CarEventType {
+    CONTROL = 0;
+    DATA = 1;
+    EVENT = 2;
+}

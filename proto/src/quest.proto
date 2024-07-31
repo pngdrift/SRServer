@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+import "carUpgrade.proto";
+import "item.proto";
+import "money.proto";
+
+option go_package = "./pb";
+
+package srserver;
+
+message UserQuests {
+    repeated Quest quests = 1;
+}
+
+message Quest {
+    int32 baseId = 1;
+    bool isFinished = 2;
+    int32 counter = 3;
+    int64 saveTime = 4;
+    string name = 5;
+    string desc = 6;
+}
+
+message QuestAward {
+    Money money = 1;
+    int32 exp = 2;
+    repeated CarUpgrade upgrades = 3;
+    repeated Item items = 4;
+}

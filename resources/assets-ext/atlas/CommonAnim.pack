@@ -1,0 +1,381 @@
+
+CommonAnim.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+level_up_award_bg
+  rotate: false
+  xy: 1, 1682
+  size: 1459, 351
+  orig: 1459, 351
+  offset: 0, 0
+  index: -1
+level_up_bg_halo_left
+  rotate: false
+  xy: 1462, 1431
+  size: 441, 602
+  orig: 1920, 1080
+  offset: 367, 187
+  index: -1
+level_up_flash
+  rotate: false
+  xy: 1, 1267
+  size: 628, 413
+  orig: 960, 540
+  offset: 166, 64
+  index: -1
+level_up_wing_left
+  rotate: false
+  xy: 631, 980
+  size: 626, 449
+  orig: 1440, 810
+  offset: 78, 158
+  index: -1
+level_up_stars
+  rotate: false
+  xy: 631, 1432
+  size: 255, 248
+  orig: 480, 270
+  offset: 99, 7
+  index: 3
+level_up_wing_right
+  rotate: false
+  xy: 1, 817
+  size: 626, 448
+  orig: 1440, 810
+  offset: 736, 158
+  index: -1
+level_up_award_dollar
+  rotate: false
+  xy: 888, 1460
+  size: 226, 220
+  orig: 250, 250
+  offset: 12, 14
+  index: -1
+level_up_award_money
+  rotate: false
+  xy: 1116, 1467
+  size: 219, 213
+  orig: 250, 250
+  offset: 14, 10
+  index: -1
+level_up_stars
+  rotate: false
+  xy: 1116, 1464
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: 1
+level_up_stars
+  rotate: false
+  xy: 1116, 1464
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: 41
+level_up_bg_halo_right
+  rotate: false
+  xy: 1259, 827
+  size: 441, 602
+  orig: 1920, 1080
+  offset: 1112, 187
+  index: -1
+level_up_bg
+  rotate: false
+  xy: 629, 708
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+level_up_stars
+  rotate: false
+  xy: 1, 545
+  size: 366, 270
+  orig: 480, 270
+  offset: 43, 0
+  index: 40
+level_up_stars
+  rotate: false
+  xy: 369, 562
+  size: 252, 253
+  orig: 480, 270
+  offset: 101, 0
+  index: 2
+level_up_center
+  rotate: false
+  xy: 1111, 277
+  size: 326, 548
+  orig: 1440, 810
+  offset: 556, 147
+  index: -1
+level_up_stars
+  rotate: false
+  xy: 623, 436
+  size: 289, 270
+  orig: 480, 270
+  offset: 82, 0
+  index: 14
+level_up_award_upgrade
+  rotate: false
+  xy: 369, 310
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+level_up_stars
+  rotate: false
+  xy: 621, 164
+  size: 364, 270
+  orig: 480, 270
+  offset: 44, 0
+  index: 39
+level_up_award_fuel
+  rotate: false
+  xy: 914, 456
+  size: 189, 250
+  orig: 250, 250
+  offset: 31, 0
+  index: -1
+level_up_stars
+  rotate: false
+  xy: 1, 273
+  size: 331, 270
+  orig: 480, 270
+  offset: 61, 0
+  index: 28
+level_up_stars
+  rotate: false
+  xy: 334, 40
+  size: 283, 268
+  orig: 480, 270
+  offset: 85, 0
+  index: 12
+level_up_stars
+  rotate: false
+  xy: 1, 1
+  size: 329, 270
+  orig: 480, 270
+  offset: 62, 0
+  index: 27
+level_up_stars
+  rotate: false
+  xy: 1439, 555
+  size: 362, 270
+  orig: 480, 270
+  offset: 45, 0
+  index: 38
+level_up_stars
+  rotate: false
+  xy: 1439, 284
+  size: 359, 269
+  orig: 480, 270
+  offset: 47, 0
+  index: 37
+level_up_stars
+  rotate: false
+  xy: 1439, 12
+  size: 325, 270
+  orig: 480, 270
+  offset: 64, 0
+  index: 26
+level_up_stars
+  rotate: false
+  xy: 1766, 15
+  size: 280, 267
+  orig: 480, 270
+  offset: 87, 0
+  index: 11
+level_up_stars
+  rotate: false
+  xy: 987, 5
+  size: 323, 270
+  orig: 480, 270
+  offset: 65, 0
+  index: 25
+level_up_stars
+  rotate: false
+  xy: 1702, 1166
+  size: 344, 263
+  orig: 480, 270
+  offset: 54, 1
+  index: 32
+level_up_stars
+  rotate: false
+  xy: 1702, 905
+  size: 341, 259
+  orig: 480, 270
+  offset: 56, 3
+  index: 31
+
+CommonAnim2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+level_up_stars
+  rotate: false
+  xy: 1, 1610
+  size: 356, 268
+  orig: 480, 270
+  offset: 48, 0
+  index: 36
+level_up_stars
+  rotate: false
+  xy: 1, 1341
+  size: 353, 267
+  orig: 480, 270
+  offset: 50, 0
+  index: 35
+level_up_stars
+  rotate: false
+  xy: 359, 1612
+  size: 350, 266
+  orig: 480, 270
+  offset: 51, 0
+  index: 34
+level_up_stars
+  rotate: false
+  xy: 1, 1074
+  size: 347, 265
+  orig: 480, 270
+  offset: 53, 0
+  index: 33
+level_up_stars
+  rotate: false
+  xy: 711, 1617
+  size: 338, 261
+  orig: 480, 270
+  offset: 57, 0
+  index: 30
+level_up_stars
+  rotate: false
+  xy: 1, 812
+  size: 335, 260
+  orig: 480, 270
+  offset: 59, 0
+  index: 29
+level_up_stars
+  rotate: false
+  xy: 1, 540
+  size: 319, 270
+  orig: 480, 270
+  offset: 67, 0
+  index: 24
+level_up_stars
+  rotate: false
+  xy: 1, 270
+  size: 317, 268
+  orig: 480, 270
+  offset: 68, 2
+  index: 23
+level_up_stars
+  rotate: false
+  xy: 1, 1
+  size: 313, 267
+  orig: 480, 270
+  offset: 70, 3
+  index: 22
+level_up_stars
+  rotate: false
+  xy: 1051, 1613
+  size: 311, 265
+  orig: 480, 270
+  offset: 71, 5
+  index: 21
+level_up_stars
+  rotate: false
+  xy: 1364, 1615
+  size: 307, 263
+  orig: 480, 270
+  offset: 73, 6
+  index: 20
+level_up_stars
+  rotate: false
+  xy: 1673, 1617
+  size: 305, 261
+  orig: 480, 270
+  offset: 74, 7
+  index: 19
+level_up_stars
+  rotate: false
+  xy: 711, 1356
+  size: 301, 259
+  orig: 480, 270
+  offset: 76, 8
+  index: 18
+level_up_stars
+  rotate: false
+  xy: 1014, 1345
+  size: 299, 266
+  orig: 480, 270
+  offset: 77, 0
+  index: 17
+level_up_stars
+  rotate: false
+  xy: 1315, 1341
+  size: 287, 270
+  orig: 480, 270
+  offset: 83, 0
+  index: 13
+level_up_stars
+  rotate: false
+  xy: 1604, 1343
+  size: 293, 270
+  orig: 480, 270
+  offset: 80, 0
+  index: 15
+level_up_stars
+  rotate: false
+  xy: 359, 1340
+  size: 295, 270
+  orig: 480, 270
+  offset: 79, 0
+  index: 16
+level_up_stars
+  rotate: false
+  xy: 350, 1073
+  size: 277, 265
+  orig: 480, 270
+  offset: 88, 0
+  index: 10
+level_up_stars
+  rotate: false
+  xy: 338, 807
+  size: 274, 264
+  orig: 480, 270
+  offset: 90, 0
+  index: 9
+level_up_stars
+  rotate: false
+  xy: 322, 543
+  size: 271, 262
+  orig: 480, 270
+  offset: 91, 0
+  index: 8
+level_up_stars
+  rotate: false
+  xy: 629, 1079
+  size: 268, 259
+  orig: 480, 270
+  offset: 93, 2
+  index: 7
+level_up_stars
+  rotate: false
+  xy: 899, 1087
+  size: 265, 256
+  orig: 480, 270
+  offset: 94, 3
+  index: 6
+level_up_stars
+  rotate: false
+  xy: 1166, 1085
+  size: 262, 254
+  orig: 480, 270
+  offset: 96, 4
+  index: 5
+level_up_stars
+  rotate: false
+  xy: 1430, 1089
+  size: 259, 250
+  orig: 480, 270
+  offset: 97, 6
+  index: 4

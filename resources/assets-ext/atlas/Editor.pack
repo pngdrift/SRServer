@@ -1,0 +1,105 @@
+
+Editor.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+muffler_id1
+  rotate: false
+  xy: 1, 735
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+muffler_id2
+  rotate: false
+  xy: 1, 533
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+muffler_id3
+  rotate: false
+  xy: 403, 735
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+muffler_id4
+  rotate: false
+  xy: 1, 331
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+muffler_id5
+  rotate: false
+  xy: 403, 533
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+muffler_test
+  rotate: false
+  xy: 1, 129
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+headlight_test
+  rotate: false
+  xy: 403, 281
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+driver_test
+  rotate: false
+  xy: 805, 735
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+wheel_test
+  rotate: false
+  xy: 1, 7
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+intercooler_test
+  rotate: false
+  xy: 403, 158
+  size: 100, 121
+  orig: 100, 121
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 655, 505
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+point_blue
+  rotate: false
+  xy: 805, 707
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+car_viewer_bg
+  rotate: false
+  xy: 1007, 919
+  size: 16, 16
+  split: 7, 7, 7, 7
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 1, 1
+  size: 4, 4
+  split: 1, 1, 1, 1
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

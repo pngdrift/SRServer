@@ -1,0 +1,1260 @@
+
+Race.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+countdown_bg
+  rotate: false
+  xy: 1, 1797
+  size: 2029, 250
+  orig: 2029, 250
+  offset: 0, 0
+  index: -1
+level_bar_filler
+  rotate: false
+  xy: 1, 1725
+  size: 1796, 70
+  split: 1686, 106, 33, 33
+  orig: 1796, 70
+  offset: 0, 0
+  index: -1
+level_bar_filler_bg
+  rotate: false
+  xy: 1, 1649
+  size: 1775, 74
+  split: 98, 1673, 27, 43
+  orig: 1775, 74
+  offset: 0, 0
+  index: -1
+race_result_line_blue
+  rotate: false
+  xy: 1, 1643
+  size: 1532, 4
+  orig: 1532, 4
+  offset: 0, 0
+  index: -1
+race_result_line_red
+  rotate: false
+  xy: 1, 1637
+  size: 1532, 4
+  orig: 1532, 4
+  offset: 0, 0
+  index: -1
+gear_select_title
+  rotate: false
+  xy: 1, 1539
+  size: 1409, 96
+  orig: 1409, 96
+  offset: 0, 0
+  index: -1
+control_panel_bg2_night
+  rotate: false
+  xy: 1, 1060
+  size: 881, 477
+  orig: 881, 477
+  offset: 0, 0
+  index: -1
+control_panel_bg3_day
+  rotate: false
+  xy: 1, 581
+  size: 881, 477
+  orig: 881, 477
+  offset: 0, 0
+  index: -1
+countdown_start_ru
+  rotate: false
+  xy: 1, 420
+  size: 861, 159
+  orig: 861, 159
+  offset: 0, 0
+  index: -1
+widget_class_bg
+  rotate: false
+  xy: 1, 1
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1
+finish_widget_bg
+  rotate: false
+  xy: 884, 479
+  size: 6, 1058
+  split: 1, 1, 1011, 43
+  orig: 6, 1058
+  offset: 0, 0
+  index: -1
+race_reward_widget_bg
+  rotate: false
+  xy: 892, 498
+  size: 6, 1039
+  split: 1, 1, 998, 37
+  orig: 6, 1039
+  offset: 0, 0
+  index: -1
+icon_automatic
+  rotate: false
+  xy: 900, 1104
+  size: 433, 433
+  orig: 433, 433
+  offset: 0, 0
+  index: -1
+icon_manual
+  rotate: false
+  xy: 900, 669
+  size: 433, 433
+  orig: 433, 433
+  offset: 0, 0
+  index: -1
+control_pedal_gas_down
+  rotate: false
+  xy: 420, 62
+  size: 270, 356
+  orig: 270, 356
+  offset: 0, 0
+  index: -1
+gsw_bg
+  rotate: false
+  xy: 900, 497
+  size: 545, 170
+  split: 246, 282, 69, 76
+  orig: 545, 170
+  offset: 0, 0
+  index: -1
+back_line
+  rotate: false
+  xy: 1335, 1035
+  size: 96, 502
+  orig: 96, 502
+  offset: 0, 0
+  index: -1
+race_statistic_bg
+  rotate: false
+  xy: 892, 399
+  size: 1093, 96
+  orig: 1093, 96
+  offset: 0, 0
+  index: -1
+tire_heat_indicator
+  rotate: false
+  xy: 692, 244
+  size: 673, 153
+  orig: 673, 153
+  offset: 0, 0
+  index: -1
+tire_heat_indicator_line
+  rotate: false
+  xy: 692, 89
+  size: 673, 153
+  orig: 673, 153
+  offset: 0, 0
+  index: -1
+top_time_flash_effect
+  rotate: false
+  xy: 1367, 315
+  size: 613, 82
+  orig: 613, 82
+  offset: 0, 0
+  index: -1
+gsw_animation_arrow
+  rotate: false
+  xy: 1367, 275
+  size: 547, 38
+  orig: 547, 38
+  offset: 0, 0
+  index: 1
+gsw_animation_arrow
+  rotate: false
+  xy: 1367, 235
+  size: 547, 38
+  orig: 547, 38
+  offset: 0, 0
+  index: 2
+gsw_animation_arrow
+  rotate: false
+  xy: 1367, 195
+  size: 547, 38
+  orig: 547, 38
+  offset: 0, 0
+  index: 3
+gsw_line_bg
+  rotate: false
+  xy: 1367, 157
+  size: 545, 36
+  split: 259, 270, 14, 14
+  orig: 545, 36
+  offset: 0, 0
+  index: -1
+start_line
+  rotate: false
+  xy: 1433, 1133
+  size: 96, 502
+  orig: 96, 502
+  offset: 0, 0
+  index: -1
+finish_line
+  rotate: false
+  xy: 1531, 1138
+  size: 266, 497
+  orig: 266, 497
+  offset: 0, 0
+  index: -1
+gear_select_button_title
+  rotate: false
+  xy: 1367, 45
+  size: 397, 110
+  orig: 397, 110
+  offset: 0, 0
+  index: -1
+control_pedal_gas_up
+  rotate: false
+  xy: 1335, 677
+  size: 270, 356
+  orig: 270, 356
+  offset: 0, 0
+  index: -1
+icon_semiauto
+  rotate: false
+  xy: 1607, 703
+  size: 433, 433
+  orig: 433, 433
+  offset: 0, 0
+  index: -1
+control_parking_brake_active
+  rotate: false
+  xy: 1799, 1463
+  size: 148, 332
+  orig: 148, 332
+  offset: 0, 0
+  index: -1
+temperature_night
+  rotate: false
+  xy: 1799, 1230
+  size: 223, 231
+  orig: 223, 231
+  offset: 0, 0
+  index: -1
+new_record_bg
+  rotate: false
+  xy: 1607, 610
+  size: 349, 91
+  orig: 349, 91
+  offset: 0, 0
+  index: -1
+level_label_en
+  rotate: false
+  xy: 692, 46
+  size: 320, 41
+  orig: 320, 41
+  offset: 0, 0
+  index: -1
+level_label_ru
+  rotate: false
+  xy: 1014, 46
+  size: 320, 41
+  orig: 320, 41
+  offset: 0, 0
+  index: -1
+control_panel_arrow_day
+  rotate: false
+  xy: 1949, 1523
+  size: 52, 272
+  orig: 52, 272
+  offset: 0, 0
+  index: -1
+race_reward_flash
+  rotate: false
+  xy: 1447, 515
+  size: 156, 160
+  orig: 156, 160
+  offset: 0, 0
+  index: -1
+stopwatch_bg_day
+  rotate: false
+  xy: 1605, 509
+  size: 331, 99
+  orig: 331, 99
+  offset: 0, 0
+  index: -1
+tachometer_arrow_day
+  rotate: false
+  xy: 2003, 1532
+  size: 42, 263
+  orig: 42, 263
+  offset: 0, 0
+  index: -1
+car_class_en
+  rotate: false
+  xy: 420, 23
+  size: 236, 37
+  orig: 236, 37
+  offset: 0, 0
+  index: -1
+car_class_ru
+  rotate: false
+  xy: 1799, 1191
+  size: 236, 37
+  orig: 236, 37
+  offset: 0, 0
+  index: -1
+car_class_a
+  rotate: false
+  xy: 1766, 31
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+car_class_b
+  rotate: false
+  xy: 1916, 189
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+race_progress_bg_day
+  rotate: false
+  xy: 1949, 1463
+  size: 58, 58
+  split: 14, 26, 0, 0
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+level_widget_bg
+  rotate: false
+  xy: 1433, 1049
+  size: 86, 82
+  split: 41, 41, 39, 39
+  orig: 86, 82
+  offset: 0, 0
+  index: -1
+race_progress_car_green
+  rotate: false
+  xy: 1799, 1168
+  size: 142, 21
+  orig: 142, 21
+  offset: 0, 0
+  index: -1
+race_progress_car_red
+  rotate: false
+  xy: 1799, 1145
+  size: 142, 21
+  orig: 142, 21
+  offset: 0, 0
+  index: -1
+car_class_c
+  rotate: false
+  xy: 1914, 63
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+top_time_bg
+  rotate: false
+  xy: 1958, 614
+  size: 46, 87
+  split: 1, 41, 41, 42
+  orig: 46, 87
+  offset: 0, 0
+  index: -1
+control_panel_indicator_abs
+  rotate: false
+  xy: 1892, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+control_panel_indicator_battery
+  rotate: false
+  xy: 1954, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+control_panel_shift_lamp_green2
+  rotate: false
+  xy: 1938, 502
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+control_panel_indicator_engine
+  rotate: false
+  xy: 1987, 440
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+control_panel_indicator_esp
+  rotate: false
+  xy: 1987, 378
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+control_panel_indicator_fuel
+  rotate: false
+  xy: 1982, 316
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+gsw_blue_sector_inactive
+  rotate: false
+  xy: 1799, 1138
+  size: 49, 5
+  split: 13, 12, 0, 0
+  orig: 49, 5
+  offset: 0, 0
+  index: -1
+gsw_blue_sector_off
+  rotate: false
+  xy: 1850, 1138
+  size: 49, 5
+  split: 13, 12, 0, 0
+  orig: 49, 5
+  offset: 0, 0
+  index: -1
+stopwatch_divider
+  rotate: false
+  xy: 864, 480
+  size: 4, 99
+  orig: 4, 99
+  offset: 0, 0
+  index: -1
+gsw_green_sector_inactive
+  rotate: false
+  xy: 1901, 1138
+  size: 49, 5
+  split: 12, 13, 0, 0
+  orig: 49, 5
+  offset: 0, 0
+  index: -1
+race_reward_arrow_right
+  rotate: false
+  xy: 1521, 1057
+  size: 45, 74
+  orig: 45, 74
+  offset: 0, 0
+  index: -1
+stopwatch_left
+  rotate: false
+  xy: 1568, 1037
+  size: 28, 99
+  orig: 28, 99
+  offset: 0, 0
+  index: -1
+triangle_green
+  rotate: false
+  xy: 1943, 1158
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+race_reward_widget_money_bg
+  rotate: false
+  xy: 1981, 1139
+  size: 46, 50
+  split: 21, 21, 10, 36
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+gsw_blue_sector_on
+  rotate: false
+  xy: 692, 407
+  size: 49, 11
+  split: 11, 14, 3, 3
+  orig: 49, 11
+  offset: 0, 0
+  index: -1
+gsw_green_sector_on
+  rotate: false
+  xy: 1447, 502
+  size: 49, 11
+  split: 13, 12, 3, 3
+  orig: 49, 11
+  offset: 0, 0
+  index: -1
+gsw_red_sector_on
+  rotate: false
+  xy: 420, 10
+  size: 49, 11
+  split: 14, 10, 3, 3
+  orig: 49, 11
+  offset: 0, 0
+  index: -1
+gsw_yellow_sector_on
+  rotate: false
+  xy: 1433, 1036
+  size: 49, 11
+  split: 14, 11, 3, 3
+  orig: 49, 11
+  offset: 0, 0
+  index: -1
+gsw_point_dot_blue
+  rotate: false
+  xy: 1412, 1616
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+gsw_point_dot_green
+  rotate: false
+  xy: 1778, 1704
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+gsw_point_dot_orange
+  rotate: false
+  xy: 1412, 1595
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+gsw_point_dot_red
+  rotate: false
+  xy: 1778, 1683
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+gsw_point_square_blue
+  rotate: false
+  xy: 1412, 1574
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+gsw_point_square_green
+  rotate: false
+  xy: 1778, 1662
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+gsw_point_square_orange
+  rotate: false
+  xy: 1412, 1553
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+gsw_green_sector_off
+  rotate: false
+  xy: 1535, 1642
+  size: 49, 5
+  split: 12, 13, 0, 0
+  orig: 49, 5
+  offset: 0, 0
+  index: -1
+gsw_red_sector_inactive
+  rotate: false
+  xy: 1335, 670
+  size: 49, 5
+  split: 14, 11, 0, 0
+  orig: 49, 5
+  offset: 0, 0
+  index: -1
+gsw_red_sector_off
+  rotate: false
+  xy: 692, 400
+  size: 49, 5
+  split: 14, 11, 0, 0
+  orig: 49, 5
+  offset: 0, 0
+  index: -1
+gsw_point_square_red
+  rotate: false
+  xy: 743, 399
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+gsw_yellow_sector_inactive
+  rotate: false
+  xy: 1498, 508
+  size: 49, 5
+  split: 14, 11, 0, 0
+  orig: 49, 5
+  offset: 0, 0
+  index: -1
+gsw_yellow_sector_off
+  rotate: false
+  xy: 420, 3
+  size: 49, 5
+  split: 13, 12, 0, 0
+  orig: 49, 5
+  offset: 0, 0
+  index: -1
+connector
+  rotate: false
+  xy: 1336, 53
+  size: 14, 34
+  split: 7, 6, 5, 28
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+gsw_pointer_current
+  rotate: false
+  xy: 2032, 2018
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+gsw_connector_left
+  rotate: false
+  xy: 870, 567
+  size: 12, 12
+  split: 6, 4, 9, 1
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+gsw_connector_right
+  rotate: false
+  xy: 1412, 1539
+  size: 12, 12
+  split: 3, 6, 8, 1
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+gray_rpm_line
+  rotate: false
+  xy: 1426, 1541
+  size: 5, 10
+  split: 1, 0, 1, 1
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+green_rpm_line
+  rotate: false
+  xy: 2042, 304
+  size: 5, 10
+  split: 1, 1, 1, 1
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+red_rpm_line
+  rotate: false
+  xy: 2042, 292
+  size: 5, 10
+  split: 1, 1, 1, 1
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+yellow_rpm_line
+  rotate: false
+  xy: 2042, 280
+  size: 5, 10
+  split: 1, 1, 1, 1
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+race_reward_widget_devider
+  rotate: false
+  xy: 1958, 610
+  size: 6, 2
+  split: 1, 1, 0, 0
+  orig: 6, 2
+  offset: 0, 0
+  index: -1
+gsw_connector
+  rotate: false
+  xy: 1484, 1035
+  size: 1, 12
+  split: 0, 0, 3, 2
+  orig: 1, 12
+  offset: 0, 0
+  index: -1
+gsw_sector_line_blue_inactive
+  rotate: false
+  xy: 658, 59
+  size: 8, 1
+  orig: 8, 1
+  offset: 0, 0
+  index: -1
+gsw_sector_line_blue_off
+  rotate: false
+  xy: 2003, 1529
+  size: 8, 1
+  orig: 8, 1
+  offset: 0, 0
+  index: -1
+gsw_sector_line_blue_on
+  rotate: false
+  xy: 1892, 154
+  size: 8, 1
+  orig: 8, 1
+  offset: 0, 0
+  index: -1
+gsw_sector_line_green_inactive
+  rotate: false
+  xy: 2016, 60
+  size: 8, 1
+  orig: 8, 1
+  offset: 0, 0
+  index: -1
+gsw_sector_line_green_off
+  rotate: false
+  xy: 2006, 700
+  size: 8, 1
+  orig: 8, 1
+  offset: 0, 0
+  index: -1
+gsw_sector_line_green_on
+  rotate: false
+  xy: 1447, 499
+  size: 8, 1
+  orig: 8, 1
+  offset: 0, 0
+  index: -1
+gsw_sector_line_red_inactive
+  rotate: false
+  xy: 1531, 1135
+  size: 8, 1
+  orig: 8, 1
+  offset: 0, 0
+  index: -1
+gsw_sector_line_red_off
+  rotate: false
+  xy: 1521, 1054
+  size: 8, 1
+  orig: 8, 1
+  offset: 0, 0
+  index: -1
+gsw_sector_line_red_on
+  rotate: false
+  xy: 1943, 1155
+  size: 8, 1
+  orig: 8, 1
+  offset: 0, 0
+  index: -1
+gsw_sector_line_yellow_inactive
+  rotate: false
+  xy: 471, 20
+  size: 8, 1
+  orig: 8, 1
+  offset: 0, 0
+  index: -1
+gsw_sector_line_yellow_off
+  rotate: false
+  xy: 1778, 1659
+  size: 8, 1
+  orig: 8, 1
+  offset: 0, 0
+  index: -1
+gsw_sector_line_yellow_on
+  rotate: false
+  xy: 1535, 1639
+  size: 8, 1
+  orig: 8, 1
+  offset: 0, 0
+  index: -1
+finish_widget_divider
+  rotate: false
+  xy: 1982, 396
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+finish_widget_item_bg_a
+  rotate: false
+  xy: 864, 477
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+finish_widget_item_bg_b
+  rotate: false
+  xy: 1598, 1135
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+finish_widget_time_bg_a
+  rotate: false
+  xy: 2029, 1188
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+finish_widget_time_bg_b
+  rotate: false
+  xy: 1586, 1646
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+Race2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+round_button_up
+  rotate: false
+  xy: 1, 1613
+  size: 433, 433
+  orig: 433, 433
+  offset: 0, 0
+  index: -1
+lens_effect
+  rotate: false
+  xy: 1, 1328
+  size: 288, 283
+  orig: 288, 283
+  offset: 0, 0
+  index: 0
+lens_effect
+  rotate: false
+  xy: 436, 1763
+  size: 288, 283
+  orig: 288, 283
+  offset: 0, 0
+  index: 1
+lens_effect
+  rotate: false
+  xy: 1, 1043
+  size: 288, 283
+  orig: 288, 283
+  offset: 0, 0
+  index: 2
+lens_effect
+  rotate: false
+  xy: 726, 1763
+  size: 288, 283
+  orig: 288, 283
+  offset: 0, 0
+  index: 3
+lens_effect
+  rotate: false
+  xy: 1, 758
+  size: 288, 283
+  orig: 288, 283
+  offset: 0, 0
+  index: 4
+control_shift_up_disabled
+  rotate: false
+  xy: 1016, 1840
+  size: 327, 206
+  orig: 327, 206
+  offset: 0, 0
+  index: -1
+control_shift_up_down
+  rotate: false
+  xy: 1345, 1840
+  size: 327, 206
+  orig: 327, 206
+  offset: 0, 0
+  index: -1
+control_shift_up_left_disabled
+  rotate: false
+  xy: 1674, 1840
+  size: 327, 206
+  orig: 327, 206
+  offset: 0, 0
+  index: -1
+speed260kmh
+  rotate: false
+  xy: 1, 496
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+speed340kmh
+  rotate: false
+  xy: 1, 234
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+turbo_night
+  rotate: false
+  xy: 1, 1
+  size: 270, 231
+  orig: 270, 231
+  offset: 0, 0
+  index: -1
+control_parking_brake_inactive
+  rotate: false
+  xy: 291, 1279
+  size: 148, 332
+  orig: 148, 332
+  offset: 0, 0
+  index: -1
+control_shift_down_disabled
+  rotate: false
+  xy: 436, 1643
+  size: 327, 118
+  orig: 327, 118
+  offset: 0, 0
+  index: -1
+control_shift_up_left_down
+  rotate: false
+  xy: 441, 1435
+  size: 327, 206
+  orig: 327, 206
+  offset: 0, 0
+  index: -1
+control_shift_up_left_up
+  rotate: false
+  xy: 441, 1227
+  size: 327, 206
+  orig: 327, 206
+  offset: 0, 0
+  index: -1
+stopwatch_bg_night
+  rotate: false
+  xy: 1016, 1739
+  size: 331, 99
+  orig: 331, 99
+  offset: 0, 0
+  index: -1
+control_shift_down_down
+  rotate: false
+  xy: 1349, 1720
+  size: 327, 118
+  orig: 327, 118
+  offset: 0, 0
+  index: -1
+control_shift_down_left_disabled
+  rotate: false
+  xy: 1678, 1720
+  size: 327, 118
+  orig: 327, 118
+  offset: 0, 0
+  index: -1
+control_shift_up_up
+  rotate: false
+  xy: 291, 1019
+  size: 327, 206
+  orig: 327, 206
+  offset: 0, 0
+  index: -1
+tachometer10000
+  rotate: false
+  xy: 291, 757
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+tachometer11000
+  rotate: false
+  xy: 263, 495
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+turbo2_day
+  rotate: false
+  xy: 263, 263
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+tachometer9000
+  rotate: false
+  xy: 273, 1
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+temperature2_day
+  rotate: false
+  xy: 620, 995
+  size: 223, 230
+  orig: 223, 230
+  offset: 0, 0
+  index: -1
+control_shift_down_left_down
+  rotate: false
+  xy: 553, 875
+  size: 327, 118
+  orig: 327, 118
+  offset: 0, 0
+  index: -1
+control_shift_down_left_up
+  rotate: false
+  xy: 553, 755
+  size: 327, 118
+  orig: 327, 118
+  offset: 0, 0
+  index: -1
+control_shift_down_up
+  rotate: false
+  xy: 525, 635
+  size: 327, 118
+  orig: 327, 118
+  offset: 0, 0
+  index: -1
+control_pedal_brake_big_down
+  rotate: false
+  xy: 770, 1595
+  size: 223, 166
+  orig: 223, 166
+  offset: 0, 0
+  index: -1
+control_pedal_brake_big_up
+  rotate: false
+  xy: 770, 1427
+  size: 223, 166
+  orig: 223, 166
+  offset: 0, 0
+  index: -1
+countdown_d1
+  rotate: false
+  xy: 770, 1264
+  size: 189, 161
+  orig: 189, 161
+  offset: 0, 0
+  index: -1
+countdown_d2
+  rotate: false
+  xy: 995, 1576
+  size: 189, 161
+  orig: 189, 161
+  offset: 0, 0
+  index: -1
+control_pedal_down
+  rotate: false
+  xy: 1186, 1568
+  size: 161, 169
+  orig: 161, 169
+  offset: 0, 0
+  index: -1
+countdown_d3
+  rotate: false
+  xy: 995, 1413
+  size: 189, 161
+  orig: 189, 161
+  offset: 0, 0
+  index: -1
+turbo25psi
+  rotate: false
+  xy: 1349, 1546
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+control_pedal_up
+  rotate: false
+  xy: 1186, 1397
+  size: 161, 169
+  orig: 161, 169
+  offset: 0, 0
+  index: -1
+tachometer_arrow_night
+  rotate: false
+  xy: 845, 999
+  size: 42, 263
+  orig: 42, 263
+  offset: 0, 0
+  index: -1
+control_panel_arrow_night
+  rotate: false
+  xy: 889, 990
+  size: 52, 272
+  orig: 52, 272
+  offset: 0, 0
+  index: -1
+control_panel_arrow_small_day
+  rotate: false
+  xy: 943, 990
+  size: 52, 272
+  orig: 52, 272
+  offset: 0, 0
+  index: -1
+control_panel_arrow_small_night
+  rotate: false
+  xy: 882, 716
+  size: 52, 272
+  orig: 52, 272
+  offset: 0, 0
+  index: -1
+car_class_d
+  rotate: false
+  xy: 525, 509
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+car_class_e
+  rotate: false
+  xy: 1523, 1594
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+car_class_f
+  rotate: false
+  xy: 1349, 1420
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+car_class_g
+  rotate: false
+  xy: 651, 509
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+car_class_h
+  rotate: false
+  xy: 1649, 1594
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+car_class_i
+  rotate: false
+  xy: 1775, 1594
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+car_class_j
+  rotate: false
+  xy: 535, 383
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+car_class_k
+  rotate: false
+  xy: 535, 257
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+car_class_l
+  rotate: false
+  xy: 535, 131
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+car_class_m
+  rotate: false
+  xy: 535, 5
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+car_class_n
+  rotate: false
+  xy: 661, 383
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+car_class_o
+  rotate: false
+  xy: 661, 257
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+car_class_p
+  rotate: false
+  xy: 661, 131
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+car_class_q
+  rotate: false
+  xy: 661, 5
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+car_class_r
+  rotate: false
+  xy: 1901, 1594
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+car_class_s
+  rotate: false
+  xy: 961, 1287
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+car_class_t
+  rotate: false
+  xy: 777, 509
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+gear_select_button_up
+  rotate: false
+  xy: 787, 383
+  size: 123, 124
+  orig: 123, 124
+  offset: 0, 0
+  index: -1
+control_panel_shift_lamp_off2
+  rotate: false
+  xy: 787, 275
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+control_panel_shift_lamp_red2
+  rotate: false
+  xy: 787, 167
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+control_panel_shift_lamp_yellow2
+  rotate: false
+  xy: 787, 59
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+stopwatch_right
+  rotate: false
+  xy: 2003, 1947
+  size: 28, 99
+  orig: 28, 99
+  offset: 0, 0
+  index: -1
+control_panel_indicator_light
+  rotate: false
+  xy: 1087, 1351
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+control_panel_indicator_oil
+  rotate: false
+  xy: 1087, 1289
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+control_panel_indicator_parking_brake
+  rotate: false
+  xy: 936, 928
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+control_panel_indicator_temperature
+  rotate: false
+  xy: 936, 866
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+race_progress_bg_night
+  rotate: false
+  xy: 936, 806
+  size: 58, 58
+  split: 13, 26, 0, 0
+  orig: 58, 58
+  offset: 0, 0
+  index: -1

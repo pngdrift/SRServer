@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option go_package = "./pb";
+
+package srserver;
+
+message UserInfo {
+    string name = 1;
+    string avatar = 2;
+    int64 id = 3;
+    string lang = 4;
+    UserType type = 5;
+}
+
+enum UserType {
+    NULL = 0;
+    USER = 1;
+    ADMIN = 2;
+    CHAT_ADMIN = 3;
+    CHAT_MODERATOR = 4;
+    TESTER = 5;
+}

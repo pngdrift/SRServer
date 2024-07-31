@@ -1,0 +1,27 @@
+
+Shop.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shop_hint_bg
+  rotate: false
+  xy: 1, 1
+  size: 196, 59
+  split: 13, 14, 14, 14
+  orig: 196, 59
+  offset: 0, 0
+  index: -1
+shop_hint_round
+  rotate: false
+  xy: 199, 46
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+shop_hint_line
+  rotate: false
+  xy: 199, 42
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1

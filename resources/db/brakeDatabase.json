@@ -1,0 +1,1031 @@
+{
+  "brakeDatabase": {
+    "items": [
+      {
+        "base": {
+          "baseId": 1,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id6",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "radius": 200,
+        "supportWidth": 20,
+        "type": "BARREL",
+        "image": "brake/id6",
+        "supportImage": ""
+      },
+      {
+        "base": {
+          "baseId": 2,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id6",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "radius": 225,
+        "supportWidth": 22,
+        "type": "BARREL",
+        "image": "brake/id6",
+        "supportImage": ""
+      },
+      {
+        "base": {
+          "baseId": 3,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id6",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "radius": 250,
+        "supportWidth": 25,
+        "type": "BARREL",
+        "image": "brake/id6",
+        "supportImage": ""
+      },
+      {
+        "base": {
+          "baseId": 4,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "radius": 239,
+        "supportWidth": 26,
+        "type": "DISK",
+        "image": "brake/id3_disk",
+        "supportImage": "brake/id5_support"
+      },
+      {
+        "base": {
+          "baseId": 5,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "radius": 252,
+        "supportWidth": 27,
+        "type": "DISK",
+        "image": "brake/id3_disk",
+        "supportImage": "brake/id5_support"
+      },
+      {
+        "base": {
+          "baseId": 6,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "radius": 260,
+        "supportWidth": 28,
+        "type": "DISK",
+        "image": "brake/id3_disk",
+        "supportImage": "brake/id5_support"
+      },
+      {
+        "base": {
+          "baseId": 7,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "radius": 340,
+        "supportWidth": 32,
+        "type": "DISK",
+        "image": "brake/id3_disk",
+        "supportImage": "brake/id5_support"
+      },
+      {
+        "base": {
+          "baseId": 8,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "radius": 340,
+        "supportWidth": 32,
+        "type": "DISK",
+        "image": "brake/id3_disk",
+        "supportImage": "brake/id1_support"
+      },
+      {
+        "base": {
+          "baseId": 9,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "radius": 360,
+        "supportWidth": 36,
+        "type": "DISK",
+        "image": "brake/id3_disk",
+        "supportImage": "brake/id1_support"
+      },
+      {
+        "base": {
+          "baseId": 10,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "radius": 300,
+        "supportWidth": 30,
+        "type": "DISK",
+        "image": "brake/id3_disk",
+        "supportImage": "brake/id1_support"
+      },
+      {
+        "base": {
+          "baseId": 11,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "radius": 300,
+        "supportWidth": 30,
+        "type": "DISK",
+        "image": "brake/id2_disk",
+        "supportImage": "brake/id5_support"
+      },
+      {
+        "base": {
+          "baseId": 101,
+          "weight": -0.4000000059604645,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 580,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 10,
+          "level": 10
+        },
+        "radius": 250,
+        "supportWidth": 27,
+        "type": "DISK",
+        "image": "brake/id1_disk",
+        "supportImage": "brake/id1_support"
+      },
+      {
+        "base": {
+          "baseId": 102,
+          "weight": -0.5,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 12,
+          "level": 10
+        },
+        "radius": 260,
+        "supportWidth": 28,
+        "type": "DISK",
+        "image": "brake/id1_disk",
+        "supportImage": "brake/id1_support"
+      },
+      {
+        "base": {
+          "baseId": 103,
+          "weight": -0.6000000238418579,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 4500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 15,
+          "level": 10
+        },
+        "radius": 270,
+        "supportWidth": 29,
+        "type": "DISK",
+        "image": "brake/id1_disk",
+        "supportImage": "brake/id1_support"
+      },
+      {
+        "base": {
+          "baseId": 104,
+          "weight": -0.6499999761581421,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 28,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 16,
+          "level": 10
+        },
+        "radius": 278,
+        "supportWidth": 29,
+        "type": "DISK",
+        "image": "brake/id2_disk",
+        "supportImage": "brake/id2_support"
+      },
+      {
+        "base": {
+          "baseId": 105,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 17520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 20,
+          "level": 10
+        },
+        "radius": 280,
+        "supportWidth": 30,
+        "type": "DISK",
+        "image": "brake/id2_disk",
+        "supportImage": "brake/id2_support"
+      },
+      {
+        "base": {
+          "baseId": 106,
+          "weight": -0.75,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 70,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 21,
+          "level": 10
+        },
+        "radius": 285,
+        "supportWidth": 31,
+        "type": "DISK",
+        "image": "brake/id2_disk",
+        "supportImage": "brake/id2_support"
+      },
+      {
+        "base": {
+          "baseId": 107,
+          "weight": -0.8500000238418579,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 25,
+          "level": 0
+        },
+        "radius": 300,
+        "supportWidth": 33,
+        "type": "DISK",
+        "image": "brake/id3_disk",
+        "supportImage": "brake/id3_support"
+      },
+      {
+        "base": {
+          "baseId": 108,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 4500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 16,
+          "level": 0
+        },
+        "radius": 290,
+        "supportWidth": 31,
+        "type": "DISK",
+        "image": "brake/id1_disk",
+        "supportImage": "brake/id1_support"
+      },
+      {
+        "base": {
+          "baseId": 109,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 9500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id3",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 16,
+          "level": 0
+        },
+        "radius": 270,
+        "supportWidth": 31,
+        "type": "DISK",
+        "image": "brake/id3_disk",
+        "supportImage": "brake/id3_support"
+      },
+      {
+        "base": {
+          "baseId": 110,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 19600,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id4",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 18,
+          "level": 0
+        },
+        "radius": 280,
+        "supportWidth": 32,
+        "type": "DISK",
+        "image": "brake/id4_disk",
+        "supportImage": "brake/id4_support"
+      },
+      {
+        "base": {
+          "baseId": 111,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 28300,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id5",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 21,
+          "level": 0
+        },
+        "radius": 290,
+        "supportWidth": 33,
+        "type": "DISK",
+        "image": "brake/id5_disk",
+        "supportImage": "brake/id5_support"
+      },
+      {
+        "base": {
+          "baseId": 112,
+          "weight": -0.800000011920929,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 23600,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 24,
+          "level": 10
+        },
+        "radius": 290,
+        "supportWidth": 31,
+        "type": "DISK",
+        "image": "brake/id2_disk",
+        "supportImage": "brake/id2_support"
+      },
+      {
+        "base": {
+          "baseId": 113,
+          "weight": -0.44999998807907104,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 6,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 11,
+          "level": 10
+        },
+        "radius": 255,
+        "supportWidth": 27,
+        "type": "DISK",
+        "image": "brake/id3_disk",
+        "supportImage": "brake/id3_support"
+      },
+      {
+        "base": {
+          "baseId": 114,
+          "weight": -0.550000011920929,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 15,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id4",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 13,
+          "level": 10
+        },
+        "radius": 265,
+        "supportWidth": 28,
+        "type": "DISK",
+        "image": "brake/id4_disk",
+        "supportImage": "brake/id4_support"
+      },
+      {
+        "base": {
+          "baseId": 115,
+          "weight": -0.8500000238418579,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 200,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id5",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 25,
+          "level": 10
+        },
+        "radius": 295,
+        "supportWidth": 32,
+        "type": "DISK",
+        "image": "brake/id5_disk",
+        "supportImage": "brake/id5_support"
+      },
+      {
+        "base": {
+          "baseId": 116,
+          "weight": -0.8999999761581421,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 150,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id5",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 27,
+          "level": 10
+        },
+        "radius": 300,
+        "supportWidth": 33,
+        "type": "DISK",
+        "image": "brake/id5_disk",
+        "supportImage": "brake/id1_support"
+      },
+      {
+        "base": {
+          "baseId": 117,
+          "weight": -0.8500000238418579,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 39200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id5",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 25,
+          "level": 10
+        },
+        "radius": 295,
+        "supportWidth": 32,
+        "type": "DISK",
+        "image": "brake/id5_disk",
+        "supportImage": "brake/id5_support"
+      },
+      {
+        "base": {
+          "baseId": 118,
+          "weight": -0.8999999761581421,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id5",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 27,
+          "level": 5
+        },
+        "radius": 300,
+        "supportWidth": 33,
+        "type": "DISK",
+        "image": "brake/id5_disk",
+        "supportImage": "brake/id1_support"
+      },
+      {
+        "base": {
+          "baseId": 119,
+          "weight": -0.8999999761581421,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id5",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 27,
+          "level": 10
+        },
+        "radius": 300,
+        "supportWidth": 33,
+        "type": "DISK",
+        "image": "brake/id5_disk",
+        "supportImage": "brake/id1_support"
+      },
+      {
+        "base": {
+          "baseId": 120,
+          "weight": -0.8999999761581421,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id5",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 27,
+          "level": 10
+        },
+        "radius": 300,
+        "supportWidth": 33,
+        "type": "DISK",
+        "image": "brake/id5_disk",
+        "supportImage": "brake/id1_support"
+      },
+      {
+        "base": {
+          "baseId": 121,
+          "weight": -0.8999999761581421,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id5",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 27,
+          "level": 10
+        },
+        "radius": 300,
+        "supportWidth": 33,
+        "type": "DISK",
+        "image": "brake/id5_disk",
+        "supportImage": "brake/id1_support"
+      },
+      {
+        "base": {
+          "baseId": 122,
+          "weight": -0.8999999761581421,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id5",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 27,
+          "level": 10
+        },
+        "radius": 300,
+        "supportWidth": 33,
+        "type": "DISK",
+        "image": "brake/id5_disk",
+        "supportImage": "brake/id1_support"
+      },
+      {
+        "base": {
+          "baseId": 123,
+          "weight": -0.8999999761581421,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id5",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 27,
+          "level": 10
+        },
+        "radius": 300,
+        "supportWidth": 33,
+        "type": "DISK",
+        "image": "brake/id5_disk",
+        "supportImage": "brake/id1_support"
+      },
+      {
+        "base": {
+          "baseId": 124,
+          "weight": -0.8999999761581421,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id5",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 27,
+          "level": 10
+        },
+        "radius": 300,
+        "supportWidth": 33,
+        "type": "DISK",
+        "image": "brake/id5_disk",
+        "supportImage": "brake/id1_support"
+      },
+      {
+        "base": {
+          "baseId": 125,
+          "weight": -0.8999999761581421,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id5",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 27,
+          "level": 10
+        },
+        "radius": 300,
+        "supportWidth": 33,
+        "type": "DISK",
+        "image": "brake/id5_disk",
+        "supportImage": "brake/id1_support"
+      },
+      {
+        "base": {
+          "baseId": 126,
+          "weight": -0.8999999761581421,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id5",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 27,
+          "level": 10
+        },
+        "radius": 300,
+        "supportWidth": 33,
+        "type": "DISK",
+        "image": "brake/id5_disk",
+        "supportImage": "brake/id1_support"
+      },
+      {
+        "base": {
+          "baseId": 127,
+          "weight": -0.8999999761581421,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id5",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 27,
+          "level": 10
+        },
+        "radius": 300,
+        "supportWidth": 33,
+        "type": "DISK",
+        "image": "brake/id5_disk",
+        "supportImage": "brake/id1_support"
+      },
+      {
+        "base": {
+          "baseId": 128,
+          "weight": -0.8999999761581421,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id5",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 27,
+          "level": 10
+        },
+        "radius": 300,
+        "supportWidth": 33,
+        "type": "DISK",
+        "image": "brake/id5_disk",
+        "supportImage": "brake/id1_support"
+      },
+      {
+        "base": {
+          "baseId": 129,
+          "weight": -0.800000011920929,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id2",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 24,
+          "level": 10
+        },
+        "radius": 290,
+        "supportWidth": 31,
+        "type": "DISK",
+        "image": "brake/id2_disk",
+        "supportImage": "brake/id2_support"
+      },
+      {
+        "base": {
+          "baseId": 1001,
+          "weight": -0.800000011920929,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_id2",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 28,
+          "level": 0
+        },
+        "radius": 300,
+        "supportWidth": 32,
+        "type": "DISK",
+        "image": "brake/id2_disk",
+        "supportImage": "brake/id2_support"
+      }
+    ]
+  }
+}

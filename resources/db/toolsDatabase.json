@@ -1,0 +1,86 @@
+{
+  "toolsDatabase": {
+    "items": [
+      {
+        "base": {
+          "baseId": 1,
+          "type": 2,
+          "price": {
+            "money": 0,
+            "gold": 10,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "tools_size1",
+          "shopIndex": 1
+        },
+        "bonus": 10
+      },
+      {
+        "base": {
+          "baseId": 2,
+          "type": 2,
+          "price": {
+            "money": 0,
+            "gold": 20,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "tools_size2",
+          "shopIndex": 1
+        },
+        "bonus": 20
+      },
+      {
+        "base": {
+          "baseId": 3,
+          "type": 2,
+          "price": {
+            "money": 0,
+            "gold": 100,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "tools_size3",
+          "shopIndex": 1
+        },
+        "bonus": 40
+      },
+      {
+        "base": {
+          "baseId": 4,
+          "type": 2,
+          "price": {
+            "money": 0,
+            "gold": 300,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "tools_size4",
+          "shopIndex": 1
+        },
+        "bonus": 60
+      },
+      {
+        "base": {
+          "baseId": 5,
+          "type": 2,
+          "price": {
+            "money": 0,
+            "gold": 540,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "tools_size5",
+          "shopIndex": 1
+        },
+        "bonus": 80
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+syntax = "proto3";
+
+option go_package = "./pb";
+
+package srserver;
+
+message UserPaints {
+    repeated PaintItem items = 1;
+}
+
+message PaintItem {
+    int64 id = 1;
+    int32 baseCarId = 2;
+    string name = 3;
+    Paint paint = 4;
+    bool isShared = 5;
+}
+
+message Paint {
+    int32 carColor = 1;
+    int32 frontBumperColor = 2;
+    int32 centerBumperColor = 3;
+    int32 rearBumperColor = 4;
+    int32 decalCounter = 5;
+    repeated Decal decals = 6;
+    int32 diskColor = 7;
+    bool isDiskPainted = 8;
+    int32 tintingColor = 9;
+    int32 rimColor = 10;
+    bool isRimPainted = 11;
+    bool buyed = 12;
+    int32 diskColorFront = 13;
+    bool isDiskPaintedFront = 14;
+    int32 rimColorFront = 15;
+    bool isRimPaintedFront = 16;
+}
+
+message PaintCommands {
+    repeated Command commands = 1;
+    int32 decalCounter = 2;
+}
+
+message Command {
+    PaintCmdType type = 1;
+    repeated int32 intArgs = 2;
+    repeated float floatArgs = 3;
+    bytes data = 4;
+    repeated string strArgs = 5;
+}
+
+enum PaintCmdType {
+    PAINT_NONE = 0;
+    FULL_PAINT = 1;
+    PAINT_CHASSIS = 2;
+    PAINT_FRONT_BUMPER = 3;
+    PAINT_CENTER_BUMPER = 4;
+    PAINT_REAR_BUMPER = 5;
+    INSTALL_TINT = 6;
+    PAINT_DISK = 7;
+    ADD_DEACL = 8;
+    REMOVE_DECAL = 9;
+    PAINT_DECAL = 10;
+    UPDATE_DECAL = 11;
+    PAINT_RIM = 12;
+    ADD_USER_DECAL = 13;
+    PAINT_DISK_FRONT = 14;
+    PAINT_RIM_FRONT = 15;
+}
+
+message Decal {
+    int32 id = 1;
+    int32 baseId = 2;
+    int32 color = 3;
+    float scale = 4;
+    float x = 5;
+    float y = 6;
+    float rotation = 7;
+    bool userDecal = 8;
+    string fileName = 9;
+}

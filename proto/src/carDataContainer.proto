@@ -1,0 +1,85 @@
+syntax = "proto3";
+
+option go_package = "./pb";
+
+package srserver;
+
+message CarControl {
+    int64 carId = 1;
+    CarControlType type = 2;
+    float value = 3;
+}
+
+enum CarControlType {
+    START_ENGINE = 0;
+    STOP_ENGINE = 1;
+    SHIFT_UPS = 2;
+    SHIFT_DOWNS = 3;
+    ACCELERATE = 4;
+    BRAKES = 5;
+    SET_NEUTRAL = 6;
+    SET_TRANSMISSON_MODE = 7;
+    SET_HEATTED = 8;
+    LOCK_TIRES_TEMP = 9;
+    SET_CLUTCH = 10;
+    SET_HAND_BRAKING = 11;
+    STOP = 12;
+    MOVE_FORWARD = 13;
+    MOVE_BACKWARD = 14;
+    TRANSLATE = 15;
+    SET_ODOMETER = 16;
+    SET_FRONT_WHEEL_TEMPERATURE = 17;
+    SET_FRONT_WHEEL_TEMPERATURE_LOCKED = 18;
+    SET_REAR_WHEEL_TEMPERATURE = 19;
+    SET_REAR_WHEEL_TEMPERATURE_LOCKED = 20;
+    UPDATE_CONFIG = 21;
+    UPDATE_BORDER = 22;
+    SET_CURRENT_GEAR = 23;
+    CHANGE_ENGINE_STATE = 24;
+    POST_STARTED_EVENT = 25;
+    UPDATE_BEHAVIOR_RPM = 26;
+    SET_BEHAVIOR = 27;
+    START_BEHAVIOR_UPDATE = 28;
+    REFILL_STATIC_DATA = 29;
+    LOCK_DESTROY_TIRES = 30;
+}
+
+message WorldEvent {
+    WorldEventClass eventClass = 1;
+    WorldEventType eventType = 2;
+    float value = 3;
+    int64 carId = 4;
+}
+
+enum WorldEventClass {
+    CAR_TYPE = 0;
+    RACE_TYPE = 1;
+}
+
+enum WorldEventType {
+    SLOW_MOTION_START = 0;
+    SLOW_MOTION_END = 1;
+    REAR_WHEEL_BROKE = 2;
+    FRONT_WHEEL_BROKE = 3;
+    SHIFTS = 4;
+    SHIFTS_UP = 5;
+    SHIFTS_DOWN = 6;
+    CUTOFF = 7;
+    BROKEN = 8;
+    SHIFT_FINISH = 9;
+    ENGINE_START = 10;
+    ENGINE_STARTED = 11;
+    ENGINE_STOP = 12;
+    TRACE_TREAD_START = 13;
+    TRACE_TREAD_END = 14;
+    WHEEL_SMOKE_BEGIN = 15;
+    WHEEL_SMOKE_END = 16;
+    SHIFT_FAILED = 17;
+    BLOW_OFF = 18;
+    ANTILAG = 19;
+    READY_TO_START = 20;
+    START_COUNTDOWN = 21;
+    DISQUALIFIED = 22;
+    GO = 23;
+    FINISH = 24;
+}

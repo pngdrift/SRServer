@@ -1,0 +1,573 @@
+{
+  "brakePadDatabase": {
+    "items": [
+      {
+        "base": {
+          "baseId": 1,
+          "weight": -0.20000000298023224,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1700,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 8,
+          "level": 10
+        },
+        "coefficient": 2.0999999046325684
+      },
+      {
+        "base": {
+          "baseId": 2,
+          "weight": -0.25,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 6,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 9,
+          "level": 10
+        },
+        "coefficient": 2.0999999046325684
+      },
+      {
+        "base": {
+          "baseId": 3,
+          "weight": -0.30000001192092896,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 3000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 11,
+          "level": 10
+        },
+        "coefficient": 2.200000047683716
+      },
+      {
+        "base": {
+          "baseId": 4,
+          "weight": -0.3499999940395355,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 15,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id4",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 12,
+          "level": 10
+        },
+        "coefficient": 2.200000047683716
+      },
+      {
+        "base": {
+          "baseId": 5,
+          "weight": -0.5,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 9800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id5",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 17,
+          "level": 10
+        },
+        "coefficient": 2.299999952316284
+      },
+      {
+        "base": {
+          "baseId": 6,
+          "weight": -0.6499999761581421,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 200,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id6",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 21,
+          "level": 10
+        },
+        "coefficient": 2.4000000953674316
+      },
+      {
+        "base": {
+          "baseId": 7,
+          "weight": -0.6000000238418579,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 24200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id6",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 20,
+          "level": 10
+        },
+        "coefficient": 2.4000000953674316
+      },
+      {
+        "base": {
+          "baseId": 8,
+          "weight": -0.5,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 4500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id4",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 15,
+          "level": 0
+        },
+        "coefficient": 2.4000000953674316
+      },
+      {
+        "base": {
+          "baseId": 9,
+          "weight": -0.4000000059604645,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5600,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id4",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 14,
+          "level": 10
+        },
+        "coefficient": 2.299999952316284
+      },
+      {
+        "base": {
+          "baseId": 10,
+          "weight": -0.44999998807907104,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 27,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id5",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 15,
+          "level": 10
+        },
+        "coefficient": 2.299999952316284
+      },
+      {
+        "base": {
+          "baseId": 11,
+          "weight": -0.550000011920929,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 32,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id6",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 18,
+          "level": 10
+        },
+        "coefficient": 2.4000000953674316
+      },
+      {
+        "base": {
+          "baseId": 12,
+          "weight": -0.6499999761581421,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id4",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 21,
+          "level": 0
+        },
+        "coefficient": 2.4000000953674316
+      },
+      {
+        "base": {
+          "baseId": 13,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 150,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id5",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 23,
+          "level": 10
+        },
+        "coefficient": 2.4000000953674316
+      },
+      {
+        "base": {
+          "baseId": 14,
+          "weight": -0.6499999761581421,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 37400,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id6",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 21,
+          "level": 10
+        },
+        "coefficient": 2.4000000953674316
+      },
+      {
+        "base": {
+          "baseId": 15,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id5",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 23,
+          "level": 5
+        },
+        "coefficient": 2.4000000953674316
+      },
+      {
+        "base": {
+          "baseId": 16,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id5",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 23,
+          "level": 10
+        },
+        "coefficient": 2.4000000953674316
+      },
+      {
+        "base": {
+          "baseId": 17,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id5",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 23,
+          "level": 10
+        },
+        "coefficient": 2.4000000953674316
+      },
+      {
+        "base": {
+          "baseId": 18,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id5",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 23,
+          "level": 10
+        },
+        "coefficient": 2.4000000953674316
+      },
+      {
+        "base": {
+          "baseId": 19,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id5",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 23,
+          "level": 10
+        },
+        "coefficient": 2.4000000953674316
+      },
+      {
+        "base": {
+          "baseId": 20,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id5",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 23,
+          "level": 10
+        },
+        "coefficient": 2.4000000953674316
+      },
+      {
+        "base": {
+          "baseId": 21,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id5",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 23,
+          "level": 10
+        },
+        "coefficient": 2.4000000953674316
+      },
+      {
+        "base": {
+          "baseId": 22,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id5",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 23,
+          "level": 10
+        },
+        "coefficient": 2.4000000953674316
+      },
+      {
+        "base": {
+          "baseId": 23,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id5",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 23,
+          "level": 10
+        },
+        "coefficient": 2.4000000953674316
+      },
+      {
+        "base": {
+          "baseId": 24,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id5",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 23,
+          "level": 10
+        },
+        "coefficient": 2.4000000953674316
+      },
+      {
+        "base": {
+          "baseId": 25,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id5",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 23,
+          "level": 10
+        },
+        "coefficient": 2.4000000953674316
+      },
+      {
+        "base": {
+          "baseId": 26,
+          "weight": -0.550000011920929,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id6",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 18,
+          "level": 10
+        },
+        "coefficient": 2.4000000953674316
+      },
+      {
+        "base": {
+          "baseId": 1001,
+          "weight": -0.75,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "brake_pad_id6",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 22,
+          "level": 0
+        },
+        "coefficient": 2.4000000953674316
+      }
+    ]
+  }
+}

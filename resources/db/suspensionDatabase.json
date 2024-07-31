@@ -1,0 +1,2904 @@
+{
+  "suspensionDatabase": {
+    "items": [
+      {
+        "base": {
+          "baseId": 1,
+          "weight": 0,
+          "min": 3,
+          "max": 4,
+          "price": {
+            "money": 6875,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id109",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id109_down",
+        "pistonImage": "suspension/id109_up"
+      },
+      {
+        "base": {
+          "baseId": 101,
+          "weight": -0.4000000059604645,
+          "min": 4,
+          "max": 5,
+          "price": {
+            "money": 1050,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id94",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 10,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id94_down",
+        "pistonImage": "suspension/id94_up"
+      },
+      {
+        "base": {
+          "baseId": 102,
+          "weight": -0.5,
+          "min": 4,
+          "max": 6,
+          "price": {
+            "money": 2560,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id69",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 15,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id69_down",
+        "pistonImage": "suspension/id69_up"
+      },
+      {
+        "base": {
+          "baseId": 103,
+          "weight": -0.6000000238418579,
+          "min": 3,
+          "max": 6,
+          "price": {
+            "money": 5200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id26",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 20,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id26_down",
+        "pistonImage": "suspension/id26_up"
+      },
+      {
+        "base": {
+          "baseId": 104,
+          "weight": -0.699999988079071,
+          "min": 2,
+          "max": 6,
+          "price": {
+            "money": 8560,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id9",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 25,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id9_down",
+        "pistonImage": "suspension/id9_up"
+      },
+      {
+        "base": {
+          "baseId": 105,
+          "weight": -0.800000011920929,
+          "min": 1,
+          "max": 6,
+          "price": {
+            "money": 14700,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id68",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 30,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id68_down",
+        "pistonImage": "suspension/id68_up"
+      },
+      {
+        "base": {
+          "baseId": 106,
+          "weight": -0.8999999761581421,
+          "min": 1,
+          "max": 6,
+          "price": {
+            "money": 24600,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id68",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 35,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id68_down",
+        "pistonImage": "suspension/id68_up"
+      },
+      {
+        "base": {
+          "baseId": 107,
+          "weight": -0.699999988079071,
+          "min": 2,
+          "max": 6,
+          "price": {
+            "money": 4750,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id9",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 25,
+          "level": 0
+        },
+        "damping": 6,
+        "cylinderImage": "suspension/id9_down",
+        "pistonImage": "suspension/id9_up"
+      },
+      {
+        "base": {
+          "baseId": 108,
+          "weight": -0.44999998807907104,
+          "min": 3,
+          "max": 6,
+          "price": {
+            "money": 0,
+            "gold": 8,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id68",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 12,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id68_down",
+        "pistonImage": "suspension/id68_up"
+      },
+      {
+        "base": {
+          "baseId": 109,
+          "weight": -0.550000011920929,
+          "min": 3,
+          "max": 6,
+          "price": {
+            "money": 0,
+            "gold": 25,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id9",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 17,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id9_down",
+        "pistonImage": "suspension/id9_up"
+      },
+      {
+        "base": {
+          "baseId": 110,
+          "weight": -0.6499999761581421,
+          "min": 2,
+          "max": 6,
+          "price": {
+            "money": 0,
+            "gold": 50,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id10",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 23,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id10_down",
+        "pistonImage": "suspension/id10_up"
+      },
+      {
+        "base": {
+          "baseId": 111,
+          "weight": -0.75,
+          "min": 2,
+          "max": 6,
+          "price": {
+            "money": 0,
+            "gold": 65,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id11",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 28,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id11_down",
+        "pistonImage": "suspension/id11_up"
+      },
+      {
+        "base": {
+          "baseId": 112,
+          "weight": -0.8500000238418579,
+          "min": 1,
+          "max": 6,
+          "price": {
+            "money": 0,
+            "gold": 80,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id12",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 32,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id12_down",
+        "pistonImage": "suspension/id12_up"
+      },
+      {
+        "base": {
+          "baseId": 113,
+          "weight": -0.949999988079071,
+          "min": 1,
+          "max": 6,
+          "price": {
+            "money": 0,
+            "gold": 200,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id13",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 37,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id13_down",
+        "pistonImage": "suspension/id13_up"
+      },
+      {
+        "base": {
+          "baseId": 114,
+          "weight": -0.949999988079071,
+          "min": 1,
+          "max": 6,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id14",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 37,
+          "level": 0
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id14_down",
+        "pistonImage": "suspension/id14_up"
+      },
+      {
+        "base": {
+          "baseId": 115,
+          "weight": -1.0499999523162842,
+          "min": 1,
+          "max": 6,
+          "price": {
+            "money": 0,
+            "gold": 120,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id69",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 40,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id69_down",
+        "pistonImage": "suspension/id69_up"
+      },
+      {
+        "base": {
+          "baseId": 116,
+          "weight": -0.949999988079071,
+          "min": 1,
+          "max": 6,
+          "price": {
+            "money": 38700,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id13",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 37,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id13_down",
+        "pistonImage": "suspension/id13_up"
+      },
+      {
+        "base": {
+          "baseId": 117,
+          "weight": -1.0499999523162842,
+          "min": 1,
+          "max": 6,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id69",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 40,
+          "level": 0
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id69_down",
+        "pistonImage": "suspension/id69_up"
+      },
+      {
+        "base": {
+          "baseId": 118,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6875,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 119,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7120,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 5,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 120,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7542,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 6,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 121,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8549,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 7,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 122,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7820,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 8,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 123,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6910,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 9,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 124,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8790,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 10,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 125,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5482,
+            "gold": 3,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 2,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 126,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 4682,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 127,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8452,
+            "gold": 8,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 7,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 128,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 9548,
+            "gold": 12,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 5,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 129,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5420,
+            "gold": 9,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 4.5,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 130,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7500,
+            "gold": 8,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 3,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 131,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7650,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 2,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 132,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6548,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 3,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 133,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6875,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 134,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7120,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 5,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 135,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7542,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 6,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 136,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8549,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 7,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 137,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7820,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 8,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 138,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6910,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 9,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 139,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8790,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 10,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 140,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5482,
+            "gold": 3,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 2,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 141,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 4682,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 142,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8452,
+            "gold": 8,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 7,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 143,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 9548,
+            "gold": 12,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 5,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 144,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5420,
+            "gold": 9,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 4.5,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 145,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7500,
+            "gold": 8,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 3,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 146,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7650,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 2,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 147,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6548,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 3,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 148,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6875,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 149,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7120,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 5,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 150,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7542,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 6,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 151,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8549,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 7,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 152,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7820,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 8,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 153,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6910,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 9,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 154,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8790,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 10,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 155,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5482,
+            "gold": 3,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 2,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 156,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 4682,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 157,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8452,
+            "gold": 8,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 7,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 158,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 9548,
+            "gold": 12,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 5,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 159,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5420,
+            "gold": 9,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 4.5,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 160,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7500,
+            "gold": 8,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 3,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 161,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7650,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 2,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 162,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6548,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 3,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 163,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6875,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 164,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7120,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 5,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 165,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7542,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 6,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 166,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8549,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 7,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 167,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7820,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 8,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 168,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6910,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 9,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 169,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8790,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 10,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 170,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5482,
+            "gold": 3,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 2,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 171,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 4682,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 172,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8452,
+            "gold": 8,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 7,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 173,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 9548,
+            "gold": 12,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 5,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 174,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5420,
+            "gold": 9,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 4.5,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 175,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7500,
+            "gold": 8,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 3,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 176,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7650,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 2,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 177,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6548,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 3,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 178,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6875,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 179,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7120,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 5,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 180,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7542,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 6,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 181,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8549,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 7,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 182,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7820,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 8,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 183,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6910,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 9,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 184,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8790,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 10,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 185,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5482,
+            "gold": 3,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 2,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 186,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 4682,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 187,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8452,
+            "gold": 8,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 7,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 188,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 9548,
+            "gold": 12,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 5,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 189,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5420,
+            "gold": 9,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 4.5,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 190,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7500,
+            "gold": 8,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 3,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 191,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7650,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 2,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 192,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6548,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 3,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 193,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6875,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 194,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7120,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 5,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 195,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7542,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 6,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 196,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8549,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 7,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 197,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7820,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 8,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 198,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6910,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 9,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 199,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8790,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 10,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 200,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5482,
+            "gold": 3,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 2,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 201,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 4682,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 202,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8452,
+            "gold": 8,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 7,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 203,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 9548,
+            "gold": 12,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 5,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 204,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5420,
+            "gold": 9,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 4.5,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 205,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7500,
+            "gold": 8,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 3,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 206,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7650,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 2,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 207,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6548,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 3,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 208,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6875,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 209,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7120,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 5,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 210,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7542,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 6,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 211,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8549,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 7,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 212,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7820,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 8,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 213,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6910,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "damping": 9,
+        "cylinderImage": "suspension/id1_down",
+        "pistonImage": "suspension/id1_up"
+      },
+      {
+        "base": {
+          "baseId": 214,
+          "weight": -1.0499999523162842,
+          "min": 1,
+          "max": 6,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id69",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 40,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id69_down",
+        "pistonImage": "suspension/id69_up"
+      },
+      {
+        "base": {
+          "baseId": 215,
+          "weight": -1.0499999523162842,
+          "min": 1,
+          "max": 6,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id69",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 40,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id69_down",
+        "pistonImage": "suspension/id69_up"
+      },
+      {
+        "base": {
+          "baseId": 216,
+          "weight": -1.0499999523162842,
+          "min": 1,
+          "max": 6,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id69",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 40,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id69_down",
+        "pistonImage": "suspension/id69_up"
+      },
+      {
+        "base": {
+          "baseId": 217,
+          "weight": -1.0499999523162842,
+          "min": 1,
+          "max": 6,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id69",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 40,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id69_down",
+        "pistonImage": "suspension/id69_up"
+      },
+      {
+        "base": {
+          "baseId": 218,
+          "weight": -1.0499999523162842,
+          "min": 1,
+          "max": 6,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id69",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 40,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id69_down",
+        "pistonImage": "suspension/id69_up"
+      },
+      {
+        "base": {
+          "baseId": 219,
+          "weight": -1.0499999523162842,
+          "min": 1,
+          "max": 6,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id69",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 40,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id69_down",
+        "pistonImage": "suspension/id69_up"
+      },
+      {
+        "base": {
+          "baseId": 220,
+          "weight": -1.0499999523162842,
+          "min": 1,
+          "max": 6,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id69",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 40,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id69_down",
+        "pistonImage": "suspension/id69_up"
+      },
+      {
+        "base": {
+          "baseId": 221,
+          "weight": -1.0499999523162842,
+          "min": 1,
+          "max": 6,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id69",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 40,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id69_down",
+        "pistonImage": "suspension/id69_up"
+      },
+      {
+        "base": {
+          "baseId": 222,
+          "weight": -1.0499999523162842,
+          "min": 1,
+          "max": 6,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id69",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 40,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id69_down",
+        "pistonImage": "suspension/id69_up"
+      },
+      {
+        "base": {
+          "baseId": 223,
+          "weight": -1.0499999523162842,
+          "min": 1,
+          "max": 6,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id69",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 40,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id69_down",
+        "pistonImage": "suspension/id69_up"
+      },
+      {
+        "base": {
+          "baseId": 224,
+          "weight": -0.8999999761581421,
+          "min": 1,
+          "max": 6,
+          "price": {
+            "money": 3200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id68",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 35,
+          "level": 10
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id68_down",
+        "pistonImage": "suspension/id68_up"
+      },
+      {
+        "base": {
+          "baseId": 1001,
+          "weight": -0.800000011920929,
+          "min": 1,
+          "max": 6,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "suspension_id68",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 35,
+          "level": 0
+        },
+        "damping": 4,
+        "cylinderImage": "suspension/id68_down",
+        "pistonImage": "suspension/id68_up"
+      }
+    ]
+  }
+}

@@ -1,0 +1,720 @@
+{
+  "challengeTrackDatabase": {
+    "items": [
+      {
+        "baseId": 1,
+        "challengeId": 1,
+        "trackId": 54,
+        "time": 20,
+        "level": 1,
+        "award": {
+          "money": 1000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 3001,
+        "distance": 402,
+        "image": "challenge_id1_track_id1_icon"
+      },
+      {
+        "baseId": 2,
+        "challengeId": 1,
+        "trackId": 54,
+        "time": 19,
+        "level": 5,
+        "award": {
+          "money": 1600,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 3002,
+        "distance": 402,
+        "image": "challenge_id1_track_id2_icon"
+      },
+      {
+        "baseId": 3,
+        "challengeId": 1,
+        "trackId": 54,
+        "time": 18,
+        "level": 10,
+        "award": {
+          "money": 2000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 3003,
+        "distance": 402,
+        "image": "challenge_id1_track_id3_icon"
+      },
+      {
+        "baseId": 4,
+        "challengeId": 1,
+        "trackId": 54,
+        "time": 17,
+        "level": 20,
+        "award": {
+          "money": 3000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 3004,
+        "distance": 402,
+        "image": "challenge_id1_track_id4_icon"
+      },
+      {
+        "baseId": 5,
+        "challengeId": 1,
+        "trackId": 54,
+        "time": 15,
+        "level": 25,
+        "award": {
+          "money": 3600,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 3005,
+        "distance": 402,
+        "image": "challenge_id1_track_id5_icon"
+      },
+      {
+        "baseId": 6,
+        "challengeId": 1,
+        "trackId": 54,
+        "time": 14,
+        "level": 30,
+        "award": {
+          "money": 4000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 3006,
+        "distance": 402,
+        "image": "challenge_id1_track_id6_icon"
+      },
+      {
+        "baseId": 8,
+        "challengeId": 2,
+        "trackId": 8,
+        "time": 30,
+        "level": 1,
+        "award": {
+          "money": 1000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 41,
+        "distance": 804,
+        "image": "challenge_id2_track_id1_icon"
+      },
+      {
+        "baseId": 9,
+        "challengeId": 2,
+        "trackId": 8,
+        "time": 28,
+        "level": 5,
+        "award": {
+          "money": 1600,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 42,
+        "distance": 804,
+        "image": "challenge_id2_track_id2_icon"
+      },
+      {
+        "baseId": 10,
+        "challengeId": 2,
+        "trackId": 8,
+        "time": 26,
+        "level": 10,
+        "award": {
+          "money": 2000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 43,
+        "distance": 804,
+        "image": "challenge_id2_track_id3_icon"
+      },
+      {
+        "baseId": 11,
+        "challengeId": 2,
+        "trackId": 8,
+        "time": 24,
+        "level": 20,
+        "award": {
+          "money": 3000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 44,
+        "distance": 804,
+        "image": "challenge_id2_track_id4_icon"
+      },
+      {
+        "baseId": 12,
+        "challengeId": 2,
+        "trackId": 8,
+        "time": 22,
+        "level": 25,
+        "award": {
+          "money": 3600,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 45,
+        "distance": 804,
+        "image": "challenge_id2_track_id5_icon"
+      },
+      {
+        "baseId": 13,
+        "challengeId": 2,
+        "trackId": 8,
+        "time": 20,
+        "level": 30,
+        "award": {
+          "money": 4000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 46,
+        "distance": 804,
+        "image": "challenge_id2_track_id6_icon"
+      },
+      {
+        "baseId": 15,
+        "challengeId": 3,
+        "trackId": 12,
+        "time": 20,
+        "level": 1,
+        "award": {
+          "money": 1000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 51,
+        "distance": 402,
+        "image": "challenge_id3_track_id1_icon"
+      },
+      {
+        "baseId": 16,
+        "challengeId": 3,
+        "trackId": 12,
+        "time": 19,
+        "level": 5,
+        "award": {
+          "money": 1600,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 52,
+        "distance": 402,
+        "image": "challenge_id3_track_id2_icon"
+      },
+      {
+        "baseId": 17,
+        "challengeId": 3,
+        "trackId": 12,
+        "time": 18,
+        "level": 10,
+        "award": {
+          "money": 2000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 53,
+        "distance": 402,
+        "image": "challenge_id3_track_id3_icon"
+      },
+      {
+        "baseId": 18,
+        "challengeId": 3,
+        "trackId": 12,
+        "time": 17,
+        "level": 20,
+        "award": {
+          "money": 3000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 54,
+        "distance": 402,
+        "image": "challenge_id3_track_id4_icon"
+      },
+      {
+        "baseId": 19,
+        "challengeId": 3,
+        "trackId": 12,
+        "time": 15,
+        "level": 25,
+        "award": {
+          "money": 3600,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 55,
+        "distance": 402,
+        "image": "challenge_id3_track_id5_icon"
+      },
+      {
+        "baseId": 20,
+        "challengeId": 3,
+        "trackId": 12,
+        "time": 14,
+        "level": 30,
+        "award": {
+          "money": 4000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 56,
+        "distance": 402,
+        "image": "challenge_id3_track_id6_icon"
+      },
+      {
+        "baseId": 22,
+        "challengeId": 4,
+        "trackId": 16,
+        "time": 30,
+        "level": 1,
+        "award": {
+          "money": 1000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 61,
+        "distance": 804,
+        "image": "challenge_id4_track_id1_icon"
+      },
+      {
+        "baseId": 23,
+        "challengeId": 4,
+        "trackId": 16,
+        "time": 28,
+        "level": 5,
+        "award": {
+          "money": 1600,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 62,
+        "distance": 804,
+        "image": "challenge_id4_track_id2_icon"
+      },
+      {
+        "baseId": 24,
+        "challengeId": 4,
+        "trackId": 16,
+        "time": 26,
+        "level": 10,
+        "award": {
+          "money": 2000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 63,
+        "distance": 804,
+        "image": "challenge_id4_track_id3_icon"
+      },
+      {
+        "baseId": 25,
+        "challengeId": 4,
+        "trackId": 16,
+        "time": 24,
+        "level": 20,
+        "award": {
+          "money": 3000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 64,
+        "distance": 804,
+        "image": "challenge_id4_track_id4_icon"
+      },
+      {
+        "baseId": 26,
+        "challengeId": 4,
+        "trackId": 16,
+        "time": 22,
+        "level": 25,
+        "award": {
+          "money": 3600,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 65,
+        "distance": 804,
+        "image": "challenge_id4_track_id5_icon"
+      },
+      {
+        "baseId": 27,
+        "challengeId": 4,
+        "trackId": 16,
+        "time": 20,
+        "level": 30,
+        "award": {
+          "money": 4000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 66,
+        "distance": 804,
+        "image": "challenge_id4_track_id6_icon"
+      },
+      {
+        "baseId": 29,
+        "challengeId": 5,
+        "trackId": 55,
+        "time": 20,
+        "level": 1,
+        "award": {
+          "money": 1000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 71,
+        "distance": 402,
+        "image": "challenge_id5_track_id1_icon"
+      },
+      {
+        "baseId": 30,
+        "challengeId": 5,
+        "trackId": 55,
+        "time": 19,
+        "level": 5,
+        "award": {
+          "money": 1600,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 72,
+        "distance": 402,
+        "image": "challenge_id5_track_id2_icon"
+      },
+      {
+        "baseId": 31,
+        "challengeId": 5,
+        "trackId": 55,
+        "time": 18,
+        "level": 10,
+        "award": {
+          "money": 2000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 73,
+        "distance": 402,
+        "image": "challenge_id5_track_id3_icon"
+      },
+      {
+        "baseId": 32,
+        "challengeId": 5,
+        "trackId": 55,
+        "time": 17,
+        "level": 20,
+        "award": {
+          "money": 3000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 74,
+        "distance": 402,
+        "image": "challenge_id5_track_id4_icon"
+      },
+      {
+        "baseId": 33,
+        "challengeId": 5,
+        "trackId": 55,
+        "time": 15,
+        "level": 25,
+        "award": {
+          "money": 3600,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 75,
+        "distance": 402,
+        "image": "challenge_id5_track_id5_icon"
+      },
+      {
+        "baseId": 34,
+        "challengeId": 5,
+        "trackId": 55,
+        "time": 14,
+        "level": 30,
+        "award": {
+          "money": 4000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 76,
+        "distance": 402,
+        "image": "challenge_id5_track_id6_icon"
+      },
+      {
+        "baseId": 36,
+        "challengeId": 6,
+        "trackId": 56,
+        "time": 30,
+        "level": 1,
+        "award": {
+          "money": 1000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 81,
+        "distance": 804,
+        "image": "challenge_id6_track_id1_icon"
+      },
+      {
+        "baseId": 37,
+        "challengeId": 6,
+        "trackId": 56,
+        "time": 28,
+        "level": 5,
+        "award": {
+          "money": 1600,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 82,
+        "distance": 804,
+        "image": "challenge_id6_track_id2_icon"
+      },
+      {
+        "baseId": 38,
+        "challengeId": 6,
+        "trackId": 56,
+        "time": 26,
+        "level": 10,
+        "award": {
+          "money": 2000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 83,
+        "distance": 804,
+        "image": "challenge_id6_track_id3_icon"
+      },
+      {
+        "baseId": 39,
+        "challengeId": 6,
+        "trackId": 56,
+        "time": 24,
+        "level": 20,
+        "award": {
+          "money": 3000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 84,
+        "distance": 804,
+        "image": "challenge_id6_track_id4_icon"
+      },
+      {
+        "baseId": 40,
+        "challengeId": 6,
+        "trackId": 56,
+        "time": 22,
+        "level": 25,
+        "award": {
+          "money": 3600,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 85,
+        "distance": 804,
+        "image": "challenge_id6_track_id5_icon"
+      },
+      {
+        "baseId": 41,
+        "challengeId": 6,
+        "trackId": 56,
+        "time": 20,
+        "level": 30,
+        "award": {
+          "money": 4000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 86,
+        "distance": 804,
+        "image": "challenge_id6_track_id6_icon"
+      },
+      {
+        "baseId": 43,
+        "challengeId": 7,
+        "trackId": 28,
+        "time": 32,
+        "level": 1,
+        "award": {
+          "money": 1000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 91,
+        "distance": 900,
+        "image": "challenge_id7_track_id1_icon"
+      },
+      {
+        "baseId": 44,
+        "challengeId": 7,
+        "trackId": 28,
+        "time": 31,
+        "level": 5,
+        "award": {
+          "money": 1600,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 92,
+        "distance": 900,
+        "image": "challenge_id7_track_id2_icon"
+      },
+      {
+        "baseId": 45,
+        "challengeId": 7,
+        "trackId": 28,
+        "time": 28,
+        "level": 10,
+        "award": {
+          "money": 2000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 93,
+        "distance": 900,
+        "image": "challenge_id7_track_id3_icon"
+      },
+      {
+        "baseId": 46,
+        "challengeId": 7,
+        "trackId": 28,
+        "time": 26,
+        "level": 20,
+        "award": {
+          "money": 3000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 94,
+        "distance": 900,
+        "image": "challenge_id7_track_id4_icon"
+      },
+      {
+        "baseId": 47,
+        "challengeId": 7,
+        "trackId": 28,
+        "time": 23,
+        "level": 25,
+        "award": {
+          "money": 3600,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 95,
+        "distance": 900,
+        "image": "challenge_id7_track_id5_icon"
+      },
+      {
+        "baseId": 48,
+        "challengeId": 7,
+        "trackId": 28,
+        "time": 22,
+        "level": 30,
+        "award": {
+          "money": 4000,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "lootId": 96,
+        "distance": 900,
+        "image": "challenge_id7_track_id6_icon"
+      }
+    ]
+  }
+}

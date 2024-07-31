@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+import "gradeEnum.proto";
+import "upgradeEnum.proto";
+
+option go_package = "./pb";
+
+package srserver;
+
+message CarUpgrade {
+    int64 id = 1;
+    int64 carId = 2;
+    float current = 3;
+    int32 baseId = 4;
+    UpgradeType type = 5;
+    bool isPacked = 6;
+    UpgradeGrade grade = 7;
+}

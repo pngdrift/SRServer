@@ -1,0 +1,781 @@
+{
+  "ecuDatabase": {
+    "items": [
+      {
+        "base": {
+          "baseId": 1,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 39000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          "A"
+        ],
+        "fuelConfig": false,
+        "rpm": 300
+      },
+      {
+        "base": {
+          "baseId": 2,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 54000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          "A"
+        ],
+        "fuelConfig": false,
+        "rpm": 500
+      },
+      {
+        "base": {
+          "baseId": 3,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 81000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          "A"
+        ],
+        "fuelConfig": false,
+        "rpm": 800
+      },
+      {
+        "base": {
+          "baseId": 4,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 41000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          ""
+        ],
+        "fuelConfig": false,
+        "rpm": 70
+      },
+      {
+        "base": {
+          "baseId": 5,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 520,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          ""
+        ],
+        "fuelConfig": false,
+        "rpm": 400
+      },
+      {
+        "base": {
+          "baseId": 6,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 280000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          "A"
+        ],
+        "fuelConfig": false,
+        "rpm": 600
+      },
+      {
+        "base": {
+          "baseId": 7,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 280000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          ""
+        ],
+        "fuelConfig": false,
+        "rpm": 70
+      },
+      {
+        "base": {
+          "baseId": 8,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 315000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          ""
+        ],
+        "fuelConfig": false,
+        "rpm": 70
+      },
+      {
+        "base": {
+          "baseId": 9,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 427000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          "A"
+        ],
+        "fuelConfig": false,
+        "rpm": 800
+      },
+      {
+        "base": {
+          "baseId": 10,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 420000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          ""
+        ],
+        "fuelConfig": false,
+        "rpm": 500
+      },
+      {
+        "base": {
+          "baseId": 11,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          "A"
+        ],
+        "fuelConfig": false,
+        "rpm": 500
+      },
+      {
+        "base": {
+          "baseId": 12,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          "A"
+        ],
+        "fuelConfig": false,
+        "rpm": 800
+      },
+      {
+        "base": {
+          "baseId": 13,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          "A"
+        ],
+        "fuelConfig": false,
+        "rpm": 800
+      },
+      {
+        "base": {
+          "baseId": 14,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          "A"
+        ],
+        "fuelConfig": false,
+        "rpm": 800
+      },
+      {
+        "base": {
+          "baseId": 15,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          "A"
+        ],
+        "fuelConfig": false,
+        "rpm": 800
+      },
+      {
+        "base": {
+          "baseId": 16,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          "A"
+        ],
+        "fuelConfig": false,
+        "rpm": 800
+      },
+      {
+        "base": {
+          "baseId": 17,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          "A"
+        ],
+        "fuelConfig": false,
+        "rpm": 800
+      },
+      {
+        "base": {
+          "baseId": 18,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          "A"
+        ],
+        "fuelConfig": false,
+        "rpm": 800
+      },
+      {
+        "base": {
+          "baseId": 19,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          "A"
+        ],
+        "fuelConfig": false,
+        "rpm": 800
+      },
+      {
+        "base": {
+          "baseId": 20,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          "A"
+        ],
+        "fuelConfig": false,
+        "rpm": 800
+      },
+      {
+        "base": {
+          "baseId": 21,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          "A"
+        ],
+        "fuelConfig": false,
+        "rpm": 800
+      },
+      {
+        "base": {
+          "baseId": 22,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          ""
+        ],
+        "fuelConfig": false,
+        "rpm": 500
+      },
+      {
+        "base": {
+          "baseId": 23,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          ""
+        ],
+        "fuelConfig": false,
+        "rpm": 500
+      },
+      {
+        "base": {
+          "baseId": 24,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          ""
+        ],
+        "fuelConfig": false,
+        "rpm": 500
+      },
+      {
+        "base": {
+          "baseId": 25,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          ""
+        ],
+        "fuelConfig": false,
+        "rpm": 500
+      },
+      {
+        "base": {
+          "baseId": 26,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          ""
+        ],
+        "fuelConfig": false,
+        "rpm": 500
+      },
+      {
+        "base": {
+          "baseId": 27,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          ""
+        ],
+        "fuelConfig": false,
+        "rpm": 500
+      },
+      {
+        "base": {
+          "baseId": 28,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          ""
+        ],
+        "fuelConfig": false,
+        "rpm": 500
+      },
+      {
+        "base": {
+          "baseId": 29,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          ""
+        ],
+        "fuelConfig": false,
+        "rpm": 500
+      },
+      {
+        "base": {
+          "baseId": 30,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          ""
+        ],
+        "fuelConfig": false,
+        "rpm": 500
+      },
+      {
+        "base": {
+          "baseId": 31,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "ecu_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 20
+        },
+        "classes": [
+          ""
+        ],
+        "fuelConfig": false,
+        "rpm": 500
+      }
+    ]
+  }
+}

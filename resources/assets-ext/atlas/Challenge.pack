@@ -1,0 +1,427 @@
+
+Challenge.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+challenge_cooldown_bg
+  rotate: false
+  xy: 1, 1715
+  size: 1930, 314
+  orig: 1930, 314
+  offset: 0, 0
+  index: -1
+challenge_state_bg
+  rotate: false
+  xy: 1, 1604
+  size: 1857, 109
+  split: 0, 0, 25, 25
+  orig: 1857, 109
+  offset: 0, 0
+  index: -1
+challenge_track_locked
+  rotate: false
+  xy: 1860, 1516
+  size: 146, 197
+  orig: 146, 197
+  offset: 0, 0
+  index: -1
+challenge_id1_icon
+  rotate: false
+  xy: 1, 741
+  size: 453, 773
+  orig: 453, 773
+  offset: 0, 0
+  index: -1
+challenge_track_cup_flare
+  rotate: false
+  xy: 1, 138
+  size: 870, 601
+  orig: 870, 601
+  offset: 0, 0
+  index: -1
+challenge_id2_icon
+  rotate: false
+  xy: 456, 741
+  size: 453, 773
+  orig: 453, 773
+  offset: 0, 0
+  index: -1
+selected_car_bg
+  rotate: false
+  xy: 911, 1349
+  size: 663, 253
+  orig: 663, 253
+  offset: 0, 0
+  index: -1
+challenge_id3_icon
+  rotate: false
+  xy: 1576, 741
+  size: 453, 773
+  orig: 453, 773
+  offset: 0, 0
+  index: -1
+challenge_id1_track_id1_icon
+  rotate: false
+  xy: 911, 1016
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id1_track_id2_icon
+  rotate: false
+  xy: 911, 683
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id1_track_id3_icon
+  rotate: false
+  xy: 1399, 408
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_track_cup_star2
+  rotate: false
+  xy: 873, 1
+  size: 474, 405
+  orig: 474, 405
+  offset: 0, 0
+  index: -1
+challenge_track_cup_star1
+  rotate: false
+  xy: 1349, 23
+  size: 436, 383
+  orig: 436, 383
+  offset: 0, 0
+  index: -1
+challenge_track_cup
+  rotate: false
+  xy: 873, 463
+  size: 203, 218
+  orig: 203, 218
+  offset: 0, 0
+  index: -1
+
+Challenge2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+challenge_cooldown_line
+  rotate: false
+  xy: 1, 1683
+  size: 296, 314
+  orig: 296, 314
+  offset: 0, 0
+  index: -1
+challenge_id1_track_id4_icon
+  rotate: false
+  xy: 299, 1666
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id1_track_id5_icon
+  rotate: false
+  xy: 787, 1666
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id1_track_id6_icon
+  rotate: false
+  xy: 1275, 1666
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id2_track_id1_icon
+  rotate: false
+  xy: 1, 1333
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id2_track_id2_icon
+  rotate: false
+  xy: 489, 1333
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id2_track_id3_icon
+  rotate: false
+  xy: 977, 1333
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id2_track_id4_icon
+  rotate: false
+  xy: 1465, 1333
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id2_track_id5_icon
+  rotate: false
+  xy: 1, 1000
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id2_track_id6_icon
+  rotate: false
+  xy: 489, 1000
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id3_track_id1_icon
+  rotate: false
+  xy: 977, 1000
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id3_track_id2_icon
+  rotate: false
+  xy: 1465, 1000
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id3_track_id3_icon
+  rotate: false
+  xy: 1, 667
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id3_track_id4_icon
+  rotate: false
+  xy: 489, 667
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id3_track_id5_icon
+  rotate: false
+  xy: 977, 667
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id3_track_id6_icon
+  rotate: false
+  xy: 1465, 667
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id4_track_id1_icon
+  rotate: false
+  xy: 1, 334
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id4_track_id2_icon
+  rotate: false
+  xy: 489, 334
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id4_track_id3_icon
+  rotate: false
+  xy: 977, 334
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id4_track_id4_icon
+  rotate: false
+  xy: 1465, 334
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id4_track_id5_icon
+  rotate: false
+  xy: 1, 1
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id4_track_id6_icon
+  rotate: false
+  xy: 489, 1
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id5_track_id1_icon
+  rotate: false
+  xy: 977, 1
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id5_track_id2_icon
+  rotate: false
+  xy: 1465, 1
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+
+Challenge3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+challenge_id4_icon
+  rotate: false
+  xy: 1, 1224
+  size: 453, 773
+  orig: 453, 773
+  offset: 0, 0
+  index: -1
+challenge_id5_icon
+  rotate: false
+  xy: 1, 449
+  size: 453, 773
+  orig: 453, 773
+  offset: 0, 0
+  index: -1
+challenge_id6_icon
+  rotate: false
+  xy: 456, 1224
+  size: 453, 773
+  orig: 453, 773
+  offset: 0, 0
+  index: -1
+challenge_id7_icon
+  rotate: false
+  xy: 456, 449
+  size: 453, 773
+  orig: 453, 773
+  offset: 0, 0
+  index: -1
+challenge_id5_track_id3_icon
+  rotate: false
+  xy: 1, 116
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id5_track_id4_icon
+  rotate: false
+  xy: 911, 1666
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id5_track_id5_icon
+  rotate: false
+  xy: 911, 1333
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id5_track_id6_icon
+  rotate: false
+  xy: 1399, 1666
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id6_track_id1_icon
+  rotate: false
+  xy: 911, 1000
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id6_track_id2_icon
+  rotate: false
+  xy: 1399, 1333
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id6_track_id3_icon
+  rotate: false
+  xy: 911, 667
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id6_track_id4_icon
+  rotate: false
+  xy: 1399, 1000
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id6_track_id5_icon
+  rotate: false
+  xy: 1399, 667
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id6_track_id6_icon
+  rotate: false
+  xy: 489, 116
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id7_track_id1_icon
+  rotate: false
+  xy: 977, 334
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id7_track_id2_icon
+  rotate: false
+  xy: 1465, 334
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id7_track_id3_icon
+  rotate: false
+  xy: 977, 1
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id7_track_id4_icon
+  rotate: false
+  xy: 1465, 1
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+
+Challenge4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+challenge_id7_track_id5_icon
+  rotate: false
+  xy: 1, 1
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1
+challenge_id7_track_id6_icon
+  rotate: false
+  xy: 489, 1
+  size: 486, 331
+  orig: 486, 331
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,3386 @@
+{
+  "intakeDatabase": {
+    "items": [
+      {
+        "base": {
+          "baseId": 101,
+          "weight": -0.03999999910593033,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 8
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -90,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 102,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 3200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 8
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -100,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 103,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 4560,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 8
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -150,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 104,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12400,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 8
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -200,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 105,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15890,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id7",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -250,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 106,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 80,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id5",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -280,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 107,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 220,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id5",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -300,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 108,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 22470,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id6",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -350,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 109,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 600,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id6",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -400,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 110,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id5",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -400,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 111,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 380,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id6",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -450,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 112,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 33000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id6",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -400,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 113,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -450,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 114,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -450,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 115,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -450,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 116,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -450,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 117,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -450,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 118,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -450,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 119,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -450,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 120,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -450,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 121,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -450,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 122,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -450,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 123,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 3400,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "air_filter_id2",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 8
+        },
+        "type": "AIR_FILTER",
+        "boostMultipler": 0,
+        "startRpm": -200,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 201,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intercooler_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTERCOOLER",
+        "boostMultipler": 1,
+        "startRpm": 150,
+        "image": "intercooler_id7",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 202,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12460,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intercooler_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTERCOOLER",
+        "boostMultipler": 1.5,
+        "startRpm": 200,
+        "image": "intercooler_id3",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 203,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 18900,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intercooler_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTERCOOLER",
+        "boostMultipler": 2,
+        "startRpm": 250,
+        "image": "intercooler_id2",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 204,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 33700,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intercooler_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTERCOOLER",
+        "boostMultipler": 2.5,
+        "startRpm": 300,
+        "image": "intercooler_id4",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 205,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 44890,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intercooler_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTERCOOLER",
+        "boostMultipler": 3,
+        "startRpm": 350,
+        "image": "intercooler_id6",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 206,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 215,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intercooler_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTERCOOLER",
+        "boostMultipler": 3.5,
+        "startRpm": 400,
+        "image": "intercooler_id1",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 207,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 1200,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intercooler_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTERCOOLER",
+        "boostMultipler": 4,
+        "startRpm": 450,
+        "image": "intercooler_id5",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 208,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intercooler_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "type": "INTERCOOLER",
+        "boostMultipler": 4,
+        "startRpm": 450,
+        "image": "intercooler_id6",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 209,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 710,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intercooler_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTERCOOLER",
+        "boostMultipler": 4.300000190734863,
+        "startRpm": 470,
+        "image": "intercooler_id7",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 210,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 73600,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intercooler_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTERCOOLER",
+        "boostMultipler": 4,
+        "startRpm": 450,
+        "image": "intercooler_id5",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 211,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intercooler_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTERCOOLER",
+        "boostMultipler": 4.300000190734863,
+        "startRpm": 470,
+        "image": "intercooler_id7",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 212,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intercooler_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTERCOOLER",
+        "boostMultipler": 4.300000190734863,
+        "startRpm": 470,
+        "image": "intercooler_id7",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 213,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intercooler_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTERCOOLER",
+        "boostMultipler": 4.300000190734863,
+        "startRpm": 470,
+        "image": "intercooler_id7",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 214,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intercooler_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTERCOOLER",
+        "boostMultipler": 4.300000190734863,
+        "startRpm": 470,
+        "image": "intercooler_id7",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 215,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intercooler_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTERCOOLER",
+        "boostMultipler": 4.300000190734863,
+        "startRpm": 470,
+        "image": "intercooler_id7",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 216,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intercooler_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTERCOOLER",
+        "boostMultipler": 4.300000190734863,
+        "startRpm": 470,
+        "image": "intercooler_id7",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 217,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intercooler_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTERCOOLER",
+        "boostMultipler": 4.300000190734863,
+        "startRpm": 470,
+        "image": "intercooler_id7",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 218,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intercooler_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTERCOOLER",
+        "boostMultipler": 4.300000190734863,
+        "startRpm": 470,
+        "image": "intercooler_id7",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 219,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intercooler_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTERCOOLER",
+        "boostMultipler": 4.300000190734863,
+        "startRpm": 470,
+        "image": "intercooler_id7",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 220,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intercooler_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTERCOOLER",
+        "boostMultipler": 4.300000190734863,
+        "startRpm": 470,
+        "image": "intercooler_id7",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 221,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intercooler_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTERCOOLER",
+        "boostMultipler": 2.5,
+        "startRpm": 300,
+        "image": "intercooler_id4",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 301,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pipes_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "PIPES",
+        "boostMultipler": 0.5,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 302,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 4560,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pipes_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "PIPES",
+        "boostMultipler": 0.6000000238418579,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 303,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12400,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pipes_id3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "PIPES",
+        "boostMultipler": 0.699999988079071,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 304,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15890,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pipes_id4",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "PIPES",
+        "boostMultipler": 0.800000011920929,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 305,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 19600,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pipes_id5",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "PIPES",
+        "boostMultipler": 0.8999999761581421,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 306,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 22470,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pipes_id6",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "PIPES",
+        "boostMultipler": 1,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 307,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pipes_id4",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "type": "PIPES",
+        "boostMultipler": 1,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 308,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pipes_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "PIPES",
+        "boostMultipler": 1,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 309,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pipes_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "PIPES",
+        "boostMultipler": 1,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 310,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pipes_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "PIPES",
+        "boostMultipler": 1,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 311,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pipes_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "PIPES",
+        "boostMultipler": 1,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 312,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pipes_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "PIPES",
+        "boostMultipler": 1,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 313,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pipes_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "PIPES",
+        "boostMultipler": 1,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 314,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pipes_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "PIPES",
+        "boostMultipler": 1,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 315,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pipes_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "PIPES",
+        "boostMultipler": 1,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 316,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pipes_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "PIPES",
+        "boostMultipler": 1,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 317,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pipes_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "PIPES",
+        "boostMultipler": 1,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 318,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 3600,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pipes_id4",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "PIPES",
+        "boostMultipler": 0.800000011920929,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 401,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 9800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 2,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 402,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15640,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 3,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 403,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 350,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 4,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 404,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 16800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 0,
+        "startRpm": -500,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 405,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 27400,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id4",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 0,
+        "startRpm": -600,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 406,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 360,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id4",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 0,
+        "startRpm": -800,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 407,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 4,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 408,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 4,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 409,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 4,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 410,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 4,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 411,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 4,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 412,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 4,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 413,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 4,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 414,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 4,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 415,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 4,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 416,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 4,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 417,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id4",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 0,
+        "startRpm": -800,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 418,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id4",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 0,
+        "startRpm": -800,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 419,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id4",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 0,
+        "startRpm": -800,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 420,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id4",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 0,
+        "startRpm": -800,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 421,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id4",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 0,
+        "startRpm": -800,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 422,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id4",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 0,
+        "startRpm": -800,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 423,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id4",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 0,
+        "startRpm": -800,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 424,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id4",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 0,
+        "startRpm": -800,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 425,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id4",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 0,
+        "startRpm": -800,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 426,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id4",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 0,
+        "startRpm": -800,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 427,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 3200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "intake_mainfold_id2",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "INTAKE_MAINFOLD",
+        "boostMultipler": 3,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": 0,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 501,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 3,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": "WG_DEFAULT",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 502,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 80,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 4,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": "WG_DEFAULT",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 503,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 150,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 5,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": "WG_DEFAULT",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 504,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 1,
+        "startRpm": -50,
+        "image": "",
+        "chargerOrTurbo": "WG_DEFAULT",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 505,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8900,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 2,
+        "startRpm": -100,
+        "image": "",
+        "chargerOrTurbo": "WG_DEFAULT",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 506,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 180,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 3,
+        "startRpm": -150,
+        "image": "",
+        "chargerOrTurbo": "WG_DEFAULT",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 507,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5250,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_id3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 0,
+        "startRpm": -300,
+        "image": "",
+        "chargerOrTurbo": "WG_DEFAULT",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 508,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_id3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 0,
+        "startRpm": -400,
+        "image": "",
+        "chargerOrTurbo": "WG_DEFAULT",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 509,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 39400,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_id3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 0,
+        "startRpm": -500,
+        "image": "",
+        "chargerOrTurbo": "WG_DEFAULT",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 510,
+          "weight": -0.15000000596046448,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 180,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_id5",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 0,
+        "startRpm": -500,
+        "image": "",
+        "chargerOrTurbo": "WG_DEFAULT",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 511,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 5,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": "WG_DEFAULT",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 512,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 5,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": "WG_DEFAULT",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 513,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 5,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": "WG_DEFAULT",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 514,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 5,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": "WG_DEFAULT",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 515,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 5,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": "WG_DEFAULT",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 516,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 5,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": "WG_DEFAULT",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 517,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 5,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": "WG_DEFAULT",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 518,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 5,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": "WG_DEFAULT",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 519,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 5,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": "WG_DEFAULT",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 520,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 5,
+        "startRpm": 0,
+        "image": "",
+        "chargerOrTurbo": "WG_DEFAULT",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 521,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 3100,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 2,
+        "startRpm": -100,
+        "image": "",
+        "chargerOrTurbo": "WG_DEFAULT",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 601,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_charger_id4",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 3,
+        "startRpm": 0,
+        "image": "super_charger_id3",
+        "chargerOrTurbo": "WG_TURBO",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 602,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12100,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_charger_id4",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 4,
+        "startRpm": 0,
+        "image": "super_charger_id3",
+        "chargerOrTurbo": "WG_TURBO",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 603,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 140,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_charger_id4",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 5,
+        "startRpm": 0,
+        "image": "super_charger_id3",
+        "chargerOrTurbo": "WG_TURBO",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 604,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_charger_id5",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 1,
+        "startRpm": -50,
+        "image": "super_charger_id4",
+        "chargerOrTurbo": "WG_TURBO",
+        "endRpm": 50
+      },
+      {
+        "base": {
+          "baseId": 605,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_charger_id5",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 2,
+        "startRpm": -100,
+        "image": "super_charger_id4",
+        "chargerOrTurbo": "WG_TURBO",
+        "endRpm": 100
+      },
+      {
+        "base": {
+          "baseId": 606,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 160,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_charger_id5",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 3,
+        "startRpm": -150,
+        "image": "super_charger_id4",
+        "chargerOrTurbo": "WG_TURBO",
+        "endRpm": 150
+      },
+      {
+        "base": {
+          "baseId": 607,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7100,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_charger_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 0,
+        "startRpm": -100,
+        "image": "super_charger_id1",
+        "chargerOrTurbo": "WG_TURBO",
+        "endRpm": 100
+      },
+      {
+        "base": {
+          "baseId": 608,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 17700,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_charger_id3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 0,
+        "startRpm": -150,
+        "image": "super_charger_id2",
+        "chargerOrTurbo": "WG_TURBO",
+        "endRpm": 150
+      },
+      {
+        "base": {
+          "baseId": 609,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 170,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_charger_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 0,
+        "startRpm": -200,
+        "image": "super_charger_id1",
+        "chargerOrTurbo": "WG_TURBO",
+        "endRpm": 200
+      },
+      {
+        "base": {
+          "baseId": 610,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_charger_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 5,
+        "startRpm": 0,
+        "image": "super_charger_id1",
+        "chargerOrTurbo": "WG_TURBO",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 611,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_charger_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 5,
+        "startRpm": 0,
+        "image": "super_charger_id1",
+        "chargerOrTurbo": "WG_TURBO",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 612,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_charger_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 5,
+        "startRpm": 0,
+        "image": "super_charger_id1",
+        "chargerOrTurbo": "WG_TURBO",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 613,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_charger_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 5,
+        "startRpm": 0,
+        "image": "super_charger_id1",
+        "chargerOrTurbo": "WG_TURBO",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 614,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_charger_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 5,
+        "startRpm": 0,
+        "image": "super_charger_id1",
+        "chargerOrTurbo": "WG_TURBO",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 615,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_charger_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 5,
+        "startRpm": 0,
+        "image": "super_charger_id1",
+        "chargerOrTurbo": "WG_TURBO",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 616,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_charger_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 5,
+        "startRpm": 0,
+        "image": "super_charger_id1",
+        "chargerOrTurbo": "WG_TURBO",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 617,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_charger_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 5,
+        "startRpm": 0,
+        "image": "super_charger_id1",
+        "chargerOrTurbo": "WG_TURBO",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 618,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_charger_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 5,
+        "startRpm": 0,
+        "image": "super_charger_id1",
+        "chargerOrTurbo": "WG_TURBO",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 619,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_charger_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 5,
+        "startRpm": 0,
+        "image": "super_charger_id1",
+        "chargerOrTurbo": "WG_TURBO",
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 620,
+          "weight": -0.10000000149011612,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2300,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "westgate_charger_id5",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "WESTGATE",
+        "boostMultipler": 2,
+        "startRpm": -100,
+        "image": "super_charger_id4",
+        "chargerOrTurbo": "WG_TURBO",
+        "endRpm": 100
+      }
+    ]
+  }
+}

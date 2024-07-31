@@ -1,0 +1,2142 @@
+{
+  "partsDatabase": {
+    "items": [
+      {
+        "base": {
+          "baseId": 1,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 25000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "frame_part_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "FRAME_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 2,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8400,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "frame_part_id2",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "FRAME_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 3,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 50,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "frame_part_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "FRAME_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 4,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 34500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "frame_part_id4",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "FRAME_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 5,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 58000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "frame_part_id5",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "FRAME_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 6,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "frame_part_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "FRAME_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 0
+      },
+      {
+        "base": {
+          "baseId": 7,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "frame_part_id3",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 1
+        },
+        "type": "FRAME_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 0
+      },
+      {
+        "base": {
+          "baseId": 8,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "frame_part_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "FRAME_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 0
+      },
+      {
+        "base": {
+          "baseId": 9,
+          "weight": -1.5,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 3200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "frame_part_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "FRAME_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 11,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "frame_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "FRAME_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 12,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "frame_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "FRAME_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 13,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "frame_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "FRAME_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 14,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "frame_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "FRAME_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 15,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "frame_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "FRAME_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 16,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "frame_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "FRAME_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 17,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "frame_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "FRAME_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 18,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "frame_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "FRAME_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 19,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "frame_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "FRAME_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 20,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "frame_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "FRAME_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 21,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 3200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "frame_part_id2",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "FRAME_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 101,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 31000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "hood_part_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "HOOD_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 102,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6950,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "hood_part_id2",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "HOOD_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 103,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 40,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "hood_part_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "HOOD_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 104,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 27300,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "hood_part_id4",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "HOOD_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 105,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 54200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "hood_part_id5",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "HOOD_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 106,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "hood_part_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "HOOD_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 0
+      },
+      {
+        "base": {
+          "baseId": 107,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "hood_part_id3",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 1
+        },
+        "type": "HOOD_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 0
+      },
+      {
+        "base": {
+          "baseId": 108,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "hood_part_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "HOOD_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 0
+      },
+      {
+        "base": {
+          "baseId": 109,
+          "weight": -1.5,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "hood_part_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "HOOD_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 111,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 20000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "hood_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "HOOD_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 112,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 20000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "hood_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "HOOD_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 113,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 20000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "hood_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "HOOD_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 114,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 20000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "hood_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "HOOD_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 115,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 20000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "hood_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "HOOD_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 116,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 20000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "hood_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "HOOD_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 117,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 20000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "hood_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "HOOD_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 118,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 20000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "hood_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "HOOD_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 119,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 20000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "hood_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "HOOD_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 120,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 20000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "hood_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "HOOD_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 121,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "hood_part_id2",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "HOOD_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 201,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 23000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "roof_part_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "ROOF_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 202,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7100,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "roof_part_id2",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "ROOF_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 203,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 50,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "roof_part_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "ROOF_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 204,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 31000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "roof_part_id4",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "ROOF_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 205,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 62100,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "roof_part_id5",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "ROOF_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 206,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "roof_part_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "ROOF_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 0
+      },
+      {
+        "base": {
+          "baseId": 207,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "roof_part_id3",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 1
+        },
+        "type": "ROOF_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 0
+      },
+      {
+        "base": {
+          "baseId": 208,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "roof_part_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "ROOF_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 0
+      },
+      {
+        "base": {
+          "baseId": 209,
+          "weight": -1.5,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 3000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "roof_part_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "ROOF_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 211,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "roof_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "ROOF_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 212,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "roof_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "ROOF_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 213,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "roof_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "ROOF_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 214,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "roof_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "ROOF_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 215,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "roof_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "ROOF_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 216,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "roof_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "ROOF_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 217,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "roof_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "ROOF_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 218,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "roof_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "ROOF_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 219,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "roof_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "ROOF_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 220,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "roof_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "ROOF_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 221,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 3000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "roof_part_id2",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "ROOF_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 301,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15060,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "trunk_part_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "TRUNK_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 302,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2890,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "trunk_part_id2",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "TRUNK_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 303,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 30,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "trunk_part_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "TRUNK_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 304,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 25000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "trunk_part_id4",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "TRUNK_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 305,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 50600,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "trunk_part_id5",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "TRUNK_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 306,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "trunk_part_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "TRUNK_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 0
+      },
+      {
+        "base": {
+          "baseId": 307,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "trunk_part_id3",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 1
+        },
+        "type": "TRUNK_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 0
+      },
+      {
+        "base": {
+          "baseId": 308,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "trunk_part_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "TRUNK_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 0
+      },
+      {
+        "base": {
+          "baseId": 309,
+          "weight": -1.5,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 4000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "trunk_part_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "TRUNK_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 311,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "trunk_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "TRUNK_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 312,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "trunk_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "TRUNK_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 313,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "trunk_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "TRUNK_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 314,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "trunk_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "TRUNK_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 315,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "trunk_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "TRUNK_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 316,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "trunk_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "TRUNK_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 317,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "trunk_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "TRUNK_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 318,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "trunk_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "TRUNK_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 319,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "trunk_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "TRUNK_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 320,
+          "weight": -2.200000047683716,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "trunk_part_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "TRUNK_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 321,
+          "weight": -1.5,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 4000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "trunk_part_id2",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "TRUNK_PART",
+        "rimSize": 0,
+        "rimRazval": 0,
+        "weightDelta": 25
+      },
+      {
+        "base": {
+          "baseId": 401,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "rim_part_0",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "WHEEL_PART",
+        "rimSize": 0.029999999329447746,
+        "rimRazval": 0,
+        "weightDelta": 0
+      },
+      {
+        "base": {
+          "baseId": 402,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "rim_part_0",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "WHEEL_PART",
+        "rimSize": 0.03999999910593033,
+        "rimRazval": 0,
+        "weightDelta": 0
+      },
+      {
+        "base": {
+          "baseId": 403,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 18700,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "rim_part_0",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "WHEEL_PART",
+        "rimSize": 0.05000000074505806,
+        "rimRazval": 0,
+        "weightDelta": 0
+      },
+      {
+        "base": {
+          "baseId": 404,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "rim_part_3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "WHEEL_PART",
+        "rimSize": 0.029999999329447746,
+        "rimRazval": 0.019999999552965164,
+        "weightDelta": 0
+      },
+      {
+        "base": {
+          "baseId": 405,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 13500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "rim_part_3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "WHEEL_PART",
+        "rimSize": 0.03999999910593033,
+        "rimRazval": 0.019999999552965164,
+        "weightDelta": 0
+      },
+      {
+        "base": {
+          "baseId": 406,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 19700,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "rim_part_3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "WHEEL_PART",
+        "rimSize": 0.05000000074505806,
+        "rimRazval": 0.019999999552965164,
+        "weightDelta": 0
+      },
+      {
+        "base": {
+          "baseId": 407,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "rim_part_5",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "WHEEL_PART",
+        "rimSize": 0.03999999910593033,
+        "rimRazval": 0.03500000014901161,
+        "weightDelta": 0
+      },
+      {
+        "base": {
+          "baseId": 408,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 14500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "rim_part_5",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "WHEEL_PART",
+        "rimSize": 0.04500000178813934,
+        "rimRazval": 0.03500000014901161,
+        "weightDelta": 0
+      },
+      {
+        "base": {
+          "baseId": 409,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 20700,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "rim_part_5",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "type": "WHEEL_PART",
+        "rimSize": 0.05000000074505806,
+        "rimRazval": 0.03500000014901161,
+        "weightDelta": 0
+      }
+    ]
+  }
+}

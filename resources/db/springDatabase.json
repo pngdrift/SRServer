@@ -1,0 +1,4428 @@
+{
+  "springDatabase": {
+    "items": [
+      {
+        "base": {
+          "baseId": 1,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 3.799999952316284,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 2,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 3.9000000953674316,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 3,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 4,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.099999904632568,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 5,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.199999809265137,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 6,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.300000190734863,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 7,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.400000095367432,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 8,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.5,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 9,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.599999904632568,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 10,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.699999809265137,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 11,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.800000190734863,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 12,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.900000095367432,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 13,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 14,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5.099999904632568,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 15,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5.199999809265137,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 16,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5.300000190734863,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 17,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5.400000095367432,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 18,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5.5,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 19,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5.599999904632568,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 20,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 3.4000000953674316,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 21,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 6,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 22,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 7.599999904632568,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 23,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 3.4000000953674316,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 101,
+          "weight": -0.5,
+          "min": 3,
+          "max": 6,
+          "price": {
+            "money": 1530,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id16",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 9,
+          "level": 5
+        },
+        "frequency": 5,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 102,
+          "weight": -0.800000011920929,
+          "min": 3,
+          "max": 6,
+          "price": {
+            "money": 3523,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id15",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 11,
+          "level": 5
+        },
+        "frequency": 5,
+        "image": "spring/id15"
+      },
+      {
+        "base": {
+          "baseId": 103,
+          "weight": -0.949999988079071,
+          "min": 2,
+          "max": 7,
+          "price": {
+            "money": 0,
+            "gold": 35,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id9",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 13,
+          "level": 10
+        },
+        "frequency": 5,
+        "image": "spring/id9"
+      },
+      {
+        "base": {
+          "baseId": 104,
+          "weight": -0.949999988079071,
+          "min": 3,
+          "max": 7,
+          "price": {
+            "money": 25050,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id5",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 14,
+          "level": 10
+        },
+        "frequency": 5,
+        "image": "spring/id5"
+      },
+      {
+        "base": {
+          "baseId": 105,
+          "weight": -0.8999999761581421,
+          "min": 1,
+          "max": 7,
+          "price": {
+            "money": 0,
+            "gold": 50,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id5",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 10,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id5"
+      },
+      {
+        "base": {
+          "baseId": 106,
+          "weight": -0.699999988079071,
+          "min": 4,
+          "max": 6,
+          "price": {
+            "money": 2800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id16",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 10,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 107,
+          "weight": -0.699999988079071,
+          "min": 3,
+          "max": 5,
+          "price": {
+            "money": 2800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id16",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 10,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id16"
+      },
+      {
+        "base": {
+          "baseId": 108,
+          "weight": -0.699999988079071,
+          "min": 3,
+          "max": 7,
+          "price": {
+            "money": 3500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id15",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 10,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id15"
+      },
+      {
+        "base": {
+          "baseId": 109,
+          "weight": -0.699999988079071,
+          "min": 2,
+          "max": 6,
+          "price": {
+            "money": 3500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id15",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 10,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id15"
+      },
+      {
+        "base": {
+          "baseId": 110,
+          "weight": -0.949999988079071,
+          "min": 2,
+          "max": 7,
+          "price": {
+            "money": 0,
+            "gold": 10,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 13,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id23"
+      },
+      {
+        "base": {
+          "baseId": 111,
+          "weight": -0.949999988079071,
+          "min": 2,
+          "max": 7,
+          "price": {
+            "money": 0,
+            "gold": 10,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 13,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id23"
+      },
+      {
+        "base": {
+          "baseId": 112,
+          "weight": -0.6000000238418579,
+          "min": 2,
+          "max": 7,
+          "price": {
+            "money": 0,
+            "gold": 12,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id5",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 10,
+          "level": 10
+        },
+        "frequency": 5,
+        "image": "spring/id5"
+      },
+      {
+        "base": {
+          "baseId": 113,
+          "weight": -0.8999999761581421,
+          "min": 2,
+          "max": 7,
+          "price": {
+            "money": 0,
+            "gold": 20,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id13",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 11,
+          "level": 10
+        },
+        "frequency": 5,
+        "image": "spring/id13"
+      },
+      {
+        "base": {
+          "baseId": 114,
+          "weight": -0.8999999761581421,
+          "min": 3,
+          "max": 6,
+          "price": {
+            "money": 8500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id14",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 12,
+          "level": 10
+        },
+        "frequency": 5,
+        "image": "spring/id14"
+      },
+      {
+        "base": {
+          "baseId": 115,
+          "weight": -1,
+          "min": 2,
+          "max": 7,
+          "price": {
+            "money": 0,
+            "gold": 140,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id15",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 15,
+          "level": 10
+        },
+        "frequency": 5,
+        "image": "spring/id15"
+      },
+      {
+        "base": {
+          "baseId": 116,
+          "weight": -1,
+          "min": 2,
+          "max": 7,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id14",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 15,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id14"
+      },
+      {
+        "base": {
+          "baseId": 117,
+          "weight": -1.2999999523162842,
+          "min": 2,
+          "max": 8,
+          "price": {
+            "money": 0,
+            "gold": 95,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id9",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 16,
+          "level": 10
+        },
+        "frequency": 5,
+        "image": "spring/id9"
+      },
+      {
+        "base": {
+          "baseId": 118,
+          "weight": -1,
+          "min": 2,
+          "max": 7,
+          "price": {
+            "money": 27300,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id15",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 15,
+          "level": 10
+        },
+        "frequency": 5,
+        "image": "spring/id15"
+      },
+      {
+        "base": {
+          "baseId": 119,
+          "weight": -1.2999999523162842,
+          "min": 2,
+          "max": 7,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id9",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 16,
+          "level": 5
+        },
+        "frequency": 5,
+        "image": "spring/id9"
+      },
+      {
+        "base": {
+          "baseId": 120,
+          "weight": -0.8999999761581421,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1360,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 15,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 121,
+          "weight": -0.8999999761581421,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2300,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 15,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 122,
+          "weight": -0.8999999761581421,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 15,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 123,
+          "weight": -0.8999999761581421,
+          "min": 2,
+          "max": 3,
+          "price": {
+            "money": 2360,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 15,
+          "level": 0
+        },
+        "frequency": 2.200000047683716,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 124,
+          "weight": -0.8999999761581421,
+          "min": 3,
+          "max": 4,
+          "price": {
+            "money": 1800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 15,
+          "level": 0
+        },
+        "frequency": 3.200000047683716,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 125,
+          "weight": -0.8999999761581421,
+          "min": 4,
+          "max": 5,
+          "price": {
+            "money": 1960,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 15,
+          "level": 0
+        },
+        "frequency": 4.199999809265137,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 126,
+          "weight": -0.8999999761581421,
+          "min": 5,
+          "max": 6.199999809265137,
+          "price": {
+            "money": 5680,
+            "gold": 50,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 15,
+          "level": 0
+        },
+        "frequency": 5.199999809265137,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 127,
+          "weight": -0.8999999761581421,
+          "min": 6,
+          "max": 7,
+          "price": {
+            "money": 5100,
+            "gold": 50,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 15,
+          "level": 0
+        },
+        "frequency": 6.199999809265137,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 128,
+          "weight": -0.8999999761581421,
+          "min": 7,
+          "max": 8,
+          "price": {
+            "money": 5230,
+            "gold": 50,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 15,
+          "level": 0
+        },
+        "frequency": 7.199999809265137,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 129,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 13500,
+            "gold": 15,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 15,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 130,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12100,
+            "gold": 12,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 15,
+          "level": 0
+        },
+        "frequency": 4.5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 131,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 17560,
+            "gold": 18,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 15,
+          "level": 0
+        },
+        "frequency": 3,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 132,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 15,
+          "level": 0
+        },
+        "frequency": 4.5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 133,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 2,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 134,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1860,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 3,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 135,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 136,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1360,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 137,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1980,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 6,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 138,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 7,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 139,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2360,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 8,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 140,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 9,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 141,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1960,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 10,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 142,
+          "weight": 0,
+          "min": 1,
+          "max": 3,
+          "price": {
+            "money": 5680,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 2,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 143,
+          "weight": 0,
+          "min": 3,
+          "max": 5,
+          "price": {
+            "money": 5100,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 144,
+          "weight": 0,
+          "min": 6,
+          "max": 8,
+          "price": {
+            "money": 5230,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 7,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 145,
+          "weight": 0,
+          "min": 4,
+          "max": 10,
+          "price": {
+            "money": 13500,
+            "gold": 15,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 146,
+          "weight": 0,
+          "min": 2,
+          "max": 8,
+          "price": {
+            "money": 12100,
+            "gold": 12,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 147,
+          "weight": 0,
+          "min": 0,
+          "max": 5,
+          "price": {
+            "money": 17560,
+            "gold": 18,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 3,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 148,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 149,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 2,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 150,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1860,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 3,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 151,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 152,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1360,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 153,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1980,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 6,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 154,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 7,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 155,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2360,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 8,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 156,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 9,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 157,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1960,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 10,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 158,
+          "weight": 0,
+          "min": 1,
+          "max": 3,
+          "price": {
+            "money": 5680,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 2,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 159,
+          "weight": 0,
+          "min": 3,
+          "max": 5,
+          "price": {
+            "money": 5100,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 160,
+          "weight": 0,
+          "min": 6,
+          "max": 8,
+          "price": {
+            "money": 5230,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 7,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 161,
+          "weight": 0,
+          "min": 4,
+          "max": 10,
+          "price": {
+            "money": 13500,
+            "gold": 15,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 162,
+          "weight": 0,
+          "min": 2,
+          "max": 8,
+          "price": {
+            "money": 12100,
+            "gold": 12,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 163,
+          "weight": 0,
+          "min": 0,
+          "max": 5,
+          "price": {
+            "money": 17560,
+            "gold": 18,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 3,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 164,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 165,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 2,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 166,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1860,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 3,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 167,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 168,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1360,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 169,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1980,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 6,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 170,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 7,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 171,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2360,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 8,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 172,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 9,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 173,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1960,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 10,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 174,
+          "weight": 0,
+          "min": 1,
+          "max": 3,
+          "price": {
+            "money": 5680,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 2,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 175,
+          "weight": 0,
+          "min": 3,
+          "max": 5,
+          "price": {
+            "money": 5100,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 176,
+          "weight": 0,
+          "min": 6,
+          "max": 8,
+          "price": {
+            "money": 5230,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 7,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 177,
+          "weight": 0,
+          "min": 4,
+          "max": 10,
+          "price": {
+            "money": 13500,
+            "gold": 15,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 178,
+          "weight": 0,
+          "min": 2,
+          "max": 8,
+          "price": {
+            "money": 12100,
+            "gold": 12,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 179,
+          "weight": 0,
+          "min": 0,
+          "max": 5,
+          "price": {
+            "money": 17560,
+            "gold": 18,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 3,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 180,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 181,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 2,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 182,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1860,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 3,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 183,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 184,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1360,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 185,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1980,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 6,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 186,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 7,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 187,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2360,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 8,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 188,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 9,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 189,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1960,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 10,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 190,
+          "weight": 0,
+          "min": 1,
+          "max": 3,
+          "price": {
+            "money": 5680,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 2,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 191,
+          "weight": 0,
+          "min": 3,
+          "max": 5,
+          "price": {
+            "money": 5100,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 192,
+          "weight": 0,
+          "min": 6,
+          "max": 8,
+          "price": {
+            "money": 5230,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 7,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 193,
+          "weight": 0,
+          "min": 4,
+          "max": 10,
+          "price": {
+            "money": 13500,
+            "gold": 15,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 194,
+          "weight": 0,
+          "min": 2,
+          "max": 8,
+          "price": {
+            "money": 12100,
+            "gold": 12,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 195,
+          "weight": 0,
+          "min": 0,
+          "max": 5,
+          "price": {
+            "money": 17560,
+            "gold": 18,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 3,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 196,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 197,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 2,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 198,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1860,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 3,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 199,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 200,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1360,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 201,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1980,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 6,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 202,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 7,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 203,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2360,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 8,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 204,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 9,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 205,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1960,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 10,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 206,
+          "weight": 0,
+          "min": 1,
+          "max": 3,
+          "price": {
+            "money": 5680,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 2,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 207,
+          "weight": 0,
+          "min": 3,
+          "max": 5,
+          "price": {
+            "money": 5100,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 208,
+          "weight": 0,
+          "min": 6,
+          "max": 8,
+          "price": {
+            "money": 5230,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 7,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 209,
+          "weight": 0,
+          "min": 4,
+          "max": 10,
+          "price": {
+            "money": 13500,
+            "gold": 15,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 210,
+          "weight": 0,
+          "min": 2,
+          "max": 8,
+          "price": {
+            "money": 12100,
+            "gold": 12,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 211,
+          "weight": 0,
+          "min": 0,
+          "max": 5,
+          "price": {
+            "money": 17560,
+            "gold": 18,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 3,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 212,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 213,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 2,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 214,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1860,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 3,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 215,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 216,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1360,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 217,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1980,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 6,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 218,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 7,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 219,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2360,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 8,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 220,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 9,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 221,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1960,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 10,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 222,
+          "weight": 0,
+          "min": 1,
+          "max": 3,
+          "price": {
+            "money": 5680,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 2,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 223,
+          "weight": 0,
+          "min": 3,
+          "max": 5,
+          "price": {
+            "money": 5100,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 224,
+          "weight": 0,
+          "min": 6,
+          "max": 8,
+          "price": {
+            "money": 5230,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 7,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 225,
+          "weight": 0,
+          "min": 4,
+          "max": 10,
+          "price": {
+            "money": 13500,
+            "gold": 15,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 226,
+          "weight": 0,
+          "min": 2,
+          "max": 8,
+          "price": {
+            "money": 12100,
+            "gold": 12,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 227,
+          "weight": 0,
+          "min": 0,
+          "max": 5,
+          "price": {
+            "money": 17560,
+            "gold": 18,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 3,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 228,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 229,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 2,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 230,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1860,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 3,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 231,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 232,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1360,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 233,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1980,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 6,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 234,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 7,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 235,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2360,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 8,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 236,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 9,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 237,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1960,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 10,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 238,
+          "weight": 0,
+          "min": 1,
+          "max": 3,
+          "price": {
+            "money": 5680,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 2,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 239,
+          "weight": 0,
+          "min": 3,
+          "max": 5,
+          "price": {
+            "money": 5100,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 240,
+          "weight": 0,
+          "min": 6,
+          "max": 8,
+          "price": {
+            "money": 5230,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 7,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 241,
+          "weight": 0,
+          "min": 4,
+          "max": 10,
+          "price": {
+            "money": 13500,
+            "gold": 15,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 242,
+          "weight": 0,
+          "min": 2,
+          "max": 8,
+          "price": {
+            "money": 12100,
+            "gold": 12,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 243,
+          "weight": 0,
+          "min": 0,
+          "max": 5,
+          "price": {
+            "money": 17560,
+            "gold": 18,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 3,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 244,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 245,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 2,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 246,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1860,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 3,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 247,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 248,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1360,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 249,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1980,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 6,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 250,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 7,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 251,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2360,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 8,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 252,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 9,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 253,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1960,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 10,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 254,
+          "weight": 0,
+          "min": 1,
+          "max": 3,
+          "price": {
+            "money": 5680,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 2,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 255,
+          "weight": 0,
+          "min": 3,
+          "max": 5,
+          "price": {
+            "money": 5100,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 256,
+          "weight": 0,
+          "min": 6,
+          "max": 8,
+          "price": {
+            "money": 5230,
+            "gold": 5,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "GREEN",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 7,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 257,
+          "weight": 0,
+          "min": 4,
+          "max": 10,
+          "price": {
+            "money": 13500,
+            "gold": 15,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 258,
+          "weight": 0,
+          "min": 2,
+          "max": 8,
+          "price": {
+            "money": 12100,
+            "gold": 12,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 259,
+          "weight": 0,
+          "min": 0,
+          "max": 5,
+          "price": {
+            "money": 17560,
+            "gold": 18,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 3,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 260,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4.5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 261,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 2,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 262,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1860,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 3,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 263,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1520,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 4,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 264,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1360,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 265,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 1980,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "frequency": 6,
+        "image": "spring/id1"
+      },
+      {
+        "base": {
+          "baseId": 266,
+          "weight": -1.2999999523162842,
+          "min": 2,
+          "max": 8,
+          "price": {
+            "money": 16000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id9",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 16,
+          "level": 10
+        },
+        "frequency": 5,
+        "image": "spring/id9"
+      },
+      {
+        "base": {
+          "baseId": 267,
+          "weight": -1.2999999523162842,
+          "min": 2,
+          "max": 8,
+          "price": {
+            "money": 16000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id9",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 16,
+          "level": 10
+        },
+        "frequency": 5,
+        "image": "spring/id9"
+      },
+      {
+        "base": {
+          "baseId": 268,
+          "weight": -1.2999999523162842,
+          "min": 2,
+          "max": 8,
+          "price": {
+            "money": 16000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id9",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 16,
+          "level": 10
+        },
+        "frequency": 5,
+        "image": "spring/id9"
+      },
+      {
+        "base": {
+          "baseId": 269,
+          "weight": -1.2999999523162842,
+          "min": 2,
+          "max": 8,
+          "price": {
+            "money": 16000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id9",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 16,
+          "level": 10
+        },
+        "frequency": 5,
+        "image": "spring/id9"
+      },
+      {
+        "base": {
+          "baseId": 270,
+          "weight": -1.2999999523162842,
+          "min": 2,
+          "max": 8,
+          "price": {
+            "money": 16000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id9",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 16,
+          "level": 10
+        },
+        "frequency": 5,
+        "image": "spring/id9"
+      },
+      {
+        "base": {
+          "baseId": 271,
+          "weight": -1.2999999523162842,
+          "min": 2,
+          "max": 8,
+          "price": {
+            "money": 16000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id9",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 16,
+          "level": 10
+        },
+        "frequency": 5,
+        "image": "spring/id9"
+      },
+      {
+        "base": {
+          "baseId": 272,
+          "weight": -1.2999999523162842,
+          "min": 2,
+          "max": 8,
+          "price": {
+            "money": 16000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id9",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 16,
+          "level": 10
+        },
+        "frequency": 5,
+        "image": "spring/id9"
+      },
+      {
+        "base": {
+          "baseId": 273,
+          "weight": -1.2999999523162842,
+          "min": 2,
+          "max": 8,
+          "price": {
+            "money": 16000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id9",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 16,
+          "level": 10
+        },
+        "frequency": 5,
+        "image": "spring/id9"
+      },
+      {
+        "base": {
+          "baseId": 274,
+          "weight": -1.2999999523162842,
+          "min": 2,
+          "max": 8,
+          "price": {
+            "money": 16000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id9",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 16,
+          "level": 10
+        },
+        "frequency": 5,
+        "image": "spring/id9"
+      },
+      {
+        "base": {
+          "baseId": 275,
+          "weight": -1.2999999523162842,
+          "min": 2,
+          "max": 8,
+          "price": {
+            "money": 16000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id9",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 16,
+          "level": 10
+        },
+        "frequency": 5,
+        "image": "spring/id9"
+      },
+      {
+        "base": {
+          "baseId": 276,
+          "weight": -1.2999999523162842,
+          "min": 2,
+          "max": 8,
+          "price": {
+            "money": 3000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id9",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 16,
+          "level": 10
+        },
+        "frequency": 5,
+        "image": "spring/id9"
+      },
+      {
+        "base": {
+          "baseId": 1001,
+          "weight": -0.8999999761581421,
+          "min": 1,
+          "max": 6,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id5",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 15,
+          "level": 0
+        },
+        "frequency": 5,
+        "image": "spring/id5"
+      },
+      {
+        "base": {
+          "baseId": 2001,
+          "weight": -0.5,
+          "min": 6,
+          "max": 6,
+          "price": {
+            "money": 1530,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "spring_id16",
+          "shopIndex": 2,
+          "grade": "WHITE",
+          "control": 9,
+          "level": 1
+        },
+        "frequency": 2,
+        "image": "spring/id16"
+      }
+    ]
+  }
+}

@@ -1,0 +1,461 @@
+
+Lada21099.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arcs
+  rotate: false
+  xy: 2, 425
+  size: 484, 80
+  orig: 694, 168
+  offset: 116, 12
+  index: -1
+arcs_shadow
+  rotate: false
+  xy: 2, 351
+  size: 484, 72
+  orig: 694, 168
+  offset: 116, 13
+  index: -1
+back_details
+  rotate: false
+  xy: 2, 507
+  size: 569, 56
+  orig: 694, 168
+  offset: 58, 20
+  index: -1
+base
+  rotate: false
+  xy: 2, 868
+  size: 577, 154
+  orig: 694, 168
+  offset: 58, 14
+  index: -1
+cabin
+  rotate: false
+  xy: 2, 280
+  size: 324, 69
+  orig: 694, 168
+  offset: 155, 89
+  index: -1
+center_bumper_id1
+  rotate: false
+  xy: 2, 41
+  size: 278, 36
+  orig: 694, 168
+  offset: 211, 6
+  index: -1
+center_bumper_id2
+  rotate: false
+  xy: 579, 786
+  size: 267, 17
+  orig: 694, 168
+  offset: 222, 0
+  index: -1
+center_bumper_id2_light
+  rotate: false
+  xy: 579, 767
+  size: 267, 17
+  orig: 694, 168
+  offset: 222, 0
+  index: -1
+center_bumper_id2_shadow
+  rotate: false
+  xy: 579, 748
+  size: 267, 17
+  orig: 694, 168
+  offset: 222, 0
+  index: -1
+center_bumper_id3
+  rotate: false
+  xy: 2, 8
+  size: 274, 31
+  orig: 694, 168
+  offset: 218, 0
+  index: -1
+center_bumper_id3_light
+  rotate: false
+  xy: 581, 838
+  size: 274, 30
+  orig: 694, 168
+  offset: 218, 1
+  index: -1
+center_bumper_id3_shadow
+  rotate: false
+  xy: 579, 805
+  size: 274, 31
+  orig: 694, 168
+  offset: 218, 0
+  index: -1
+details
+  rotate: false
+  xy: 581, 870
+  size: 330, 152
+  orig: 694, 168
+  offset: 156, 12
+  index: -1
+front_bumper_id1
+  rotate: false
+  xy: 329, 83
+  size: 84, 47
+  orig: 694, 168
+  offset: 557, 17
+  index: -1
+front_bumper_id2
+  rotate: false
+  xy: 330, 153
+  size: 93, 60
+  orig: 694, 168
+  offset: 557, 5
+  index: -1
+front_bumper_id2_light
+  rotate: false
+  xy: 608, 450
+  size: 92, 59
+  orig: 694, 168
+  offset: 558, 6
+  index: -1
+front_bumper_id2_shadow
+  rotate: false
+  xy: 789, 686
+  size: 93, 60
+  orig: 694, 168
+  offset: 557, 5
+  index: -1
+front_bumper_id3
+  rotate: false
+  xy: 690, 661
+  size: 97, 85
+  orig: 694, 168
+  offset: 557, 2
+  index: -1
+front_bumper_id3_light
+  rotate: false
+  xy: 330, 215
+  size: 91, 74
+  orig: 694, 168
+  offset: 563, 13
+  index: -1
+front_bumper_id3_shadow
+  rotate: false
+  xy: 581, 561
+  size: 97, 85
+  orig: 694, 168
+  offset: 557, 2
+  index: -1
+front_lights_on
+  rotate: false
+  xy: 581, 648
+  size: 107, 98
+  orig: 694, 168
+  offset: 587, 25
+  index: -1
+glass_notint
+  rotate: false
+  xy: 2, 213
+  size: 326, 65
+  orig: 694, 168
+  offset: 158, 98
+  index: -1
+glass_tint
+  rotate: false
+  xy: 2, 79
+  size: 325, 65
+  orig: 694, 168
+  offset: 159, 98
+  index: -1
+glass_tint_base
+  rotate: false
+  xy: 2, 146
+  size: 326, 65
+  orig: 694, 168
+  offset: 158, 98
+  index: -1
+light
+  rotate: false
+  xy: 2, 712
+  size: 575, 154
+  orig: 694, 168
+  offset: 59, 14
+  index: -1
+parking_lights_off
+  rotate: false
+  xy: 692, 385
+  size: 15, 8
+  orig: 694, 168
+  offset: 477, 60
+  index: -1
+parking_lights_on
+  rotate: false
+  xy: 702, 455
+  size: 59, 56
+  orig: 694, 168
+  offset: 455, 37
+  index: -1
+rear_bumper_id1
+  rotate: false
+  xy: 789, 641
+  size: 98, 43
+  orig: 694, 168
+  offset: 53, 14
+  index: -1
+rear_bumper_id2
+  rotate: false
+  xy: 488, 341
+  size: 100, 55
+  orig: 694, 168
+  offset: 51, 2
+  index: -1
+rear_bumper_id2_light
+  rotate: false
+  xy: 608, 395
+  size: 99, 53
+  orig: 694, 168
+  offset: 51, 4
+  index: -1
+rear_bumper_id2_shadow
+  rotate: false
+  xy: 913, 858
+  size: 100, 55
+  orig: 694, 168
+  offset: 51, 2
+  index: -1
+rear_bumper_id3
+  rotate: false
+  xy: 328, 291
+  size: 100, 58
+  orig: 694, 168
+  offset: 51, 0
+  index: -1
+rear_bumper_id3_light
+  rotate: false
+  xy: 680, 575
+  size: 98, 57
+  orig: 694, 168
+  offset: 52, 1
+  index: -1
+rear_bumper_id3_shadow
+  rotate: false
+  xy: 590, 335
+  size: 100, 58
+  orig: 694, 168
+  offset: 51, 0
+  index: -1
+rear_lights_off
+  rotate: false
+  xy: 477, 328
+  size: 9, 21
+  orig: 694, 168
+  offset: 58, 55
+  index: -1
+rear_lights_on
+  rotate: false
+  xy: 913, 915
+  size: 107, 107
+  orig: 694, 168
+  offset: 11, 14
+  index: -1
+rear_lights_stop
+  rotate: false
+  xy: 488, 398
+  size: 118, 107
+  orig: 694, 168
+  offset: 0, 14
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 565
+  size: 577, 145
+  orig: 694, 168
+  offset: 58, 14
+  index: -1
+spoiler_id1
+  rotate: false
+  xy: 690, 634
+  size: 94, 25
+  orig: 694, 168
+  offset: 38, 123
+  index: -1
+spoiler_id1_light
+  rotate: false
+  xy: 680, 559
+  size: 94, 14
+  orig: 694, 168
+  offset: 38, 133
+  index: -1
+spoiler_id1_shadow
+  rotate: false
+  xy: 573, 511
+  size: 94, 48
+  orig: 694, 168
+  offset: 38, 100
+  index: -1
+spoiler_id2
+  rotate: false
+  xy: 709, 384
+  size: 75, 29
+  orig: 694, 168
+  offset: 55, 103
+  index: -1
+spoiler_id2_light
+  rotate: false
+  xy: 692, 321
+  size: 75, 26
+  orig: 694, 168
+  offset: 55, 106
+  index: -1
+spoiler_id2_shadow
+  rotate: false
+  xy: 692, 349
+  size: 75, 33
+  orig: 694, 168
+  offset: 55, 99
+  index: -1
+spoiler_id3
+  rotate: false
+  xy: 786, 405
+  size: 67, 21
+  orig: 694, 168
+  offset: 61, 103
+  index: -1
+spoiler_id3_light
+  rotate: false
+  xy: 346, 7
+  size: 66, 15
+  orig: 694, 168
+  offset: 62, 109
+  index: -1
+spoiler_id3_shadow
+  rotate: false
+  xy: 763, 460
+  size: 67, 23
+  orig: 694, 168
+  offset: 61, 101
+  index: -1
+spoiler_id4
+  rotate: false
+  xy: 669, 513
+  size: 82, 44
+  orig: 694, 168
+  offset: 38, 105
+  index: -1
+spoiler_id4_light
+  rotate: false
+  xy: 329, 61
+  size: 80, 20
+  orig: 694, 168
+  offset: 40, 129
+  index: -1
+spoiler_id4_shadow
+  rotate: false
+  xy: 780, 574
+  size: 82, 44
+  orig: 694, 168
+  offset: 38, 105
+  index: -1
+spoiler_id5
+  rotate: false
+  xy: 282, 41
+  size: 61, 16
+  orig: 694, 168
+  offset: 65, 103
+  index: -1
+spoiler_id5_light
+  rotate: false
+  xy: 786, 369
+  size: 60, 15
+  orig: 694, 168
+  offset: 65, 104
+  index: -1
+spoiler_id5_shadow
+  rotate: false
+  xy: 786, 386
+  size: 61, 17
+  orig: 694, 168
+  offset: 65, 102
+  index: -1
+spoiler_id6
+  rotate: false
+  xy: 330, 132
+  size: 91, 19
+  orig: 694, 168
+  offset: 27, 116
+  index: -1
+spoiler_id6_light
+  rotate: false
+  xy: 786, 620
+  size: 91, 19
+  orig: 694, 168
+  offset: 27, 116
+  index: -1
+spoiler_id6_shadow
+  rotate: false
+  xy: 776, 543
+  size: 91, 29
+  orig: 694, 168
+  offset: 27, 106
+  index: -1
+spoiler_id7
+  rotate: false
+  xy: 763, 485
+  size: 69, 30
+  orig: 694, 168
+  offset: 54, 103
+  index: -1
+spoiler_id7_light
+  rotate: false
+  xy: 753, 517
+  size: 68, 24
+  orig: 694, 168
+  offset: 55, 109
+  index: -1
+spoiler_id7_shadow
+  rotate: false
+  xy: 777, 428
+  size: 68, 30
+  orig: 694, 168
+  offset: 54, 103
+  index: -1
+spoiler_id8
+  rotate: false
+  xy: 430, 333
+  size: 45, 16
+  orig: 694, 168
+  offset: 62, 104
+  index: -1
+spoiler_id8_light
+  rotate: false
+  xy: 857, 859
+  size: 42, 9
+  orig: 694, 168
+  offset: 62, 111
+  index: -1
+spoiler_id8_shadow
+  rotate: false
+  xy: 282, 59
+  size: 45, 18
+  orig: 694, 168
+  offset: 62, 102
+  index: -1
+spoiler_id9
+  rotate: false
+  xy: 709, 415
+  size: 66, 38
+  orig: 694, 168
+  offset: 52, 104
+  index: -1
+spoiler_id9_light
+  rotate: false
+  xy: 346, 24
+  size: 66, 35
+  orig: 694, 168
+  offset: 52, 106
+  index: -1
+spoiler_id9_shadow
+  rotate: false
+  xy: 278, 2
+  size: 66, 37
+  orig: 694, 168
+  offset: 52, 103
+  index: -1

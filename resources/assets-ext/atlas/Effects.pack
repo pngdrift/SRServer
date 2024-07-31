@@ -1,0 +1,971 @@
+
+Effects.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cutoff_halo
+  rotate: false
+  xy: 1, 1852
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+cutoff_type_1_phase_1
+  rotate: false
+  xy: 1, 1675
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 1
+cutoff_type_1_phase_1
+  rotate: false
+  xy: 178, 1852
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 2
+cutoff_type_1_phase_1
+  rotate: false
+  xy: 1, 1498
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 3
+cutoff_type_1_phase_1
+  rotate: false
+  xy: 178, 1675
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 4
+cutoff_type_1_phase_1
+  rotate: false
+  xy: 355, 1852
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 5
+cutoff_type_5_phase_1
+  rotate: false
+  xy: 355, 1852
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 10
+cutoff_type_5_phase_1
+  rotate: false
+  xy: 355, 1852
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 12
+cutoff_type_5_phase_1
+  rotate: false
+  xy: 355, 1852
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 8
+cutoff_type_6_phase_2
+  rotate: false
+  xy: 355, 1852
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 4
+cutoff_type_1_phase_1
+  rotate: false
+  xy: 1, 1321
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 6
+cutoff_type_1_phase_2
+  rotate: false
+  xy: 178, 1498
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 1
+cutoff_type_1_phase_2
+  rotate: false
+  xy: 355, 1675
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 2
+cutoff_type_1_phase_3
+  rotate: false
+  xy: 532, 1852
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 1
+cutoff_type_1_phase_3
+  rotate: false
+  xy: 1, 1144
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 2
+cutoff_type_2_phase_1
+  rotate: false
+  xy: 178, 1321
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 1
+cutoff_type_2_phase_1
+  rotate: false
+  xy: 355, 1498
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 2
+cutoff_type_2_phase_1
+  rotate: false
+  xy: 532, 1675
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 3
+cutoff_type_2_phase_1
+  rotate: false
+  xy: 709, 1852
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 4
+cutoff_type_2_phase_2
+  rotate: false
+  xy: 1, 967
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 1
+cutoff_type_2_phase_3
+  rotate: false
+  xy: 178, 1144
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 1
+cutoff_type_2_phase_3
+  rotate: false
+  xy: 355, 1321
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 2
+cutoff_type_2_phase_4
+  rotate: false
+  xy: 532, 1498
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 1
+cutoff_type_2_phase_4
+  rotate: false
+  xy: 709, 1675
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 2
+cutoff_type_3_phase_1
+  rotate: false
+  xy: 886, 1852
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 1
+cutoff_type_3_phase_1
+  rotate: false
+  xy: 1, 790
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 2
+cutoff_type_3_phase_1
+  rotate: false
+  xy: 178, 967
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 3
+cutoff_type_3_phase_1
+  rotate: false
+  xy: 355, 1144
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 4
+cutoff_type_3_phase_2
+  rotate: false
+  xy: 532, 1321
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 1
+cutoff_type_3_phase_2
+  rotate: false
+  xy: 709, 1498
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 2
+cutoff_type_3_phase_3
+  rotate: false
+  xy: 886, 1675
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 1
+cutoff_type_3_phase_4
+  rotate: false
+  xy: 1063, 1852
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 1
+cutoff_type_3_phase_4
+  rotate: false
+  xy: 1, 613
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 2
+cutoff_type_4_phase_1
+  rotate: false
+  xy: 178, 790
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 1
+cutoff_type_4_phase_1
+  rotate: false
+  xy: 355, 967
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 2
+cutoff_type_4_phase_1
+  rotate: false
+  xy: 532, 1144
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 3
+cutoff_type_4_phase_1
+  rotate: false
+  xy: 709, 1321
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 4
+cutoff_type_4_phase_1
+  rotate: false
+  xy: 886, 1498
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 5
+cutoff_type_4_phase_1
+  rotate: false
+  xy: 1063, 1675
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 6
+cutoff_type_4_phase_2
+  rotate: false
+  xy: 1240, 1852
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 1
+cutoff_type_4_phase_2
+  rotate: false
+  xy: 1, 436
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 2
+cutoff_type_4_phase_2
+  rotate: false
+  xy: 178, 613
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 3
+cutoff_type_4_phase_2
+  rotate: false
+  xy: 355, 790
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 4
+cutoff_type_4_phase_2
+  rotate: false
+  xy: 532, 967
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 5
+cutoff_type_4_phase_3
+  rotate: false
+  xy: 709, 1144
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 1
+cutoff_type_4_phase_3
+  rotate: false
+  xy: 886, 1321
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 2
+cutoff_type_4_phase_3
+  rotate: false
+  xy: 1063, 1498
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 3
+cutoff_type_4_phase_3
+  rotate: false
+  xy: 1240, 1675
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 4
+cutoff_type_4_phase_3
+  rotate: false
+  xy: 1417, 1852
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 5
+cutoff_type_4_phase_3
+  rotate: false
+  xy: 1, 259
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 6
+cutoff_type_4_phase_3
+  rotate: false
+  xy: 178, 436
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 7
+cutoff_type_4_phase_4
+  rotate: false
+  xy: 355, 613
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 1
+cutoff_type_5_phase_1
+  rotate: false
+  xy: 532, 790
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 1
+cutoff_type_5_phase_1
+  rotate: false
+  xy: 709, 967
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 11
+cutoff_type_5_phase_1
+  rotate: false
+  xy: 886, 1144
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 13
+cutoff_type_5_phase_1
+  rotate: false
+  xy: 1063, 1321
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 14
+cutoff_type_5_phase_1
+  rotate: false
+  xy: 1240, 1498
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 15
+cutoff_type_5_phase_1
+  rotate: false
+  xy: 1417, 1675
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 2
+cutoff_type_5_phase_1
+  rotate: false
+  xy: 1594, 1852
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 3
+cutoff_type_5_phase_1
+  rotate: false
+  xy: 1, 82
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 4
+cutoff_type_5_phase_1
+  rotate: false
+  xy: 178, 259
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 5
+cutoff_type_5_phase_1
+  rotate: false
+  xy: 355, 436
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 6
+cutoff_type_5_phase_1
+  rotate: false
+  xy: 532, 613
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 7
+cutoff_type_5_phase_1
+  rotate: false
+  xy: 709, 790
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 9
+cutoff_type_5_phase_2
+  rotate: false
+  xy: 886, 967
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 1
+cutoff_type_5_phase_2
+  rotate: false
+  xy: 1063, 1144
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 2
+cutoff_type_5_phase_2
+  rotate: false
+  xy: 1240, 1321
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 3
+cutoff_type_6_phase_1
+  rotate: false
+  xy: 1417, 1498
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 1
+cutoff_type_6_phase_1
+  rotate: false
+  xy: 1594, 1675
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 2
+cutoff_type_6_phase_1
+  rotate: false
+  xy: 1771, 1852
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 3
+cutoff_type_6_phase_1
+  rotate: false
+  xy: 178, 82
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 4
+cutoff_type_6_phase_1
+  rotate: false
+  xy: 355, 259
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 5
+cutoff_type_6_phase_1
+  rotate: false
+  xy: 532, 436
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 6
+cutoff_type_6_phase_2
+  rotate: false
+  xy: 709, 613
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 1
+cutoff_type_6_phase_2
+  rotate: false
+  xy: 886, 790
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 2
+cutoff_type_6_phase_2
+  rotate: false
+  xy: 1063, 967
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 3
+cutoff_type_6_phase_2
+  rotate: false
+  xy: 1240, 1144
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 5
+exhaust_gas_end
+  rotate: false
+  xy: 1417, 1321
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 1
+exhaust_gas_end
+  rotate: false
+  xy: 1594, 1498
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 2
+exhaust_gas_end
+  rotate: false
+  xy: 1771, 1675
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 3
+exhaust_gas_end
+  rotate: false
+  xy: 355, 82
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 4
+exhaust_gas_end
+  rotate: false
+  xy: 532, 259
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 5
+exhaust_gas_end
+  rotate: false
+  xy: 709, 436
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 6
+exhaust_gas_middle
+  rotate: false
+  xy: 886, 613
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 1
+exhaust_gas_middle
+  rotate: false
+  xy: 1063, 790
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 10
+exhaust_gas_middle
+  rotate: false
+  xy: 1240, 967
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 11
+exhaust_gas_middle
+  rotate: false
+  xy: 1417, 1144
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 12
+exhaust_gas_middle
+  rotate: false
+  xy: 1594, 1321
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 13
+exhaust_gas_middle
+  rotate: false
+  xy: 1771, 1498
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 14
+exhaust_gas_middle
+  rotate: false
+  xy: 532, 82
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 15
+exhaust_gas_middle
+  rotate: false
+  xy: 709, 259
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 16
+exhaust_gas_middle
+  rotate: false
+  xy: 886, 436
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 17
+exhaust_gas_middle
+  rotate: false
+  xy: 1063, 613
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 18
+exhaust_gas_middle
+  rotate: false
+  xy: 1240, 790
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 19
+exhaust_gas_middle
+  rotate: false
+  xy: 1417, 967
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 2
+exhaust_gas_middle
+  rotate: false
+  xy: 1594, 1144
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 20
+exhaust_gas_middle
+  rotate: false
+  xy: 1771, 1321
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 21
+exhaust_gas_middle
+  rotate: false
+  xy: 709, 82
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 22
+exhaust_gas_middle
+  rotate: false
+  xy: 886, 259
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 23
+exhaust_gas_middle
+  rotate: false
+  xy: 1063, 436
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 24
+exhaust_gas_middle
+  rotate: false
+  xy: 1240, 613
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 3
+exhaust_gas_middle
+  rotate: false
+  xy: 1417, 790
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 4
+exhaust_gas_middle
+  rotate: false
+  xy: 1594, 967
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 5
+exhaust_gas_middle
+  rotate: false
+  xy: 1771, 1144
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 6
+exhaust_gas_middle
+  rotate: false
+  xy: 886, 82
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 7
+exhaust_gas_middle
+  rotate: false
+  xy: 1063, 259
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 8
+exhaust_gas_middle
+  rotate: false
+  xy: 1240, 436
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 9
+exhaust_gas_start
+  rotate: false
+  xy: 1417, 613
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 1
+exhaust_gas_start
+  rotate: false
+  xy: 1594, 790
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 10
+exhaust_gas_start
+  rotate: false
+  xy: 1771, 967
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 11
+exhaust_gas_start
+  rotate: false
+  xy: 1063, 82
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 12
+exhaust_gas_start
+  rotate: false
+  xy: 1240, 259
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 2
+exhaust_gas_start
+  rotate: false
+  xy: 1417, 436
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 3
+exhaust_gas_start
+  rotate: false
+  xy: 1594, 613
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 4
+exhaust_gas_start
+  rotate: false
+  xy: 1771, 790
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 5
+exhaust_gas_start
+  rotate: false
+  xy: 1240, 82
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 6
+exhaust_gas_start
+  rotate: false
+  xy: 1417, 259
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 7
+exhaust_gas_start
+  rotate: false
+  xy: 1594, 436
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 8
+exhaust_gas_start
+  rotate: false
+  xy: 1771, 613
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: 9
+sparks
+  rotate: false
+  xy: 1, 30
+  size: 178, 50
+  orig: 178, 50
+  offset: 0, 0
+  index: 1
+sparks
+  rotate: false
+  xy: 181, 30
+  size: 178, 50
+  orig: 178, 50
+  offset: 0, 0
+  index: 2
+sparks
+  rotate: false
+  xy: 361, 30
+  size: 178, 50
+  orig: 178, 50
+  offset: 0, 0
+  index: 3
+sparks
+  rotate: false
+  xy: 541, 30
+  size: 178, 50
+  orig: 178, 50
+  offset: 0, 0
+  index: 4
+sparks
+  rotate: false
+  xy: 721, 30
+  size: 178, 50
+  orig: 178, 50
+  offset: 0, 0
+  index: 5
+sparks
+  rotate: false
+  xy: 901, 30
+  size: 178, 50
+  orig: 178, 50
+  offset: 0, 0
+  index: 6
+dirt
+  rotate: false
+  xy: 1948, 1963
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+snow
+  rotate: false
+  xy: 1417, 193
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+wheel_smoke
+  rotate: false
+  xy: 1594, 402
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+wheel_smoke2
+  rotate: false
+  xy: 1771, 579
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+trace_tread_left
+  rotate: false
+  xy: 1, 1
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+trace_tread_right
+  rotate: false
+  xy: 1081, 53
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+trace_tread_middle
+  rotate: false
+  xy: 1948, 1934
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+wheel_smoke_back
+  rotate: false
+  xy: 2014, 2007
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+wheel_smoke_brown1
+  rotate: false
+  xy: 1417, 171
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+wheel_smoke_brown2
+  rotate: false
+  xy: 1483, 237
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+wheel_smoke_gray1
+  rotate: false
+  xy: 1594, 380
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+wheel_smoke_gray2
+  rotate: false
+  xy: 1628, 414
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+spark
+  rotate: false
+  xy: 1771, 565
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,6400 @@
+{
+  "exhaustDatabase": {
+    "items": [
+      {
+        "base": {
+          "baseId": 101,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 13500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_mainfold_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MAINFOLD",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 7
+          },
+          {
+            "index": 8,
+            "torque": 7
+          },
+          {
+            "index": 9,
+            "torque": 7
+          },
+          {
+            "index": 10,
+            "torque": 7
+          },
+          {
+            "index": 11,
+            "torque": 7
+          },
+          {
+            "index": 12,
+            "torque": 7
+          },
+          {
+            "index": 13,
+            "torque": 4
+          },
+          {
+            "index": 14,
+            "torque": 4
+          },
+          {
+            "index": 15,
+            "torque": 4
+          },
+          {
+            "index": 16,
+            "torque": 4
+          },
+          {
+            "index": 17,
+            "torque": 4
+          },
+          {
+            "index": 18,
+            "torque": 4
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 102,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 18200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_mainfold_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MAINFOLD",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 5
+          },
+          {
+            "index": 8,
+            "torque": 5
+          },
+          {
+            "index": 9,
+            "torque": 5
+          },
+          {
+            "index": 10,
+            "torque": 5
+          },
+          {
+            "index": 11,
+            "torque": 5
+          },
+          {
+            "index": 12,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 6
+          },
+          {
+            "index": 14,
+            "torque": 6
+          },
+          {
+            "index": 15,
+            "torque": 6
+          },
+          {
+            "index": 16,
+            "torque": 6
+          },
+          {
+            "index": 17,
+            "torque": 4
+          },
+          {
+            "index": 18,
+            "torque": 4
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 103,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 31400,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_mainfold_id3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MAINFOLD",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 2
+          },
+          {
+            "index": 8,
+            "torque": 2
+          },
+          {
+            "index": 9,
+            "torque": 2
+          },
+          {
+            "index": 10,
+            "torque": 2
+          },
+          {
+            "index": 11,
+            "torque": 2
+          },
+          {
+            "index": 12,
+            "torque": 2
+          },
+          {
+            "index": 13,
+            "torque": 9
+          },
+          {
+            "index": 14,
+            "torque": 9
+          },
+          {
+            "index": 15,
+            "torque": 9
+          },
+          {
+            "index": 16,
+            "torque": 9
+          },
+          {
+            "index": 17,
+            "torque": 4
+          },
+          {
+            "index": 18,
+            "torque": 4
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 104,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 380,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_mainfold_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MAINFOLD",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 4
+          },
+          {
+            "index": 8,
+            "torque": 4
+          },
+          {
+            "index": 9,
+            "torque": 4
+          },
+          {
+            "index": 10,
+            "torque": 4
+          },
+          {
+            "index": 11,
+            "torque": 4
+          },
+          {
+            "index": 12,
+            "torque": 4
+          },
+          {
+            "index": 13,
+            "torque": 15
+          },
+          {
+            "index": 14,
+            "torque": 15
+          },
+          {
+            "index": 15,
+            "torque": 15
+          },
+          {
+            "index": 16,
+            "torque": 15
+          },
+          {
+            "index": 17,
+            "torque": 4
+          },
+          {
+            "index": 18,
+            "torque": 4
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 105,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_mainfold_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "type": "EXHAUST_MAINFOLD",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 4
+          },
+          {
+            "index": 8,
+            "torque": 4
+          },
+          {
+            "index": 9,
+            "torque": 4
+          },
+          {
+            "index": 10,
+            "torque": 4
+          },
+          {
+            "index": 11,
+            "torque": 4
+          },
+          {
+            "index": 12,
+            "torque": 4
+          },
+          {
+            "index": 13,
+            "torque": 15
+          },
+          {
+            "index": 14,
+            "torque": 15
+          },
+          {
+            "index": 15,
+            "torque": 15
+          },
+          {
+            "index": 16,
+            "torque": 15
+          },
+          {
+            "index": 17,
+            "torque": 4
+          },
+          {
+            "index": 18,
+            "torque": 4
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 106,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 230,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_mainfold_id3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MAINFOLD",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 5
+          },
+          {
+            "index": 8,
+            "torque": 5
+          },
+          {
+            "index": 9,
+            "torque": 5
+          },
+          {
+            "index": 10,
+            "torque": 5
+          },
+          {
+            "index": 11,
+            "torque": 5
+          },
+          {
+            "index": 12,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 16
+          },
+          {
+            "index": 14,
+            "torque": 16
+          },
+          {
+            "index": 15,
+            "torque": 16
+          },
+          {
+            "index": 16,
+            "torque": 16
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 5
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 107,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 51500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_mainfold_id3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MAINFOLD",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 4
+          },
+          {
+            "index": 8,
+            "torque": 4
+          },
+          {
+            "index": 9,
+            "torque": 4
+          },
+          {
+            "index": 10,
+            "torque": 4
+          },
+          {
+            "index": 11,
+            "torque": 4
+          },
+          {
+            "index": 12,
+            "torque": 4
+          },
+          {
+            "index": 13,
+            "torque": 15
+          },
+          {
+            "index": 14,
+            "torque": 15
+          },
+          {
+            "index": 15,
+            "torque": 15
+          },
+          {
+            "index": 16,
+            "torque": 15
+          },
+          {
+            "index": 17,
+            "torque": 4
+          },
+          {
+            "index": 18,
+            "torque": 4
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 108,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_mainfold_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MAINFOLD",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 5
+          },
+          {
+            "index": 8,
+            "torque": 5
+          },
+          {
+            "index": 9,
+            "torque": 5
+          },
+          {
+            "index": 10,
+            "torque": 5
+          },
+          {
+            "index": 11,
+            "torque": 5
+          },
+          {
+            "index": 12,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 16
+          },
+          {
+            "index": 14,
+            "torque": 16
+          },
+          {
+            "index": 15,
+            "torque": 16
+          },
+          {
+            "index": 16,
+            "torque": 16
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 5
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 109,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_mainfold_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MAINFOLD",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 5
+          },
+          {
+            "index": 8,
+            "torque": 5
+          },
+          {
+            "index": 9,
+            "torque": 5
+          },
+          {
+            "index": 10,
+            "torque": 5
+          },
+          {
+            "index": 11,
+            "torque": 5
+          },
+          {
+            "index": 12,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 16
+          },
+          {
+            "index": 14,
+            "torque": 16
+          },
+          {
+            "index": 15,
+            "torque": 16
+          },
+          {
+            "index": 16,
+            "torque": 16
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 5
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 110,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_mainfold_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MAINFOLD",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 5
+          },
+          {
+            "index": 8,
+            "torque": 5
+          },
+          {
+            "index": 9,
+            "torque": 5
+          },
+          {
+            "index": 10,
+            "torque": 5
+          },
+          {
+            "index": 11,
+            "torque": 5
+          },
+          {
+            "index": 12,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 16
+          },
+          {
+            "index": 14,
+            "torque": 16
+          },
+          {
+            "index": 15,
+            "torque": 16
+          },
+          {
+            "index": 16,
+            "torque": 16
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 5
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 111,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_mainfold_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MAINFOLD",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 5
+          },
+          {
+            "index": 8,
+            "torque": 5
+          },
+          {
+            "index": 9,
+            "torque": 5
+          },
+          {
+            "index": 10,
+            "torque": 5
+          },
+          {
+            "index": 11,
+            "torque": 5
+          },
+          {
+            "index": 12,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 16
+          },
+          {
+            "index": 14,
+            "torque": 16
+          },
+          {
+            "index": 15,
+            "torque": 16
+          },
+          {
+            "index": 16,
+            "torque": 16
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 5
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 112,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_mainfold_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MAINFOLD",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 5
+          },
+          {
+            "index": 8,
+            "torque": 5
+          },
+          {
+            "index": 9,
+            "torque": 5
+          },
+          {
+            "index": 10,
+            "torque": 5
+          },
+          {
+            "index": 11,
+            "torque": 5
+          },
+          {
+            "index": 12,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 16
+          },
+          {
+            "index": 14,
+            "torque": 16
+          },
+          {
+            "index": 15,
+            "torque": 16
+          },
+          {
+            "index": 16,
+            "torque": 16
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 5
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 113,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_mainfold_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MAINFOLD",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 5
+          },
+          {
+            "index": 8,
+            "torque": 5
+          },
+          {
+            "index": 9,
+            "torque": 5
+          },
+          {
+            "index": 10,
+            "torque": 5
+          },
+          {
+            "index": 11,
+            "torque": 5
+          },
+          {
+            "index": 12,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 16
+          },
+          {
+            "index": 14,
+            "torque": 16
+          },
+          {
+            "index": 15,
+            "torque": 16
+          },
+          {
+            "index": 16,
+            "torque": 16
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 5
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 114,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_mainfold_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MAINFOLD",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 5
+          },
+          {
+            "index": 8,
+            "torque": 5
+          },
+          {
+            "index": 9,
+            "torque": 5
+          },
+          {
+            "index": 10,
+            "torque": 5
+          },
+          {
+            "index": 11,
+            "torque": 5
+          },
+          {
+            "index": 12,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 16
+          },
+          {
+            "index": 14,
+            "torque": 16
+          },
+          {
+            "index": 15,
+            "torque": 16
+          },
+          {
+            "index": 16,
+            "torque": 16
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 5
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 115,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_mainfold_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MAINFOLD",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 5
+          },
+          {
+            "index": 8,
+            "torque": 5
+          },
+          {
+            "index": 9,
+            "torque": 5
+          },
+          {
+            "index": 10,
+            "torque": 5
+          },
+          {
+            "index": 11,
+            "torque": 5
+          },
+          {
+            "index": 12,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 16
+          },
+          {
+            "index": 14,
+            "torque": 16
+          },
+          {
+            "index": 15,
+            "torque": 16
+          },
+          {
+            "index": 16,
+            "torque": 16
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 5
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 116,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_mainfold_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MAINFOLD",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 5
+          },
+          {
+            "index": 8,
+            "torque": 5
+          },
+          {
+            "index": 9,
+            "torque": 5
+          },
+          {
+            "index": 10,
+            "torque": 5
+          },
+          {
+            "index": 11,
+            "torque": 5
+          },
+          {
+            "index": 12,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 16
+          },
+          {
+            "index": 14,
+            "torque": 16
+          },
+          {
+            "index": 15,
+            "torque": 16
+          },
+          {
+            "index": 16,
+            "torque": 16
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 5
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 117,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_mainfold_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MAINFOLD",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 5
+          },
+          {
+            "index": 8,
+            "torque": 5
+          },
+          {
+            "index": 9,
+            "torque": 5
+          },
+          {
+            "index": 10,
+            "torque": 5
+          },
+          {
+            "index": 11,
+            "torque": 5
+          },
+          {
+            "index": 12,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 16
+          },
+          {
+            "index": 14,
+            "torque": 16
+          },
+          {
+            "index": 15,
+            "torque": 16
+          },
+          {
+            "index": 16,
+            "torque": 16
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 5
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 118,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_mainfold_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MAINFOLD",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 5
+          },
+          {
+            "index": 8,
+            "torque": 5
+          },
+          {
+            "index": 9,
+            "torque": 5
+          },
+          {
+            "index": 10,
+            "torque": 5
+          },
+          {
+            "index": 11,
+            "torque": 5
+          },
+          {
+            "index": 12,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 6
+          },
+          {
+            "index": 14,
+            "torque": 6
+          },
+          {
+            "index": 15,
+            "torque": 6
+          },
+          {
+            "index": 16,
+            "torque": 6
+          },
+          {
+            "index": 17,
+            "torque": 4
+          },
+          {
+            "index": 18,
+            "torque": 4
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 201,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8900,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_outlet_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_OUTLET",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 7
+          },
+          {
+            "index": 8,
+            "torque": 7
+          },
+          {
+            "index": 9,
+            "torque": 7
+          },
+          {
+            "index": 10,
+            "torque": 7
+          },
+          {
+            "index": 11,
+            "torque": 7
+          },
+          {
+            "index": 12,
+            "torque": 7
+          },
+          {
+            "index": 13,
+            "torque": 4
+          },
+          {
+            "index": 14,
+            "torque": 4
+          },
+          {
+            "index": 15,
+            "torque": 4
+          },
+          {
+            "index": 16,
+            "torque": 4
+          },
+          {
+            "index": 17,
+            "torque": 4
+          },
+          {
+            "index": 18,
+            "torque": 4
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 202,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_outlet_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_OUTLET",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 5
+          },
+          {
+            "index": 8,
+            "torque": 5
+          },
+          {
+            "index": 9,
+            "torque": 5
+          },
+          {
+            "index": 10,
+            "torque": 5
+          },
+          {
+            "index": 11,
+            "torque": 5
+          },
+          {
+            "index": 12,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 6
+          },
+          {
+            "index": 14,
+            "torque": 6
+          },
+          {
+            "index": 15,
+            "torque": 6
+          },
+          {
+            "index": 16,
+            "torque": 6
+          },
+          {
+            "index": 17,
+            "torque": 4
+          },
+          {
+            "index": 18,
+            "torque": 4
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 203,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 14800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_outlet_id5",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_OUTLET",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 2
+          },
+          {
+            "index": 8,
+            "torque": 2
+          },
+          {
+            "index": 9,
+            "torque": 2
+          },
+          {
+            "index": 10,
+            "torque": 2
+          },
+          {
+            "index": 11,
+            "torque": 2
+          },
+          {
+            "index": 12,
+            "torque": 2
+          },
+          {
+            "index": 13,
+            "torque": 10
+          },
+          {
+            "index": 14,
+            "torque": 10
+          },
+          {
+            "index": 15,
+            "torque": 10
+          },
+          {
+            "index": 16,
+            "torque": 10
+          },
+          {
+            "index": 17,
+            "torque": 4
+          },
+          {
+            "index": 18,
+            "torque": 4
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 204,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 25400,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_outlet_id4",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_OUTLET",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 7
+          },
+          {
+            "index": 8,
+            "torque": 7
+          },
+          {
+            "index": 9,
+            "torque": 7
+          },
+          {
+            "index": 10,
+            "torque": 7
+          },
+          {
+            "index": 11,
+            "torque": 7
+          },
+          {
+            "index": 12,
+            "torque": 7
+          },
+          {
+            "index": 13,
+            "torque": 14
+          },
+          {
+            "index": 14,
+            "torque": 14
+          },
+          {
+            "index": 15,
+            "torque": 14
+          },
+          {
+            "index": 16,
+            "torque": 14
+          },
+          {
+            "index": 17,
+            "torque": 4
+          },
+          {
+            "index": 18,
+            "torque": 4
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 205,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 800,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_outlet_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_OUTLET",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 2
+          },
+          {
+            "index": 8,
+            "torque": 2
+          },
+          {
+            "index": 9,
+            "torque": 2
+          },
+          {
+            "index": 10,
+            "torque": 2
+          },
+          {
+            "index": 11,
+            "torque": 2
+          },
+          {
+            "index": 12,
+            "torque": 2
+          },
+          {
+            "index": 13,
+            "torque": 19
+          },
+          {
+            "index": 14,
+            "torque": 19
+          },
+          {
+            "index": 15,
+            "torque": 19
+          },
+          {
+            "index": 16,
+            "torque": 19
+          },
+          {
+            "index": 17,
+            "torque": 4
+          },
+          {
+            "index": 18,
+            "torque": 4
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 206,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_outlet_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "type": "EXHAUST_OUTLET",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 2
+          },
+          {
+            "index": 8,
+            "torque": 2
+          },
+          {
+            "index": 9,
+            "torque": 2
+          },
+          {
+            "index": 10,
+            "torque": 2
+          },
+          {
+            "index": 11,
+            "torque": 2
+          },
+          {
+            "index": 12,
+            "torque": 2
+          },
+          {
+            "index": 13,
+            "torque": 19
+          },
+          {
+            "index": 14,
+            "torque": 19
+          },
+          {
+            "index": 15,
+            "torque": 19
+          },
+          {
+            "index": 16,
+            "torque": 19
+          },
+          {
+            "index": 17,
+            "torque": 4
+          },
+          {
+            "index": 18,
+            "torque": 4
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 207,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 480,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_outlet_id3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_OUTLET",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 3
+          },
+          {
+            "index": 8,
+            "torque": 3
+          },
+          {
+            "index": 9,
+            "torque": 3
+          },
+          {
+            "index": 10,
+            "torque": 3
+          },
+          {
+            "index": 11,
+            "torque": 3
+          },
+          {
+            "index": 12,
+            "torque": 3
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 20
+          },
+          {
+            "index": 15,
+            "torque": 20
+          },
+          {
+            "index": 16,
+            "torque": 20
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 5
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 208,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 55900,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_outlet_id3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_OUTLET",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 2
+          },
+          {
+            "index": 8,
+            "torque": 2
+          },
+          {
+            "index": 9,
+            "torque": 2
+          },
+          {
+            "index": 10,
+            "torque": 2
+          },
+          {
+            "index": 11,
+            "torque": 2
+          },
+          {
+            "index": 12,
+            "torque": 2
+          },
+          {
+            "index": 13,
+            "torque": 19
+          },
+          {
+            "index": 14,
+            "torque": 19
+          },
+          {
+            "index": 15,
+            "torque": 19
+          },
+          {
+            "index": 16,
+            "torque": 19
+          },
+          {
+            "index": 17,
+            "torque": 4
+          },
+          {
+            "index": 18,
+            "torque": 4
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 209,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_outlet_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_OUTLET",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 3
+          },
+          {
+            "index": 8,
+            "torque": 3
+          },
+          {
+            "index": 9,
+            "torque": 3
+          },
+          {
+            "index": 10,
+            "torque": 3
+          },
+          {
+            "index": 11,
+            "torque": 3
+          },
+          {
+            "index": 12,
+            "torque": 3
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 20
+          },
+          {
+            "index": 15,
+            "torque": 20
+          },
+          {
+            "index": 16,
+            "torque": 20
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 5
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 210,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_outlet_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_OUTLET",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 3
+          },
+          {
+            "index": 8,
+            "torque": 3
+          },
+          {
+            "index": 9,
+            "torque": 3
+          },
+          {
+            "index": 10,
+            "torque": 3
+          },
+          {
+            "index": 11,
+            "torque": 3
+          },
+          {
+            "index": 12,
+            "torque": 3
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 20
+          },
+          {
+            "index": 15,
+            "torque": 20
+          },
+          {
+            "index": 16,
+            "torque": 20
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 5
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 211,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_outlet_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_OUTLET",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 3
+          },
+          {
+            "index": 8,
+            "torque": 3
+          },
+          {
+            "index": 9,
+            "torque": 3
+          },
+          {
+            "index": 10,
+            "torque": 3
+          },
+          {
+            "index": 11,
+            "torque": 3
+          },
+          {
+            "index": 12,
+            "torque": 3
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 20
+          },
+          {
+            "index": 15,
+            "torque": 20
+          },
+          {
+            "index": 16,
+            "torque": 20
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 5
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 212,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_outlet_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_OUTLET",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 3
+          },
+          {
+            "index": 8,
+            "torque": 3
+          },
+          {
+            "index": 9,
+            "torque": 3
+          },
+          {
+            "index": 10,
+            "torque": 3
+          },
+          {
+            "index": 11,
+            "torque": 3
+          },
+          {
+            "index": 12,
+            "torque": 3
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 20
+          },
+          {
+            "index": 15,
+            "torque": 20
+          },
+          {
+            "index": 16,
+            "torque": 20
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 5
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 213,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_outlet_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_OUTLET",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 3
+          },
+          {
+            "index": 8,
+            "torque": 3
+          },
+          {
+            "index": 9,
+            "torque": 3
+          },
+          {
+            "index": 10,
+            "torque": 3
+          },
+          {
+            "index": 11,
+            "torque": 3
+          },
+          {
+            "index": 12,
+            "torque": 3
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 20
+          },
+          {
+            "index": 15,
+            "torque": 20
+          },
+          {
+            "index": 16,
+            "torque": 20
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 5
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 214,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_outlet_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_OUTLET",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 3
+          },
+          {
+            "index": 8,
+            "torque": 3
+          },
+          {
+            "index": 9,
+            "torque": 3
+          },
+          {
+            "index": 10,
+            "torque": 3
+          },
+          {
+            "index": 11,
+            "torque": 3
+          },
+          {
+            "index": 12,
+            "torque": 3
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 20
+          },
+          {
+            "index": 15,
+            "torque": 20
+          },
+          {
+            "index": 16,
+            "torque": 20
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 5
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 215,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_outlet_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_OUTLET",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 3
+          },
+          {
+            "index": 8,
+            "torque": 3
+          },
+          {
+            "index": 9,
+            "torque": 3
+          },
+          {
+            "index": 10,
+            "torque": 3
+          },
+          {
+            "index": 11,
+            "torque": 3
+          },
+          {
+            "index": 12,
+            "torque": 3
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 20
+          },
+          {
+            "index": 15,
+            "torque": 20
+          },
+          {
+            "index": 16,
+            "torque": 20
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 5
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 216,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_outlet_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_OUTLET",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 3
+          },
+          {
+            "index": 8,
+            "torque": 3
+          },
+          {
+            "index": 9,
+            "torque": 3
+          },
+          {
+            "index": 10,
+            "torque": 3
+          },
+          {
+            "index": 11,
+            "torque": 3
+          },
+          {
+            "index": 12,
+            "torque": 3
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 20
+          },
+          {
+            "index": 15,
+            "torque": 20
+          },
+          {
+            "index": 16,
+            "torque": 20
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 5
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 217,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_outlet_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_OUTLET",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 3
+          },
+          {
+            "index": 8,
+            "torque": 3
+          },
+          {
+            "index": 9,
+            "torque": 3
+          },
+          {
+            "index": 10,
+            "torque": 3
+          },
+          {
+            "index": 11,
+            "torque": 3
+          },
+          {
+            "index": 12,
+            "torque": 3
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 20
+          },
+          {
+            "index": 15,
+            "torque": 20
+          },
+          {
+            "index": 16,
+            "torque": 20
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 5
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 218,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_outlet_id3",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_OUTLET",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 3
+          },
+          {
+            "index": 8,
+            "torque": 3
+          },
+          {
+            "index": 9,
+            "torque": 3
+          },
+          {
+            "index": 10,
+            "torque": 3
+          },
+          {
+            "index": 11,
+            "torque": 3
+          },
+          {
+            "index": 12,
+            "torque": 3
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 20
+          },
+          {
+            "index": 15,
+            "torque": 20
+          },
+          {
+            "index": 16,
+            "torque": 20
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 5
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 219,
+          "weight": -0.07000000029802322,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 3000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "exhaust_outlet_id5",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_OUTLET",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 1,
+            "torque": -5
+          },
+          {
+            "index": 2,
+            "torque": -5
+          },
+          {
+            "index": 3,
+            "torque": -5
+          },
+          {
+            "index": 4,
+            "torque": -5
+          },
+          {
+            "index": 5,
+            "torque": -5
+          },
+          {
+            "index": 6,
+            "torque": -5
+          },
+          {
+            "index": 7,
+            "torque": 2
+          },
+          {
+            "index": 8,
+            "torque": 2
+          },
+          {
+            "index": 9,
+            "torque": 2
+          },
+          {
+            "index": 10,
+            "torque": 2
+          },
+          {
+            "index": 11,
+            "torque": 2
+          },
+          {
+            "index": 12,
+            "torque": 2
+          },
+          {
+            "index": 13,
+            "torque": 10
+          },
+          {
+            "index": 14,
+            "torque": 10
+          },
+          {
+            "index": 15,
+            "torque": 10
+          },
+          {
+            "index": 16,
+            "torque": 10
+          },
+          {
+            "index": 17,
+            "torque": 4
+          },
+          {
+            "index": 18,
+            "torque": 4
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 301,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 5,
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_id1",
+        "mufflerId": 0,
+        "soundType": 0
+      },
+      {
+        "base": {
+          "baseId": 302,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 7,
+            "torque": 5
+          },
+          {
+            "index": 8,
+            "torque": 7
+          },
+          {
+            "index": 9,
+            "torque": 9
+          },
+          {
+            "index": 10,
+            "torque": 11
+          },
+          {
+            "index": 11,
+            "torque": 20
+          },
+          {
+            "index": 12,
+            "torque": 15
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_id2",
+        "mufflerId": 0,
+        "soundType": 1
+      },
+      {
+        "base": {
+          "baseId": 303,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 4900,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 7
+          },
+          {
+            "index": 17,
+            "torque": 5
+          },
+          {
+            "index": 18,
+            "torque": 3
+          },
+          {
+            "index": 13,
+            "torque": 15
+          },
+          {
+            "index": 14,
+            "torque": 12
+          },
+          {
+            "index": 15,
+            "torque": 9
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_id3",
+        "mufflerId": 0,
+        "soundType": 1
+      },
+      {
+        "base": {
+          "baseId": 304,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12680,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_id3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 7,
+            "torque": 7
+          },
+          {
+            "index": 8,
+            "torque": 9
+          },
+          {
+            "index": 9,
+            "torque": 11
+          },
+          {
+            "index": 10,
+            "torque": 13
+          },
+          {
+            "index": 11,
+            "torque": 22
+          },
+          {
+            "index": 12,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_id4",
+        "mufflerId": 0,
+        "soundType": 1
+      },
+      {
+        "base": {
+          "baseId": 305,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15850,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_id3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 9
+          },
+          {
+            "index": 17,
+            "torque": 7
+          },
+          {
+            "index": 18,
+            "torque": 4
+          },
+          {
+            "index": 13,
+            "torque": 17
+          },
+          {
+            "index": 14,
+            "torque": 14
+          },
+          {
+            "index": 15,
+            "torque": 11
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_id5",
+        "mufflerId": 0,
+        "soundType": 1
+      },
+      {
+        "base": {
+          "baseId": 306,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 120,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 7,
+            "torque": 8
+          },
+          {
+            "index": 8,
+            "torque": 10
+          },
+          {
+            "index": 9,
+            "torque": 12
+          },
+          {
+            "index": 10,
+            "torque": 14
+          },
+          {
+            "index": 11,
+            "torque": 18
+          },
+          {
+            "index": 12,
+            "torque": 24
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_id2",
+        "mufflerId": 0,
+        "soundType": 1
+      },
+      {
+        "base": {
+          "baseId": 307,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 240,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 11
+          },
+          {
+            "index": 17,
+            "torque": 9
+          },
+          {
+            "index": 18,
+            "torque": 4
+          },
+          {
+            "index": 13,
+            "torque": 19
+          },
+          {
+            "index": 14,
+            "torque": 16
+          },
+          {
+            "index": 15,
+            "torque": 16
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_id2",
+        "mufflerId": 0,
+        "soundType": 1
+      },
+      {
+        "base": {
+          "baseId": 308,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 400,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 11
+          },
+          {
+            "index": 17,
+            "torque": 9
+          },
+          {
+            "index": 18,
+            "torque": 4
+          },
+          {
+            "index": 13,
+            "torque": 19
+          },
+          {
+            "index": 14,
+            "torque": 16
+          },
+          {
+            "index": 15,
+            "torque": 16
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_id4",
+        "mufflerId": 0,
+        "soundType": 1
+      },
+      {
+        "base": {
+          "baseId": 309,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_id2",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 11
+          },
+          {
+            "index": 17,
+            "torque": 9
+          },
+          {
+            "index": 18,
+            "torque": 4
+          },
+          {
+            "index": 13,
+            "torque": 19
+          },
+          {
+            "index": 14,
+            "torque": 16
+          },
+          {
+            "index": 15,
+            "torque": 16
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_id2",
+        "mufflerId": 0,
+        "soundType": 1
+      },
+      {
+        "base": {
+          "baseId": 310,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 250,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 12
+          },
+          {
+            "index": 17,
+            "torque": 10
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 17
+          },
+          {
+            "index": 15,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_id2",
+        "mufflerId": 0,
+        "soundType": 1
+      },
+      {
+        "base": {
+          "baseId": 311,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 30400,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_id3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 11
+          },
+          {
+            "index": 17,
+            "torque": 9
+          },
+          {
+            "index": 18,
+            "torque": 4
+          },
+          {
+            "index": 13,
+            "torque": 19
+          },
+          {
+            "index": 14,
+            "torque": 16
+          },
+          {
+            "index": 15,
+            "torque": 16
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_id4",
+        "mufflerId": 0,
+        "soundType": 1
+      },
+      {
+        "base": {
+          "baseId": 312,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 32500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 7,
+            "torque": 7
+          },
+          {
+            "index": 8,
+            "torque": 9
+          },
+          {
+            "index": 9,
+            "torque": 11
+          },
+          {
+            "index": 10,
+            "torque": 13
+          },
+          {
+            "index": 11,
+            "torque": 23
+          },
+          {
+            "index": 12,
+            "torque": 18
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id1",
+        "mufflerId": 1,
+        "soundType": 2
+      },
+      {
+        "base": {
+          "baseId": 313,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 34200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 8
+          },
+          {
+            "index": 17,
+            "torque": 6
+          },
+          {
+            "index": 18,
+            "torque": 4
+          },
+          {
+            "index": 13,
+            "torque": 16
+          },
+          {
+            "index": 14,
+            "torque": 13
+          },
+          {
+            "index": 15,
+            "torque": 10
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id1",
+        "mufflerId": 1,
+        "soundType": 2
+      },
+      {
+        "base": {
+          "baseId": 314,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 280,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 12
+          },
+          {
+            "index": 17,
+            "torque": 10
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 17
+          },
+          {
+            "index": 15,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id1",
+        "mufflerId": 1,
+        "soundType": 2
+      },
+      {
+        "base": {
+          "baseId": 315,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 37400,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 7,
+            "torque": 6
+          },
+          {
+            "index": 8,
+            "torque": 8
+          },
+          {
+            "index": 9,
+            "torque": 10
+          },
+          {
+            "index": 10,
+            "torque": 12
+          },
+          {
+            "index": 11,
+            "torque": 22
+          },
+          {
+            "index": 12,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id2",
+        "mufflerId": 2,
+        "soundType": 2
+      },
+      {
+        "base": {
+          "baseId": 316,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 38600,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 8
+          },
+          {
+            "index": 17,
+            "torque": 6
+          },
+          {
+            "index": 18,
+            "torque": 4
+          },
+          {
+            "index": 13,
+            "torque": 16
+          },
+          {
+            "index": 14,
+            "torque": 13
+          },
+          {
+            "index": 15,
+            "torque": 10
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id2",
+        "mufflerId": 2,
+        "soundType": 2
+      },
+      {
+        "base": {
+          "baseId": 317,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 300,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 12
+          },
+          {
+            "index": 17,
+            "torque": 10
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 17
+          },
+          {
+            "index": 15,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id2",
+        "mufflerId": 2,
+        "soundType": 2
+      },
+      {
+        "base": {
+          "baseId": 318,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 42300,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 7,
+            "torque": 6
+          },
+          {
+            "index": 8,
+            "torque": 8
+          },
+          {
+            "index": 9,
+            "torque": 10
+          },
+          {
+            "index": 10,
+            "torque": 12
+          },
+          {
+            "index": 11,
+            "torque": 22
+          },
+          {
+            "index": 12,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id3",
+        "mufflerId": 3,
+        "soundType": 2
+      },
+      {
+        "base": {
+          "baseId": 319,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 44400,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 10
+          },
+          {
+            "index": 17,
+            "torque": 8
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 16
+          },
+          {
+            "index": 14,
+            "torque": 14
+          },
+          {
+            "index": 15,
+            "torque": 11
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id3",
+        "mufflerId": 3,
+        "soundType": 2
+      },
+      {
+        "base": {
+          "baseId": 320,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 310,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 12
+          },
+          {
+            "index": 17,
+            "torque": 10
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 17
+          },
+          {
+            "index": 15,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id3",
+        "mufflerId": 3,
+        "soundType": 2
+      },
+      {
+        "base": {
+          "baseId": 321,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 46800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id4",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 7,
+            "torque": 6
+          },
+          {
+            "index": 8,
+            "torque": 8
+          },
+          {
+            "index": 9,
+            "torque": 10
+          },
+          {
+            "index": 10,
+            "torque": 12
+          },
+          {
+            "index": 11,
+            "torque": 22
+          },
+          {
+            "index": 12,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id4",
+        "mufflerId": 4,
+        "soundType": 2
+      },
+      {
+        "base": {
+          "baseId": 322,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 48100,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id4",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 8
+          },
+          {
+            "index": 17,
+            "torque": 6
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 18
+          },
+          {
+            "index": 14,
+            "torque": 16
+          },
+          {
+            "index": 15,
+            "torque": 11
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id4",
+        "mufflerId": 4,
+        "soundType": 2
+      },
+      {
+        "base": {
+          "baseId": 323,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 315,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id4",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 12
+          },
+          {
+            "index": 17,
+            "torque": 10
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 17
+          },
+          {
+            "index": 15,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id4",
+        "mufflerId": 4,
+        "soundType": 2
+      },
+      {
+        "base": {
+          "baseId": 324,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 52000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id5",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 7,
+            "torque": 8
+          },
+          {
+            "index": 8,
+            "torque": 10
+          },
+          {
+            "index": 9,
+            "torque": 12
+          },
+          {
+            "index": 10,
+            "torque": 14
+          },
+          {
+            "index": 11,
+            "torque": 22
+          },
+          {
+            "index": 12,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id5",
+        "mufflerId": 5,
+        "soundType": 2
+      },
+      {
+        "base": {
+          "baseId": 325,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 55300,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id5",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 10
+          },
+          {
+            "index": 17,
+            "torque": 8
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 16
+          },
+          {
+            "index": 14,
+            "torque": 14
+          },
+          {
+            "index": 15,
+            "torque": 11
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id5",
+        "mufflerId": 5,
+        "soundType": 2
+      },
+      {
+        "base": {
+          "baseId": 326,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 320,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id5",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 12
+          },
+          {
+            "index": 17,
+            "torque": 10
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 17
+          },
+          {
+            "index": 15,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id5",
+        "mufflerId": 5,
+        "soundType": 2
+      },
+      {
+        "base": {
+          "baseId": 327,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 52500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id6",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 7,
+            "torque": 8
+          },
+          {
+            "index": 8,
+            "torque": 10
+          },
+          {
+            "index": 9,
+            "torque": 13
+          },
+          {
+            "index": 10,
+            "torque": 15
+          },
+          {
+            "index": 11,
+            "torque": 24
+          },
+          {
+            "index": 12,
+            "torque": 19
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id6",
+        "mufflerId": 6,
+        "soundType": 2
+      },
+      {
+        "base": {
+          "baseId": 328,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 56000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id6",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 10
+          },
+          {
+            "index": 17,
+            "torque": 8
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 16
+          },
+          {
+            "index": 14,
+            "torque": 14
+          },
+          {
+            "index": 15,
+            "torque": 11
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id6",
+        "mufflerId": 6,
+        "soundType": 2
+      },
+      {
+        "base": {
+          "baseId": 329,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 340,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id6",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 12
+          },
+          {
+            "index": 17,
+            "torque": 10
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 17
+          },
+          {
+            "index": 15,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id6",
+        "mufflerId": 6,
+        "soundType": 2
+      },
+      {
+        "base": {
+          "baseId": 330,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 48100,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id7",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 7,
+            "torque": 6
+          },
+          {
+            "index": 8,
+            "torque": 8
+          },
+          {
+            "index": 9,
+            "torque": 10
+          },
+          {
+            "index": 10,
+            "torque": 12
+          },
+          {
+            "index": 11,
+            "torque": 22
+          },
+          {
+            "index": 12,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id7",
+        "mufflerId": 7,
+        "soundType": 3
+      },
+      {
+        "base": {
+          "baseId": 331,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 51200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id7",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 8
+          },
+          {
+            "index": 17,
+            "torque": 6
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 18
+          },
+          {
+            "index": 14,
+            "torque": 16
+          },
+          {
+            "index": 15,
+            "torque": 11
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id7",
+        "mufflerId": 7,
+        "soundType": 3
+      },
+      {
+        "base": {
+          "baseId": 332,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 345,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id7",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 12
+          },
+          {
+            "index": 17,
+            "torque": 10
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 17
+          },
+          {
+            "index": 15,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id7",
+        "mufflerId": 7,
+        "soundType": 3
+      },
+      {
+        "base": {
+          "baseId": 333,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 52700,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id8",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 7,
+            "torque": 8
+          },
+          {
+            "index": 8,
+            "torque": 10
+          },
+          {
+            "index": 9,
+            "torque": 12
+          },
+          {
+            "index": 10,
+            "torque": 14
+          },
+          {
+            "index": 11,
+            "torque": 22
+          },
+          {
+            "index": 12,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id8",
+        "mufflerId": 8,
+        "soundType": 3
+      },
+      {
+        "base": {
+          "baseId": 334,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 55400,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id8",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 8
+          },
+          {
+            "index": 17,
+            "torque": 6
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 18
+          },
+          {
+            "index": 14,
+            "torque": 16
+          },
+          {
+            "index": 15,
+            "torque": 11
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id8",
+        "mufflerId": 8,
+        "soundType": 3
+      },
+      {
+        "base": {
+          "baseId": 335,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 350,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id8",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 12
+          },
+          {
+            "index": 17,
+            "torque": 10
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 17
+          },
+          {
+            "index": 15,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id8",
+        "mufflerId": 8,
+        "soundType": 3
+      },
+      {
+        "base": {
+          "baseId": 336,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 58000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id9",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 7,
+            "torque": 8
+          },
+          {
+            "index": 8,
+            "torque": 10
+          },
+          {
+            "index": 9,
+            "torque": 13
+          },
+          {
+            "index": 10,
+            "torque": 15
+          },
+          {
+            "index": 11,
+            "torque": 24
+          },
+          {
+            "index": 12,
+            "torque": 19
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id9",
+        "mufflerId": 9,
+        "soundType": 3
+      },
+      {
+        "base": {
+          "baseId": 337,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 60000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id9",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 8
+          },
+          {
+            "index": 17,
+            "torque": 6
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 18
+          },
+          {
+            "index": 14,
+            "torque": 16
+          },
+          {
+            "index": 15,
+            "torque": 11
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id9",
+        "mufflerId": 9,
+        "soundType": 3
+      },
+      {
+        "base": {
+          "baseId": 338,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 360,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_side_id9",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 12
+          },
+          {
+            "index": 17,
+            "torque": 10
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 17
+          },
+          {
+            "index": 15,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_side_id9",
+        "mufflerId": 9,
+        "soundType": 3
+      },
+      {
+        "base": {
+          "baseId": 339,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 12
+          },
+          {
+            "index": 17,
+            "torque": 10
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 17
+          },
+          {
+            "index": 15,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_id2",
+        "mufflerId": 0,
+        "soundType": 1
+      },
+      {
+        "base": {
+          "baseId": 340,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 12
+          },
+          {
+            "index": 17,
+            "torque": 10
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 17
+          },
+          {
+            "index": 15,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_id2",
+        "mufflerId": 0,
+        "soundType": 1
+      },
+      {
+        "base": {
+          "baseId": 341,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 12
+          },
+          {
+            "index": 17,
+            "torque": 10
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 17
+          },
+          {
+            "index": 15,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_id2",
+        "mufflerId": 0,
+        "soundType": 1
+      },
+      {
+        "base": {
+          "baseId": 342,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 12
+          },
+          {
+            "index": 17,
+            "torque": 10
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 17
+          },
+          {
+            "index": 15,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_id2",
+        "mufflerId": 0,
+        "soundType": 1
+      },
+      {
+        "base": {
+          "baseId": 343,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 12
+          },
+          {
+            "index": 17,
+            "torque": 10
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 17
+          },
+          {
+            "index": 15,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_id2",
+        "mufflerId": 0,
+        "soundType": 1
+      },
+      {
+        "base": {
+          "baseId": 344,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 12
+          },
+          {
+            "index": 17,
+            "torque": 10
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 17
+          },
+          {
+            "index": 15,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_id2",
+        "mufflerId": 0,
+        "soundType": 1
+      },
+      {
+        "base": {
+          "baseId": 345,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 12
+          },
+          {
+            "index": 17,
+            "torque": 10
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 17
+          },
+          {
+            "index": 15,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_id2",
+        "mufflerId": 0,
+        "soundType": 1
+      },
+      {
+        "base": {
+          "baseId": 346,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 12
+          },
+          {
+            "index": 17,
+            "torque": 10
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 17
+          },
+          {
+            "index": 15,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_id2",
+        "mufflerId": 0,
+        "soundType": 1
+      },
+      {
+        "base": {
+          "baseId": 347,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 12
+          },
+          {
+            "index": 17,
+            "torque": 10
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 17
+          },
+          {
+            "index": 15,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_id2",
+        "mufflerId": 0,
+        "soundType": 1
+      },
+      {
+        "base": {
+          "baseId": 348,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_id2",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 7,
+        "exhaustPoints": [
+          {
+            "index": 16,
+            "torque": 12
+          },
+          {
+            "index": 17,
+            "torque": 10
+          },
+          {
+            "index": 18,
+            "torque": 5
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 17
+          },
+          {
+            "index": 15,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_id2",
+        "mufflerId": 0,
+        "soundType": 1
+      },
+      {
+        "base": {
+          "baseId": 349,
+          "weight": -0.019999999552965164,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 2500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "muffler_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "type": "EXHAUST_MUFFLER",
+        "torque": 5,
+        "exhaustPoints": [
+          {
+            "index": 7,
+            "torque": 7
+          },
+          {
+            "index": 8,
+            "torque": 9
+          },
+          {
+            "index": 9,
+            "torque": 11
+          },
+          {
+            "index": 10,
+            "torque": 13
+          },
+          {
+            "index": 11,
+            "torque": 22
+          },
+          {
+            "index": 12,
+            "torque": 17
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ],
+        "image": "muffler_id4",
+        "mufflerId": 0,
+        "soundType": 1
+      }
+    ]
+  }
+}

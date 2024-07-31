@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "carUpgrade.proto";
+import "item.proto";
+
+option go_package = "./pb";
+
+package srserver;
+
+message Inventory {
+    repeated CarUpgrade upgrades = 1;
+    repeated Item items = 2;
+}

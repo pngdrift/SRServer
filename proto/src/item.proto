@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "itemType.proto";
+
+option go_package = "./pb";
+
+package srserver;
+
+message Item {
+    int64 id = 1;
+    int32 count = 2;
+    ItemType type = 3;
+    int32 baseId = 4;
+}

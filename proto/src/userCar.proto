@@ -1,0 +1,144 @@
+syntax = "proto3";
+
+import "carUpgrade.proto";
+import "upgradeEnum.proto";
+import "paint.proto";
+import "behavior.proto";
+
+option go_package = "./pb";
+
+package srserver;
+
+message UserCar {
+    int64 id = 1;
+    int32 baseId = 2;
+    int32 odometr = 3;
+    int32 accumulatorDistance = 4;
+    int32 oilDistance = 5;
+    int32 brakeDistance = 6;
+    int32 engineDistance = 7;
+    float accumulatorBonus = 8;
+    float oilBonus = 9;
+    float brakeBonus = 10;
+    float engineBonus = 11;
+    UpgradeSlot hoodSlot = 12;
+    UpgradeSlot trunkSlot = 13;
+    UpgradeSlot roofSlot = 14;
+    UpgradeSlot wheelSlot = 15;
+    UpgradeSlot frameSlot = 16;
+    UpgradeSlot pneumoSlot = 17;
+    UpgradeSlot diskSlot = 18;
+    UpgradeSlot tiresSlot = 19;
+    UpgradeSlot frontSuspensionSlot = 20;
+    UpgradeSlot frontSpringSlot = 21;
+    UpgradeSlot frontBrakeSlot = 22;
+    UpgradeSlot frontBrakePadSlot = 23;
+    UpgradeSlot rearSuspensionSlot = 24;
+    UpgradeSlot rearSpringSlot = 25;
+    UpgradeSlot rearBrakeSlot = 26;
+    UpgradeSlot rearBrakePadSlot = 27;
+    repeated EngineUpgrade engineUpgrades = 28;
+    Paint paint = 29;
+    UpgradeSlot frontBumperSlot = 30;
+    UpgradeSlot rearBumperSlot = 31;
+    UpgradeSlot centerBumperSlot = 32;
+    float dirtiness = 33;
+    CarNumber number = 34;
+    CarSettings settings = 35;
+    UpgradeSlot spoilerSlot = 36;
+    UpgradeSlot turbo1Slot = 37;
+    UpgradeSlot turbo2Slot = 38;
+    UpgradeSlot neonSlot = 39;
+    UpgradeSlot headlightSlot = 40;
+    UpgradeSlot neonDiskSlot = 41;
+    UpgradeSlot transmissionSlot = 42;
+    float frontWheelX = 43;
+    float frontWheelY = 44;
+    float rearWheelX = 45;
+    float rearWheelY = 46;
+    UpgradeSlot differentialSlot = 47;
+    UpgradeSlot engineSlot = 48;
+    UpgradeSlot frontDiskSlot = 49;
+    UpgradeSlot frontTiresSlot = 50;
+    float time402 = 51;
+    UpgradeSlot frontWheelSlot = 52;
+    UpgradeSlot airFilterSlot = 53;
+    UpgradeSlot intercoolerSlot = 54;
+    UpgradeSlot pipeSlot = 55;
+    UpgradeSlot intakeMainfoldSlot = 56;
+    UpgradeSlot exhaustMainfoldSlot = 57;
+    UpgradeSlot exhaustOutletSlot = 58;
+    UpgradeSlot exhaustMufflerSlot = 59;
+    UpgradeSlot westgateSlot = 60;
+    UpgradeSlot timingGearSlot = 61;
+    UpgradeSlot camshaftSlot = 62;
+    UpgradeSlot ecuSlot = 63;
+
+    // Server only
+    Behavior behavior = 1000;
+}
+
+message CarSettings {
+    repeated Setting settings = 1;
+    repeated GearSetting gearSettings = 2;
+    float mufflerOffsetX = 3;
+    float mufflerOffsetY = 4;
+    int32 yellowZoneRpm = 5;
+    int32 greenZoneRpm = 6;
+    int32 redZoneRpm = 7;
+}
+
+message GearSetting {
+    int32 gearNumber = 1;
+    float gearValue = 2;
+}
+
+message Setting {
+    int32 id = 1;
+    bool isActive = 2;
+    float frontSpring = 3;
+    float frontSuspension = 4;
+    float rearSpring = 5;
+    float rearSuspension = 6;
+    float clirence = 7;
+}
+
+message CarNumber {
+    int64 carId = 1;
+    int32 region = 2;
+    int32 number = 3;
+    bool isTransit = 4;
+}
+
+message EngineUpgrade {
+    EngineUpgradeType type = 1;
+    int32 level = 2;
+}
+
+enum EngineUpgradeType {
+    NONe = 0;
+    GEARS = 1;
+    EXHAUST = 2;
+    CANDLE = 3;
+    PISTON = 4;
+    ROD = 5;
+    CYLINDER_HEAD = 6;
+    CAMSHAFT = 7;
+    FUEL_PUMP = 8;
+}
+
+message UpgradeSlot {
+    int64 carId = 1;
+    UpgradeType type = 2;
+    CarUpgrade upgrade = 3;
+}
+
+message GearSetManager {
+    int32 gearSetNumber = 1;
+    repeated GearSet gearSet = 2;
+}
+
+message GearSet {
+    repeated GearSetting gearSettings = 1;
+    bool isConfigured = 2;
+}

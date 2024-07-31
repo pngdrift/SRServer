@@ -1,0 +1,7321 @@
+{
+  "decalDatabase": {
+    "items": [
+      {
+        "baseId": 1,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id1",
+        "icon": "decal_id1",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 2,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id2",
+        "icon": "decal_id2",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 3,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id3",
+        "icon": "decal_id3",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 4,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id4",
+        "icon": "decal_id4",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 5,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id5",
+        "icon": "decal_id5",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 6,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id6",
+        "icon": "decal_id6",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 7,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id7",
+        "icon": "decal_id7",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 8,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id8",
+        "icon": "decal_id8",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 9,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id9",
+        "icon": "decal_id9",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 10,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id10",
+        "icon": "decal_id10",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 11,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id11",
+        "icon": "decal_id11",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 12,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id12",
+        "icon": "decal_id12",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 13,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id13",
+        "icon": "decal_id13",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 14,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id14",
+        "icon": "decal_id14",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 15,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id15",
+        "icon": "decal_id15",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 16,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id16",
+        "icon": "decal_id16",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 17,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id17",
+        "icon": "decal_id17",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 18,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id18",
+        "icon": "decal_id18",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 19,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id19",
+        "icon": "decal_id19",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 20,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id20",
+        "icon": "decal_id20",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 21,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id21",
+        "icon": "decal_id21",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 22,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id22",
+        "icon": "decal_id22",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 23,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id23",
+        "icon": "decal_id23",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 24,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id24",
+        "icon": "decal_id24",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 25,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id25",
+        "icon": "decal_id25",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 26,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id26",
+        "icon": "decal_id26",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 27,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id27",
+        "icon": "decal_id27",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 28,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id28",
+        "icon": "decal_id28",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 29,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id29",
+        "icon": "decal_id29",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 30,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id30",
+        "icon": "decal_id30",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 31,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id31",
+        "icon": "decal_id31",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 32,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id32",
+        "icon": "decal_id32",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 33,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id33",
+        "icon": "decal_id33",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 34,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id34",
+        "icon": "decal_id34",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 35,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id35",
+        "icon": "decal_id35",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 36,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id36",
+        "icon": "decal_id36",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 37,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id37",
+        "icon": "decal_id37",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 38,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id38",
+        "icon": "decal_id38",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 39,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id39",
+        "icon": "decal_id39",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 40,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id40",
+        "icon": "decal_id40",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 41,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id41",
+        "icon": "decal_id41",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 42,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id42",
+        "icon": "decal_id42",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 43,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id43",
+        "icon": "decal_id43",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 44,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id44",
+        "icon": "decal_id44",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 45,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id45",
+        "icon": "decal_id45",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 46,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id46",
+        "icon": "decal_id46",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 47,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id47",
+        "icon": "decal_id47",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 48,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id48",
+        "icon": "decal_id48",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 49,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id49",
+        "icon": "decal_id49",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 50,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id50",
+        "icon": "decal_id50",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 51,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id51",
+        "icon": "decal_id51",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 52,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id52",
+        "icon": "decal_id52",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 53,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id53",
+        "icon": "decal_id53",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 54,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id54",
+        "icon": "decal_id54",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 55,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id55",
+        "icon": "decal_id55",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 56,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id56",
+        "icon": "decal_id56",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 57,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id57",
+        "icon": "decal_id57",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 58,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id58",
+        "icon": "decal_id58",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 59,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id59",
+        "icon": "decal_id59",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 60,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id60",
+        "icon": "decal_id60",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 61,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id61",
+        "icon": "decal_id61",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 62,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id62",
+        "icon": "decal_id62",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 63,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id63",
+        "icon": "decal_id63",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 64,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id64",
+        "icon": "decal_id64",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 65,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id65",
+        "icon": "decal_id65",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 66,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id66",
+        "icon": "decal_id66",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 67,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id67",
+        "icon": "decal_id67",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 69,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id69",
+        "icon": "decal_id69",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 70,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id70",
+        "icon": "decal_id70",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 71,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id71",
+        "icon": "decal_id71",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 72,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id72",
+        "icon": "decal_id72",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 73,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id73",
+        "icon": "decal_id73",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 74,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id74",
+        "icon": "decal_id74",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 75,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id75",
+        "icon": "decal_id75",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 76,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id76",
+        "icon": "decal_id76",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 77,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id77",
+        "icon": "decal_id77",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 78,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id78",
+        "icon": "decal_id78",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 79,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id79",
+        "icon": "decal_id79",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 80,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id80",
+        "icon": "decal_id80",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 81,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id81",
+        "icon": "decal_id81",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 82,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id82",
+        "icon": "decal_id82",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 83,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id83",
+        "icon": "decal_id83",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 84,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id84",
+        "icon": "decal_id84",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 85,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id85",
+        "icon": "decal_id85",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 86,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id86",
+        "icon": "decal_id86",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 87,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id87",
+        "icon": "decal_id87",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 88,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id88",
+        "icon": "decal_id88",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 3
+      },
+      {
+        "baseId": 89,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id89",
+        "icon": "decal_id89",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 3
+      },
+      {
+        "baseId": 90,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id90",
+        "icon": "decal_id90",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 91,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id91",
+        "icon": "decal_id91",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 92,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id92",
+        "icon": "decal_id92",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 3
+      },
+      {
+        "baseId": 93,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id93",
+        "icon": "decal_id93",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 3
+      },
+      {
+        "baseId": 94,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id94",
+        "icon": "decal_id94",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 3
+      },
+      {
+        "baseId": 95,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id95",
+        "icon": "decal_id95",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 3
+      },
+      {
+        "baseId": 96,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id96",
+        "icon": "decal_id96",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 3
+      },
+      {
+        "baseId": 97,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id97",
+        "icon": "decal_id97",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 3
+      },
+      {
+        "baseId": 98,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id98",
+        "icon": "decal_id98",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 3
+      },
+      {
+        "baseId": 99,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id99",
+        "icon": "decal_id99",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 100,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id100",
+        "icon": "decal_id100",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 101,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id101",
+        "icon": "decal_id101",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 102,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id102",
+        "icon": "decal_id102",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 103,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id103",
+        "icon": "decal_id103",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 104,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id104",
+        "icon": "decal_id104",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 105,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id105",
+        "icon": "decal_id105",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 106,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id106",
+        "icon": "decal_id106",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 107,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id107",
+        "icon": "decal_id107",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 108,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id108",
+        "icon": "decal_id108",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 109,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id109",
+        "icon": "decal_id109",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 110,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id110",
+        "icon": "decal_id110",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 111,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id111",
+        "icon": "decal_id111",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 112,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id112",
+        "icon": "decal_id112",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 113,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id113",
+        "icon": "decal_id113",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 114,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id114",
+        "icon": "decal_id114",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 115,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id115",
+        "icon": "decal_id115",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 116,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id116",
+        "icon": "decal_id116",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 117,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id117",
+        "icon": "decal_id117",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 118,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id118",
+        "icon": "decal_id118",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 119,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id119",
+        "icon": "decal_id119",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 120,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id120",
+        "icon": "decal_id120",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 121,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id121",
+        "icon": "decal_id121",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 122,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id122",
+        "icon": "decal_id122",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 123,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id123",
+        "icon": "decal_id123",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 124,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id124",
+        "icon": "decal_id124",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 125,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id125",
+        "icon": "decal_id125",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 126,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id126",
+        "icon": "decal_id126",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 127,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id127",
+        "icon": "decal_id127",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 128,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id128",
+        "icon": "decal_id128",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 129,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id129",
+        "icon": "decal_id129",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 130,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id130",
+        "icon": "decal_id130",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 131,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id131",
+        "icon": "decal_id131",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 132,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id132",
+        "icon": "decal_id132",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 133,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id133",
+        "icon": "decal_id133",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 134,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id134",
+        "icon": "decal_id134",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 135,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id135",
+        "icon": "decal_id135",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 136,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id136",
+        "icon": "decal_id136",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 137,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id137",
+        "icon": "decal_id137",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 138,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id138",
+        "icon": "decal_id138",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 139,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id139",
+        "icon": "decal_id139",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 140,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id140",
+        "icon": "decal_id140",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 141,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id141",
+        "icon": "decal_id141",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 142,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id142",
+        "icon": "decal_id142",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 143,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id143",
+        "icon": "decal_id143",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 144,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id144",
+        "icon": "decal_id144",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 145,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id145",
+        "icon": "decal_id145",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 146,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id146",
+        "icon": "decal_id146",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 147,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id147",
+        "icon": "decal_id147",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 3
+      },
+      {
+        "baseId": 148,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id148",
+        "icon": "decal_id148",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 3
+      },
+      {
+        "baseId": 149,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id149",
+        "icon": "decal_id149",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 3
+      },
+      {
+        "baseId": 150,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id150",
+        "icon": "decal_id150",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 3
+      },
+      {
+        "baseId": 151,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id151",
+        "icon": "decal_id151",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 3
+      },
+      {
+        "baseId": 152,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id152",
+        "icon": "decal_id152",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 3
+      },
+      {
+        "baseId": 153,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id153",
+        "icon": "decal_id153",
+        "minScale": 0.009999999776482582,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 154,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id154",
+        "icon": "decal_id154",
+        "minScale": 0.009999999776482582,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 155,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id155",
+        "icon": "decal_id155",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 156,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id156",
+        "icon": "decal_id156",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 157,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id157",
+        "icon": "decal_id157",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 158,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id158",
+        "icon": "decal_id158",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 159,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id159",
+        "icon": "decal_id159",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 160,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id160",
+        "icon": "decal_id160",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 161,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id161",
+        "icon": "decal_id161",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 162,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id162",
+        "icon": "decal_id162",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 163,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id163",
+        "icon": "decal_id163",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 164,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id164",
+        "icon": "decal_id164",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 165,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id165",
+        "icon": "decal_id165",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 166,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id166",
+        "icon": "decal_id166",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 167,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id167",
+        "icon": "decal_id167",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 168,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id168",
+        "icon": "decal_id168",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 169,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id169",
+        "icon": "decal_id169",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 170,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id170",
+        "icon": "decal_id170",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 171,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id171",
+        "icon": "decal_id171",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 172,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id172",
+        "icon": "decal_id172",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 173,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id173",
+        "icon": "decal_id173",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": true,
+        "type": 4
+      },
+      {
+        "baseId": 174,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id174",
+        "icon": "decal_id174",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 5
+      },
+      {
+        "baseId": 175,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id175",
+        "icon": "decal_id175",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 5
+      },
+      {
+        "baseId": 176,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id176",
+        "icon": "decal_id176",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 5
+      },
+      {
+        "baseId": 177,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id177",
+        "icon": "decal_id177",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 5
+      },
+      {
+        "baseId": 178,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id178",
+        "icon": "decal_id178",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 5
+      },
+      {
+        "baseId": 179,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id179",
+        "icon": "decal_id179",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 5
+      },
+      {
+        "baseId": 180,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id180",
+        "icon": "decal_id180",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 5
+      },
+      {
+        "baseId": 181,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id181",
+        "icon": "decal_id181",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 5
+      },
+      {
+        "baseId": 182,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id182",
+        "icon": "decal_id182",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 5
+      },
+      {
+        "baseId": 183,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id183",
+        "icon": "decal_id183",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 5
+      },
+      {
+        "baseId": 184,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id184",
+        "icon": "decal_id184",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 185,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id185",
+        "icon": "decal_id185",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 186,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id186",
+        "icon": "decal_id186",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 187,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id187",
+        "icon": "decal_id187",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 188,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id188",
+        "icon": "decal_id188",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 189,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id189",
+        "icon": "decal_id189",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 190,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id190",
+        "icon": "decal_id190",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 191,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id191",
+        "icon": "decal_id191",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 192,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id192",
+        "icon": "decal_id192",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 193,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id193",
+        "icon": "decal_id193",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 194,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id194",
+        "icon": "decal_id194",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 195,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id195",
+        "icon": "decal_id195",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 196,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id196",
+        "icon": "decal_id196",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 197,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id197",
+        "icon": "decal_id197",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 198,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id198",
+        "icon": "decal_id198",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 199,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id199",
+        "icon": "decal_id199",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 200,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id200",
+        "icon": "decal_id200",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 201,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id201",
+        "icon": "decal_id201",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 202,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id202",
+        "icon": "decal_id202",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 203,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id203",
+        "icon": "decal_id203",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 204,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id204",
+        "icon": "decal_id204",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 205,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id205",
+        "icon": "decal_id205",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 206,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id206",
+        "icon": "decal_id206",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 207,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id207",
+        "icon": "decal_id207",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 208,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id208",
+        "icon": "decal_id208",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 209,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id209",
+        "icon": "decal_id209",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 210,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id210",
+        "icon": "decal_id210",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 211,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id211",
+        "icon": "decal_id211",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 212,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id212",
+        "icon": "decal_id212",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 213,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id213",
+        "icon": "decal_id213",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 214,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id214",
+        "icon": "decal_id214",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 215,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id215",
+        "icon": "decal_id215",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 216,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id216",
+        "icon": "decal_id216",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 217,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id217",
+        "icon": "decal_id217",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 218,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id218",
+        "icon": "decal_id218",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 219,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id219",
+        "icon": "decal_id219",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 220,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id220",
+        "icon": "decal_id220",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 221,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id221",
+        "icon": "decal_id221",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 222,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id222",
+        "icon": "decal_id222",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 223,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id223",
+        "icon": "decal_id223",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 224,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id224",
+        "icon": "decal_id224",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 225,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id225",
+        "icon": "decal_id225",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 226,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id226",
+        "icon": "decal_id226",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 227,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id227",
+        "icon": "decal_id227",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 228,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id228",
+        "icon": "decal_id228",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 229,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id229",
+        "icon": "decal_id229",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 230,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id230",
+        "icon": "decal_id230",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 231,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id231",
+        "icon": "decal_id231",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 232,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id232",
+        "icon": "decal_id232",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 233,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id233",
+        "icon": "decal_id233",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 234,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id234",
+        "icon": "decal_id234",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 235,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id235",
+        "icon": "decal_id235",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 236,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id236",
+        "icon": "decal_id236",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 237,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id237",
+        "icon": "decal_id237",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 238,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id238",
+        "icon": "decal_id238",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 239,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id239",
+        "icon": "decal_id239",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 240,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id240",
+        "icon": "decal_id240",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 241,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id241",
+        "icon": "decal_id241",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 242,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id242",
+        "icon": "decal_id242",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 243,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id243",
+        "icon": "decal_id243",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 244,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id244",
+        "icon": "decal_id244",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 245,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id245",
+        "icon": "decal_id245",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 246,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id246",
+        "icon": "decal_id246",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 6
+      },
+      {
+        "baseId": 250,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0250",
+        "icon": "decal_id0250",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 251,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0251",
+        "icon": "decal_id0251",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 253,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0253",
+        "icon": "decal_id0253",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 254,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0254",
+        "icon": "decal_id0254",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 255,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0255",
+        "icon": "decal_id0255",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 256,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0256",
+        "icon": "decal_id0256",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 257,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0257",
+        "icon": "decal_id0257",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 258,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0258",
+        "icon": "decal_id0258",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 259,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0259",
+        "icon": "decal_id0259",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 260,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0260",
+        "icon": "decal_id0260",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 263,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0263",
+        "icon": "decal_id0263",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 264,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0264",
+        "icon": "decal_id0264",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 265,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0265",
+        "icon": "decal_id0265",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 268,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0268",
+        "icon": "decal_id0268",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 269,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0269",
+        "icon": "decal_id0269",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 270,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0270",
+        "icon": "decal_id0270",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 271,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0271",
+        "icon": "decal_id0271",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 272,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0272",
+        "icon": "decal_id0272",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 273,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0273",
+        "icon": "decal_id0273",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 275,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0275",
+        "icon": "decal_id0275",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 276,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0276",
+        "icon": "decal_id0276",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 278,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0278",
+        "icon": "decal_id0278",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 279,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0279",
+        "icon": "decal_id0279",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 280,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0280",
+        "icon": "decal_id0280",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 282,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0282",
+        "icon": "decal_id0282",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 283,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0283",
+        "icon": "decal_id0283",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 284,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0284",
+        "icon": "decal_id0284",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 286,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0286",
+        "icon": "decal_id0286",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 287,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0287",
+        "icon": "decal_id0287",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 289,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0289",
+        "icon": "decal_id0289",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 290,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0290",
+        "icon": "decal_id0290",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 293,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0293",
+        "icon": "decal_id0293",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 295,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0295",
+        "icon": "decal_id0295",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 296,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0296",
+        "icon": "decal_id0296",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 297,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0297",
+        "icon": "decal_id0297",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 299,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0299",
+        "icon": "decal_id0299",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 300,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0300",
+        "icon": "decal_id0300",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 301,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0301",
+        "icon": "decal_id0301",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 302,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0302",
+        "icon": "decal_id0302",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 304,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0304",
+        "icon": "decal_id0304",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 306,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0306",
+        "icon": "decal_id0306",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 307,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0307",
+        "icon": "decal_id0307",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 308,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0308",
+        "icon": "decal_id0308",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 309,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0309",
+        "icon": "decal_id0309",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 310,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0310",
+        "icon": "decal_id0310",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 311,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0311",
+        "icon": "decal_id0311",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 312,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0312",
+        "icon": "decal_id0312",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 313,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0313",
+        "icon": "decal_id0313",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 314,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0314",
+        "icon": "decal_id0314",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 315,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0315",
+        "icon": "decal_id0315",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 319,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0319",
+        "icon": "decal_id0319",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 320,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0320",
+        "icon": "decal_id0320",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 324,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0324",
+        "icon": "decal_id0324",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": true,
+        "type": 1
+      },
+      {
+        "baseId": 326,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0326",
+        "icon": "decal_id0326",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 327,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0327",
+        "icon": "decal_id0327",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 328,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0328",
+        "icon": "decal_id0328",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 330,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0330",
+        "icon": "decal_id0330",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 331,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0331",
+        "icon": "decal_id0331",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 333,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0333",
+        "icon": "decal_id0333",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 334,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0334",
+        "icon": "decal_id0334",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 337,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0337",
+        "icon": "decal_id0337",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 341,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0341",
+        "icon": "decal_id0341",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 342,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0342",
+        "icon": "decal_id0342",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 344,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0344",
+        "icon": "decal_id0344",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 345,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0345",
+        "icon": "decal_id0345",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 346,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0346",
+        "icon": "decal_id0346",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 347,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0347",
+        "icon": "decal_id0347",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 348,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0348",
+        "icon": "decal_id0348",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 349,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0349",
+        "icon": "decal_id0349",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 350,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0350",
+        "icon": "decal_id0350",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 0,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 353,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0353",
+        "icon": "decal_id0353",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 354,
+        "isPainted": false,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0354",
+        "icon": "decal_id0354",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 355,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0355",
+        "icon": "decal_id0355",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 357,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0357",
+        "icon": "decal_id0357",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 358,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0358",
+        "icon": "decal_id0358",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 359,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0359",
+        "icon": "decal_id0359",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 361,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0361",
+        "icon": "decal_id0361",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 362,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0362",
+        "icon": "decal_id0362",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 363,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0363",
+        "icon": "decal_id0363",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 364,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0364",
+        "icon": "decal_id0364",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 365,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0365",
+        "icon": "decal_id0365",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 366,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0366",
+        "icon": "decal_id0366",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 367,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0367",
+        "icon": "decal_id0367",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 368,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0368",
+        "icon": "decal_id0368",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 369,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0369",
+        "icon": "decal_id0369",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 370,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0370",
+        "icon": "decal_id0370",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 371,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0371",
+        "icon": "decal_id0371",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 1
+      },
+      {
+        "baseId": 372,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0372",
+        "icon": "decal_id0372",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 373,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0373",
+        "icon": "decal_id0373",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 374,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0374",
+        "icon": "decal_id0374",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 375,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0375",
+        "icon": "decal_id0375",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 376,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0376",
+        "icon": "decal_id0376",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 377,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0377",
+        "icon": "decal_id0377",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 378,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0378",
+        "icon": "decal_id0378",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 379,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0379",
+        "icon": "decal_id0379",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 380,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0380",
+        "icon": "decal_id0380",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 381,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0381",
+        "icon": "decal_id0381",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 382,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0382",
+        "icon": "decal_id0382",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 383,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0383",
+        "icon": "decal_id0383",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 384,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0384",
+        "icon": "decal_id0384",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 385,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0385",
+        "icon": "decal_id0385",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 386,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0386",
+        "icon": "decal_id0386",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 387,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0387",
+        "icon": "decal_id0387",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 388,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0388",
+        "icon": "decal_id0388",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 389,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0389",
+        "icon": "decal_id0389",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 390,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0390",
+        "icon": "decal_id0390",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 391,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0391",
+        "icon": "decal_id0391",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 392,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0392",
+        "icon": "decal_id0392",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 393,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0393",
+        "icon": "decal_id0393",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 394,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0394",
+        "icon": "decal_id0394",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 395,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0395",
+        "icon": "decal_id0395",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 396,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0396",
+        "icon": "decal_id0396",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 397,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0397",
+        "icon": "decal_id0397",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 398,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0398",
+        "icon": "decal_id0398",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 399,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0399",
+        "icon": "decal_id0399",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 400,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0400",
+        "icon": "decal_id0400",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 401,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0401",
+        "icon": "decal_id0401",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 402,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0402",
+        "icon": "decal_id0402",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 403,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0403",
+        "icon": "decal_id0403",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 404,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0404",
+        "icon": "decal_id0404",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 405,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0405",
+        "icon": "decal_id0405",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 406,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0406",
+        "icon": "decal_id0406",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 407,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0407",
+        "icon": "decal_id0407",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 408,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0408",
+        "icon": "decal_id0408",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 409,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0409",
+        "icon": "decal_id0409",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 410,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0410",
+        "icon": "decal_id0410",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 411,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0411",
+        "icon": "decal_id0411",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 2
+      },
+      {
+        "baseId": 412,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0412",
+        "icon": "decal_id0412",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 413,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0413",
+        "icon": "decal_id0413",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 414,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0414",
+        "icon": "decal_id0414",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 415,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0415",
+        "icon": "decal_id0415",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 416,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0416",
+        "icon": "decal_id0416",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 417,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0417",
+        "icon": "decal_id0417",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 418,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0418",
+        "icon": "decal_id0418",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 419,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0419",
+        "icon": "decal_id0419",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 420,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0420",
+        "icon": "decal_id0420",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 421,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0421",
+        "icon": "decal_id0421",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 422,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0422",
+        "icon": "decal_id0422",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 423,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 100,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id0423",
+        "icon": "decal_id0423",
+        "minScale": 0.05000000074505806,
+        "maxScale": 3,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      },
+      {
+        "baseId": 10000,
+        "isPainted": true,
+        "isScaling": true,
+        "price": {
+          "money": 0,
+          "gold": 10000,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "image": "decal/id10000",
+        "icon": "decal_id10000",
+        "minScale": 0.05,
+        "maxScale": 5,
+        "shopIndex": 1,
+        "isMirror": false,
+        "type": 5
+      }
+    ]
+  }
+}

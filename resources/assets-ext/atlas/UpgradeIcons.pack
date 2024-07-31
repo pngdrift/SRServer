@@ -1,0 +1,3424 @@
+
+UpgradeIcons.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+westgate_empty_icon
+  rotate: false
+  xy: 1, 1839
+  size: 218, 208
+  orig: 350, 350
+  offset: 71, 71
+  index: -1
+blueprint_oil_cooler_blue
+  rotate: false
+  xy: 221, 1837
+  size: 211, 210
+  orig: 278, 278
+  offset: 31, 37
+  index: -1
+blueprint_oil_cooler_green
+  rotate: false
+  xy: 1, 1627
+  size: 211, 210
+  orig: 278, 278
+  offset: 31, 37
+  index: -1
+blueprint_oil_cooler_orange
+  rotate: false
+  xy: 434, 1837
+  size: 211, 210
+  orig: 278, 278
+  offset: 31, 37
+  index: -1
+blueprint_oil_cooler_red
+  rotate: false
+  xy: 647, 1837
+  size: 211, 210
+  orig: 278, 278
+  offset: 31, 37
+  index: -1
+blueprint_oil_cooler_violet
+  rotate: false
+  xy: 860, 1837
+  size: 211, 210
+  orig: 278, 278
+  offset: 31, 37
+  index: -1
+blueprint_oil_cooler_white
+  rotate: false
+  xy: 1073, 1837
+  size: 211, 210
+  orig: 278, 278
+  offset: 31, 37
+  index: -1
+blueprint_oil_cooler_yellow
+  rotate: false
+  xy: 1286, 1837
+  size: 211, 210
+  orig: 278, 278
+  offset: 31, 37
+  index: -1
+blueprint_oil_injectors_blue
+  rotate: false
+  xy: 1499, 1837
+  size: 211, 210
+  orig: 278, 278
+  offset: 31, 37
+  index: -1
+blueprint_oil_injectors_green
+  rotate: false
+  xy: 1712, 1837
+  size: 211, 210
+  orig: 278, 278
+  offset: 31, 37
+  index: -1
+radiator_id2_icon
+  rotate: false
+  xy: 1925, 1915
+  size: 118, 132
+  orig: 180, 180
+  offset: 26, 21
+  index: -1
+turbo_1_id10_icon
+  rotate: false
+  xy: 1925, 1784
+  size: 120, 129
+  orig: 180, 180
+  offset: 31, 22
+  index: -1
+turbo_2_id10_icon
+  rotate: false
+  xy: 1925, 1784
+  size: 120, 129
+  orig: 180, 180
+  offset: 31, 22
+  index: -1
+blueprint_oil_injectors_orange
+  rotate: false
+  xy: 214, 1625
+  size: 211, 210
+  orig: 278, 278
+  offset: 31, 37
+  index: -1
+blueprint_oil_injectors_red
+  rotate: false
+  xy: 1, 1415
+  size: 211, 210
+  orig: 278, 278
+  offset: 31, 37
+  index: -1
+blueprint_oil_injectors_violet
+  rotate: false
+  xy: 427, 1625
+  size: 211, 210
+  orig: 278, 278
+  offset: 31, 37
+  index: -1
+blueprint_oil_injectors_white
+  rotate: false
+  xy: 640, 1625
+  size: 211, 210
+  orig: 278, 278
+  offset: 31, 37
+  index: -1
+blueprint_oil_injectors_yellow
+  rotate: false
+  xy: 853, 1625
+  size: 211, 210
+  orig: 278, 278
+  offset: 31, 37
+  index: -1
+blueprint_radiator_blue
+  rotate: false
+  xy: 1066, 1625
+  size: 211, 210
+  orig: 278, 278
+  offset: 31, 37
+  index: -1
+blueprint_radiator_green
+  rotate: false
+  xy: 1279, 1625
+  size: 211, 210
+  orig: 278, 278
+  offset: 31, 37
+  index: -1
+blueprint_radiator_orange
+  rotate: false
+  xy: 1492, 1625
+  size: 211, 210
+  orig: 278, 278
+  offset: 31, 37
+  index: -1
+blueprint_radiator_red
+  rotate: false
+  xy: 1705, 1625
+  size: 211, 210
+  orig: 278, 278
+  offset: 31, 37
+  index: -1
+exhaust_outlet_id1_icon
+  rotate: false
+  xy: 1918, 1653
+  size: 123, 129
+  orig: 180, 180
+  offset: 25, 22
+  index: -1
+exhaust_outlet_id2_icon
+  rotate: false
+  xy: 1918, 1528
+  size: 128, 123
+  orig: 180, 180
+  offset: 20, 22
+  index: -1
+blueprint_radiator_violet
+  rotate: false
+  xy: 214, 1413
+  size: 211, 210
+  orig: 278, 278
+  offset: 31, 37
+  index: -1
+blueprint_radiator_white
+  rotate: false
+  xy: 1, 1203
+  size: 211, 210
+  orig: 278, 278
+  offset: 31, 37
+  index: -1
+blueprint_radiator_yellow
+  rotate: false
+  xy: 427, 1413
+  size: 211, 210
+  orig: 278, 278
+  offset: 31, 37
+  index: -1
+neon_blue_light
+  rotate: false
+  xy: 640, 1443
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+neon_cyan_light
+  rotate: false
+  xy: 822, 1443
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+neon_green_light
+  rotate: false
+  xy: 1004, 1443
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+neon_green_yellow_light
+  rotate: false
+  xy: 1186, 1443
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+neon_light_blue_light
+  rotate: false
+  xy: 1368, 1443
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+neon_orange_light
+  rotate: false
+  xy: 1550, 1443
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+neon_pink_light
+  rotate: false
+  xy: 1732, 1443
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+disk_id17_icon
+  rotate: false
+  xy: 1914, 1390
+  size: 133, 136
+  orig: 180, 180
+  offset: 24, 19
+  index: -1
+neon_pink_red_light
+  rotate: false
+  xy: 640, 1261
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+neon_purple_light
+  rotate: false
+  xy: 214, 1231
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+neon_red_light
+  rotate: false
+  xy: 396, 1231
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+neon_yellow_light
+  rotate: false
+  xy: 822, 1261
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+tools_size5
+  rotate: false
+  xy: 1004, 1261
+  size: 160, 180
+  orig: 180, 180
+  offset: 10, 0
+  index: -1
+neon_green_yellow_icon
+  rotate: false
+  xy: 1166, 1291
+  size: 180, 150
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+neon_blue_icon
+  rotate: false
+  xy: 1348, 1291
+  size: 179, 150
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+neon_cyan_icon
+  rotate: false
+  xy: 1529, 1291
+  size: 179, 150
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+neon_green_icon
+  rotate: false
+  xy: 1710, 1291
+  size: 179, 150
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+blueprint_brake_blue
+  rotate: false
+  xy: 1891, 1222
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+neon_light_blue_icon
+  rotate: false
+  xy: 1166, 1139
+  size: 179, 150
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+neon_pink_icon
+  rotate: false
+  xy: 1347, 1139
+  size: 179, 150
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+neon_pink_red_icon
+  rotate: false
+  xy: 1528, 1139
+  size: 179, 150
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+neon_purple_icon
+  rotate: false
+  xy: 1709, 1139
+  size: 179, 150
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+blueprint_brake_green
+  rotate: false
+  xy: 1890, 1054
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+neon_red_icon
+  rotate: false
+  xy: 578, 1109
+  size: 179, 150
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+neon_yellow_icon
+  rotate: false
+  xy: 214, 1080
+  size: 180, 149
+  orig: 180, 180
+  offset: 0, 1
+  index: -1
+neon_orange_icon
+  rotate: false
+  xy: 396, 1080
+  size: 179, 149
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+blueprint_brake_orange
+  rotate: false
+  xy: 1, 1035
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_brake_pad_blue
+  rotate: false
+  xy: 759, 1093
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_brake_pad_green
+  rotate: false
+  xy: 577, 941
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_brake_pad_orange
+  rotate: false
+  xy: 909, 1093
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+suspension_empty_icon
+  rotate: false
+  xy: 1059, 1141
+  size: 91, 118
+  orig: 180, 180
+  offset: 43, 31
+  index: -1
+tools_size2
+  rotate: false
+  xy: 1059, 1041
+  size: 104, 98
+  orig: 180, 180
+  offset: 38, 41
+  index: -1
+blueprint_brake_pad_red
+  rotate: false
+  xy: 727, 925
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_brake_pad_violet
+  rotate: false
+  xy: 877, 925
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_brake_pad_white
+  rotate: false
+  xy: 151, 912
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_brake_pad_yellow
+  rotate: false
+  xy: 1, 867
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_brake_red
+  rotate: false
+  xy: 301, 912
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+bumper_rear_icon
+  rotate: false
+  xy: 451, 952
+  size: 124, 126
+  orig: 180, 180
+  offset: 26, 24
+  index: -1
+turbo_1_id11_icon
+  rotate: false
+  xy: 451, 821
+  size: 120, 129
+  orig: 180, 180
+  offset: 31, 22
+  index: -1
+turbo_2_id11_icon
+  rotate: false
+  xy: 451, 821
+  size: 120, 129
+  orig: 180, 180
+  offset: 31, 22
+  index: -1
+blueprint_brake_violet
+  rotate: false
+  xy: 573, 773
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_brake_white
+  rotate: false
+  xy: 151, 744
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_brake_yellow
+  rotate: false
+  xy: 1, 699
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_differential_blue
+  rotate: false
+  xy: 301, 744
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+turbo_1_id1_icon
+  rotate: false
+  xy: 451, 690
+  size: 120, 129
+  orig: 180, 180
+  offset: 31, 22
+  index: -1
+turbo_2_id1_icon
+  rotate: false
+  xy: 451, 690
+  size: 120, 129
+  orig: 180, 180
+  offset: 31, 22
+  index: -1
+blueprint_differential_green
+  rotate: false
+  xy: 151, 576
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_differential_orange
+  rotate: false
+  xy: 1, 531
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_differential_red
+  rotate: false
+  xy: 301, 576
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_differential_violet
+  rotate: false
+  xy: 1165, 971
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+disk_id10_icon
+  rotate: false
+  xy: 1027, 902
+  size: 136, 137
+  orig: 180, 180
+  offset: 22, 19
+  index: -1
+blueprint_differential_white
+  rotate: false
+  xy: 723, 757
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_differential_yellow
+  rotate: false
+  xy: 573, 605
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+turbo_1_id2_icon
+  rotate: false
+  xy: 451, 559
+  size: 120, 129
+  orig: 180, 180
+  offset: 31, 22
+  index: -1
+turbo_2_id2_icon
+  rotate: false
+  xy: 451, 559
+  size: 120, 129
+  orig: 180, 180
+  offset: 31, 22
+  index: -1
+blueprint_disk_blue
+  rotate: false
+  xy: 873, 757
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_disk_green
+  rotate: false
+  xy: 151, 408
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_disk_orange
+  rotate: false
+  xy: 1, 363
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_disk_red
+  rotate: false
+  xy: 301, 408
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_disk_violet
+  rotate: false
+  xy: 1315, 971
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_disk_white
+  rotate: false
+  xy: 1465, 971
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_disk_yellow
+  rotate: false
+  xy: 1615, 971
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+turbo_1_id3_icon
+  rotate: false
+  xy: 1765, 1008
+  size: 120, 129
+  orig: 180, 180
+  offset: 31, 22
+  index: -1
+turbo_2_id3_icon
+  rotate: false
+  xy: 1765, 1008
+  size: 120, 129
+  orig: 180, 180
+  offset: 31, 22
+  index: -1
+blueprint_pneumatic_suspension_blue
+  rotate: false
+  xy: 1887, 886
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+turbo_1_id4_icon
+  rotate: false
+  xy: 1765, 877
+  size: 120, 129
+  orig: 180, 180
+  offset: 31, 22
+  index: -1
+turbo_2_id4_icon
+  rotate: false
+  xy: 1765, 877
+  size: 120, 129
+  orig: 180, 180
+  offset: 31, 22
+  index: -1
+blueprint_pneumatic_suspension_green
+  rotate: false
+  xy: 1887, 718
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_pneumatic_suspension_orange
+  rotate: false
+  xy: 1165, 803
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+tools_size4
+  rotate: false
+  xy: 1023, 752
+  size: 138, 148
+  orig: 180, 180
+  offset: 21, 15
+  index: -1
+blueprint_pneumatic_suspension_red
+  rotate: false
+  xy: 723, 589
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_pneumatic_suspension_violet
+  rotate: false
+  xy: 573, 437
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+turbo_1_id5_icon
+  rotate: false
+  xy: 451, 428
+  size: 120, 129
+  orig: 180, 180
+  offset: 31, 22
+  index: -1
+turbo_2_id5_icon
+  rotate: false
+  xy: 451, 428
+  size: 120, 129
+  orig: 180, 180
+  offset: 31, 22
+  index: -1
+blueprint_pneumatic_suspension_white
+  rotate: false
+  xy: 873, 589
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_pneumatic_suspension_yellow
+  rotate: false
+  xy: 1315, 803
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_spring_blue
+  rotate: false
+  xy: 1465, 803
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_spring_green
+  rotate: false
+  xy: 1615, 803
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+turbo_1_id6_icon
+  rotate: false
+  xy: 1765, 746
+  size: 120, 129
+  orig: 180, 180
+  offset: 31, 22
+  index: -1
+turbo_2_id6_icon
+  rotate: false
+  xy: 1765, 746
+  size: 120, 129
+  orig: 180, 180
+  offset: 31, 22
+  index: -1
+blueprint_spring_orange
+  rotate: false
+  xy: 1163, 635
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+disk_id9_icon
+  rotate: false
+  xy: 1023, 612
+  size: 138, 138
+  orig: 180, 180
+  offset: 21, 18
+  index: -1
+blueprint_spring_red
+  rotate: false
+  xy: 1313, 635
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_spring_violet
+  rotate: false
+  xy: 1463, 635
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_spring_white
+  rotate: false
+  xy: 1613, 635
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+turbo_1_id7_icon
+  rotate: false
+  xy: 1763, 615
+  size: 120, 129
+  orig: 180, 180
+  offset: 31, 22
+  index: -1
+turbo_2_id7_icon
+  rotate: false
+  xy: 1763, 615
+  size: 120, 129
+  orig: 180, 180
+  offset: 31, 22
+  index: -1
+blueprint_spring_yellow
+  rotate: false
+  xy: 1885, 550
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_suspension_blue
+  rotate: false
+  xy: 1163, 467
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_camshafts_orange
+  rotate: false
+  xy: 1023, 473
+  size: 138, 137
+  orig: 180, 180
+  offset: 19, 23
+  index: -1
+blueprint_suspension_green
+  rotate: false
+  xy: 723, 421
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_suspension_orange
+  rotate: false
+  xy: 573, 269
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+turbo_1_id8_icon
+  rotate: false
+  xy: 451, 297
+  size: 120, 129
+  orig: 180, 180
+  offset: 31, 22
+  index: -1
+turbo_2_id8_icon
+  rotate: false
+  xy: 451, 297
+  size: 120, 129
+  orig: 180, 180
+  offset: 31, 22
+  index: -1
+blueprint_suspension_red
+  rotate: false
+  xy: 873, 421
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_camshafts_white
+  rotate: false
+  xy: 1023, 334
+  size: 138, 137
+  orig: 180, 180
+  offset: 19, 23
+  index: -1
+blueprint_suspension_violet
+  rotate: false
+  xy: 151, 240
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_suspension_white
+  rotate: false
+  xy: 1, 195
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_suspension_yellow
+  rotate: false
+  xy: 301, 240
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+turbo_1_id9_icon
+  rotate: false
+  xy: 451, 166
+  size: 120, 129
+  orig: 180, 180
+  offset: 31, 22
+  index: -1
+turbo_2_id9_icon
+  rotate: false
+  xy: 451, 166
+  size: 120, 129
+  orig: 180, 180
+  offset: 31, 22
+  index: -1
+blueprint_tires_blue
+  rotate: false
+  xy: 151, 72
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_tires_green
+  rotate: false
+  xy: 1, 27
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_tires_orange
+  rotate: false
+  xy: 301, 72
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_tires_red
+  rotate: false
+  xy: 723, 253
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_tires_violet
+  rotate: false
+  xy: 573, 101
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+exhaust_mainfold_id2_icon
+  rotate: false
+  xy: 451, 37
+  size: 118, 127
+  orig: 180, 180
+  offset: 27, 22
+  index: -1
+spoiler_id20_icon
+  rotate: false
+  xy: 151, 2
+  size: 145, 68
+  orig: 180, 180
+  offset: 19, 55
+  index: -1
+front_bumper_empty_icon
+  rotate: false
+  xy: 298, 4
+  size: 133, 66
+  orig: 180, 180
+  offset: 23, 55
+  index: -1
+blueprint_tires_white
+  rotate: false
+  xy: 873, 253
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+hood_part_id1_icon
+  rotate: false
+  xy: 571, 8
+  size: 149, 91
+  orig: 180, 180
+  offset: 16, 43
+  index: -1
+hood_part_id2_icon
+  rotate: false
+  xy: 722, 8
+  size: 149, 91
+  orig: 180, 180
+  offset: 16, 43
+  index: -1
+blueprint_air_filter_blue
+  rotate: false
+  xy: 723, 105
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+blueprint_air_filter_green
+  rotate: false
+  xy: 872, 105
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+spoiler_id14_icon
+  rotate: false
+  xy: 873, 3
+  size: 141, 100
+  orig: 180, 180
+  offset: 19, 40
+  index: -1
+hood_part_id3_icon
+  rotate: false
+  xy: 1016, 12
+  size: 149, 91
+  orig: 180, 180
+  offset: 16, 43
+  index: -1
+blueprint_air_filter_orange
+  rotate: false
+  xy: 1021, 105
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+bumper_center_icon
+  rotate: false
+  xy: 1023, 259
+  size: 161, 73
+  orig: 180, 180
+  offset: 8, 51
+  index: -1
+hood_part_id4_icon
+  rotate: false
+  xy: 1167, 12
+  size: 149, 91
+  orig: 180, 180
+  offset: 16, 43
+  index: -1
+frame_part_id3_icon
+  rotate: false
+  xy: 1163, 338
+  size: 155, 127
+  orig: 180, 180
+  offset: 14, 23
+  index: -1
+trunk_part_id1_icon
+  rotate: false
+  xy: 1313, 468
+  size: 150, 80
+  orig: 180, 180
+  offset: 15, 45
+  index: -1
+trunk_part_id2_icon
+  rotate: false
+  xy: 1313, 553
+  size: 150, 80
+  orig: 180, 180
+  offset: 15, 45
+  index: -1
+blueprint_air_filter_red
+  rotate: false
+  xy: 1170, 111
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+spoiler_id21_icon
+  rotate: false
+  xy: 1186, 263
+  size: 159, 73
+  orig: 180, 180
+  offset: 11, 56
+  index: -1
+tires_id4_icon
+  rotate: false
+  xy: 1318, 3
+  size: 143, 106
+  orig: 180, 180
+  offset: 16, 36
+  index: -1
+brake_pad_id5_icon
+  rotate: false
+  xy: 1320, 339
+  size: 143, 127
+  orig: 180, 180
+  offset: 19, 26
+  index: -1
+blueprint_air_filter_violet
+  rotate: false
+  xy: 1319, 115
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+trunk_part_empty_icon
+  rotate: false
+  xy: 1347, 265
+  size: 133, 72
+  orig: 180, 180
+  offset: 23, 49
+  index: -1
+tires_cyan
+  rotate: false
+  xy: 1463, 4
+  size: 148, 109
+  orig: 180, 180
+  offset: 15, 33
+  index: -1
+blueprint_tires_yellow
+  rotate: false
+  xy: 1465, 467
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+headlight_id3_icon
+  rotate: false
+  xy: 1465, 339
+  size: 144, 126
+  orig: 180, 180
+  offset: 16, 23
+  index: -1
+blueprint_air_filter_white
+  rotate: false
+  xy: 1468, 117
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+brake_pad_id9_icon
+  rotate: false
+  xy: 1613, 1
+  size: 151, 114
+  orig: 180, 180
+  offset: 14, 34
+  index: -1
+spoiler_id19_icon
+  rotate: false
+  xy: 1482, 278
+  size: 138, 59
+  orig: 180, 180
+  offset: 21, 64
+  index: -1
+blueprint_center_bumper_blue
+  rotate: false
+  xy: 1615, 490
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+brake_pad_id10_icon
+  rotate: false
+  xy: 1611, 349
+  size: 155, 116
+  orig: 180, 180
+  offset: 15, 33
+  index: -1
+tires_empty_icon
+  rotate: false
+  xy: 1760, 490
+  size: 123, 123
+  orig: 180, 180
+  offset: 28, 28
+  index: -1
+blueprint_air_filter_yellow
+  rotate: false
+  xy: 1617, 130
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+spoiler_id23_icon
+  rotate: false
+  xy: 1622, 293
+  size: 146, 54
+  orig: 180, 180
+  offset: 19, 67
+  index: -1
+brake_pad_id1_icon
+  rotate: false
+  xy: 1768, 355
+  size: 148, 133
+  orig: 180, 180
+  offset: 16, 22
+  index: -1
+rear_bumper_empty_icon
+  rotate: false
+  xy: 1885, 503
+  size: 132, 45
+  orig: 180, 180
+  offset: 23, 65
+  index: -1
+westgate_id10_icon
+  rotate: false
+  xy: 1918, 379
+  size: 129, 122
+  orig: 180, 180
+  offset: 27, 25
+  index: -1
+westgate_id7_icon
+  rotate: false
+  xy: 1918, 255
+  size: 129, 122
+  orig: 180, 180
+  offset: 27, 25
+  index: -1
+blueprint_transmission_blue
+  rotate: false
+  xy: 1766, 125
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+brake_pad_id7_icon
+  rotate: false
+  xy: 1766, 6
+  size: 152, 117
+  orig: 180, 180
+  offset: 15, 31
+  index: -1
+westgate_id8_icon
+  rotate: false
+  xy: 1916, 131
+  size: 129, 122
+  orig: 180, 180
+  offset: 27, 25
+  index: -1
+spoiler_id2_icon
+  rotate: false
+  xy: 1920, 9
+  size: 127, 120
+  orig: 180, 180
+  offset: 25, 28
+  index: -1
+
+UpgradeIcons2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blueprint_transmission_green
+  rotate: false
+  xy: 1, 1881
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_transmission_orange
+  rotate: false
+  xy: 1, 1713
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_transmission_red
+  rotate: false
+  xy: 151, 1881
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_transmission_violet
+  rotate: false
+  xy: 1, 1545
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_transmission_white
+  rotate: false
+  xy: 151, 1713
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_transmission_yellow
+  rotate: false
+  xy: 301, 1881
+  size: 148, 166
+  orig: 180, 180
+  offset: 16, 8
+  index: -1
+blueprint_muffler_blue
+  rotate: false
+  xy: 1, 1397
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+blueprint_muffler_green
+  rotate: false
+  xy: 151, 1565
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+blueprint_muffler_orange
+  rotate: false
+  xy: 301, 1733
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+blueprint_muffler_red
+  rotate: false
+  xy: 451, 1901
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+blueprint_muffler_violet
+  rotate: false
+  xy: 1, 1249
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+blueprint_muffler_white
+  rotate: false
+  xy: 600, 1901
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+blueprint_muffler_yellow
+  rotate: false
+  xy: 1, 1101
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+blueprint_turbo_1_blue
+  rotate: false
+  xy: 749, 1901
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+blueprint_turbo_1_green
+  rotate: false
+  xy: 1, 953
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+blueprint_turbo_1_orange
+  rotate: false
+  xy: 898, 1901
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+blueprint_turbo_1_red
+  rotate: false
+  xy: 1, 805
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+blueprint_turbo_1_violet
+  rotate: false
+  xy: 1047, 1901
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+blueprint_turbo_1_white
+  rotate: false
+  xy: 1, 657
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+blueprint_turbo_1_yellow
+  rotate: false
+  xy: 1196, 1901
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+blueprint_turbo_2_blue
+  rotate: false
+  xy: 1, 509
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+blueprint_turbo_2_green
+  rotate: false
+  xy: 1345, 1901
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+blueprint_turbo_2_orange
+  rotate: false
+  xy: 1, 361
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+blueprint_turbo_2_red
+  rotate: false
+  xy: 1494, 1901
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+blueprint_turbo_2_violet
+  rotate: false
+  xy: 1, 213
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+blueprint_turbo_2_white
+  rotate: false
+  xy: 1643, 1901
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+blueprint_turbo_2_yellow
+  rotate: false
+  xy: 1, 65
+  size: 147, 146
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+blueprint_center_bumper_green
+  rotate: false
+  xy: 1792, 1904
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+brake_id1_icon
+  rotate: false
+  xy: 1937, 1926
+  size: 110, 121
+  orig: 180, 180
+  offset: 39, 29
+  index: -1
+brake_pad_id2_icon
+  rotate: false
+  xy: 451, 1786
+  size: 152, 113
+  orig: 180, 180
+  offset: 12, 34
+  index: -1
+exhaust_outlet_id3_icon
+  rotate: false
+  xy: 605, 1783
+  size: 152, 116
+  orig: 180, 180
+  offset: 10, 27
+  index: -1
+oil_cooler_id1_icon
+  rotate: false
+  xy: 759, 1781
+  size: 150, 118
+  orig: 180, 180
+  offset: 11, 31
+  index: -1
+suspension_id1_icon
+  rotate: false
+  xy: 911, 1767
+  size: 148, 132
+  orig: 180, 180
+  offset: 17, 21
+  index: -1
+suspension_id9_icon
+  rotate: false
+  xy: 1061, 1767
+  size: 148, 132
+  orig: 180, 180
+  offset: 17, 21
+  index: -1
+suspension_id26_icon
+  rotate: false
+  xy: 1211, 1768
+  size: 148, 131
+  orig: 180, 180
+  offset: 14, 23
+  index: -1
+blueprint_center_bumper_orange
+  rotate: false
+  xy: 1361, 1756
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_center_bumper_red
+  rotate: false
+  xy: 1506, 1756
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_center_bumper_violet
+  rotate: false
+  xy: 1651, 1756
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_center_bumper_white
+  rotate: false
+  xy: 1796, 1759
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+trunk_part_id3_icon
+  rotate: false
+  xy: 450, 1704
+  size: 150, 80
+  orig: 180, 180
+  offset: 15, 45
+  index: -1
+trunk_part_id4_icon
+  rotate: false
+  xy: 602, 1701
+  size: 150, 80
+  orig: 180, 180
+  offset: 15, 45
+  index: -1
+trunk_part_id5_icon
+  rotate: false
+  xy: 754, 1699
+  size: 150, 80
+  orig: 180, 180
+  offset: 15, 45
+  index: -1
+hood_part_id5_icon
+  rotate: false
+  xy: 906, 1674
+  size: 149, 91
+  orig: 180, 180
+  offset: 16, 43
+  index: -1
+brake_pad_id8_icon
+  rotate: false
+  xy: 1057, 1652
+  size: 148, 113
+  orig: 180, 180
+  offset: 15, 36
+  index: -1
+brake_pad_id4_icon
+  rotate: false
+  xy: 301, 1611
+  size: 147, 120
+  orig: 180, 180
+  offset: 14, 28
+  index: -1
+exhaust_outlet_id5_icon
+  rotate: false
+  xy: 450, 1586
+  size: 148, 116
+  orig: 180, 180
+  offset: 17, 27
+  index: -1
+brake_pad_id6_icon
+  rotate: false
+  xy: 600, 1580
+  size: 145, 119
+  orig: 180, 180
+  offset: 19, 30
+  index: -1
+differential_id2_icon
+  rotate: false
+  xy: 747, 1573
+  size: 145, 124
+  orig: 180, 180
+  offset: 18, 25
+  index: -1
+tires_id6_icon
+  rotate: false
+  xy: 894, 1563
+  size: 148, 109
+  orig: 180, 180
+  offset: 15, 33
+  index: -1
+tires_id7_icon
+  rotate: false
+  xy: 1044, 1541
+  size: 148, 109
+  orig: 180, 180
+  offset: 15, 33
+  index: -1
+tires_id8_icon
+  rotate: false
+  xy: 300, 1500
+  size: 148, 109
+  orig: 180, 180
+  offset: 15, 33
+  index: -1
+tires_pink
+  rotate: false
+  xy: 450, 1475
+  size: 148, 109
+  orig: 180, 180
+  offset: 15, 33
+  index: -1
+tires_id2_icon
+  rotate: false
+  xy: 600, 1469
+  size: 145, 109
+  orig: 180, 180
+  offset: 17, 33
+  index: -1
+blueprint_center_bumper_yellow
+  rotate: false
+  xy: 747, 1428
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_frame_part_blue
+  rotate: false
+  xy: 892, 1418
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_frame_part_green
+  rotate: false
+  xy: 1037, 1396
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+headlight_empty_icon
+  rotate: false
+  xy: 1941, 1811
+  size: 89, 113
+  orig: 180, 180
+  offset: 45, 33
+  index: -1
+intercooler_id1_icon
+  rotate: false
+  xy: 151, 1460
+  size: 146, 103
+  orig: 180, 180
+  offset: 16, 35
+  index: -1
+blueprint_frame_part_orange
+  rotate: false
+  xy: 150, 1315
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_frame_part_red
+  rotate: false
+  xy: 150, 1170
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_frame_part_violet
+  rotate: false
+  xy: 150, 1025
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_frame_part_white
+  rotate: false
+  xy: 150, 880
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_frame_part_yellow
+  rotate: false
+  xy: 150, 735
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_front_bumper_blue
+  rotate: false
+  xy: 150, 590
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_front_bumper_green
+  rotate: false
+  xy: 150, 445
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_front_bumper_orange
+  rotate: false
+  xy: 150, 300
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_front_bumper_red
+  rotate: false
+  xy: 150, 155
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_front_bumper_violet
+  rotate: false
+  xy: 150, 10
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+tires_violet
+  rotate: false
+  xy: 299, 1389
+  size: 148, 109
+  orig: 180, 180
+  offset: 15, 33
+  index: -1
+blueprint_front_bumper_white
+  rotate: false
+  xy: 295, 1244
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_front_bumper_yellow
+  rotate: false
+  xy: 295, 1099
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_hood_part_blue
+  rotate: false
+  xy: 295, 954
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_hood_part_green
+  rotate: false
+  xy: 295, 809
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_hood_part_orange
+  rotate: false
+  xy: 295, 664
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_hood_part_red
+  rotate: false
+  xy: 295, 519
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_hood_part_violet
+  rotate: false
+  xy: 295, 374
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_hood_part_white
+  rotate: false
+  xy: 295, 229
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_hood_part_yellow
+  rotate: false
+  xy: 295, 84
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+tires_yellow
+  rotate: false
+  xy: 449, 1364
+  size: 148, 109
+  orig: 180, 180
+  offset: 15, 33
+  index: -1
+blueprint_rear_bumper_blue
+  rotate: false
+  xy: 440, 1219
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_rear_bumper_green
+  rotate: false
+  xy: 440, 1074
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_rear_bumper_orange
+  rotate: false
+  xy: 440, 929
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_rear_bumper_red
+  rotate: false
+  xy: 440, 784
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_rear_bumper_violet
+  rotate: false
+  xy: 440, 639
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_rear_bumper_white
+  rotate: false
+  xy: 440, 494
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_rear_bumper_yellow
+  rotate: false
+  xy: 440, 349
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_roof_part_blue
+  rotate: false
+  xy: 440, 204
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_roof_part_green
+  rotate: false
+  xy: 440, 59
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_roof_part_orange
+  rotate: false
+  xy: 599, 1324
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_roof_part_red
+  rotate: false
+  xy: 585, 1179
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_roof_part_violet
+  rotate: false
+  xy: 585, 1034
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_roof_part_white
+  rotate: false
+  xy: 585, 889
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_roof_part_yellow
+  rotate: false
+  xy: 585, 744
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_spoiler_blue
+  rotate: false
+  xy: 585, 599
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_spoiler_green
+  rotate: false
+  xy: 585, 454
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_spoiler_orange
+  rotate: false
+  xy: 585, 309
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_spoiler_red
+  rotate: false
+  xy: 585, 164
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_spoiler_violet
+  rotate: false
+  xy: 585, 19
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_spoiler_white
+  rotate: false
+  xy: 744, 1283
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_spoiler_yellow
+  rotate: false
+  xy: 889, 1273
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_trunk_part_blue
+  rotate: false
+  xy: 730, 1138
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_trunk_part_green
+  rotate: false
+  xy: 730, 993
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_trunk_part_orange
+  rotate: false
+  xy: 730, 848
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_trunk_part_red
+  rotate: false
+  xy: 730, 703
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_trunk_part_violet
+  rotate: false
+  xy: 730, 558
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_trunk_part_white
+  rotate: false
+  xy: 730, 413
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+blueprint_trunk_part_yellow
+  rotate: false
+  xy: 730, 268
+  size: 143, 143
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+rim_part_2_icon
+  rotate: false
+  xy: 730, 127
+  size: 141, 139
+  orig: 180, 180
+  offset: 20, 18
+  index: -1
+frame_part_id1_icon
+  rotate: false
+  xy: 730, 1
+  size: 139, 124
+  orig: 180, 180
+  offset: 19, 26
+  index: -1
+rim_part_3_icon
+  rotate: false
+  xy: 875, 1132
+  size: 141, 139
+  orig: 180, 180
+  offset: 20, 18
+  index: -1
+rim_part_4_icon
+  rotate: false
+  xy: 875, 991
+  size: 141, 139
+  orig: 180, 180
+  offset: 20, 18
+  index: -1
+rim_part_5_icon
+  rotate: false
+  xy: 875, 850
+  size: 141, 139
+  orig: 180, 180
+  offset: 20, 18
+  index: -1
+rim_part_6_icon
+  rotate: false
+  xy: 875, 709
+  size: 141, 139
+  orig: 180, 180
+  offset: 20, 18
+  index: -1
+blueprint_ecu_orange
+  rotate: false
+  xy: 875, 570
+  size: 141, 137
+  orig: 180, 180
+  offset: 16, 23
+  index: -1
+blueprint_ecu_red
+  rotate: false
+  xy: 875, 431
+  size: 142, 137
+  orig: 180, 180
+  offset: 15, 23
+  index: -1
+blueprint_ecu_white
+  rotate: false
+  xy: 875, 292
+  size: 141, 137
+  orig: 180, 180
+  offset: 16, 23
+  index: -1
+frame_part_id2_icon
+  rotate: false
+  xy: 871, 1
+  size: 139, 124
+  orig: 180, 180
+  offset: 19, 26
+  index: -1
+exhaust_mainfold_id3_icon
+  rotate: false
+  xy: 1034, 1265
+  size: 143, 129
+  orig: 180, 180
+  offset: 17, 21
+  index: -1
+blueprint_camshafts_red
+  rotate: false
+  xy: 1018, 1126
+  size: 140, 137
+  orig: 180, 180
+  offset: 17, 23
+  index: -1
+disk_id12_icon
+  rotate: false
+  xy: 1018, 987
+  size: 138, 137
+  orig: 180, 180
+  offset: 21, 19
+  index: -1
+blueprint_camshafts_blue
+  rotate: false
+  xy: 1018, 848
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_camshafts_green
+  rotate: false
+  xy: 1018, 709
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_camshafts_violet
+  rotate: false
+  xy: 1018, 570
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_camshafts_yellow
+  rotate: false
+  xy: 1019, 431
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_ecu_blue
+  rotate: false
+  xy: 1018, 292
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+tools_size1
+  rotate: false
+  xy: 295, 2
+  size: 100, 80
+  orig: 180, 180
+  offset: 40, 50
+  index: -1
+brake_pad_id3_icon
+  rotate: false
+  xy: 875, 165
+  size: 142, 125
+  orig: 180, 180
+  offset: 14, 26
+  index: -1
+blueprint_ecu_green
+  rotate: false
+  xy: 1019, 153
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_ecu_violet
+  rotate: false
+  xy: 1012, 14
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_ecu_yellow
+  rotate: false
+  xy: 1160, 1126
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_exhaust_mainfold_blue
+  rotate: false
+  xy: 1158, 987
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_exhaust_mainfold_green
+  rotate: false
+  xy: 1157, 848
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_exhaust_mainfold_orange
+  rotate: false
+  xy: 1157, 709
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_exhaust_mainfold_red
+  rotate: false
+  xy: 1157, 570
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_exhaust_mainfold_violet
+  rotate: false
+  xy: 1158, 431
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_exhaust_mainfold_white
+  rotate: false
+  xy: 1157, 292
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_exhaust_mainfold_yellow
+  rotate: false
+  xy: 1158, 153
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_exhaust_outlet_blue
+  rotate: false
+  xy: 1151, 14
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+spring_id128_icon
+  rotate: false
+  xy: 1179, 1265
+  size: 140, 129
+  orig: 180, 180
+  offset: 17, 24
+  index: -1
+blueprint_exhaust_outlet_green
+  rotate: false
+  xy: 1299, 1126
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_exhaust_outlet_orange
+  rotate: false
+  xy: 1297, 987
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_exhaust_outlet_red
+  rotate: false
+  xy: 1296, 848
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_exhaust_outlet_violet
+  rotate: false
+  xy: 1296, 709
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_exhaust_outlet_white
+  rotate: false
+  xy: 1296, 570
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_exhaust_outlet_yellow
+  rotate: false
+  xy: 1297, 431
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_intake_mainfold_blue
+  rotate: false
+  xy: 1296, 292
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_intake_mainfold_green
+  rotate: false
+  xy: 1297, 153
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_intake_mainfold_orange
+  rotate: false
+  xy: 1290, 14
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_intake_mainfold_red
+  rotate: false
+  xy: 1182, 1402
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+brake_pad_empty_icon
+  rotate: false
+  xy: 1194, 1541
+  size: 125, 109
+  orig: 180, 180
+  offset: 27, 35
+  index: -1
+air_filter_id3_icon
+  rotate: false
+  xy: 1207, 1652
+  size: 135, 113
+  orig: 180, 180
+  offset: 22, 31
+  index: -1
+spoiler_id3_icon
+  rotate: false
+  xy: 1344, 1634
+  size: 142, 120
+  orig: 180, 180
+  offset: 18, 29
+  index: -1
+spring_id13_icon
+  rotate: false
+  xy: 1488, 1625
+  size: 142, 129
+  orig: 180, 180
+  offset: 16, 25
+  index: -1
+spring_id14_icon
+  rotate: false
+  xy: 1632, 1625
+  size: 142, 129
+  orig: 180, 180
+  offset: 16, 25
+  index: -1
+blueprint_intake_mainfold_violet
+  rotate: false
+  xy: 1321, 1495
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_intake_mainfold_white
+  rotate: false
+  xy: 1321, 1356
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_intake_mainfold_yellow
+  rotate: false
+  xy: 1460, 1486
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_intercooler_blue
+  rotate: false
+  xy: 1599, 1486
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+spring_id15_icon
+  rotate: false
+  xy: 1460, 1355
+  size: 142, 129
+  orig: 180, 180
+  offset: 16, 25
+  index: -1
+blueprint_intercooler_green
+  rotate: false
+  xy: 1604, 1347
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+spoiler_id22_icon
+  rotate: false
+  xy: 1321, 1271
+  size: 135, 83
+  orig: 180, 180
+  offset: 24, 48
+  index: -1
+spring_id1_icon
+  rotate: false
+  xy: 1458, 1224
+  size: 142, 129
+  orig: 180, 180
+  offset: 16, 25
+  index: -1
+camshafts_id1_icon
+  rotate: false
+  xy: 1602, 1222
+  size: 140, 123
+  orig: 180, 180
+  offset: 21, 23
+  index: -1
+spring_id5_icon
+  rotate: false
+  xy: 1438, 1093
+  size: 142, 129
+  orig: 180, 180
+  offset: 16, 25
+  index: -1
+spring_id9_icon
+  rotate: false
+  xy: 1582, 1091
+  size: 142, 129
+  orig: 180, 180
+  offset: 16, 25
+  index: -1
+suspension_id109_icon
+  rotate: false
+  xy: 1436, 979
+  size: 142, 112
+  orig: 180, 180
+  offset: 19, 36
+  index: -1
+blueprint_intercooler_orange
+  rotate: false
+  xy: 1435, 840
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_intercooler_red
+  rotate: false
+  xy: 1435, 701
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+spring_id132_icon
+  rotate: false
+  xy: 1435, 570
+  size: 140, 129
+  orig: 180, 180
+  offset: 17, 24
+  index: -1
+blueprint_intercooler_violet
+  rotate: false
+  xy: 1436, 431
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_intercooler_white
+  rotate: false
+  xy: 1435, 292
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_intercooler_yellow
+  rotate: false
+  xy: 1436, 153
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_pipes_blue
+  rotate: false
+  xy: 1429, 14
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+spoiler_id1_icon
+  rotate: false
+  xy: 1580, 979
+  size: 141, 110
+  orig: 180, 180
+  offset: 17, 36
+  index: -1
+blueprint_pipes_green
+  rotate: false
+  xy: 1574, 840
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_pipes_orange
+  rotate: false
+  xy: 1574, 701
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_pipes_red
+  rotate: false
+  xy: 1577, 562
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_pipes_violet
+  rotate: false
+  xy: 1575, 423
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+pipes_id1_icon
+  rotate: false
+  xy: 1574, 294
+  size: 140, 127
+  orig: 180, 180
+  offset: 18, 23
+  index: -1
+blueprint_pipes_white
+  rotate: false
+  xy: 1575, 155
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_pipes_yellow
+  rotate: false
+  xy: 1738, 1486
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_westgate_blue
+  rotate: false
+  xy: 1743, 1347
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_westgate_green
+  rotate: false
+  xy: 1744, 1208
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+pipes_id2_icon
+  rotate: false
+  xy: 1726, 1079
+  size: 140, 127
+  orig: 180, 180
+  offset: 18, 23
+  index: -1
+pipes_id3_icon
+  rotate: false
+  xy: 1723, 950
+  size: 140, 127
+  orig: 180, 180
+  offset: 18, 23
+  index: -1
+blueprint_westgate_orange
+  rotate: false
+  xy: 1713, 811
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+spoiler_id12_icon
+  rotate: false
+  xy: 1713, 703
+  size: 138, 106
+  orig: 180, 180
+  offset: 24, 37
+  index: -1
+blueprint_westgate_red
+  rotate: false
+  xy: 1716, 564
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+blueprint_westgate_violet
+  rotate: false
+  xy: 1852, 811
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+air_filter_id6_icon
+  rotate: false
+  xy: 1865, 950
+  size: 134, 127
+  orig: 180, 180
+  offset: 21, 22
+  index: -1
+air_filter_id7_icon
+  rotate: false
+  xy: 1868, 1079
+  size: 134, 127
+  orig: 180, 180
+  offset: 21, 22
+  index: -1
+tires_id3_icon
+  rotate: false
+  xy: 1853, 704
+  size: 139, 105
+  orig: 180, 180
+  offset: 19, 36
+  index: -1
+blueprint_westgate_white
+  rotate: false
+  xy: 1855, 565
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+radiator_id1_icon
+  rotate: false
+  xy: 1776, 1626
+  size: 115, 128
+  orig: 180, 180
+  offset: 28, 23
+  index: -1
+blueprint_westgate_yellow
+  rotate: false
+  xy: 1893, 1620
+  size: 137, 137
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+suspension_id10_icon
+  rotate: false
+  xy: 1877, 1487
+  size: 137, 131
+  orig: 180, 180
+  offset: 19, 23
+  index: -1
+disk_id11_icon
+  rotate: false
+  xy: 1882, 1348
+  size: 137, 137
+  orig: 180, 180
+  offset: 22, 19
+  index: -1
+disk_id5_icon
+  rotate: false
+  xy: 1883, 1209
+  size: 136, 137
+  orig: 180, 180
+  offset: 22, 19
+  index: -1
+disk_id7_icon
+  rotate: false
+  xy: 1568, 14
+  size: 136, 137
+  orig: 180, 180
+  offset: 22, 19
+  index: -1
+disk_id8_icon
+  rotate: false
+  xy: 1706, 16
+  size: 137, 137
+  orig: 180, 180
+  offset: 22, 18
+  index: -1
+exhaust_outlet_id4_icon
+  rotate: false
+  xy: 1716, 445
+  size: 137, 117
+  orig: 180, 180
+  offset: 19, 26
+  index: -1
+frame_part_id4_icon
+  rotate: false
+  xy: 1855, 439
+  size: 139, 124
+  orig: 180, 180
+  offset: 19, 26
+  index: -1
+suspension_id11_icon
+  rotate: false
+  xy: 1716, 312
+  size: 137, 131
+  orig: 180, 180
+  offset: 19, 23
+  index: -1
+pipes_id4_icon
+  rotate: false
+  xy: 1855, 310
+  size: 140, 127
+  orig: 180, 180
+  offset: 18, 23
+  index: -1
+suspension_id12_icon
+  rotate: false
+  xy: 1716, 179
+  size: 137, 131
+  orig: 180, 180
+  offset: 19, 23
+  index: -1
+pipes_id5_icon
+  rotate: false
+  xy: 1855, 181
+  size: 140, 127
+  orig: 180, 180
+  offset: 18, 23
+  index: -1
+pipes_id6_icon
+  rotate: false
+  xy: 1855, 52
+  size: 140, 127
+  orig: 180, 180
+  offset: 18, 23
+  index: -1
+
+UpgradeIcons3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+disk_id13_icon
+  rotate: false
+  xy: 1, 861
+  size: 136, 136
+  orig: 180, 180
+  offset: 22, 19
+  index: -1
+disk_id2_icon
+  rotate: false
+  xy: 1, 723
+  size: 136, 136
+  orig: 180, 180
+  offset: 22, 19
+  index: -1
+disk_id3_icon
+  rotate: false
+  xy: 139, 861
+  size: 136, 136
+  orig: 180, 180
+  offset: 22, 19
+  index: -1
+disk_id6_icon
+  rotate: false
+  xy: 1, 585
+  size: 136, 136
+  orig: 180, 180
+  offset: 22, 19
+  index: -1
+disk_id1_icon
+  rotate: false
+  xy: 139, 724
+  size: 135, 135
+  orig: 180, 180
+  offset: 23, 19
+  index: -1
+disk_id20_icon
+  rotate: false
+  xy: 277, 862
+  size: 135, 135
+  orig: 180, 180
+  offset: 23, 20
+  index: -1
+disk_id21_icon
+  rotate: false
+  xy: 1, 448
+  size: 135, 135
+  orig: 180, 180
+  offset: 23, 20
+  index: -1
+disk_id22_icon
+  rotate: false
+  xy: 139, 587
+  size: 135, 135
+  orig: 180, 180
+  offset: 23, 20
+  index: -1
+rim_part_0_icon
+  rotate: false
+  xy: 1, 310
+  size: 134, 136
+  orig: 180, 180
+  offset: 23, 18
+  index: -1
+disk_id16_icon
+  rotate: false
+  xy: 414, 862
+  size: 134, 135
+  orig: 180, 180
+  offset: 23, 19
+  index: -1
+disk_id18_icon
+  rotate: false
+  xy: 1, 173
+  size: 134, 135
+  orig: 180, 180
+  offset: 23, 19
+  index: -1
+disk_id19_icon
+  rotate: false
+  xy: 550, 862
+  size: 134, 135
+  orig: 180, 180
+  offset: 23, 20
+  index: -1
+disk_id23_icon
+  rotate: false
+  xy: 686, 863
+  size: 135, 134
+  orig: 180, 180
+  offset: 23, 20
+  index: -1
+disk_id4_icon
+  rotate: false
+  xy: 1, 36
+  size: 134, 135
+  orig: 180, 180
+  offset: 23, 20
+  index: -1
+fender_icon
+  rotate: false
+  xy: 823, 864
+  size: 136, 133
+  orig: 180, 180
+  offset: 26, 19
+  index: -1
+suspension_id13_icon
+  rotate: false
+  xy: 961, 866
+  size: 137, 131
+  orig: 180, 180
+  offset: 19, 23
+  index: -1
+suspension_id14_icon
+  rotate: false
+  xy: 1100, 866
+  size: 137, 131
+  orig: 180, 180
+  offset: 19, 23
+  index: -1
+suspension_id15_icon
+  rotate: false
+  xy: 1239, 866
+  size: 137, 131
+  orig: 180, 180
+  offset: 19, 23
+  index: -1
+radiator_id3_icon
+  rotate: false
+  xy: 1378, 870
+  size: 139, 127
+  orig: 180, 180
+  offset: 17, 24
+  index: -1
+frame_part_id5_icon
+  rotate: false
+  xy: 1519, 873
+  size: 139, 124
+  orig: 180, 180
+  offset: 19, 26
+  index: -1
+headlight_id1_icon
+  rotate: false
+  xy: 1660, 871
+  size: 136, 126
+  orig: 180, 180
+  offset: 18, 24
+  index: -1
+disk_id14_icon
+  rotate: false
+  xy: 1798, 863
+  size: 134, 134
+  orig: 180, 180
+  offset: 23, 21
+  index: -1
+brake_id6_icon
+  rotate: false
+  xy: 1934, 872
+  size: 113, 125
+  orig: 180, 180
+  offset: 39, 28
+  index: -1
+spoiler_id9_icon
+  rotate: false
+  xy: 1934, 748
+  size: 113, 122
+  orig: 180, 180
+  offset: 33, 28
+  index: -1
+oil_injectors_id1_icon
+  rotate: false
+  xy: 1519, 774
+  size: 139, 97
+  orig: 180, 180
+  offset: 11, 36
+  index: -1
+spoiler_id6_icon
+  rotate: false
+  xy: 1660, 756
+  size: 136, 113
+  orig: 180, 180
+  offset: 20, 36
+  index: -1
+disk_id15_icon
+  rotate: false
+  xy: 1798, 727
+  size: 134, 134
+  orig: 180, 180
+  offset: 23, 20
+  index: -1
+suspension_id94_icon
+  rotate: false
+  xy: 961, 753
+  size: 140, 111
+  orig: 180, 180
+  offset: 20, 34
+  index: -1
+tires_id5_icon
+  rotate: false
+  xy: 1103, 754
+  size: 140, 110
+  orig: 180, 180
+  offset: 16, 35
+  index: -1
+air_filter_id1_icon
+  rotate: false
+  xy: 1245, 744
+  size: 131, 120
+  orig: 180, 180
+  offset: 28, 27
+  index: -1
+spring_id16_icon
+  rotate: false
+  xy: 1378, 735
+  size: 134, 133
+  orig: 180, 180
+  offset: 16, 23
+  index: -1
+suspension_id68_icon
+  rotate: false
+  xy: 1514, 649
+  size: 135, 123
+  orig: 180, 180
+  offset: 22, 29
+  index: -1
+suspension_id69_icon
+  rotate: false
+  xy: 1651, 631
+  size: 135, 123
+  orig: 180, 180
+  offset: 22, 29
+  index: -1
+spring_id23_icon
+  rotate: false
+  xy: 1788, 592
+  size: 134, 133
+  orig: 180, 180
+  offset: 16, 23
+  index: -1
+spoiler_id15_icon
+  rotate: false
+  xy: 1924, 606
+  size: 123, 119
+  orig: 180, 180
+  offset: 31, 31
+  index: -1
+intercooler_empty_icon
+  rotate: false
+  xy: 1924, 504
+  size: 123, 100
+  orig: 180, 180
+  offset: 28, 36
+  index: -1
+timing_gear_id1_icon
+  rotate: false
+  xy: 139, 470
+  size: 134, 115
+  orig: 180, 180
+  offset: 24, 25
+  index: -1
+differential_icon_empty
+  rotate: false
+  xy: 138, 365
+  size: 133, 103
+  orig: 180, 180
+  offset: 23, 43
+  index: -1
+headlight_id2_icon
+  rotate: false
+  xy: 137, 240
+  size: 133, 123
+  orig: 180, 180
+  offset: 21, 25
+  index: -1
+pipes_empty_icon
+  rotate: false
+  xy: 137, 116
+  size: 132, 122
+  orig: 180, 180
+  offset: 24, 27
+  index: -1
+muffler_id2_icon
+  rotate: false
+  xy: 137, 1
+  size: 132, 113
+  orig: 180, 180
+  offset: 27, 29
+  index: -1
+muffler_id3_icon
+  rotate: false
+  xy: 823, 757
+  size: 131, 105
+  orig: 180, 180
+  offset: 23, 35
+  index: -1
+spoiler_id4_icon
+  rotate: false
+  xy: 1103, 633
+  size: 131, 119
+  orig: 180, 180
+  offset: 23, 27
+  index: -1
+spoiler_id5_icon
+  rotate: false
+  xy: 1236, 630
+  size: 131, 112
+  orig: 180, 180
+  offset: 21, 33
+  index: -1
+air_filter_id4_icon
+  rotate: false
+  xy: 1369, 625
+  size: 130, 108
+  orig: 180, 180
+  offset: 25, 33
+  index: -1
+air_filter_id5_icon
+  rotate: false
+  xy: 1501, 539
+  size: 130, 108
+  orig: 180, 180
+  offset: 25, 33
+  index: -1
+differential_id1_icon
+  rotate: false
+  xy: 1633, 513
+  size: 130, 116
+  orig: 180, 180
+  offset: 27, 33
+  index: -1
+muffler_id1_icon
+  rotate: false
+  xy: 1765, 490
+  size: 130, 100
+  orig: 180, 180
+  offset: 20, 43
+  index: -1
+pneumo_empty_icon
+  rotate: false
+  xy: 277, 742
+  size: 130, 118
+  orig: 180, 180
+  offset: 25, 33
+  index: -1
+westgate_id9_icon
+  rotate: false
+  xy: 276, 618
+  size: 129, 122
+  orig: 180, 180
+  offset: 27, 25
+  index: -1
+ecu_id1_icon
+  rotate: false
+  xy: 409, 742
+  size: 129, 118
+  orig: 180, 180
+  offset: 24, 27
+  index: -1
+roof_part_id1_icon
+  rotate: false
+  xy: 407, 619
+  size: 129, 121
+  orig: 180, 180
+  offset: 26, 28
+  index: -1
+roof_part_empty_icon
+  rotate: false
+  xy: 540, 741
+  size: 129, 119
+  orig: 180, 180
+  offset: 26, 32
+  index: -1
+roof_part_id2_icon
+  rotate: false
+  xy: 538, 618
+  size: 129, 121
+  orig: 180, 180
+  offset: 26, 28
+  index: -1
+camshafts_empty_icon
+  rotate: false
+  xy: 276, 501
+  size: 129, 115
+  orig: 180, 180
+  offset: 26, 30
+  index: -1
+roof_part_id3_icon
+  rotate: false
+  xy: 407, 496
+  size: 129, 121
+  orig: 180, 180
+  offset: 26, 28
+  index: -1
+roof_part_id4_icon
+  rotate: false
+  xy: 538, 495
+  size: 129, 121
+  orig: 180, 180
+  offset: 26, 28
+  index: -1
+tires_id1_icon
+  rotate: false
+  xy: 275, 389
+  size: 130, 110
+  orig: 180, 180
+  offset: 22, 35
+  index: -1
+roof_part_id5_icon
+  rotate: false
+  xy: 407, 373
+  size: 129, 121
+  orig: 180, 180
+  offset: 26, 28
+  index: -1
+pneumo_id1_icon
+  rotate: false
+  xy: 538, 373
+  size: 128, 120
+  orig: 180, 180
+  offset: 26, 33
+  index: -1
+frame_part_empty_icon
+  rotate: false
+  xy: 273, 294
+  size: 129, 93
+  orig: 180, 180
+  offset: 25, 42
+  index: -1
+turbo_1_empty_icon
+  rotate: false
+  xy: 404, 259
+  size: 129, 112
+  orig: 180, 180
+  offset: 26, 28
+  index: -1
+turbo_2_empty_icon
+  rotate: false
+  xy: 404, 259
+  size: 129, 112
+  orig: 180, 180
+  offset: 26, 28
+  index: -1
+spoiler_id7_icon
+  rotate: false
+  xy: 535, 252
+  size: 128, 119
+  orig: 180, 180
+  offset: 23, 30
+  index: -1
+ecu_empty_icon
+  rotate: false
+  xy: 272, 182
+  size: 127, 110
+  orig: 180, 180
+  offset: 26, 29
+  index: -1
+spoiler_id8_icon
+  rotate: false
+  xy: 271, 61
+  size: 127, 119
+  orig: 180, 180
+  offset: 27, 30
+  index: -1
+air_filter_empty_icon
+  rotate: false
+  xy: 401, 142
+  size: 126, 115
+  orig: 180, 180
+  offset: 26, 32
+  index: -1
+center_bumper_empty_icon
+  rotate: false
+  xy: 529, 139
+  size: 126, 111
+  orig: 180, 180
+  offset: 27, 34
+  index: -1
+hood_part_empty_icon
+  rotate: false
+  xy: 400, 33
+  size: 126, 107
+  orig: 180, 180
+  offset: 27, 34
+  index: -1
+muffler_empty_icon
+  rotate: false
+  xy: 528, 33
+  size: 125, 104
+  orig: 180, 180
+  offset: 28, 38
+  index: -1
+brake_id2_icon
+  rotate: false
+  xy: 671, 739
+  size: 112, 121
+  orig: 180, 180
+  offset: 32, 29
+  index: -1
+exhaust_mainfold_id1_icon
+  rotate: false
+  xy: 669, 610
+  size: 116, 127
+  orig: 180, 180
+  offset: 26, 20
+  index: -1
+disk_empty_icon
+  rotate: false
+  xy: 669, 489
+  size: 119, 119
+  orig: 180, 180
+  offset: 30, 29
+  index: -1
+intake_mainfold_icon_empty
+  rotate: false
+  xy: 668, 370
+  size: 120, 117
+  orig: 180, 180
+  offset: 31, 30
+  index: -1
+westgate_id4_icon
+  rotate: false
+  xy: 665, 252
+  size: 124, 116
+  orig: 180, 180
+  offset: 29, 27
+  index: -1
+transmission_id1_icon
+  rotate: false
+  xy: 657, 135
+  size: 124, 115
+  orig: 180, 180
+  offset: 35, 32
+  index: -1
+westgate_id5_icon
+  rotate: false
+  xy: 655, 17
+  size: 124, 116
+  orig: 180, 180
+  offset: 29, 27
+  index: -1
+exhaust_mainfold_empty_icon
+  rotate: false
+  xy: 787, 632
+  size: 119, 123
+  orig: 180, 180
+  offset: 32, 25
+  index: -1
+exhaust_outlet_empty_icon
+  rotate: false
+  xy: 790, 504
+  size: 115, 126
+  orig: 180, 180
+  offset: 34, 26
+  index: -1
+brake_id3_icon
+  rotate: false
+  xy: 790, 376
+  size: 111, 126
+  orig: 180, 180
+  offset: 33, 28
+  index: -1
+brake_id4_icon
+  rotate: false
+  xy: 791, 251
+  size: 111, 123
+  orig: 180, 180
+  offset: 34, 27
+  index: -1
+intake_mainfold_id1_icon
+  rotate: false
+  xy: 783, 129
+  size: 121, 120
+  orig: 180, 180
+  offset: 30, 26
+  index: -1
+westgate_id6_icon
+  rotate: false
+  xy: 781, 11
+  size: 124, 116
+  orig: 180, 180
+  offset: 29, 27
+  index: -1
+intake_mainfold_id2_icon
+  rotate: false
+  xy: 908, 631
+  size: 121, 120
+  orig: 180, 180
+  offset: 30, 26
+  index: -1
+intake_mainfold_id3_icon
+  rotate: false
+  xy: 907, 509
+  size: 121, 120
+  orig: 180, 180
+  offset: 30, 26
+  index: -1
+intake_mainfold_id4_icon
+  rotate: false
+  xy: 907, 387
+  size: 121, 120
+  orig: 180, 180
+  offset: 30, 26
+  index: -1
+wheel_part_empty_icon
+  rotate: false
+  xy: 904, 265
+  size: 120, 120
+  orig: 180, 180
+  offset: 30, 30
+  index: -1
+spoiler_id11_icon
+  rotate: false
+  xy: 906, 142
+  size: 118, 121
+  orig: 180, 180
+  offset: 30, 27
+  index: -1
+brake_id5_icon
+  rotate: false
+  xy: 907, 13
+  size: 109, 127
+  orig: 180, 180
+  offset: 37, 27
+  index: -1
+tools_size3
+  rotate: false
+  xy: 1018, 22
+  size: 111, 118
+  orig: 180, 180
+  offset: 35, 30
+  index: -1
+westgate_id1_icon
+  rotate: false
+  xy: 1026, 268
+  size: 117, 117
+  orig: 180, 180
+  offset: 32, 27
+  index: -1
+westgate_id2_icon
+  rotate: false
+  xy: 1026, 149
+  size: 117, 117
+  orig: 180, 180
+  offset: 32, 27
+  index: -1
+spoiler_id16_icon
+  rotate: false
+  xy: 1030, 387
+  size: 120, 101
+  orig: 180, 180
+  offset: 28, 39
+  index: -1
+westgate_id3_icon
+  rotate: false
+  xy: 1131, 30
+  size: 117, 117
+  orig: 180, 180
+  offset: 32, 27
+  index: -1
+air_filter_id2_icon
+  rotate: false
+  xy: 1250, 518
+  size: 117, 110
+  orig: 180, 180
+  offset: 27, 32
+  index: -1
+brake_empty_icon
+  rotate: false
+  xy: 1369, 512
+  size: 120, 111
+  orig: 180, 180
+  offset: 30, 33
+  index: -1
+spoiler_id18_icon
+  rotate: false
+  xy: 1491, 439
+  size: 123, 98
+  orig: 180, 180
+  offset: 25, 41
+  index: -1
+spoiler_empty_icon
+  rotate: false
+  xy: 1616, 424
+  size: 119, 87
+  orig: 180, 180
+  offset: 29, 45
+  index: -1
+spoiler_id10_icon
+  rotate: false
+  xy: 1737, 377
+  size: 119, 111
+  orig: 180, 180
+  offset: 31, 34
+  index: -1
+bumper_front_icon
+  rotate: false
+  xy: 1858, 373
+  size: 109, 115
+  orig: 180, 180
+  offset: 36, 32
+  index: -1
+transmission_icon_empty
+  rotate: false
+  xy: 1145, 270
+  size: 115, 115
+  orig: 180, 180
+  offset: 32, 32
+  index: -1
+spoiler_id13_icon
+  rotate: false
+  xy: 1145, 154
+  size: 119, 114
+  orig: 180, 180
+  offset: 35, 33
+  index: -1
+spoiler_id17_icon
+  rotate: false
+  xy: 1250, 40
+  size: 116, 112
+  orig: 180, 180
+  offset: 34, 33
+  index: -1
+neon_empty_icon
+  rotate: false
+  xy: 1030, 520
+  size: 108, 109
+  orig: 180, 180
+  offset: 36, 34
+  index: -1
+spring_empty_icon
+  rotate: false
+  xy: 1140, 537
+  size: 86, 94
+  orig: 180, 180
+  offset: 47, 43
+  index: -1
+neon_disk_empty_icon
+  rotate: false
+  xy: 1368, 410
+  size: 109, 100
+  orig: 180, 180
+  offset: 31, 40
+  index: -1

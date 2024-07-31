@@ -1,0 +1,5 @@
+/conf/Conf.go
+
+/proto/out/*
+/main
+*.exe

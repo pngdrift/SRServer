@@ -1,0 +1,544 @@
+
+Dyno.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dyno_horizontal_field
+  rotate: false
+  xy: 1, 989
+  size: 1929, 34
+  orig: 1929, 34
+  offset: 0, 0
+  index: -1
+scale_gears_bg
+  rotate: false
+  xy: 1, 936
+  size: 1212, 51
+  orig: 1212, 51
+  offset: 0, 0
+  index: -1
+data_table_bg
+  rotate: false
+  xy: 1, 400
+  size: 661, 534
+  orig: 661, 534
+  offset: 0, 0
+  index: -1
+start_menu_hint_bg
+  rotate: false
+  xy: 1, 236
+  size: 706, 162
+  orig: 706, 162
+  offset: 0, 0
+  index: -1
+overpass_back
+  rotate: false
+  xy: 1, 120
+  size: 914, 114
+  orig: 914, 114
+  offset: 0, 0
+  index: -1
+overpass_front
+  rotate: false
+  xy: 1, 4
+  size: 914, 114
+  orig: 914, 114
+  offset: 0, 0
+  index: -1
+dyno_hint_graph_bg
+  rotate: false
+  xy: 1215, 858
+  size: 666, 129
+  orig: 666, 129
+  offset: 0, 0
+  index: -1
+scale_active_background
+  rotate: false
+  xy: 917, 794
+  size: 1092, 62
+  orig: 1092, 62
+  offset: 0, 0
+  index: -1
+scale_active_background_b
+  rotate: false
+  xy: 917, 730
+  size: 1092, 62
+  orig: 1092, 62
+  offset: 0, 0
+  index: -1
+icon_transmission_config
+  rotate: false
+  xy: 664, 701
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+button_connect_disabled
+  rotate: false
+  xy: 899, 534
+  size: 455, 194
+  orig: 455, 194
+  offset: 0, 0
+  index: -1
+button_connect_down
+  rotate: false
+  xy: 1356, 534
+  size: 455, 194
+  orig: 455, 194
+  offset: 0, 0
+  index: -1
+button_connect_up
+  rotate: false
+  xy: 917, 338
+  size: 455, 194
+  orig: 455, 194
+  offset: 0, 0
+  index: -1
+button_dyno_save_test_disabled
+  rotate: false
+  xy: 1374, 399
+  size: 301, 133
+  orig: 301, 133
+  offset: 0, 0
+  index: -1
+button_dyno_save_test_down
+  rotate: false
+  xy: 1374, 264
+  size: 301, 133
+  orig: 301, 133
+  offset: 0, 0
+  index: -1
+button_dyno_save_test_up
+  rotate: false
+  xy: 917, 203
+  size: 301, 133
+  orig: 301, 133
+  offset: 0, 0
+  index: -1
+button_transmission_set_disabled
+  rotate: false
+  xy: 664, 567
+  size: 187, 132
+  orig: 187, 132
+  offset: 0, 0
+  index: -1
+button_transmission_set_down
+  rotate: false
+  xy: 1813, 596
+  size: 187, 132
+  orig: 187, 132
+  offset: 0, 0
+  index: -1
+button_transmission_set_up
+  rotate: false
+  xy: 917, 69
+  size: 187, 132
+  orig: 187, 132
+  offset: 0, 0
+  index: -1
+knob
+  rotate: false
+  xy: 1677, 406
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+knob_disabled
+  rotate: false
+  xy: 1220, 210
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+dyno_transmission_bg
+  rotate: false
+  xy: 664, 447
+  size: 122, 118
+  orig: 122, 118
+  offset: 0, 0
+  index: -1
+upper_line
+  rotate: false
+  xy: 1, 1
+  size: 118, 1
+  orig: 118, 1
+  offset: 0, 0
+  index: -1
+shift_widget_text_bg
+  rotate: false
+  xy: 899, 875
+  size: 129, 59
+  orig: 129, 59
+  offset: 0, 0
+  index: -1
+overpass_roller
+  rotate: false
+  xy: 1813, 574
+  size: 165, 20
+  orig: 165, 20
+  offset: 0, 0
+  index: 1
+overpass_roller
+  rotate: false
+  xy: 917, 47
+  size: 165, 20
+  orig: 165, 20
+  offset: 0, 0
+  index: 2
+overpass_roller
+  rotate: false
+  xy: 1030, 914
+  size: 165, 20
+  orig: 165, 20
+  offset: 0, 0
+  index: 3
+manipulator
+  rotate: false
+  xy: 1677, 344
+  size: 116, 60
+  orig: 116, 60
+  offset: 0, 0
+  index: -1
+manipulator_disabled
+  rotate: false
+  xy: 1677, 282
+  size: 116, 60
+  orig: 116, 60
+  offset: 0, 0
+  index: -1
+graph_grid
+  rotate: false
+  xy: 1106, 146
+  size: 110, 55
+  orig: 110, 55
+  offset: 0, 0
+  index: -1
+dyno_vertical_field
+  rotate: false
+  xy: 2011, 457
+  size: 34, 566
+  orig: 34, 566
+  offset: 0, 0
+  index: -1
+start_menu_hint_arrow
+  rotate: false
+  xy: 788, 469
+  size: 67, 96
+  orig: 67, 96
+  offset: 0, 0
+  index: -1
+button_minus
+  rotate: false
+  xy: 1106, 69
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+graph_bg
+  rotate: false
+  xy: 2002, 175
+  size: 6, 553
+  split: 1, 1, 526, 23
+  orig: 6, 553
+  offset: 0, 0
+  index: -1
+arrow_down_lower
+  rotate: false
+  xy: 1813, 517
+  size: 91, 55
+  orig: 91, 55
+  offset: 0, 0
+  index: -1
+button_minus_disabled
+  rotate: false
+  xy: 1805, 440
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+arrow_down_upper
+  rotate: false
+  xy: 1906, 517
+  size: 91, 55
+  orig: 91, 55
+  offset: 0, 0
+  index: -1
+button_minus_down
+  rotate: false
+  xy: 1882, 440
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+scale_line
+  rotate: false
+  xy: 899, 811
+  size: 16, 62
+  orig: 16, 62
+  offset: 0, 0
+  index: -1
+arrow_up_lower
+  rotate: false
+  xy: 1805, 383
+  size: 91, 55
+  orig: 91, 55
+  offset: 0, 0
+  index: -1
+button_plus
+  rotate: false
+  xy: 1795, 306
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+button_plus_disabled
+  rotate: false
+  xy: 1883, 912
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+arrow_up_upper
+  rotate: false
+  xy: 1348, 207
+  size: 91, 55
+  orig: 91, 55
+  offset: 0, 0
+  index: -1
+button_plus_down
+  rotate: false
+  xy: 1441, 187
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+button_adjustment
+  rotate: false
+  xy: 1518, 193
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+button_adjustment_down
+  rotate: false
+  xy: 1588, 193
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+button_icon_minus
+  rotate: false
+  xy: 1898, 369
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+scale_line_b
+  rotate: false
+  xy: 1999, 532
+  size: 1, 62
+  orig: 1, 62
+  offset: 0, 0
+  index: -1
+button_icon_minus_disabled
+  rotate: false
+  xy: 1872, 298
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+button_icon_plus
+  rotate: false
+  xy: 1183, 75
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+info_button
+  rotate: false
+  xy: 1220, 146
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+button_icon_plus_disabled
+  rotate: false
+  xy: 1253, 75
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+data_table_mark_cyan
+  rotate: false
+  xy: 853, 631
+  size: 9, 68
+  orig: 9, 68
+  offset: 0, 0
+  index: -1
+data_table_mark_yellow
+  rotate: false
+  xy: 899, 741
+  size: 9, 68
+  orig: 9, 68
+  offset: 0, 0
+  index: -1
+data_table_divider
+  rotate: false
+  xy: 1348, 268
+  size: 2, 68
+  orig: 2, 68
+  offset: 0, 0
+  index: -1
+price_bg
+  rotate: false
+  xy: 664, 421
+  size: 22, 24
+  split: 8, 8, 7, 7
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+position_knob_down
+  rotate: false
+  xy: 917, 36
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+position_knob_up
+  rotate: false
+  xy: 1084, 58
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+dyno_info_bg
+  rotate: false
+  xy: 1795, 396
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+adj_widget_bg
+  rotate: false
+  xy: 1030, 902
+  size: 10, 10
+  split: 3, 3, 3, 3
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+dyno_graph_bg
+  rotate: false
+  xy: 1805, 526
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+green_line
+  rotate: false
+  xy: 1197, 930
+  size: 4, 4
+  split: 1, 1, 1, 1
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+grey_line
+  rotate: false
+  xy: 788, 463
+  size: 4, 4
+  split: 1, 1, 1, 1
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+red_line
+  rotate: false
+  xy: 1677, 276
+  size: 4, 4
+  split: 1, 1, 1, 1
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+yellow_line
+  rotate: false
+  xy: 917, 869
+  size: 4, 4
+  split: 1, 1, 1, 1
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+adj_tip_bg
+  rotate: false
+  xy: 121, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+adj_widget_divider
+  rotate: false
+  xy: 1999, 529
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+adj_widget_hint
+  rotate: false
+  xy: 124, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+adj_widget_hint_disabled
+  rotate: false
+  xy: 1999, 526
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+adj_widget_value
+  rotate: false
+  xy: 127, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+data_table_textfield_bg
+  rotate: false
+  xy: 1999, 523
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+dyno_menu_bg
+  rotate: false
+  xy: 130, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gear_menu_bg
+  rotate: false
+  xy: 1999, 520
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gear_menu_save_widget_bg
+  rotate: false
+  xy: 1999, 520
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+position_line
+  rotate: false
+  xy: 133, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+scale_bg
+  rotate: false
+  xy: 1999, 517
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

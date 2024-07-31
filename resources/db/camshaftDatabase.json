@@ -1,0 +1,613 @@
+{
+  "camshaftDatabase": {
+    "items": [
+      {
+        "base": {
+          "baseId": 1,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8900,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "camshafts_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "camshaftSwapPoints": [
+          {
+            "index1": 1,
+            "index2": 18
+          },
+          {
+            "index1": 2,
+            "index2": 17
+          },
+          {
+            "index1": 3,
+            "index2": 16
+          },
+          {
+            "index1": 4,
+            "index2": 15
+          },
+          {
+            "index1": 5,
+            "index2": 14
+          },
+          {
+            "index1": 6,
+            "index2": 13
+          },
+          {
+            "index1": 7,
+            "index2": 12
+          },
+          {
+            "index1": 8,
+            "index2": 11
+          },
+          {
+            "index1": 9,
+            "index2": 10
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ]
+      },
+      {
+        "base": {
+          "baseId": 2,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12400,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "camshafts_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "camshaftPoints": [
+          {
+            "index": 7,
+            "torque": 15
+          },
+          {
+            "index": 8,
+            "torque": 14
+          },
+          {
+            "index": 9,
+            "torque": 13
+          },
+          {
+            "index": 10,
+            "torque": 12
+          },
+          {
+            "index": 11,
+            "torque": 11
+          },
+          {
+            "index": 12,
+            "torque": 10
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ]
+      },
+      {
+        "base": {
+          "baseId": 3,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 37960,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "camshafts_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "camshaftPoints": [
+          {
+            "index": 16,
+            "torque": 10
+          },
+          {
+            "index": 17,
+            "torque": 9
+          },
+          {
+            "index": 18,
+            "torque": 8
+          },
+          {
+            "index": 13,
+            "torque": 13
+          },
+          {
+            "index": 14,
+            "torque": 12
+          },
+          {
+            "index": 15,
+            "torque": 11
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ]
+      },
+      {
+        "base": {
+          "baseId": 4,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 250,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "camshafts_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "camshaftPoints": [
+          {
+            "index": 16,
+            "torque": 10
+          },
+          {
+            "index": 17,
+            "torque": 9
+          },
+          {
+            "index": 18,
+            "torque": 8
+          },
+          {
+            "index": 7,
+            "torque": 13
+          },
+          {
+            "index": 8,
+            "torque": 12
+          },
+          {
+            "index": 9,
+            "torque": 11
+          },
+          {
+            "index": 10,
+            "torque": 10
+          },
+          {
+            "index": 11,
+            "torque": 9
+          },
+          {
+            "index": 12,
+            "torque": 8
+          },
+          {
+            "index": 13,
+            "torque": 13
+          },
+          {
+            "index": 14,
+            "torque": 12
+          },
+          {
+            "index": 15,
+            "torque": 11
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ]
+      },
+      {
+        "base": {
+          "baseId": 5,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 250,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "camshafts_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "camshaftPoints": [
+          {
+            "index": 16,
+            "torque": 15
+          },
+          {
+            "index": 17,
+            "torque": 14
+          },
+          {
+            "index": 18,
+            "torque": 13
+          },
+          {
+            "index": 7,
+            "torque": -13
+          },
+          {
+            "index": 8,
+            "torque": -12
+          },
+          {
+            "index": 9,
+            "torque": -11
+          },
+          {
+            "index": 10,
+            "torque": -10
+          },
+          {
+            "index": 11,
+            "torque": -9
+          },
+          {
+            "index": 12,
+            "torque": -8
+          },
+          {
+            "index": 13,
+            "torque": 18
+          },
+          {
+            "index": 14,
+            "torque": 17
+          },
+          {
+            "index": 15,
+            "torque": 16
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ]
+      },
+      {
+        "base": {
+          "baseId": 6,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 560000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "camshafts_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "camshaftPoints": [
+          {
+            "index": 16,
+            "torque": 10
+          },
+          {
+            "index": 17,
+            "torque": 9
+          },
+          {
+            "index": 18,
+            "torque": 8
+          },
+          {
+            "index": 7,
+            "torque": 10
+          },
+          {
+            "index": 8,
+            "torque": 10
+          },
+          {
+            "index": 9,
+            "torque": 10
+          },
+          {
+            "index": 10,
+            "torque": 10
+          },
+          {
+            "index": 11,
+            "torque": 10
+          },
+          {
+            "index": 12,
+            "torque": 10
+          },
+          {
+            "index": 13,
+            "torque": 10
+          },
+          {
+            "index": 14,
+            "torque": 10
+          },
+          {
+            "index": 15,
+            "torque": 10
+          }
+        ],
+        "camshaftSwapPoints": [
+          {
+            "index1": 1,
+            "index2": 18
+          },
+          {
+            "index1": 2,
+            "index2": 17
+          },
+          {
+            "index1": 3,
+            "index2": 16
+          },
+          {
+            "index1": 4,
+            "index2": 15
+          },
+          {
+            "index1": 5,
+            "index2": 14
+          },
+          {
+            "index1": 6,
+            "index2": 13
+          },
+          {
+            "index1": 7,
+            "index2": 12
+          },
+          {
+            "index1": 8,
+            "index2": 11
+          },
+          {
+            "index1": 9,
+            "index2": 10
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ]
+      },
+      {
+        "base": {
+          "baseId": 7,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 820,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "camshafts_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "camshaftPoints": [
+          {
+            "index": 16,
+            "torque": 17
+          },
+          {
+            "index": 17,
+            "torque": 16
+          },
+          {
+            "index": 18,
+            "torque": 15
+          },
+          {
+            "index": 7,
+            "torque": 15
+          },
+          {
+            "index": 8,
+            "torque": 14
+          },
+          {
+            "index": 9,
+            "torque": 13
+          },
+          {
+            "index": 11,
+            "torque": 11
+          },
+          {
+            "index": 12,
+            "torque": 10
+          },
+          {
+            "index": 13,
+            "torque": 20
+          },
+          {
+            "index": 14,
+            "torque": 19
+          },
+          {
+            "index": 15,
+            "torque": 18
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ]
+      },
+      {
+        "base": {
+          "baseId": 8,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 820,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "camshafts_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "camshaftPoints": [
+          {
+            "index": 16,
+            "torque": 22
+          },
+          {
+            "index": 17,
+            "torque": 21
+          },
+          {
+            "index": 18,
+            "torque": 20
+          },
+          {
+            "index": 7,
+            "torque": -20
+          },
+          {
+            "index": 8,
+            "torque": -19
+          },
+          {
+            "index": 9,
+            "torque": -18
+          },
+          {
+            "index": 10,
+            "torque": -17
+          },
+          {
+            "index": 11,
+            "torque": -16
+          },
+          {
+            "index": 12,
+            "torque": -15
+          },
+          {
+            "index": 13,
+            "torque": 25
+          },
+          {
+            "index": 14,
+            "torque": 24
+          },
+          {
+            "index": 15,
+            "torque": 23
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ]
+      },
+      {
+        "base": {
+          "baseId": 10,
+          "weight": 0,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "camshafts_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "camshaftPoints": [
+          {
+            "index": 16,
+            "torque": 10
+          },
+          {
+            "index": 17,
+            "torque": 9
+          },
+          {
+            "index": 18,
+            "torque": 8
+          },
+          {
+            "index": 13,
+            "torque": 13
+          },
+          {
+            "index": 14,
+            "torque": 12
+          },
+          {
+            "index": 15,
+            "torque": 11
+          }
+        ],
+        "classes": [
+          "A", "B", "C", "D", "E", "F", "G", "I", "J", "K", "L"
+        ]
+      }
+    ]
+  }
+}

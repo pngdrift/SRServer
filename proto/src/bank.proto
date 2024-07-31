@@ -1,0 +1,39 @@
+syntax = "proto3";
+
+import "money.proto";
+
+option go_package = "./pb";
+
+package srserver;
+
+message AndroidBankItem {
+    string itemId = 1;
+    string price = 2;
+}
+
+message ExchangeItem {
+    string itemId = 1;
+    Money fromMoney = 2;
+    Money toMoney = 3;
+    int32 order = 4;
+}
+
+message BankItem {
+    string itemId = 1;
+    int32 money = 2;
+    int32 gold = 3;
+    int32 bonus = 4;
+    int32 fuel = 5;
+    int32 lootId = 6;
+    int32 carId = 7;
+    string price = 8;
+    bool special = 9;
+    string date = 10;
+    int32 duration = 11;
+    float revenue = 12;
+}
+
+message Bank {
+    repeated BankItem items = 1;
+    repeated ExchangeItem exchangeItems = 2;
+}

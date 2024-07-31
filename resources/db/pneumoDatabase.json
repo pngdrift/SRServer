@@ -1,0 +1,405 @@
+{
+  "pneumoDatabase": {
+    "items": [
+      {
+        "base": {
+          "baseId": 1,
+          "weight": -1.2000000476837158,
+          "min": -40,
+          "max": 20,
+          "price": {
+            "money": 12400,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pneumo_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "clirence": 0
+      },
+      {
+        "base": {
+          "baseId": 2,
+          "weight": -1.2000000476837158,
+          "min": -60,
+          "max": 30,
+          "price": {
+            "money": 15000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pneumo_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "clirence": 0
+      },
+      {
+        "base": {
+          "baseId": 3,
+          "weight": -1.2000000476837158,
+          "min": -90,
+          "max": 40,
+          "price": {
+            "money": 28740,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pneumo_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "clirence": 0
+      },
+      {
+        "base": {
+          "baseId": 4,
+          "weight": -1.2000000476837158,
+          "min": -100,
+          "max": 30,
+          "price": {
+            "money": 84200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pneumo_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "clirence": 0
+      },
+      {
+        "base": {
+          "baseId": 5,
+          "weight": -1.2000000476837158,
+          "min": -120,
+          "max": 30,
+          "price": {
+            "money": 0,
+            "gold": 450,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pneumo_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "clirence": 0
+      },
+      {
+        "base": {
+          "baseId": 6,
+          "weight": -1.2000000476837158,
+          "min": -120,
+          "max": 30,
+          "price": {
+            "money": 0,
+            "gold": 0,
+            "tournamentPoints": 300,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pneumo_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "clirence": 0
+      },
+      {
+        "base": {
+          "baseId": 7,
+          "weight": -1.2000000476837158,
+          "min": -120,
+          "max": 30,
+          "price": {
+            "money": 13000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pneumo_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "clirence": 0
+      },
+      {
+        "base": {
+          "baseId": 8,
+          "weight": -1.2000000476837158,
+          "min": -120,
+          "max": 30,
+          "price": {
+            "money": 13000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pneumo_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "clirence": 0
+      },
+      {
+        "base": {
+          "baseId": 9,
+          "weight": -1.2000000476837158,
+          "min": -120,
+          "max": 30,
+          "price": {
+            "money": 13000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pneumo_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "clirence": 0
+      },
+      {
+        "base": {
+          "baseId": 10,
+          "weight": -1.2000000476837158,
+          "min": -120,
+          "max": 30,
+          "price": {
+            "money": 13000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pneumo_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "clirence": 0
+      },
+      {
+        "base": {
+          "baseId": 11,
+          "weight": -1.2000000476837158,
+          "min": -120,
+          "max": 30,
+          "price": {
+            "money": 13000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pneumo_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "clirence": 0
+      },
+      {
+        "base": {
+          "baseId": 12,
+          "weight": -1.2000000476837158,
+          "min": -120,
+          "max": 30,
+          "price": {
+            "money": 13000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pneumo_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "clirence": 0
+      },
+      {
+        "base": {
+          "baseId": 13,
+          "weight": -1.2000000476837158,
+          "min": -120,
+          "max": 30,
+          "price": {
+            "money": 13000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pneumo_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "clirence": 0
+      },
+      {
+        "base": {
+          "baseId": 14,
+          "weight": -1.2000000476837158,
+          "min": -120,
+          "max": 30,
+          "price": {
+            "money": 13000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pneumo_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "clirence": 0
+      },
+      {
+        "base": {
+          "baseId": 15,
+          "weight": -1.2000000476837158,
+          "min": -120,
+          "max": 30,
+          "price": {
+            "money": 13000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pneumo_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "clirence": 0
+      },
+      {
+        "base": {
+          "baseId": 16,
+          "weight": -1.2000000476837158,
+          "min": -120,
+          "max": 30,
+          "price": {
+            "money": 13000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pneumo_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "clirence": 0
+      },
+      {
+        "base": {
+          "baseId": 17,
+          "weight": -1.2000000476837158,
+          "min": -100,
+          "max": 30,
+          "price": {
+            "money": 3100,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pneumo_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "clirence": 0
+      },
+      {
+        "base": {
+          "baseId": 1001,
+          "weight": -1.2999999523162842,
+          "min": -95,
+          "max": 50,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pneumo_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 0
+        },
+        "clirence": 0
+      },
+      {
+        "base": {
+          "baseId": 2001,
+          "weight": -1.2000000476837158,
+          "min": 40,
+          "max": 40,
+          "price": {
+            "money": 12400,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "pneumo_id1",
+          "shopIndex": 2,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 1
+        },
+        "clirence": 0
+      }
+    ]
+  }
+}

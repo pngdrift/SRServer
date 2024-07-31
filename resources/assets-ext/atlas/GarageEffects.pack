@@ -1,0 +1,206 @@
+
+GarageEffects.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+engine_slot_max_l1
+  rotate: false
+  xy: 1, 1034
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+engine_slot_max_l2
+  rotate: false
+  xy: 1, 32
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+engine_slot_max_l3
+  rotate: false
+  xy: 1003, 1034
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+engine_slot_clicked
+  rotate: false
+  xy: 1003, 585
+  size: 438, 447
+  orig: 438, 447
+  offset: 0, 0
+  index: 1
+engine_slot_clicked
+  rotate: false
+  xy: 1003, 136
+  size: 438, 447
+  orig: 438, 447
+  offset: 0, 0
+  index: 10
+engine_slot_clicked
+  rotate: false
+  xy: 1443, 585
+  size: 438, 447
+  orig: 438, 447
+  offset: 0, 0
+  index: 11
+engine_slot_clicked
+  rotate: false
+  xy: 1443, 136
+  size: 438, 447
+  orig: 438, 447
+  offset: 0, 0
+  index: 12
+engine_slot_spark
+  rotate: false
+  xy: 1003, 38
+  size: 433, 96
+  orig: 433, 96
+  offset: 0, 0
+  index: -1
+engine_slot_next_sparks
+  rotate: false
+  xy: 1438, 1
+  size: 159, 133
+  orig: 159, 133
+  offset: 0, 0
+  index: -1
+
+GarageEffects2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+engine_slot_clicked
+  rotate: false
+  xy: 1, 1557
+  size: 438, 447
+  orig: 438, 447
+  offset: 0, 0
+  index: 2
+engine_slot_clicked
+  rotate: false
+  xy: 1, 1108
+  size: 438, 447
+  orig: 438, 447
+  offset: 0, 0
+  index: 3
+engine_slot_clicked
+  rotate: false
+  xy: 441, 1557
+  size: 438, 447
+  orig: 438, 447
+  offset: 0, 0
+  index: 4
+engine_slot_clicked
+  rotate: false
+  xy: 1, 659
+  size: 438, 447
+  orig: 438, 447
+  offset: 0, 0
+  index: 5
+engine_slot_clicked
+  rotate: false
+  xy: 441, 1108
+  size: 438, 447
+  orig: 438, 447
+  offset: 0, 0
+  index: 6
+engine_slot_clicked
+  rotate: false
+  xy: 881, 1557
+  size: 438, 447
+  orig: 438, 447
+  offset: 0, 0
+  index: 7
+engine_slot_clicked
+  rotate: false
+  xy: 1, 210
+  size: 438, 447
+  orig: 438, 447
+  offset: 0, 0
+  index: 8
+engine_slot_clicked
+  rotate: false
+  xy: 441, 659
+  size: 438, 447
+  orig: 438, 447
+  offset: 0, 0
+  index: 9
+engine_slot_next_l2
+  rotate: false
+  xy: 881, 1245
+  size: 420, 310
+  orig: 420, 310
+  offset: 0, 0
+  index: -1
+engine_slot_next_l3
+  rotate: false
+  xy: 1321, 1694
+  size: 420, 310
+  orig: 420, 310
+  offset: 0, 0
+  index: -1
+engine_slot_next_glow
+  rotate: false
+  xy: 441, 403
+  size: 369, 254
+  orig: 369, 254
+  offset: 0, 0
+  index: -1
+engine_slot_bg_flash_blue
+  rotate: false
+  xy: 881, 905
+  size: 256, 338
+  orig: 256, 338
+  offset: 0, 0
+  index: -1
+engine_slot_next_l4
+  rotate: false
+  xy: 1, 1
+  size: 373, 207
+  orig: 373, 207
+  offset: 0, 0
+  index: -1
+engine_slot_bg_flash_green
+  rotate: false
+  xy: 1743, 1666
+  size: 256, 338
+  orig: 256, 338
+  offset: 0, 0
+  index: -1
+engine_slot_bg_flash_orange
+  rotate: false
+  xy: 881, 565
+  size: 256, 338
+  orig: 256, 338
+  offset: 0, 0
+  index: -1
+engine_slot_bg_flash_purple
+  rotate: false
+  xy: 1139, 905
+  size: 256, 338
+  orig: 256, 338
+  offset: 0, 0
+  index: -1
+engine_slot_bg_flash_red
+  rotate: false
+  xy: 1139, 565
+  size: 256, 338
+  orig: 256, 338
+  offset: 0, 0
+  index: -1
+engine_slot_bg_flash_yellow
+  rotate: false
+  xy: 441, 63
+  size: 256, 338
+  orig: 256, 338
+  offset: 0, 0
+  index: -1
+engine_slot_next_l1
+  rotate: false
+  xy: 699, 188
+  size: 174, 213
+  orig: 174, 213
+  offset: 0, 0
+  index: -1

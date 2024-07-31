@@ -1,0 +1,490 @@
+{
+  "differentialDatabase": {
+    "items": [
+      {
+        "base": {
+          "baseId": 1,
+          "weight": -0.5,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 55000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "differential_id2",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "driveTraction": 5,
+        "driveChange": true
+      },
+      {
+        "base": {
+          "baseId": 2,
+          "weight": -0.5,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 84000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "differential_id2",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "driveTraction": 8,
+        "driveChange": true
+      },
+      {
+        "base": {
+          "baseId": 3,
+          "weight": -0.800000011920929,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 270000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "differential_id2",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "driveTraction": 10,
+        "driveChange": true
+      },
+      {
+        "base": {
+          "baseId": 4,
+          "weight": -1,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 815,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "differential_id2",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "driveTraction": 10,
+        "driveChange": true
+      },
+      {
+        "base": {
+          "baseId": 5,
+          "weight": -0.5,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 54500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "differential_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 15,
+          "level": 10
+        },
+        "driveTraction": 0,
+        "driveChange": false
+      },
+      {
+        "base": {
+          "baseId": 6,
+          "weight": -0.5,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 83700,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "differential_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 18,
+          "level": 10
+        },
+        "driveTraction": 0,
+        "driveChange": false
+      },
+      {
+        "base": {
+          "baseId": 7,
+          "weight": -0.800000011920929,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 270000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "differential_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 20,
+          "level": 10
+        },
+        "driveTraction": 0,
+        "driveChange": false
+      },
+      {
+        "base": {
+          "baseId": 8,
+          "weight": -1,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 810,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "differential_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 25,
+          "level": 10
+        },
+        "driveTraction": 0,
+        "driveChange": false
+      },
+      {
+        "base": {
+          "baseId": 9,
+          "weight": -0.4000000059604645,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "differential_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "driveTraction": 5,
+        "driveChange": true
+      },
+      {
+        "base": {
+          "baseId": 10,
+          "weight": -0.6000000238418579,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "differential_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "driveTraction": 5,
+        "driveChange": true
+      },
+      {
+        "base": {
+          "baseId": 11,
+          "weight": -0.800000011920929,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 210,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "differential_id2",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "driveTraction": 8,
+        "driveChange": true
+      },
+      {
+        "base": {
+          "baseId": 12,
+          "weight": -1,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 320,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "differential_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "driveTraction": 8,
+        "driveChange": true
+      },
+      {
+        "base": {
+          "baseId": 13,
+          "weight": -0.4000000059604645,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "differential_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 12,
+          "level": 10
+        },
+        "driveTraction": 0,
+        "driveChange": false
+      },
+      {
+        "base": {
+          "baseId": 14,
+          "weight": -0.6000000238418579,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "differential_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 15,
+          "level": 10
+        },
+        "driveTraction": 0,
+        "driveChange": false
+      },
+      {
+        "base": {
+          "baseId": 15,
+          "weight": -0.800000011920929,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 210,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "differential_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 17,
+          "level": 10
+        },
+        "driveTraction": 0,
+        "driveChange": false
+      },
+      {
+        "base": {
+          "baseId": 16,
+          "weight": -1,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 320,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "differential_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 20,
+          "level": 10
+        },
+        "driveTraction": 0,
+        "driveChange": false
+      },
+      {
+        "base": {
+          "baseId": 17,
+          "weight": -1,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 150,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "differential_id2",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "driveTraction": 100,
+        "driveChange": true
+      },
+      {
+        "base": {
+          "baseId": 18,
+          "weight": -1,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 280000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "differential_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "driveTraction": 100,
+        "driveChange": true
+      },
+      {
+        "base": {
+          "baseId": 19,
+          "weight": -1,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 280000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "differential_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "driveTraction": 100,
+        "driveChange": true
+      },
+      {
+        "base": {
+          "baseId": 20,
+          "weight": -1,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 150,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "differential_id2",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "driveTraction": 100,
+        "driveChange": true
+      },
+      {
+        "base": {
+          "baseId": 21,
+          "weight": -1,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 810,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "differential_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 25,
+          "level": 10
+        },
+        "driveTraction": 0,
+        "driveChange": false
+      },
+      {
+        "base": {
+          "baseId": 22,
+          "weight": -0.4000000059604645,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 3000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "differential_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 12,
+          "level": 10
+        },
+        "driveTraction": 0,
+        "driveChange": false
+      }
+    ]
+  }
+}

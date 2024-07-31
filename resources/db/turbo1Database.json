@@ -1,0 +1,2812 @@
+{
+  "turbo1Database": {
+    "items": [
+      {
+        "base": {
+          "baseId": 1,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 25,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 2,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 100,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id2",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 3,
+        "startRpm": 3200,
+        "endRpm": 4500
+      },
+      {
+        "base": {
+          "baseId": 3,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 150,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id3",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 4,
+        "startRpm": 3500,
+        "endRpm": 5000
+      },
+      {
+        "base": {
+          "baseId": 4,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 100,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id4",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 5,
+        "startRpm": 4000,
+        "endRpm": 5200
+      },
+      {
+        "base": {
+          "baseId": 5,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 220,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id4",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 5,
+        "startRpm": 4000,
+        "endRpm": 5200
+      },
+      {
+        "base": {
+          "baseId": 6,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 300,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id5",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 6,
+        "startRpm": 5000,
+        "endRpm": 5500
+      },
+      {
+        "base": {
+          "baseId": 7,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 410,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7,
+        "startRpm": 5500,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 8,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 1.5,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 9,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 12500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 1.899999976158142,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 10,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 2500,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 11,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 100000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 3.799999952316284,
+        "startRpm": 2800,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 12,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 480,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 5.300000190734863,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 13,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 102000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 4.300000190734863,
+        "startRpm": 3000,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 14,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 500,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 4.300000190734863,
+        "startRpm": 4000,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 15,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 540,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 6.300000190734863,
+        "startRpm": 4500,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 16,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 125000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.300000190734863,
+        "startRpm": 3500,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 17,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 520,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id3",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.300000190734863,
+        "startRpm": 4300,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 18,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.800000190734863,
+        "startRpm": 5500,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 19,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.800000190734863,
+        "startRpm": 5500,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 20,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.800000190734863,
+        "startRpm": 5500,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 21,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.800000190734863,
+        "startRpm": 5500,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 22,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.800000190734863,
+        "startRpm": 5500,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 23,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.800000190734863,
+        "startRpm": 5500,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 24,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.800000190734863,
+        "startRpm": 5500,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 25,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.800000190734863,
+        "startRpm": 5500,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 26,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.800000190734863,
+        "startRpm": 5500,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 27,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.800000190734863,
+        "startRpm": 5500,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 28,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 3400,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id4",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 5.800000190734863,
+        "startRpm": 4000,
+        "endRpm": 5200
+      },
+      {
+        "base": {
+          "baseId": 29,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 650,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id7",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.800000190734863,
+        "startRpm": 5500,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 30,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.300000190734863,
+        "startRpm": 4300,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 31,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.300000190734863,
+        "startRpm": 4300,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 32,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.300000190734863,
+        "startRpm": 4300,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 33,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.300000190734863,
+        "startRpm": 4300,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 34,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.300000190734863,
+        "startRpm": 4300,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 35,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.300000190734863,
+        "startRpm": 4300,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 36,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.300000190734863,
+        "startRpm": 4300,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 37,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.300000190734863,
+        "startRpm": 4300,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 38,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.300000190734863,
+        "startRpm": 4300,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 39,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id6",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 7.300000190734863,
+        "startRpm": 4300,
+        "endRpm": 6000
+      },
+      {
+        "base": {
+          "baseId": 40,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 3400,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id4",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        },
+        "psi": 5.800000190734863,
+        "startRpm": 4000,
+        "endRpm": 5200
+      },
+      {
+        "base": {
+          "baseId": 101,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id4",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 5.800000190734863,
+        "startRpm": 4000,
+        "endRpm": 5200
+      },
+      {
+        "base": {
+          "baseId": 201,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 5200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "rotor_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 12.600000381469727,
+        "startRpm": -500,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 202,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 14500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "rotor_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 13.449999809265137,
+        "startRpm": -500,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 203,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 250,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "rotor_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 15.149999618530273,
+        "startRpm": -500,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 204,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6400,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "schnecke_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 12.600000381469727,
+        "startRpm": 0,
+        "endRpm": 500
+      },
+      {
+        "base": {
+          "baseId": 205,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 15700,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "schnecke_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 14.300000190734863,
+        "startRpm": 0,
+        "endRpm": 500
+      },
+      {
+        "base": {
+          "baseId": 206,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 320,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "schnecke_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 15.149999618530273,
+        "startRpm": 0,
+        "endRpm": 500
+      },
+      {
+        "base": {
+          "baseId": 207,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 7300,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "blade_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 12.600000381469727,
+        "startRpm": -250,
+        "endRpm": 250
+      },
+      {
+        "base": {
+          "baseId": 208,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 16800,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "blade_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 13.449999809265137,
+        "startRpm": -250,
+        "endRpm": 250
+      },
+      {
+        "base": {
+          "baseId": 209,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 440,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "blade_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 15.149999618530273,
+        "startRpm": -250,
+        "endRpm": 250
+      },
+      {
+        "base": {
+          "baseId": 210,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "blade_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 15.149999618530273,
+        "startRpm": -250,
+        "endRpm": 250
+      },
+      {
+        "base": {
+          "baseId": 211,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "blade_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 15.149999618530273,
+        "startRpm": -250,
+        "endRpm": 250
+      },
+      {
+        "base": {
+          "baseId": 212,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "blade_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 15.149999618530273,
+        "startRpm": -250,
+        "endRpm": 250
+      },
+      {
+        "base": {
+          "baseId": 213,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "blade_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 15.149999618530273,
+        "startRpm": -250,
+        "endRpm": 250
+      },
+      {
+        "base": {
+          "baseId": 214,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "blade_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 15.149999618530273,
+        "startRpm": -250,
+        "endRpm": 250
+      },
+      {
+        "base": {
+          "baseId": 215,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "blade_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 15.149999618530273,
+        "startRpm": -250,
+        "endRpm": 250
+      },
+      {
+        "base": {
+          "baseId": 216,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "blade_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 15.149999618530273,
+        "startRpm": -250,
+        "endRpm": 250
+      },
+      {
+        "base": {
+          "baseId": 217,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "blade_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 15.149999618530273,
+        "startRpm": -250,
+        "endRpm": 250
+      },
+      {
+        "base": {
+          "baseId": 218,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "blade_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 15.149999618530273,
+        "startRpm": -250,
+        "endRpm": 250
+      },
+      {
+        "base": {
+          "baseId": 219,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 10000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "blade_id1",
+          "shopIndex": 0,
+          "grade": "BLUE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 15.149999618530273,
+        "startRpm": -250,
+        "endRpm": 250
+      },
+      {
+        "base": {
+          "baseId": 220,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 6400,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "schnecke_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 12.600000381469727,
+        "startRpm": 0,
+        "endRpm": 500
+      },
+      {
+        "base": {
+          "baseId": 221,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 78500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "rotor_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 12.600000381469727,
+        "startRpm": -500,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 222,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 590,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "rotor_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 13.449999809265137,
+        "startRpm": -500,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 223,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 720,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "rotor_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 15.149999618530273,
+        "startRpm": -500,
+        "endRpm": 0
+      },
+      {
+        "base": {
+          "baseId": 224,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 80500,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "schnecke_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 12.600000381469727,
+        "startRpm": 0,
+        "endRpm": 500
+      },
+      {
+        "base": {
+          "baseId": 225,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 620,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "schnecke_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 14.300000190734863,
+        "startRpm": 0,
+        "endRpm": 500
+      },
+      {
+        "base": {
+          "baseId": 226,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 750,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "schnecke_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 15.149999618530273,
+        "startRpm": 0,
+        "endRpm": 500
+      },
+      {
+        "base": {
+          "baseId": 227,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 95200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "blade_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 12.600000381469727,
+        "startRpm": -250,
+        "endRpm": 250
+      },
+      {
+        "base": {
+          "baseId": 228,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 650,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "blade_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 13.449999809265137,
+        "startRpm": -250,
+        "endRpm": 250
+      },
+      {
+        "base": {
+          "baseId": 229,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 0,
+            "gold": 780,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "blade_id1",
+          "shopIndex": 1,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 15.149999618530273,
+        "startRpm": -250,
+        "endRpm": 250
+      },
+      {
+        "base": {
+          "baseId": 1001,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1002,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1003,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1004,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1005,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1006,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1007,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1008,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1009,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1010,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1011,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1012,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1013,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1014,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1015,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1016,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1017,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1018,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1019,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1020,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1021,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1022,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1023,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1024,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1025,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1026,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1027,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1028,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1029,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1030,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1031,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1032,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1033,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1034,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1035,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1036,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1037,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1038,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1039,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1040,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1041,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1042,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1043,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1044,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1045,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1046,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1047,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 3000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1048,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 2000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1049,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 2000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1050,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 2000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1051,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 2000,
+        "endRpm": 4000
+      },
+      {
+        "base": {
+          "baseId": 1052,
+          "weight": -0.699999988079071,
+          "min": 0,
+          "max": 0,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "turbo_1_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 5
+        },
+        "psi": 2,
+        "startRpm": 2000,
+        "endRpm": 4000
+      }
+    ]
+  }
+}

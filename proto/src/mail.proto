@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+import "money.proto";
+import "carUpgrade.proto";
+import "item.proto";
+
+option go_package = "./pb";
+
+package srserver;
+
+message MailBox {
+    repeated MailMessage mails = 1;
+    bool isLoaded = 2;
+}
+
+message MailMessage {
+    int64 id = 1;
+    string fromName = 2;
+    int64 fromUid = 3;
+    int64 toUid = 4;
+    int64 time = 5;
+    string title = 6;
+    string message = 7;
+    bool isReaded = 8;
+    bool isSystem = 9;
+    Money money = 10;
+    int32 exp = 11;
+    int32 fuel = 12;
+    repeated CarUpgrade upgrades = 13;
+    repeated Item items = 14;
+}

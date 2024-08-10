@@ -1,0 +1,54 @@
+
+Headlights.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+headlight_id1
+  rotate: false
+  xy: 1, 1210
+  size: 1949, 401
+  orig: 1949, 401
+  offset: 0, 0
+  index: -1
+headlight_id2
+  rotate: false
+  xy: 1, 1210
+  size: 1949, 401
+  orig: 1949, 401
+  offset: 0, 0
+  index: -1
+headlight_id3
+  rotate: false
+  xy: 1, 807
+  size: 1949, 401
+  orig: 1949, 401
+  offset: 0, 0
+  index: -1
+headlight_id4
+  rotate: false
+  xy: 1, 807
+  size: 1949, 401
+  orig: 1949, 401
+  offset: 0, 0
+  index: -1
+headlight_id5
+  rotate: false
+  xy: 1, 807
+  size: 1949, 401
+  orig: 1949, 401
+  offset: 0, 0
+  index: -1
+headlight_id6
+  rotate: false
+  xy: 1, 404
+  size: 1949, 401
+  orig: 1949, 401
+  offset: 0, 0
+  index: -1
+headlight_id7
+  rotate: false
+  xy: 1, 1
+  size: 1949, 401
+  orig: 1949, 401
+  offset: 0, 0
+  index: -1

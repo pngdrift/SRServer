@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option go_package = "./pb";
+
+package srserver;
+
+enum UpgradeGrade {
+    WHITE = 0;
+    GREEN = 1;
+    BLUE = 2;
+    VIOLET = 3;
+    YELLOW = 4;
+    ORANGE = 5;
+    RED = 6;
+    BLACK = 7;
+}

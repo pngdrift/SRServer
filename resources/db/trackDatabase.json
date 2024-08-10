@@ -1,0 +1,948 @@
+{
+  "trackDatabase": {
+    "items": [
+      {
+        "baseId": 4,
+        "ground": "id1/ground",
+        "groundWidth": 12,
+        "groundHeight": 8.125,
+        "groundOffset": 3.700000047683716,
+        "groundFriction": 0.9100000262260437,
+        "groundStep": 3,
+        "type": "NONE",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          }
+        ],
+        "frequency": 0.013000000268220901,
+        "octaveCount": 2,
+        "lacunarity": 0,
+        "persistence": 0,
+        "autoTimesOfDay": true,
+        "finishLineY1": 3.424999952316284,
+        "finishLineY2": 5.579999923706055
+      },
+      {
+        "baseId": 12,
+        "ground": "id3/ground",
+        "groundWidth": 12,
+        "groundHeight": 8.125,
+        "groundOffset": 3.700000047683716,
+        "groundFriction": 0.9100000262260437,
+        "groundStep": 3,
+        "type": "NONE",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id3/1",
+            "offsetFactor": 0.009999999776482582,
+            "width": 12,
+            "height": 2.03125,
+            "offset": 0
+          },
+          {
+            "name": "id3/2",
+            "offsetFactor": 0.800000011920929,
+            "width": 12,
+            "height": 4.0625,
+            "offset": 0
+          }
+        ],
+        "frequency": 0.013000000268220901,
+        "octaveCount": 5,
+        "lacunarity": 1,
+        "persistence": 0.4000000059604645,
+        "autoTimesOfDay": true,
+        "finishLineY1": 3.1875,
+        "finishLineY2": 5.5625
+      },
+      {
+        "baseId": 16,
+        "ground": "id4/ground",
+        "groundWidth": 12,
+        "groundHeight": 8.125,
+        "groundOffset": 3.700000047683716,
+        "groundFriction": 0.8550000190734863,
+        "groundStep": 3,
+        "type": "DIRT",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id4/1",
+            "offsetFactor": 0.699999988079071,
+            "width": 12,
+            "height": 4.0625,
+            "offset": 0.20000000298023224
+          }
+        ],
+        "frequency": 0.01600000075995922,
+        "octaveCount": 3,
+        "lacunarity": 0,
+        "persistence": 0,
+        "autoTimesOfDay": true,
+        "finishLineY1": 3.1875,
+        "finishLineY2": 5.5625
+      },
+      {
+        "baseId": 20,
+        "ground": "id5/ground",
+        "groundWidth": 12,
+        "groundHeight": 10,
+        "groundOffset": 3.299999952316284,
+        "groundFriction": 0.8550000190734863,
+        "groundStep": 3,
+        "type": "ASPHALT",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id5/1",
+            "offsetFactor": 0.20000000298023224,
+            "width": 12,
+            "height": 4.0625,
+            "offset": 1
+          }
+        ],
+        "frequency": 0.013000000268220901,
+        "octaveCount": 2,
+        "lacunarity": 1,
+        "persistence": 0.5,
+        "autoTimesOfDay": true,
+        "finishLineY1": 2.815000057220459,
+        "finishLineY2": 5.184999942779541
+      },
+      {
+        "baseId": 24,
+        "ground": "id6/ground",
+        "groundWidth": 12,
+        "groundHeight": 8.125,
+        "groundOffset": 3.700000047683716,
+        "groundFriction": 0.9100000262260437,
+        "groundStep": 3,
+        "type": "NONE",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id6/1",
+            "offsetFactor": 0.009999999776482582,
+            "width": 12,
+            "height": 2.03125,
+            "offset": 0
+          },
+          {
+            "name": "id6/2",
+            "offsetFactor": 0.4000000059604645,
+            "width": 12,
+            "height": 4.0625,
+            "offset": 0
+          }
+        ],
+        "frequency": 0.013000000268220901,
+        "octaveCount": 3,
+        "lacunarity": 0,
+        "persistence": 0,
+        "autoTimesOfDay": true,
+        "finishLineY1": 3.375,
+        "finishLineY2": 5.425000190734863
+      },
+      {
+        "baseId": 28,
+        "ground": "id7/ground",
+        "groundWidth": 12,
+        "groundHeight": 8.125,
+        "groundOffset": 3.700000047683716,
+        "groundFriction": 0.9100000262260437,
+        "groundStep": 3,
+        "type": "NONE",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id7/1",
+            "offsetFactor": 0.009999999776482582,
+            "width": 12,
+            "height": 2.03125,
+            "offset": 0
+          },
+          {
+            "name": "id7/2",
+            "offsetFactor": 0.699999988079071,
+            "width": 12,
+            "height": 4.0625,
+            "offset": 0
+          }
+        ],
+        "frequency": 0.010999999940395355,
+        "octaveCount": 3,
+        "lacunarity": 0,
+        "persistence": 0,
+        "autoTimesOfDay": true,
+        "finishLineY1": 3.174999952316284,
+        "finishLineY2": 5.625
+      },
+      {
+        "baseId": 30,
+        "ground": "id9/ground",
+        "groundWidth": 11.899999618530273,
+        "groundHeight": 5.900000095367432,
+        "groundOffset": 3.299999952316284,
+        "groundFriction": 0.800000011920929,
+        "groundStep": 3,
+        "type": "DUST",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.0005000000237487257,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id9/1",
+            "offsetFactor": 0.0010000000474974513,
+            "width": 5.900000095367432,
+            "height": 1.399999976158142,
+            "offset": -0.6000000238418579
+          },
+          {
+            "name": "id9/2",
+            "offsetFactor": 0.004999999888241291,
+            "width": 5.900000095367432,
+            "height": 2.9000000953674316,
+            "offset": -0.800000011920929
+          }
+        ],
+        "frequency": 0,
+        "octaveCount": 0,
+        "lacunarity": 0,
+        "persistence": 0,
+        "autoTimesOfDay": true,
+        "finishLineY1": 2.815000057220459,
+        "finishLineY2": 5.400000095367432
+      },
+      {
+        "baseId": 32,
+        "ground": "id11/ground",
+        "groundWidth": 11.899999618530273,
+        "groundHeight": 5.900000095367432,
+        "groundOffset": 2.9000000953674316,
+        "groundFriction": 0.8370000123977661,
+        "groundStep": 3,
+        "type": "NONE",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id11/1",
+            "offsetFactor": 0.10000000149011612,
+            "width": 11.899999618530273,
+            "height": 1.5399999618530273,
+            "offset": 0
+          },
+          {
+            "name": "id11/2",
+            "offsetFactor": 0.30000001192092896,
+            "width": 11.899999618530273,
+            "height": 2.619999885559082,
+            "offset": -0.6000000238418579
+          }
+        ],
+        "frequency": 0,
+        "octaveCount": 0,
+        "lacunarity": 0,
+        "persistence": 0,
+        "autoTimesOfDay": true,
+        "finishLineY1": 2,
+        "finishLineY2": 5
+      },
+      {
+        "baseId": 35,
+        "ground": "id4/ground",
+        "groundWidth": 12,
+        "groundHeight": 8.125,
+        "groundOffset": 3.700000047683716,
+        "groundFriction": 0.800000011920929,
+        "groundStep": 3,
+        "type": "DIRT",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id4/1",
+            "offsetFactor": 0.699999988079071,
+            "width": 12,
+            "height": 4.0625,
+            "offset": 0.20000000298023224
+          }
+        ],
+        "frequency": 0.01600000075995922,
+        "octaveCount": 3,
+        "lacunarity": 0,
+        "persistence": 0,
+        "autoTimesOfDay": true,
+        "finishLineY1": 3.1875,
+        "finishLineY2": 5.5625
+      },
+      {
+        "baseId": 36,
+        "ground": "id1/ground",
+        "groundWidth": 12,
+        "groundHeight": 8.125,
+        "groundOffset": 3.700000047683716,
+        "groundFriction": 0.9100000262260437,
+        "groundStep": 3,
+        "type": "NONE",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          }
+        ],
+        "frequency": 0,
+        "octaveCount": 0,
+        "lacunarity": 0,
+        "persistence": 0,
+        "autoTimesOfDay": true,
+        "finishLineY1": 3.424999952316284,
+        "finishLineY2": 5.579999923706055
+      },
+      {
+        "baseId": 37,
+        "ground": "id3/ground",
+        "groundWidth": 12,
+        "groundHeight": 8.125,
+        "groundOffset": 3.700000047683716,
+        "groundFriction": 0.9100000262260437,
+        "groundStep": 3,
+        "type": "NONE",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id3/1",
+            "offsetFactor": 0.009999999776482582,
+            "width": 12,
+            "height": 2.03125,
+            "offset": 0
+          },
+          {
+            "name": "id3/2",
+            "offsetFactor": 0.800000011920929,
+            "width": 12,
+            "height": 4.0625,
+            "offset": 0
+          }
+        ],
+        "frequency": 0,
+        "octaveCount": 0,
+        "lacunarity": 0,
+        "persistence": 0,
+        "autoTimesOfDay": true,
+        "finishLineY1": 3.1875,
+        "finishLineY2": 5.5625
+      },
+      {
+        "baseId": 38,
+        "ground": "id6/ground",
+        "groundWidth": 12,
+        "groundHeight": 8.125,
+        "groundOffset": 3.700000047683716,
+        "groundFriction": 0.9100000262260437,
+        "groundStep": 3,
+        "type": "NONE",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id6/1",
+            "offsetFactor": 0.009999999776482582,
+            "width": 12,
+            "height": 2.03125,
+            "offset": 0
+          },
+          {
+            "name": "id6/2",
+            "offsetFactor": 0.4000000059604645,
+            "width": 12,
+            "height": 4.0625,
+            "offset": 0
+          }
+        ],
+        "frequency": 0,
+        "octaveCount": 0,
+        "lacunarity": 0,
+        "persistence": 0,
+        "autoTimesOfDay": true,
+        "finishLineY1": 3.375,
+        "finishLineY2": 5.425000190734863
+      },
+      {
+        "baseId": 39,
+        "ground": "id7/ground",
+        "groundWidth": 12,
+        "groundHeight": 8.125,
+        "groundOffset": 3.700000047683716,
+        "groundFriction": 0.9100000262260437,
+        "groundStep": 3,
+        "type": "NONE",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id7/1",
+            "offsetFactor": 0.009999999776482582,
+            "width": 12,
+            "height": 2.03125,
+            "offset": 0
+          },
+          {
+            "name": "id7/2",
+            "offsetFactor": 0.699999988079071,
+            "width": 12,
+            "height": 4.0625,
+            "offset": 0
+          }
+        ],
+        "frequency": 0,
+        "octaveCount": 0,
+        "lacunarity": 0,
+        "persistence": 0,
+        "autoTimesOfDay": true,
+        "finishLineY1": 3.174999952316284,
+        "finishLineY2": 5.625
+      },
+      {
+        "baseId": 40,
+        "ground": "id4/ground",
+        "groundWidth": 12,
+        "groundHeight": 8.125,
+        "groundOffset": 3.700000047683716,
+        "groundFriction": 0.800000011920929,
+        "groundStep": 3,
+        "type": "DIRT",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id4/1",
+            "offsetFactor": 0.699999988079071,
+            "width": 12,
+            "height": 4.0625,
+            "offset": 0.20000000298023224
+          }
+        ],
+        "frequency": 0.01600000075995922,
+        "octaveCount": 5,
+        "lacunarity": 1.5,
+        "persistence": 1.2000000476837158,
+        "autoTimesOfDay": true,
+        "finishLineY1": 3.1875,
+        "finishLineY2": 5.5625
+      },
+      {
+        "baseId": 102,
+        "ground": "id4/ground",
+        "groundWidth": 12,
+        "groundHeight": 8.125,
+        "groundOffset": 3.700000047683716,
+        "groundFriction": 0.8550000190734863,
+        "groundStep": 3,
+        "type": "DIRT",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id4/1",
+            "offsetFactor": 0.699999988079071,
+            "width": 12,
+            "height": 4.0625,
+            "offset": 0.20000000298023224
+          }
+        ],
+        "frequency": 0.01600000075995922,
+        "octaveCount": 3,
+        "lacunarity": 0,
+        "persistence": 0,
+        "autoTimesOfDay": true,
+        "finishLineY1": 3.1875,
+        "finishLineY2": 5.5625
+      },
+      {
+        "baseId": 103,
+        "ground": "id4/ground",
+        "groundWidth": 12,
+        "groundHeight": 8.125,
+        "groundOffset": 3.700000047683716,
+        "groundFriction": 0.8550000190734863,
+        "groundStep": 3,
+        "type": "DIRT",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id4/1",
+            "offsetFactor": 0.699999988079071,
+            "width": 12,
+            "height": 4.0625,
+            "offset": 0.20000000298023224
+          }
+        ],
+        "frequency": 0.01600000075995922,
+        "octaveCount": 3,
+        "lacunarity": 0,
+        "persistence": 0,
+        "autoTimesOfDay": true,
+        "finishLineY1": 3.1875,
+        "finishLineY2": 5.5625
+      },
+      {
+        "baseId": 104,
+        "ground": "id7/ground",
+        "groundWidth": 12,
+        "groundHeight": 8.125,
+        "groundOffset": 3.700000047683716,
+        "groundFriction": 0.9100000262260437,
+        "groundStep": 3,
+        "type": "NONE",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id7/1",
+            "offsetFactor": 0.009999999776482582,
+            "width": 12,
+            "height": 2.03125,
+            "offset": 0
+          },
+          {
+            "name": "id7/2",
+            "offsetFactor": 0.699999988079071,
+            "width": 12,
+            "height": 4.0625,
+            "offset": 0
+          }
+        ],
+        "frequency": 0.010999999940395355,
+        "octaveCount": 3,
+        "lacunarity": 0,
+        "persistence": 0,
+        "autoTimesOfDay": true,
+        "finishLineY1": 3.174999952316284,
+        "finishLineY2": 5.625
+      },
+      {
+        "baseId": 105,
+        "ground": "id3/ground",
+        "groundWidth": 12,
+        "groundHeight": 8.125,
+        "groundOffset": 3.700000047683716,
+        "groundFriction": 0.9179999828338623,
+        "groundStep": 3,
+        "type": "NONE",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id3/1",
+            "offsetFactor": 0.009999999776482582,
+            "width": 12,
+            "height": 2.03125,
+            "offset": 0
+          },
+          {
+            "name": "id3/2",
+            "offsetFactor": 0.800000011920929,
+            "width": 12,
+            "height": 4.0625,
+            "offset": 0
+          }
+        ],
+        "frequency": 0.013000000268220901,
+        "octaveCount": 5,
+        "lacunarity": 1,
+        "persistence": 0.4000000059604645,
+        "autoTimesOfDay": true,
+        "finishLineY1": 3.1875,
+        "finishLineY2": 5.5625
+      },
+      {
+        "baseId": 106,
+        "ground": "id3/ground",
+        "groundWidth": 12,
+        "groundHeight": 8.125,
+        "groundOffset": 3.700000047683716,
+        "groundFriction": 0.9179999828338623,
+        "groundStep": 3,
+        "type": "NONE",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id3/1",
+            "offsetFactor": 0.009999999776482582,
+            "width": 12,
+            "height": 2.03125,
+            "offset": 0
+          },
+          {
+            "name": "id3/2",
+            "offsetFactor": 0.800000011920929,
+            "width": 12,
+            "height": 4.0625,
+            "offset": 0
+          }
+        ],
+        "frequency": 0.013000000268220901,
+        "octaveCount": 5,
+        "lacunarity": 1,
+        "persistence": 0.4000000059604645,
+        "autoTimesOfDay": true,
+        "finishLineY1": 3.1875,
+        "finishLineY2": 5.5625
+      },
+      {
+        "baseId": 108,
+        "ground": "id7/ground",
+        "groundWidth": 12,
+        "groundHeight": 8.125,
+        "groundOffset": 3.700000047683716,
+        "groundFriction": 0.9100000262260437,
+        "groundStep": 3,
+        "type": "NONE",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id7/1",
+            "offsetFactor": 0.009999999776482582,
+            "width": 12,
+            "height": 2.03125,
+            "offset": 0
+          },
+          {
+            "name": "id7/2",
+            "offsetFactor": 0.699999988079071,
+            "width": 12,
+            "height": 4.0625,
+            "offset": 0
+          }
+        ],
+        "frequency": 0.010999999940395355,
+        "octaveCount": 3,
+        "lacunarity": 0,
+        "persistence": 0,
+        "autoTimesOfDay": true,
+        "finishLineY1": 3.174999952316284,
+        "finishLineY2": 5.625
+      },
+      {
+        "baseId": 112,
+        "ground": "id4/ground",
+        "groundWidth": 12,
+        "groundHeight": 8.125,
+        "groundOffset": 3.700000047683716,
+        "groundFriction": 0.8550000190734863,
+        "groundStep": 3,
+        "type": "DIRT",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id4/1",
+            "offsetFactor": 0.699999988079071,
+            "width": 12,
+            "height": 4.0625,
+            "offset": 0.20000000298023224
+          }
+        ],
+        "frequency": 0.01600000075995922,
+        "octaveCount": 3,
+        "lacunarity": 0,
+        "persistence": 0,
+        "autoTimesOfDay": true,
+        "finishLineY1": 3.1875,
+        "finishLineY2": 5.5625
+      },
+      {
+        "baseId": 113,
+        "ground": "id3/ground",
+        "groundWidth": 12,
+        "groundHeight": 8.125,
+        "groundOffset": 3.700000047683716,
+        "groundFriction": 0.9100000262260437,
+        "groundStep": 3,
+        "type": "NONE",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id3/1",
+            "offsetFactor": 0.009999999776482582,
+            "width": 12,
+            "height": 2.03125,
+            "offset": 0
+          },
+          {
+            "name": "id3/2",
+            "offsetFactor": 0.800000011920929,
+            "width": 12,
+            "height": 4.0625,
+            "offset": 0
+          }
+        ],
+        "frequency": 0.013000000268220901,
+        "octaveCount": 5,
+        "lacunarity": 1,
+        "persistence": 0.4000000059604645,
+        "autoTimesOfDay": true,
+        "finishLineY1": 3.1875,
+        "finishLineY2": 5.5625
+      },
+      {
+        "baseId": 115,
+        "ground": "id4/ground",
+        "groundWidth": 12,
+        "groundHeight": 8.125,
+        "groundOffset": 3.700000047683716,
+        "groundFriction": 0.8550000190734863,
+        "groundStep": 3,
+        "type": "DIRT",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id4/1",
+            "offsetFactor": 0.699999988079071,
+            "width": 12,
+            "height": 4.0625,
+            "offset": 0.20000000298023224
+          }
+        ],
+        "frequency": 0.01600000075995922,
+        "octaveCount": 3,
+        "lacunarity": 0,
+        "persistence": 0,
+        "autoTimesOfDay": true,
+        "finishLineY1": 3.1875,
+        "finishLineY2": 5.5625
+      },
+      {
+        "baseId": 116,
+        "ground": "id3/ground",
+        "groundWidth": 12,
+        "groundHeight": 8.125,
+        "groundOffset": 3.700000047683716,
+        "groundFriction": 0.9100000262260437,
+        "groundStep": 3,
+        "type": "NONE",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id3/1",
+            "offsetFactor": 0.009999999776482582,
+            "width": 12,
+            "height": 2.03125,
+            "offset": 0
+          },
+          {
+            "name": "id3/2",
+            "offsetFactor": 0.800000011920929,
+            "width": 12,
+            "height": 4.0625,
+            "offset": 0
+          }
+        ],
+        "frequency": 0.013000000268220901,
+        "octaveCount": 5,
+        "lacunarity": 1,
+        "persistence": 0.4000000059604645,
+        "autoTimesOfDay": true,
+        "finishLineY1": 3.1875,
+        "finishLineY2": 5.5625
+      },
+      {
+        "baseId": 217,
+        "ground": "id5/ground",
+        "groundWidth": 12,
+        "groundHeight": 10,
+        "groundOffset": 3.299999952316284,
+        "groundFriction": 0.8550000190734863,
+        "groundStep": 3,
+        "type": "ASPHALT",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.004999999888241291,
+            "width": 12.800000190734863,
+            "height": 6.400000095367432,
+            "offset": 0
+          },
+          {
+            "name": "id5/1",
+            "offsetFactor": 0.20000000298023224,
+            "width": 12,
+            "height": 4.0625,
+            "offset": 1
+          }
+        ],
+        "frequency": 0.013000000268220901,
+        "octaveCount": 2,
+        "lacunarity": 1,
+        "persistence": 0.5,
+        "autoTimesOfDay": true,
+        "finishLineY1": 2.815000057220459,
+        "finishLineY2": 5.184999942779541
+      },
+      {
+        "baseId": 2018,
+        "ground": "id2/ground",
+        "groundWidth": 10.24,
+        "groundHeight": 7.4,
+        "groundOffset": 2.7,
+        "groundFriction": 0.91,
+        "groundStep": 10,
+        "type": "NONE",
+        "backgrounds": [
+          {
+            "name": "sky",
+            "offsetFactor": 0.001,
+            "width": 12.8,
+            "height": 6.4,
+            "offset": 0
+          },
+          {
+            "name": "id2/1",
+            "offsetFactor": 0.3,
+            "width": 5.12,
+            "height": 2.56,
+            "offset": 0.1
+          }
+        ],
+        "frequency": 0,
+        "octaveCount": 0,
+        "lacunarity": 0,
+        "persistence": 0,
+        "autoTimesOfDay": true,
+        "finishLineY1": 2.3,
+        "finishLineY2": 4.9
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+
+Tournament.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+get_tryes_bg
+  rotate: false
+  xy: 1, 1712
+  size: 1920, 335
+  orig: 1920, 335
+  offset: 0, 0
+  index: -1
+bottom_orange_panel_bg
+  rotate: false
+  xy: 1, 1508
+  size: 1920, 202
+  split: 130, 136, 73, 1
+  orig: 1920, 202
+  offset: 0, 0
+  index: -1
+hint_orange_bg
+  rotate: false
+  xy: 1, 1446
+  size: 1920, 60
+  orig: 1920, 60
+  offset: 0, 0
+  index: -1
+get_tryes_line
+  rotate: false
+  xy: 1, 1440
+  size: 1920, 4
+  orig: 1920, 4
+  offset: 0, 0
+  index: -1
+tournament_widget_active_bg
+  rotate: false
+  xy: 1, 747
+  size: 470, 691
+  orig: 470, 691
+  offset: 0, 0
+  index: -1
+tournament_widget_future_bg
+  rotate: false
+  xy: 1, 54
+  size: 470, 691
+  orig: 470, 691
+  offset: 0, 0
+  index: -1
+tournament_widget_lose_bg
+  rotate: false
+  xy: 473, 747
+  size: 470, 691
+  orig: 470, 691
+  offset: 0, 0
+  index: -1
+tournament_widget_normal_bg
+  rotate: false
+  xy: 473, 54
+  size: 470, 691
+  orig: 470, 691
+  offset: 0, 0
+  index: -1
+tournament_widget_past_bg
+  rotate: false
+  xy: 945, 747
+  size: 470, 691
+  orig: 470, 691
+  offset: 0, 0
+  index: -1
+tournament_widget_win_bg
+  rotate: false
+  xy: 945, 54
+  size: 470, 691
+  orig: 470, 691
+  offset: 0, 0
+  index: -1
+top_list_bg
+  rotate: false
+  xy: 1417, 618
+  size: 67, 820
+  split: 13, 14, 9, 9
+  orig: 67, 820
+  offset: 0, 0
+  index: -1
+search_circle
+  rotate: false
+  xy: 1486, 1072
+  size: 366, 366
+  orig: 366, 366
+  offset: 0, 0
+  index: -1
+search_circle_p1
+  rotate: false
+  xy: 1486, 704
+  size: 366, 366
+  orig: 366, 366
+  offset: 0, 0
+  index: -1
+win_count_line
+  rotate: false
+  xy: 1, 50
+  size: 644, 2
+  orig: 644, 2
+  offset: 0, 0
+  index: -1
+info_widget_bg
+  rotate: false
+  xy: 1486, 462
+  size: 391, 240
+  orig: 391, 240
+  offset: 0, 0
+  index: -1
+search_circle_p2
+  rotate: false
+  xy: 1417, 94
+  size: 366, 366
+  orig: 366, 366
+  offset: 0, 0
+  index: -1
+info_widget_line
+  rotate: false
+  xy: 1, 46
+  size: 386, 2
+  orig: 386, 2
+  offset: 0, 0
+  index: -1
+completed_line
+  rotate: false
+  xy: 647, 50
+  size: 318, 2
+  orig: 318, 2
+  offset: 0, 0
+  index: -1
+line_blue
+  rotate: false
+  xy: 1417, 91
+  size: 318, 1
+  orig: 318, 1
+  offset: 0, 0
+  index: -1
+line_yellow
+  rotate: false
+  xy: 1, 43
+  size: 318, 1
+  orig: 318, 1
+  offset: 0, 0
+  index: -1
+avatar_mask
+  rotate: false
+  xy: 1785, 257
+  size: 203, 203
+  orig: 203, 203
+  offset: 0, 0
+  index: -1
+place_award_bg
+  rotate: false
+  xy: 1785, 69
+  size: 217, 186
+  orig: 217, 186
+  offset: 0, 0
+  index: -1
+rule_number_bg
+  rotate: false
+  xy: 1417, 1
+  size: 79, 88
+  orig: 79, 88
+  offset: 0, 0
+  index: -1
+top_user_widget_bg
+  rotate: false
+  xy: 1854, 1400
+  size: 38, 38
+  split: 6, 5, 5, 4
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+top_widget_bg
+  rotate: false
+  xy: 1417, 578
+  size: 38, 38
+  split: 6, 5, 5, 4
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+frame_red_bg
+  rotate: false
+  xy: 1923, 2027
+  size: 20, 20
+  split: 7, 7, 7, 7
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+top_devider
+  rotate: false
+  xy: 1, 37
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+
+Tournament2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+win_count_bg
+  rotate: false
+  xy: 1, 237
+  size: 648, 217
+  orig: 648, 217
+  offset: 0, 0
+  index: -1
+search_title_bg
+  rotate: false
+  xy: 1, 106
+  size: 531, 129
+  orig: 531, 129
+  offset: 0, 0
+  index: -1
+search_circle_pulse_glow
+  rotate: false
+  xy: 651, 88
+  size: 366, 366
+  orig: 366, 366
+  offset: 0, 0
+  index: -1
+icon_place_n1
+  rotate: false
+  xy: 1019, 185
+  size: 315, 269
+  orig: 315, 269
+  offset: 0, 0
+  index: -1
+icon_place_n2
+  rotate: false
+  xy: 1336, 185
+  size: 315, 269
+  orig: 315, 269
+  offset: 0, 0
+  index: -1
+icon_place_n3
+  rotate: false
+  xy: 1653, 185
+  size: 315, 269
+  orig: 315, 269
+  offset: 0, 0
+  index: -1
+unsuitable_car_bg
+  rotate: false
+  xy: 1, 1
+  size: 316, 103
+  orig: 316, 103
+  offset: 0, 0
+  index: -1

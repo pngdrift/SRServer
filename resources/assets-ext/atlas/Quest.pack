@@ -1,0 +1,103 @@
+
+Quest.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_beer
+  rotate: false
+  xy: 1, 203
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+icon_blueprint
+  rotate: false
+  xy: 1, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+icon_canister
+  rotate: false
+  xy: 203, 203
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+icon_crescent
+  rotate: false
+  xy: 203, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+icon_cup
+  rotate: false
+  xy: 405, 203
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+icon_dawn
+  rotate: false
+  xy: 405, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+icon_engine
+  rotate: false
+  xy: 607, 203
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+icon_flag
+  rotate: false
+  xy: 607, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+icon_money
+  rotate: false
+  xy: 809, 203
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+icon_stopwatch
+  rotate: false
+  xy: 809, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+icon_sun
+  rotate: false
+  xy: 1011, 203
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+icon_sunset
+  rotate: false
+  xy: 1011, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+icon_upgrade_points
+  rotate: false
+  xy: 1213, 203
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+icon_wheel
+  rotate: false
+  xy: 1213, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

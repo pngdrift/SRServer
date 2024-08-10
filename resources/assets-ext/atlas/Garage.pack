@@ -1,0 +1,1446 @@
+
+Garage.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+item_list_bg
+  rotate: false
+  xy: 1, 1717
+  size: 1920, 328
+  split: 134, 122, 62, 0
+  orig: 1920, 328
+  offset: 0, 0
+  index: -1
+all_left_panel_bg_blue
+  rotate: false
+  xy: 1923, 1031
+  size: 44, 1014
+  split: 0, 5, 0, 0
+  orig: 44, 1014
+  offset: 0, 0
+  index: -1
+all_left_panel_bg_green
+  rotate: false
+  xy: 1969, 1031
+  size: 44, 1014
+  split: 0, 5, 0, 0
+  orig: 44, 1014
+  offset: 0, 0
+  index: -1
+image_button_tournament_timer_bg
+  rotate: false
+  xy: 2015, 1961
+  size: 32, 84
+  split: 6, 5, 6, 6
+  orig: 32, 84
+  offset: 0, 0
+  index: -1
+all_price_bg_blue
+  rotate: false
+  xy: 2015, 1940
+  size: 20, 19
+  split: 8, 8, 8, 7
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+engine_slot_progress
+  rotate: false
+  xy: 2037, 1951
+  size: 8, 8
+  split: 2, 2, 2, 2
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+all_price_bg_green
+  rotate: false
+  xy: 2015, 1919
+  size: 20, 19
+  split: 8, 8, 8, 7
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+all_price_bg_yellow
+  rotate: false
+  xy: 2015, 1898
+  size: 20, 19
+  split: 8, 8, 8, 7
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+bk_line
+  rotate: false
+  xy: 2015, 1883
+  size: 13, 13
+  split: 0, 0, 1, 1
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+item_list_shadow
+  rotate: false
+  xy: 1, 818
+  size: 1920, 211
+  orig: 1920, 211
+  offset: 0, 0
+  index: -1
+all_left_panel_bg_yellow
+  rotate: false
+  xy: 1923, 15
+  size: 44, 1014
+  split: 0, 5, 0, 0
+  orig: 44, 1014
+  offset: 0, 0
+  index: -1
+all_right_panel_bg_blue
+  rotate: false
+  xy: 1969, 15
+  size: 44, 1014
+  split: 5, 0, 0, 0
+  orig: 44, 1014
+  offset: 0, 0
+  index: -1
+improve_body_active
+  rotate: false
+  xy: 1, 1367
+  size: 413, 348
+  orig: 413, 348
+  offset: 0, 0
+  index: -1
+item_list_border
+  rotate: false
+  xy: 1, 1303
+  size: 1920, 62
+  split: 134, 122, 1, 0
+  orig: 1920, 62
+  offset: 0, 0
+  index: -1
+improve_body_disabled
+  rotate: false
+  xy: 416, 1367
+  size: 413, 348
+  orig: 413, 348
+  offset: 0, 0
+  index: -1
+improve_body_down
+  rotate: false
+  xy: 831, 1367
+  size: 413, 348
+  orig: 413, 348
+  offset: 0, 0
+  index: -1
+improve_engine_active
+  rotate: false
+  xy: 1246, 1367
+  size: 413, 348
+  orig: 413, 348
+  offset: 0, 0
+  index: -1
+image_button_green_disabled
+  rotate: false
+  xy: 1661, 1443
+  size: 231, 272
+  orig: 231, 272
+  offset: 0, 0
+  index: -1
+image_button_yellow_disabled
+  rotate: false
+  xy: 1661, 1443
+  size: 231, 272
+  orig: 231, 272
+  offset: 0, 0
+  index: -1
+slider_cursor
+  rotate: false
+  xy: 1661, 1394
+  size: 168, 47
+  orig: 168, 47
+  offset: 0, 0
+  index: -1
+all_sale_item_widget_up
+  rotate: false
+  xy: 1831, 1397
+  size: 43, 44
+  split: 19, 20, 20, 20
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+all_sale_item_widget_checked
+  rotate: false
+  xy: 1876, 1400
+  size: 41, 41
+  split: 18, 19, 18, 19
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+pneumo_bg
+  rotate: false
+  xy: 1, 1085
+  size: 523, 216
+  orig: 523, 216
+  offset: 0, 0
+  index: -1
+title_line
+  rotate: false
+  xy: 1, 1052
+  size: 600, 31
+  orig: 600, 31
+  offset: 0, 0
+  index: -1
+garage_text_line
+  rotate: false
+  xy: 526, 1155
+  size: 369, 146
+  orig: 369, 146
+  offset: 0, 0
+  index: -1
+slider_disabled_cursor
+  rotate: false
+  xy: 526, 1106
+  size: 168, 47
+  orig: 168, 47
+  offset: 0, 0
+  index: -1
+image_button_light
+  rotate: false
+  xy: 603, 1042
+  size: 109, 62
+  orig: 109, 62
+  offset: 0, 0
+  index: -1
+friend_widget_bg
+  rotate: false
+  xy: 696, 1115
+  size: 38, 38
+  split: 8, 11, 6, 7
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+item_list_sort_checked
+  rotate: false
+  xy: 714, 1062
+  size: 125, 51
+  split: 23, 26, 0, 0
+  orig: 125, 51
+  offset: 0, 0
+  index: -1
+upgrade_list_price_tag_bg
+  rotate: false
+  xy: 841, 1045
+  size: 354, 108
+  orig: 354, 108
+  offset: 0, 0
+  index: -1
+top_car_dymmy
+  rotate: false
+  xy: 897, 1161
+  size: 339, 140
+  orig: 339, 140
+  offset: 0, 0
+  index: -1
+image_button_cooldown_bg
+  rotate: false
+  xy: 1197, 1075
+  size: 264, 84
+  split: 33, 5, 33, 33
+  orig: 264, 84
+  offset: 0, 0
+  index: -1
+all_sale_middle_panel_bg
+  rotate: false
+  xy: 1463, 1047
+  size: 333, 254
+  orig: 333, 254
+  offset: 0, 0
+  index: -1
+all_frame_bg_blue
+  rotate: false
+  xy: 1798, 1090
+  size: 110, 211
+  split: 53, 53, 146, 61
+  orig: 110, 211
+  offset: 0, 0
+  index: -1
+icon_main_menu_add_friend
+  rotate: false
+  xy: 1238, 1161
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+improve_engine_disabled
+  rotate: false
+  xy: 1, 468
+  size: 413, 348
+  orig: 413, 348
+  offset: 0, 0
+  index: -1
+improve_engine_down
+  rotate: false
+  xy: 1, 118
+  size: 413, 348
+  orig: 413, 348
+  offset: 0, 0
+  index: -1
+icon_main_menu_inventory
+  rotate: false
+  xy: 1, 1
+  size: 143, 115
+  orig: 143, 115
+  offset: 0, 0
+  index: -1
+icon_main_menu_inventory_disabled
+  rotate: false
+  xy: 146, 1
+  size: 143, 115
+  orig: 143, 115
+  offset: 0, 0
+  index: -1
+icon_main_menu_bank
+  rotate: false
+  xy: 291, 1
+  size: 140, 115
+  orig: 140, 115
+  offset: 0, 0
+  index: -1
+improve_exhaust_active
+  rotate: false
+  xy: 416, 468
+  size: 413, 348
+  orig: 413, 348
+  offset: 0, 0
+  index: -1
+improve_exhaust_disabled
+  rotate: false
+  xy: 416, 118
+  size: 413, 348
+  orig: 413, 348
+  offset: 0, 0
+  index: -1
+icon_main_menu_bank_disabled
+  rotate: false
+  xy: 433, 1
+  size: 140, 115
+  orig: 140, 115
+  offset: 0, 0
+  index: -1
+pneumo_button_down_disabled
+  rotate: false
+  xy: 575, 23
+  size: 138, 93
+  orig: 138, 93
+  offset: 0, 0
+  index: -1
+pneumo_button_down_down
+  rotate: false
+  xy: 715, 23
+  size: 138, 93
+  orig: 138, 93
+  offset: 0, 0
+  index: -1
+improve_exhaust_down
+  rotate: false
+  xy: 831, 468
+  size: 413, 348
+  orig: 413, 348
+  offset: 0, 0
+  index: -1
+improve_suspension_active
+  rotate: false
+  xy: 831, 118
+  size: 413, 348
+  orig: 413, 348
+  offset: 0, 0
+  index: -1
+pneumo_button_down_up
+  rotate: false
+  xy: 855, 23
+  size: 138, 93
+  orig: 138, 93
+  offset: 0, 0
+  index: -1
+pneumo_button_up_disabled
+  rotate: false
+  xy: 995, 23
+  size: 138, 93
+  orig: 138, 93
+  offset: 0, 0
+  index: -1
+pneumo_button_up_down
+  rotate: false
+  xy: 1135, 23
+  size: 138, 93
+  orig: 138, 93
+  offset: 0, 0
+  index: -1
+improve_suspension_disabled
+  rotate: false
+  xy: 1246, 468
+  size: 413, 348
+  orig: 413, 348
+  offset: 0, 0
+  index: -1
+improve_suspension_down
+  rotate: false
+  xy: 1246, 118
+  size: 413, 348
+  orig: 413, 348
+  offset: 0, 0
+  index: -1
+pneumo_button_up_up
+  rotate: false
+  xy: 1275, 23
+  size: 138, 93
+  orig: 138, 93
+  offset: 0, 0
+  index: -1
+slider_disabled_title
+  rotate: false
+  xy: 1415, 27
+  size: 137, 89
+  orig: 137, 89
+  offset: 0, 0
+  index: -1
+slider_title
+  rotate: false
+  xy: 1554, 27
+  size: 137, 89
+  orig: 137, 89
+  offset: 0, 0
+  index: -1
+slider_bg
+  rotate: false
+  xy: 1661, 259
+  size: 127, 557
+  orig: 127, 557
+  offset: 0, 0
+  index: -1
+slider_shadow
+  rotate: false
+  xy: 1693, 84
+  size: 225, 173
+  orig: 225, 173
+  offset: 0, 0
+  index: -1
+slider_disabled_bg
+  rotate: false
+  xy: 1790, 259
+  size: 127, 557
+  orig: 127, 557
+  offset: 0, 0
+  index: -1
+item_list_sort_up
+  rotate: false
+  xy: 1693, 31
+  size: 125, 51
+  split: 23, 26, 0, 0
+  orig: 125, 51
+  offset: 0, 0
+  index: -1
+
+Garage2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+improve_tuning_active
+  rotate: false
+  xy: 1, 1699
+  size: 413, 348
+  orig: 413, 348
+  offset: 0, 0
+  index: -1
+improve_tuning_disabled
+  rotate: false
+  xy: 1, 1349
+  size: 413, 348
+  orig: 413, 348
+  offset: 0, 0
+  index: -1
+improve_tuning_down
+  rotate: false
+  xy: 416, 1699
+  size: 413, 348
+  orig: 413, 348
+  offset: 0, 0
+  index: -1
+improve_turbo_active
+  rotate: false
+  xy: 1, 999
+  size: 413, 348
+  orig: 413, 348
+  offset: 0, 0
+  index: -1
+improve_turbo_disabled
+  rotate: false
+  xy: 416, 1349
+  size: 413, 348
+  orig: 413, 348
+  offset: 0, 0
+  index: -1
+improve_turbo_down
+  rotate: false
+  xy: 831, 1699
+  size: 413, 348
+  orig: 413, 348
+  offset: 0, 0
+  index: -1
+button_carparts_inventory_disabled
+  rotate: false
+  xy: 1, 689
+  size: 373, 308
+  orig: 373, 308
+  offset: 0, 0
+  index: -1
+button_carparts_inventory_down
+  rotate: false
+  xy: 416, 1039
+  size: 373, 308
+  orig: 373, 308
+  offset: 0, 0
+  index: -1
+button_carparts_inventory_up
+  rotate: false
+  xy: 831, 1389
+  size: 373, 308
+  orig: 373, 308
+  offset: 0, 0
+  index: -1
+button_carparts_upgrade_disabled
+  rotate: false
+  xy: 1246, 1739
+  size: 373, 308
+  orig: 373, 308
+  offset: 0, 0
+  index: -1
+button_carparts_upgrade_down
+  rotate: false
+  xy: 1, 379
+  size: 373, 308
+  orig: 373, 308
+  offset: 0, 0
+  index: -1
+button_carparts_upgrade_up
+  rotate: false
+  xy: 1621, 1739
+  size: 373, 308
+  orig: 373, 308
+  offset: 0, 0
+  index: -1
+button_startmenu_challenge_disabled
+  rotate: false
+  xy: 1, 69
+  size: 373, 308
+  orig: 373, 308
+  offset: 0, 0
+  index: -1
+slider_fg
+  rotate: false
+  xy: 376, 486
+  size: 45, 511
+  orig: 45, 511
+  offset: 0, 0
+  index: -1
+button_startmenu_challenge_down
+  rotate: false
+  xy: 423, 729
+  size: 373, 308
+  orig: 373, 308
+  offset: 0, 0
+  index: -1
+button_startmenu_challenge_up
+  rotate: false
+  xy: 423, 419
+  size: 373, 308
+  orig: 373, 308
+  offset: 0, 0
+  index: -1
+button_startmenu_race_disabled
+  rotate: false
+  xy: 376, 109
+  size: 373, 308
+  orig: 373, 308
+  offset: 0, 0
+  index: -1
+button_startmenu_race_down
+  rotate: false
+  xy: 831, 1079
+  size: 373, 308
+  orig: 373, 308
+  offset: 0, 0
+  index: -1
+button_startmenu_race_up
+  rotate: false
+  xy: 798, 769
+  size: 373, 308
+  orig: 373, 308
+  offset: 0, 0
+  index: -1
+button_startmenu_time_disabled
+  rotate: false
+  xy: 798, 459
+  size: 373, 308
+  orig: 373, 308
+  offset: 0, 0
+  index: -1
+improve_arrow_left
+  rotate: false
+  xy: 1206, 1313
+  size: 57, 384
+  orig: 57, 384
+  offset: 0, 0
+  index: -1
+button_startmenu_time_down
+  rotate: false
+  xy: 1265, 1429
+  size: 373, 308
+  orig: 373, 308
+  offset: 0, 0
+  index: -1
+button_startmenu_time_up
+  rotate: false
+  xy: 1640, 1429
+  size: 373, 308
+  orig: 373, 308
+  offset: 0, 0
+  index: -1
+button_startmenu_top_disabled
+  rotate: false
+  xy: 1265, 1119
+  size: 373, 308
+  orig: 373, 308
+  offset: 0, 0
+  index: -1
+button_startmenu_top_down
+  rotate: false
+  xy: 1640, 1119
+  size: 373, 308
+  orig: 373, 308
+  offset: 0, 0
+  index: -1
+improve_arrow_right
+  rotate: false
+  xy: 1206, 927
+  size: 57, 384
+  orig: 57, 384
+  offset: 0, 0
+  index: -1
+button_startmenu_top_up
+  rotate: false
+  xy: 1265, 809
+  size: 373, 308
+  orig: 373, 308
+  offset: 0, 0
+  index: -1
+image_button_green_down
+  rotate: false
+  xy: 1640, 845
+  size: 231, 272
+  orig: 231, 272
+  offset: 0, 0
+  index: -1
+image_button_green_up
+  rotate: false
+  xy: 1173, 535
+  size: 231, 272
+  orig: 231, 272
+  offset: 0, 0
+  index: -1
+image_button_yellow_down
+  rotate: false
+  xy: 1406, 535
+  size: 231, 272
+  orig: 231, 272
+  offset: 0, 0
+  index: -1
+all_frame_bg_green
+  rotate: false
+  xy: 1873, 906
+  size: 110, 211
+  split: 53, 53, 146, 61
+  orig: 110, 211
+  offset: 0, 0
+  index: -1
+image_button_yellow_up
+  rotate: false
+  xy: 751, 145
+  size: 231, 272
+  orig: 231, 272
+  offset: 0, 0
+  index: -1
+icon_engine_menu_dyno
+  rotate: false
+  xy: 984, 224
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+icon_main_menu_info
+  rotate: false
+  xy: 1219, 300
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+icon_main_menu_screenshot_disabled
+  rotate: false
+  xy: 1454, 300
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+slider_disabled_minus
+  rotate: false
+  xy: 751, 1
+  size: 151, 142
+  orig: 151, 142
+  offset: 0, 0
+  index: -1
+slider_disabled_plus
+  rotate: false
+  xy: 904, 1
+  size: 151, 142
+  orig: 151, 142
+  offset: 0, 0
+  index: -1
+icon_main_menu_screenshot_down
+  rotate: false
+  xy: 1219, 65
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+icon_main_menu_screenshot_up
+  rotate: false
+  xy: 1454, 65
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+icon_main_menu_upgrade_list
+  rotate: false
+  xy: 1640, 610
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+icon_main_menu_upgrade_list_active
+  rotate: false
+  xy: 1689, 375
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+icon_muffler_down
+  rotate: false
+  xy: 1689, 140
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+all_frame_bg_yellow
+  rotate: false
+  xy: 1875, 693
+  size: 110, 211
+  split: 53, 53, 146, 61
+  orig: 110, 211
+  offset: 0, 0
+  index: -1
+slider_minus_disabled
+  rotate: false
+  xy: 1057, 80
+  size: 151, 142
+  orig: 151, 142
+  offset: 0, 0
+  index: -1
+
+Garage3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_muffler_left
+  rotate: false
+  xy: 1, 751
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+icon_muffler_right
+  rotate: false
+  xy: 1, 516
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+icon_muffler_top
+  rotate: false
+  xy: 236, 751
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+add_button_bg
+  rotate: false
+  xy: 1, 333
+  size: 182, 181
+  orig: 182, 181
+  offset: 0, 0
+  index: -1
+buy_upgrade_button
+  rotate: false
+  xy: 1, 333
+  size: 182, 181
+  orig: 182, 181
+  offset: 0, 0
+  index: -1
+icon_main_menu_race
+  rotate: false
+  xy: 236, 569
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+icon_main_menu_race_disabled
+  rotate: false
+  xy: 471, 804
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+slider_minus_down
+  rotate: false
+  xy: 1, 189
+  size: 151, 142
+  orig: 151, 142
+  offset: 0, 0
+  index: -1
+slider_minus_up
+  rotate: false
+  xy: 653, 842
+  size: 151, 142
+  orig: 151, 142
+  offset: 0, 0
+  index: -1
+slider_plus_disabled
+  rotate: false
+  xy: 1, 45
+  size: 151, 142
+  orig: 151, 142
+  offset: 0, 0
+  index: -1
+slider_plus_down
+  rotate: false
+  xy: 806, 842
+  size: 151, 142
+  orig: 151, 142
+  offset: 0, 0
+  index: -1
+slider_plus_up
+  rotate: false
+  xy: 959, 842
+  size: 151, 142
+  orig: 151, 142
+  offset: 0, 0
+  index: -1
+icon_main_menu_add_friend_disabled
+  rotate: false
+  xy: 1112, 844
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_bar
+  rotate: false
+  xy: 1254, 844
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_bar_disabled
+  rotate: false
+  xy: 1396, 844
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_body
+  rotate: false
+  xy: 1538, 844
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_body_disabled
+  rotate: false
+  xy: 1680, 844
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_chat
+  rotate: false
+  xy: 1822, 844
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_chat_disabled
+  rotate: false
+  xy: 236, 427
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_city
+  rotate: false
+  xy: 418, 609
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_city_disabled
+  rotate: false
+  xy: 185, 285
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_conversation
+  rotate: false
+  xy: 154, 143
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_conversation_disabled
+  rotate: false
+  xy: 154, 1
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_engine
+  rotate: false
+  xy: 327, 285
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_engine_disabled
+  rotate: false
+  xy: 296, 143
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_group
+  rotate: false
+  xy: 296, 1
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_group_disabled
+  rotate: false
+  xy: 378, 427
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_group_of_game
+  rotate: false
+  xy: 469, 285
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_group_of_game_disabled
+  rotate: false
+  xy: 438, 143
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_mail
+  rotate: false
+  xy: 438, 1
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_mail_disabled
+  rotate: false
+  xy: 560, 662
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_race_challenge
+  rotate: false
+  xy: 702, 700
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_race_challenge_disabled
+  rotate: false
+  xy: 844, 700
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_race_normal
+  rotate: false
+  xy: 986, 700
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_race_normal_disabled
+  rotate: false
+  xy: 1128, 702
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_race_time
+  rotate: false
+  xy: 1270, 702
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_race_time_disabled
+  rotate: false
+  xy: 1412, 702
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_race_top
+  rotate: false
+  xy: 1554, 702
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_race_top_disabled
+  rotate: false
+  xy: 1696, 702
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_suspension
+  rotate: false
+  xy: 1838, 702
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_suspension_disabled
+  rotate: false
+  xy: 560, 520
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_tasks
+  rotate: false
+  xy: 702, 558
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_tasks_disabled
+  rotate: false
+  xy: 844, 558
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_taxi
+  rotate: false
+  xy: 986, 558
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_taxi_disabled
+  rotate: false
+  xy: 1128, 560
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_top
+  rotate: false
+  xy: 1270, 560
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_top_disabled
+  rotate: false
+  xy: 1412, 560
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_tournament
+  rotate: false
+  xy: 1554, 560
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_tournament_disabled
+  rotate: false
+  xy: 1696, 560
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_tuning
+  rotate: false
+  xy: 1838, 560
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_tuning_disabled
+  rotate: false
+  xy: 702, 416
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_upgrade
+  rotate: false
+  xy: 844, 416
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+icon_main_menu_upgrade_disabled
+  rotate: false
+  xy: 986, 416
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+
+Garage4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+engine/circle_center_blue
+  rotate: false
+  xy: 1, 709
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/circle_center_green
+  rotate: false
+  xy: 1, 427
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/circle_center_orange
+  rotate: false
+  xy: 283, 709
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/circle_center_red
+  rotate: false
+  xy: 1, 145
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/circle_center_violet
+  rotate: false
+  xy: 283, 427
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/circle_center_white
+  rotate: false
+  xy: 565, 709
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/circle_center_yellow
+  rotate: false
+  xy: 283, 145
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/circle_flare_white
+  rotate: false
+  xy: 565, 427
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/circle_off_white
+  rotate: false
+  xy: 847, 709
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/circle_on_blue
+  rotate: false
+  xy: 565, 145
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/circle_on_green
+  rotate: false
+  xy: 847, 427
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/circle_on_orange
+  rotate: false
+  xy: 1129, 709
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/circle_on_red
+  rotate: false
+  xy: 847, 145
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/circle_on_violet
+  rotate: false
+  xy: 1129, 427
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/circle_on_white
+  rotate: false
+  xy: 1411, 709
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/circle_on_yellow
+  rotate: false
+  xy: 1129, 145
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/flash_big
+  rotate: false
+  xy: 1411, 427
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/cost_back
+  rotate: false
+  xy: 1, 106
+  size: 280, 37
+  orig: 280, 37
+  offset: 0, 0
+  index: -1
+engine/flash_small
+  rotate: false
+  xy: 1693, 834
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+engine/flare_white
+  rotate: false
+  xy: 1411, 316
+  size: 140, 109
+  orig: 140, 109
+  offset: 0, 0
+  index: -1
+engine/title_line
+  rotate: false
+  xy: 1, 103
+  size: 202, 1
+  orig: 202, 1
+  offset: 0, 0
+  index: -1
+engine/blue
+  rotate: false
+  xy: 1693, 732
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+engine/empty_white
+  rotate: false
+  xy: 1850, 889
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+engine/empty_white_off
+  rotate: false
+  xy: 1411, 214
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+engine/green
+  rotate: false
+  xy: 1553, 325
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+engine/orange
+  rotate: false
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+engine/red
+  rotate: false
+  xy: 1693, 630
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+engine/violet
+  rotate: false
+  xy: 103, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+engine/white
+  rotate: false
+  xy: 1693, 528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+engine/yellow
+  rotate: false
+  xy: 1693, 426
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+Garage5.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+engine/icons/camshaft
+  rotate: false
+  xy: 1, 667
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/icons/cylinder_block
+  rotate: false
+  xy: 1, 385
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/icons/exhaust
+  rotate: false
+  xy: 283, 667
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/icons/fuel_pump
+  rotate: false
+  xy: 1, 103
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/icons/gear
+  rotate: false
+  xy: 283, 385
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/icons/piston
+  rotate: false
+  xy: 565, 667
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/icons/rods
+  rotate: false
+  xy: 283, 103
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/icons/sparks
+  rotate: false
+  xy: 565, 385
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+engine/icons/camshafts_icon
+  rotate: false
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+engine/icons/ecu_icon
+  rotate: false
+  xy: 847, 847
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+engine/icons/oil_cooler_icon
+  rotate: false
+  xy: 565, 283
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+engine/icons/oil_injectors_icon
+  rotate: false
+  xy: 103, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+engine/icons/radiator_icon
+  rotate: false
+  xy: 847, 745
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+engine/icons/timing_gear_icon
+  rotate: false
+  xy: 565, 181
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

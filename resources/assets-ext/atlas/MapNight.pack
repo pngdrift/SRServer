@@ -1,0 +1,99 @@
+
+MapNight.png
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+map
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 0
+map
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 1
+map
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 2
+map
+  rotate: false
+  xy: 1003, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 3
+
+MapNight2.png
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+map
+  rotate: false
+  xy: 1, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 4
+map
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 5
+map
+  rotate: false
+  xy: 1003, 1003
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 6
+map
+  rotate: false
+  xy: 1003, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: 7
+
+MapNight3.png
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+map
+  rotate: false
+  xy: 1, 253
+  size: 1000, 250
+  orig: 1000, 250
+  offset: 0, 0
+  index: 10
+map
+  rotate: false
+  xy: 1, 1
+  size: 1000, 250
+  orig: 1000, 250
+  offset: 0, 0
+  index: 11
+map
+  rotate: false
+  xy: 1003, 253
+  size: 1000, 250
+  orig: 1000, 250
+  offset: 0, 0
+  index: 8
+map
+  rotate: false
+  xy: 1003, 1
+  size: 1000, 250
+  orig: 1000, 250
+  offset: 0, 0
+  index: 9

@@ -1,0 +1,46 @@
+{
+  "timingGearDatabase": {
+    "items": [
+      {
+        "base": {
+          "baseId": 1,
+          "weight": 0,
+          "min": 6,
+          "max": 13,
+          "price": {
+            "money": 106000,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "timing_gear_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        }
+      },
+      {
+        "base": {
+          "baseId": 2,
+          "weight": 0,
+          "min": 6,
+          "max": 13,
+          "price": {
+            "money": 8200,
+            "gold": 0,
+            "tournamentPoints": 0,
+            "topPoints": 0,
+            "upgradePoints": 0
+          },
+          "icon": "timing_gear_id1",
+          "shopIndex": 0,
+          "grade": "WHITE",
+          "control": 0,
+          "level": 10
+        }
+      }
+    ]
+  }
+}

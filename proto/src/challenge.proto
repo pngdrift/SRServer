@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option go_package = "./pb";
+
+package srserver;
+
+message Challenges {
+    repeated ChallengeItem items = 1;
+}
+
+message ChallengeItem {
+    int32 baseId = 1;
+    repeated ChallengeTrack tracks = 2;
+    int32 counter = 3;
+    int64 timer = 4;
+    int64 resetTimer = 5;
+}
+
+message ChallengeTrack {
+    int32 baseId = 1;
+    int64 carId = 2;
+    float bestTime = 3;
+}

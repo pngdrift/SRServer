@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "carUpgrade.proto";
+
+option go_package = "./pb";
+
+package srserver;
+
+message CraftResult {
+    bool success = 1;
+    int64 carId = 2;
+    int64 upgradeId = 3;
+    int64 blueprintId = 4;
+    int64 toolsId = 5;
+    CarUpgrade upgrade = 6;
+}

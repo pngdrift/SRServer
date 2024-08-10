@@ -1,0 +1,767 @@
+
+MitsubisiLancerVIII.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arcs
+  rotate: false
+  xy: 2, 237
+  size: 600, 89
+  orig: 799, 230
+  offset: 121, 23
+  index: -1
+back_details
+  rotate: false
+  xy: 2, 328
+  size: 707, 87
+  orig: 799, 230
+  offset: 56, 18
+  index: -1
+base
+  rotate: false
+  xy: 2, 820
+  size: 711, 202
+  orig: 799, 230
+  offset: 55, 28
+  index: -1
+cabin
+  rotate: false
+  xy: 604, 150
+  size: 401, 101
+  orig: 799, 230
+  offset: 198, 124
+  index: -1
+center_bumper_id3
+  rotate: false
+  xy: 332, 2
+  size: 323, 47
+  orig: 799, 230
+  offset: 252, 12
+  index: -1
+center_bumper_id3_light
+  rotate: false
+  xy: 2, 2
+  size: 328, 47
+  orig: 799, 230
+  offset: 252, 12
+  index: -1
+center_bumper_id3_shadow
+  rotate: false
+  xy: 657, 5
+  size: 323, 47
+  orig: 799, 230
+  offset: 252, 12
+  index: -1
+details
+  rotate: false
+  xy: 2, 51
+  size: 494, 184
+  orig: 799, 230
+  offset: 136, 38
+  index: -1
+front_bumper_id1
+  rotate: false
+  xy: 498, 151
+  size: 102, 84
+  orig: 799, 230
+  offset: 682, 16
+  index: -1
+front_bumper_id3_lights_on
+  rotate: false
+  xy: 965, 82
+  size: 42, 66
+  orig: 799, 230
+  offset: 747, 11
+  index: -1
+front_bumper_id6
+  rotate: false
+  xy: 715, 773
+  size: 305, 137
+  orig: 799, 230
+  offset: 492, 0
+  index: -1
+front_bumper_id6_light
+  rotate: false
+  xy: 715, 367
+  size: 303, 135
+  orig: 799, 230
+  offset: 494, 1
+  index: -1
+front_bumper_id6_shadow
+  rotate: false
+  xy: 715, 504
+  size: 305, 136
+  orig: 799, 230
+  offset: 492, 0
+  index: -1
+glass_notint
+  rotate: false
+  xy: 498, 54
+  size: 465, 94
+  orig: 799, 230
+  offset: 134, 134
+  index: -1
+light
+  rotate: false
+  xy: 2, 618
+  size: 710, 200
+  orig: 799, 230
+  offset: 56, 30
+  index: -1
+parking_lights_off
+  rotate: false
+  xy: 659, 262
+  size: 16, 9
+  orig: 799, 230
+  offset: 563, 94
+  index: -1
+rear_bumper_id4
+  rotate: false
+  xy: 711, 253
+  size: 308, 112
+  orig: 799, 230
+  offset: 36, 17
+  index: -1
+rear_bumper_id4_light
+  rotate: false
+  xy: 715, 912
+  size: 307, 110
+  orig: 799, 230
+  offset: 36, 18
+  index: -1
+rear_bumper_id5
+  rotate: false
+  xy: 714, 642
+  size: 308, 129
+  orig: 799, 230
+  offset: 35, 12
+  index: -1
+rear_lights_off
+  rotate: false
+  xy: 982, 26
+  size: 33, 32
+  orig: 799, 230
+  offset: 52, 102
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 417
+  size: 711, 199
+  orig: 799, 230
+  offset: 55, 28
+  index: -1
+spoiler_id20_shadow
+  rotate: false
+  xy: 604, 273
+  size: 103, 53
+  orig: 799, 230
+  offset: 37, 149
+  index: -1
+spoiler_id3_light
+  rotate: false
+  xy: 604, 257
+  size: 53, 14
+  orig: 799, 230
+  offset: 59, 160
+  index: -1
+spoiler_id3_shadow
+  rotate: false
+  xy: 965, 60
+  size: 50, 20
+  orig: 799, 230
+  offset: 59, 154
+  index: -1
+
+MitsubisiLancerVIII2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arcs_shadow
+  rotate: false
+  xy: 2, 827
+  size: 572, 81
+  orig: 799, 230
+  offset: 122, 20
+  index: -1
+center_bumper_id1
+  rotate: false
+  xy: 586, 459
+  size: 319, 24
+  orig: 799, 230
+  offset: 253, 19
+  index: -1
+center_bumper_id1_light
+  rotate: false
+  xy: 551, 247
+  size: 318, 22
+  orig: 799, 230
+  offset: 253, 21
+  index: -1
+center_bumper_id1_shadow
+  rotate: false
+  xy: 551, 271
+  size: 319, 24
+  orig: 799, 230
+  offset: 253, 19
+  index: -1
+center_bumper_id2
+  rotate: false
+  xy: 2, 53
+  size: 320, 41
+  orig: 799, 230
+  offset: 254, 18
+  index: -1
+center_bumper_id2_light
+  rotate: false
+  xy: 579, 416
+  size: 319, 41
+  orig: 799, 230
+  offset: 254, 18
+  index: -1
+center_bumper_id2_shadow
+  rotate: false
+  xy: 2, 10
+  size: 320, 41
+  orig: 799, 230
+  offset: 254, 18
+  index: -1
+center_bumper_id4
+  rotate: false
+  xy: 586, 783
+  size: 322, 31
+  orig: 799, 230
+  offset: 252, 11
+  index: -1
+center_bumper_id4_light
+  rotate: false
+  xy: 586, 754
+  size: 322, 27
+  orig: 799, 230
+  offset: 252, 15
+  index: -1
+center_bumper_id4_shadow
+  rotate: false
+  xy: 586, 721
+  size: 322, 31
+  orig: 799, 230
+  offset: 252, 11
+  index: -1
+center_bumper_id5
+  rotate: false
+  xy: 579, 376
+  size: 321, 38
+  orig: 799, 230
+  offset: 254, 5
+  index: -1
+center_bumper_id5_light
+  rotate: false
+  xy: 579, 337
+  size: 321, 37
+  orig: 799, 230
+  offset: 254, 6
+  index: -1
+center_bumper_id5_shadow
+  rotate: false
+  xy: 551, 297
+  size: 321, 38
+  orig: 799, 230
+  offset: 254, 5
+  index: -1
+center_bumper_id6
+  rotate: false
+  xy: 586, 681
+  size: 322, 38
+  orig: 799, 230
+  offset: 254, 4
+  index: -1
+center_bumper_id6_light
+  rotate: false
+  xy: 586, 653
+  size: 322, 26
+  orig: 799, 230
+  offset: 254, 15
+  index: -1
+center_bumper_id6_shadow
+  rotate: false
+  xy: 586, 613
+  size: 322, 38
+  orig: 799, 230
+  offset: 254, 4
+  index: -1
+front_bumper_id1_light
+  rotate: false
+  xy: 915, 240
+  size: 101, 80
+  orig: 799, 230
+  offset: 683, 19
+  index: -1
+front_bumper_id1_shadow
+  rotate: false
+  xy: 910, 657
+  size: 102, 84
+  orig: 799, 230
+  offset: 682, 16
+  index: -1
+front_bumper_id2
+  rotate: false
+  xy: 471, 649
+  size: 102, 84
+  orig: 799, 230
+  offset: 682, 16
+  index: -1
+front_bumper_id2_light
+  rotate: false
+  xy: 678, 2
+  size: 97, 81
+  orig: 799, 230
+  offset: 687, 18
+  index: -1
+front_bumper_id2_lights_on
+  rotate: false
+  xy: 965, 557
+  size: 50, 61
+  orig: 799, 230
+  offset: 749, 20
+  index: -1
+front_bumper_id2_shadow
+  rotate: false
+  xy: 561, 79
+  size: 102, 84
+  orig: 799, 230
+  offset: 682, 16
+  index: -1
+front_bumper_id3
+  rotate: false
+  xy: 910, 831
+  size: 99, 90
+  orig: 799, 230
+  offset: 682, 10
+  index: -1
+front_bumper_id3_light
+  rotate: false
+  xy: 910, 743
+  size: 98, 86
+  orig: 799, 230
+  offset: 683, 13
+  index: -1
+front_bumper_id3_shadow
+  rotate: false
+  xy: 469, 735
+  size: 99, 90
+  orig: 799, 230
+  offset: 682, 10
+  index: -1
+front_bumper_id4
+  rotate: false
+  xy: 312, 233
+  size: 237, 111
+  orig: 799, 230
+  offset: 547, 10
+  index: -1
+front_bumper_id4_light
+  rotate: false
+  xy: 324, 9
+  size: 235, 110
+  orig: 799, 230
+  offset: 549, 10
+  index: -1
+front_bumper_id4_shadow
+  rotate: false
+  xy: 312, 121
+  size: 236, 110
+  orig: 799, 230
+  offset: 548, 10
+  index: -1
+front_bumper_id5
+  rotate: false
+  xy: 338, 463
+  size: 246, 126
+  orig: 799, 230
+  offset: 548, 2
+  index: -1
+front_bumper_id5_light
+  rotate: false
+  xy: 338, 346
+  size: 239, 115
+  orig: 799, 230
+  offset: 550, 13
+  index: -1
+front_bumper_id5_shadow
+  rotate: false
+  xy: 586, 485
+  size: 246, 126
+  orig: 799, 230
+  offset: 548, 2
+  index: -1
+front_lights_on
+  rotate: false
+  xy: 834, 516
+  size: 129, 95
+  orig: 799, 230
+  offset: 666, 42
+  index: -1
+glass_tint
+  rotate: false
+  xy: 2, 726
+  size: 465, 99
+  orig: 799, 230
+  offset: 134, 130
+  index: -1
+glass_tint_base
+  rotate: false
+  xy: 550, 923
+  size: 465, 99
+  orig: 799, 230
+  offset: 134, 130
+  index: -1
+rear_bumper_id1
+  rotate: false
+  xy: 902, 322
+  size: 120, 80
+  orig: 799, 230
+  offset: 38, 26
+  index: -1
+rear_bumper_id1_light
+  rotate: false
+  xy: 665, 85
+  size: 119, 71
+  orig: 799, 230
+  offset: 38, 34
+  index: -1
+rear_bumper_id1_shadow
+  rotate: false
+  xy: 551, 165
+  size: 120, 80
+  orig: 799, 230
+  offset: 38, 26
+  index: -1
+rear_bumper_id2
+  rotate: false
+  xy: 907, 404
+  size: 115, 79
+  orig: 799, 230
+  offset: 42, 26
+  index: -1
+rear_bumper_id2_light
+  rotate: false
+  xy: 561, 2
+  size: 115, 75
+  orig: 799, 230
+  offset: 42, 30
+  index: -1
+rear_bumper_id2_shadow
+  rotate: false
+  xy: 906, 59
+  size: 115, 79
+  orig: 799, 230
+  offset: 42, 26
+  index: -1
+rear_bumper_id3
+  rotate: false
+  xy: 673, 158
+  size: 119, 87
+  orig: 799, 230
+  offset: 39, 18
+  index: -1
+rear_bumper_id3_light
+  rotate: false
+  xy: 786, 70
+  size: 118, 86
+  orig: 799, 230
+  offset: 39, 19
+  index: -1
+rear_bumper_id3_shadow
+  rotate: false
+  xy: 794, 158
+  size: 119, 87
+  orig: 799, 230
+  offset: 39, 18
+  index: -1
+rear_bumper_id4_shadow
+  rotate: false
+  xy: 2, 96
+  size: 308, 111
+  orig: 799, 230
+  offset: 36, 17
+  index: -1
+rear_bumper_id5_light
+  rotate: false
+  xy: 2, 209
+  size: 308, 120
+  orig: 799, 230
+  offset: 35, 21
+  index: -1
+rear_bumper_id5_shadow
+  rotate: false
+  xy: 2, 331
+  size: 308, 129
+  orig: 799, 230
+  offset: 35, 12
+  index: -1
+rear_bumper_id6
+  rotate: false
+  xy: 2, 594
+  size: 334, 130
+  orig: 799, 230
+  offset: 35, 11
+  index: -1
+rear_bumper_id6_light
+  rotate: false
+  xy: 576, 816
+  size: 332, 105
+  orig: 799, 230
+  offset: 35, 36
+  index: -1
+rear_bumper_id6_shadow
+  rotate: false
+  xy: 2, 462
+  size: 334, 130
+  orig: 799, 230
+  offset: 35, 11
+  index: -1
+rear_lights_stop
+  rotate: false
+  xy: 338, 591
+  size: 131, 133
+  orig: 799, 230
+  offset: 0, 53
+  index: -1
+spoiler_id1
+  rotate: false
+  xy: 834, 485
+  size: 110, 29
+  orig: 799, 230
+  offset: 30, 175
+  index: -1
+spoiler_id19
+  rotate: false
+  xy: 777, 18
+  size: 100, 50
+  orig: 799, 230
+  offset: 28, 157
+  index: -1
+spoiler_id19_light
+  rotate: false
+  xy: 915, 188
+  size: 100, 50
+  orig: 799, 230
+  offset: 28, 157
+  index: -1
+spoiler_id19_shadow
+  rotate: false
+  xy: 471, 596
+  size: 100, 51
+  orig: 799, 230
+  offset: 28, 156
+  index: -1
+spoiler_id1_shadow
+  rotate: false
+  xy: 2, 910
+  size: 546, 112
+  orig: 799, 230
+  offset: 30, 92
+  index: -1
+spoiler_id2
+  rotate: false
+  xy: 965, 522
+  size: 56, 33
+  orig: 799, 230
+  offset: 56, 155
+  index: -1
+spoiler_id20
+  rotate: false
+  xy: 915, 140
+  size: 103, 46
+  orig: 799, 230
+  offset: 37, 156
+  index: -1
+spoiler_id20_light
+  rotate: false
+  xy: 879, 11
+  size: 101, 46
+  orig: 799, 230
+  offset: 38, 156
+  index: -1
+spoiler_id2_light
+  rotate: false
+  xy: 946, 485
+  size: 49, 29
+  orig: 799, 230
+  offset: 56, 158
+  index: -1
+spoiler_id6_shadow
+  rotate: false
+  xy: 910, 620
+  size: 106, 35
+  orig: 799, 230
+  offset: 11, 156
+  index: -1
+
+MitsubisiLancerVIII3.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front_lights_off
+  rotate: false
+  xy: 698, 101
+  size: 71, 25
+  orig: 799, 230
+  offset: 692, 79
+  index: -1
+parking_lights_on
+  rotate: false
+  xy: 113, 2
+  size: 52, 49
+  orig: 799, 230
+  offset: 545, 74
+  index: -1
+rear_lights_on
+  rotate: false
+  xy: 167, 4
+  size: 48, 47
+  orig: 799, 230
+  offset: 38, 85
+  index: -1
+spoiler_id1_light
+  rotate: false
+  xy: 2, 2
+  size: 109, 16
+  orig: 799, 230
+  offset: 31, 188
+  index: -1
+spoiler_id21
+  rotate: false
+  xy: 455, 88
+  size: 77, 38
+  orig: 799, 230
+  offset: 39, 160
+  index: -1
+spoiler_id21_light
+  rotate: false
+  xy: 534, 88
+  size: 77, 38
+  orig: 799, 230
+  offset: 39, 160
+  index: -1
+spoiler_id21_shadow
+  rotate: false
+  xy: 208, 82
+  size: 77, 44
+  orig: 799, 230
+  offset: 39, 154
+  index: -1
+spoiler_id2_shadow
+  rotate: false
+  xy: 217, 44
+  size: 59, 36
+  orig: 799, 230
+  offset: 56, 152
+  index: -1
+spoiler_id3
+  rotate: false
+  xy: 217, 23
+  size: 53, 19
+  orig: 799, 230
+  offset: 59, 155
+  index: -1
+spoiler_id4
+  rotate: false
+  xy: 2, 74
+  size: 96, 52
+  orig: 799, 230
+  offset: 25, 154
+  index: -1
+spoiler_id4_light
+  rotate: false
+  xy: 100, 53
+  size: 93, 25
+  orig: 799, 230
+  offset: 28, 181
+  index: -1
+spoiler_id4_shadow
+  rotate: false
+  xy: 2, 20
+  size: 96, 52
+  orig: 799, 230
+  offset: 25, 154
+  index: -1
+spoiler_id5
+  rotate: false
+  xy: 846, 106
+  size: 73, 20
+  orig: 799, 230
+  offset: 61, 152
+  index: -1
+spoiler_id5_light
+  rotate: false
+  xy: 362, 69
+  size: 72, 20
+  orig: 799, 230
+  offset: 61, 152
+  index: -1
+spoiler_id5_shadow
+  rotate: false
+  xy: 921, 107
+  size: 74, 19
+  orig: 799, 230
+  offset: 60, 152
+  index: -1
+spoiler_id6
+  rotate: false
+  xy: 100, 104
+  size: 106, 22
+  orig: 799, 230
+  offset: 11, 169
+  index: -1
+spoiler_id6_light
+  rotate: false
+  xy: 100, 80
+  size: 106, 22
+  orig: 799, 230
+  offset: 11, 169
+  index: -1
+spoiler_id7
+  rotate: false
+  xy: 287, 92
+  size: 83, 34
+  orig: 799, 230
+  offset: 47, 156
+  index: -1
+spoiler_id7_light
+  rotate: false
+  xy: 613, 97
+  size: 83, 29
+  orig: 799, 230
+  offset: 47, 160
+  index: -1
+spoiler_id7_shadow
+  rotate: false
+  xy: 372, 91
+  size: 81, 35
+  orig: 799, 230
+  offset: 47, 155
+  index: -1
+spoiler_id8
+  rotate: false
+  xy: 287, 70
+  size: 73, 20
+  orig: 799, 230
+  offset: 57, 152
+  index: -1
+spoiler_id8_light
+  rotate: false
+  xy: 613, 76
+  size: 66, 19
+  orig: 799, 230
+  offset: 57, 153
+  index: -1
+spoiler_id8_shadow
+  rotate: false
+  xy: 771, 105
+  size: 73, 21
+  orig: 799, 230
+  offset: 57, 151
+  index: -1

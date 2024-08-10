@@ -1,0 +1,41 @@
+{
+"worldWidth": 4.8085823,
+"worldHeight": 1.472015,
+"worldOrigin": {
+	"x": 2.4206471,
+	"y": 0.17664182
+},
+"worldMuffler": {
+	"x": -2.0673635,
+	"y": 0.15701494
+},
+"worldRearWheel": {
+	"x": -1.3150003,
+	"y": 0.104676664
+},
+"worldFrontWheel": {
+	"x": 1.315,
+	"y": 0.104676664
+},
+"worldHeadlight": {
+	"x": 1.8580098,
+	"y": 0.45141798
+},
+"worldDriver": {
+	"x": 0.17664146,
+	"y": 0.38599503
+},
+"worldHintWeight": {
+	"x": -1.5178113,
+	"y": 0.7327364
+},
+"worldHintHp": {
+	"x": 1.1383581,
+	"y": 0.6084325
+},
+"worldIntercooler": {
+	"x": 1.8841791,
+	"y": 0.19626904
+},
+"atlas": "RenaultLogan.atlas"
+}

@@ -1,0 +1,53 @@
+syntax = "proto3";
+
+import "carUpgrade.proto";
+import "raceEnums.proto";
+import "behavior.proto";
+import "money.proto";
+import "enemy.proto";
+import "item.proto";
+
+option go_package = "./pb";
+
+package srserver;
+
+message Race {
+    Money money = 1;
+    int32 exp = 2;
+    repeated CarUpgrade upgrades = 3;
+    RaceResult result = 4;
+    RaceType type = 5;
+    Enemy enemy = 6;
+    bool isCanRepeat = 7;
+    Money brakeBonus = 8;
+    float userTime = 9;
+    float trackTime = 10;
+    float bestTime = 11;
+    int32 lastPlace = 12;
+    int32 currentPlace = 13;
+    repeated Item items = 14;
+}
+
+message StartParams {
+    RaceType type = 1;
+    int64 enemyId = 2;
+    bytes enemySig = 3;
+    bytes userSig = 4;
+    int64 tournamentId = 5;
+    int32 trackId = 6;
+    int32 challengeId = 7;
+    int64 carId = 8;
+}
+
+message FinishParams {
+    RaceType type = 1;
+    int64 enemyId = 2;
+    bytes enemySig = 3;
+    bytes userSig = 4;
+    float enemyTime = 5;
+    float userTime = 6;
+    float enemyBreak = 7;
+    float userBreak = 8;
+    int32 userDistance = 9;
+    Behavior behavior = 10;
+}

@@ -1,0 +1,74 @@
+syntax = "proto3";
+
+option go_package = "./pb";
+
+package srserver;
+
+enum UpgradeType {
+    DUMMY = 0;
+    HOOD_PART = 1;
+    TRUNK_PART = 2;
+    ROOF_PART = 3;
+    WHEEL_PART = 4;
+    FRAME_PART = 5;
+    SPRING = 6;
+    SUSPENSION = 7;
+    DISK = 8;
+    TIRES = 9;
+    BRAKE = 10;
+    BRAKE_PAD = 11;
+    PNEUMATIC_SUSPENSION = 12;
+    TURBO_1 = 13;
+    TURBO_2 = 14;
+    FRONT_BUMPER = 15;
+    REAR_BUMPER = 16;
+    CENTER_BUMPER = 17;
+    SPOILER = 18;
+    HEADLIGHT = 19;
+    NEON = 20;
+    NEON_DISK = 21;
+    TRANSMISSION = 22;
+    DIFFERENTIAL = 23;
+    ENGINE = 24;
+    AIR_FILTER = 25;
+    INTERCOOLER = 26;
+    PIPES = 27;
+    INTAKE_MAINFOLD = 28;
+    EXHAUST_MAINFOLD = 29;
+    EXHAUST_OUTLET = 30;
+    EXHAUST_MUFFLER = 31;
+    WESTGATE = 32;
+    TIMING_GEAR = 33;
+    CAMSHAFTS = 34;
+    ECU = 35;
+
+    //v1.9+
+    OIL_COOLER = 36;
+    OIL_INJECTORS = 37;
+    RADIATOR = 38;
+    PNEUMO_SHIFTER = 39;
+    VILLY_BAR = 40;
+    SAFETY_CAGE = 41;
+    FRONT_HUB = 42;
+    REAR_HUB = 43;
+    FRONT_SHAFT = 44;
+    REAR_SHAFT = 45;
+    FRONT_SUSPENSION_SUPPORT = 46;
+    REAR_SUSPENSION_SUPPORT = 47;
+    CHIP_1 = 48;
+    CHIP_2 = 49;
+    CHIP_3 = 50;
+    CHIP_4 = 51;
+    CHIP_5 = 52;
+    CHIP_6 = 53;
+    CARDAN_SHAFT = 54;
+    DRIVE_TRACTION = 55;
+    MASS_BALANCE = 56;
+    GEAR_UNITS = 57;
+    ROTORS = 58;
+    FLASHERS = 59;
+    STROBOSCOPE = 60;
+    PROJECTOR = 61;
+    NITRO = 62;
+    DISK_IMAGE = 63;
+}

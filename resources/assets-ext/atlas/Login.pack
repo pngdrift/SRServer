@@ -1,0 +1,117 @@
+
+Login.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+login_button_debug_disabled
+  rotate: false
+  xy: 1, 1448
+  size: 743, 233
+  orig: 743, 233
+  offset: 0, 0
+  index: -1
+login_button_debug_down
+  rotate: false
+  xy: 1, 1213
+  size: 743, 233
+  orig: 743, 233
+  offset: 0, 0
+  index: -1
+login_button_debug_up
+  rotate: false
+  xy: 746, 1448
+  size: 743, 233
+  orig: 743, 233
+  offset: 0, 0
+  index: -1
+login_button_fb_disabled
+  rotate: false
+  xy: 1, 978
+  size: 545, 233
+  orig: 545, 233
+  offset: 0, 0
+  index: -1
+login_button_fb_down
+  rotate: false
+  xy: 746, 1213
+  size: 545, 233
+  orig: 545, 233
+  offset: 0, 0
+  index: -1
+login_button_fb_up
+  rotate: false
+  xy: 1491, 1448
+  size: 545, 233
+  orig: 545, 233
+  offset: 0, 0
+  index: -1
+login_button_google_down
+  rotate: false
+  xy: 1, 743
+  size: 545, 233
+  orig: 545, 233
+  offset: 0, 0
+  index: -1
+login_button_ok_disabled
+  rotate: false
+  xy: 548, 978
+  size: 545, 233
+  orig: 545, 233
+  offset: 0, 0
+  index: -1
+login_button_ok_down
+  rotate: false
+  xy: 1293, 1213
+  size: 545, 233
+  orig: 545, 233
+  offset: 0, 0
+  index: -1
+login_button_ok_up
+  rotate: false
+  xy: 1, 508
+  size: 545, 233
+  orig: 545, 233
+  offset: 0, 0
+  index: -1
+login_button_vk_disabled
+  rotate: false
+  xy: 548, 743
+  size: 545, 233
+  orig: 545, 233
+  offset: 0, 0
+  index: -1
+login_button_vk_down
+  rotate: false
+  xy: 1095, 978
+  size: 545, 233
+  orig: 545, 233
+  offset: 0, 0
+  index: -1
+login_button_vk_up
+  rotate: false
+  xy: 1, 273
+  size: 545, 233
+  orig: 545, 233
+  offset: 0, 0
+  index: -1
+login_button_google_disabled
+  rotate: false
+  xy: 548, 511
+  size: 543, 230
+  orig: 543, 230
+  offset: 0, 0
+  index: -1
+login_button_google_up
+  rotate: false
+  xy: 1095, 746
+  size: 542, 230
+  orig: 542, 230
+  offset: 0, 0
+  index: -1
+login_bg
+  rotate: false
+  xy: 1, 1
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1

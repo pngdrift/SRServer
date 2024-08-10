@@ -1,0 +1,39 @@
+syntax = "proto3";
+
+option go_package = "./pb";
+
+package srserver;
+
+message Dyno {
+    int64 currentTestId = 1;
+    DynoTest currentTest = 2;
+    DynoSpeed speedTest = 3;
+}
+
+message DynoSpeed {
+    int32 carId = 1;
+    int32 maxSpeed = 2;
+    repeated DynoSpeedPoint speedPoints = 3;
+}
+
+message DynoSpeedPoint {
+    int32 gear = 1;
+    float startSpeed = 2;
+    float endSpeed = 3;
+    float startRpm = 4;
+    float endEpm = 5;
+}
+
+message DynoTest {
+    int32 maxRpm = 1;
+    float maxHp = 2;
+    float maxTorque = 3;
+    repeated DynoTestPoint hpPoints = 4;
+    repeated DynoTestPoint torquePoints = 5;
+    int32 carId = 6;
+}
+
+message DynoTestPoint {
+    int32 rpm = 1;
+    float value = 2;
+}

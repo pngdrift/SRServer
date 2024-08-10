@@ -1,0 +1,467 @@
+syntax = "proto3";
+
+import "upgradeEnum.proto";
+import "gradeEnum.proto";
+import "itemType.proto";
+import "money.proto";
+import "raceEnums.proto";
+
+option go_package = "./pb";
+
+package srserver;
+
+
+message BaseBrake {
+    BaseUpgrade base = 1;
+    float radius = 2;
+    float supportWidth = 3;
+    string type = 4;
+    string image = 6;
+    string supportImage = 7;
+}
+
+enum BrakeType {
+    BARREL_TYPE = 0;
+    DISK_TYPE = 1;
+}
+
+message BaseECU {
+    BaseUpgrade base = 1;
+    repeated string classes = 2;
+    bool fuelConfig = 3;
+    float rpm = 4;
+}
+
+message CamshaftPoint {
+    int32 index = 1;
+    float torque = 2;
+}
+
+message CamshaftSwapPoint {
+    int32 index1 = 1;
+    int32 index2 = 2;
+}
+
+message BaseCamshaft {
+    BaseUpgrade base = 1;
+    repeated CamshaftPoint camshaftPoints = 2;
+    repeated CamshaftSwapPoint camshaftSwapPoints = 3;
+    repeated string classes = 4;
+}
+
+message BaseTimingGear {
+    BaseUpgrade base = 1;
+    repeated string classes = 2;
+}
+
+message ExhaustPoint {
+    int32 index = 1;
+    float torque = 2;
+}
+
+
+message BaseExhaust {
+    BaseUpgrade base = 1;
+    string type = 2;
+    float torque = 3;
+    repeated ExhaustPoint exhaustPoints = 4;
+    repeated string classes = 5;
+    string image = 6;
+    int32 soundType = 7;
+
+    int32 mufflerId = 1000; //for new versions
+}
+
+// message BaseIntake {
+//     BaseUpgrade base = 1;
+//     string type = 2;
+//     float boostMultipler = 3;
+//     float startRpm = 4;
+//     string image = 5;
+//     repeated string classes = 6;
+// }
+
+
+//for new versions
+message BaseIntake {
+    BaseUpgrade base = 1;
+    string type = 2;
+    float boostMultipler = 3;
+    float startRpm = 4;
+    string image = 5;
+    IntakeType chargerOrTurbo = 6;
+    float endRpm = 7;
+}
+
+enum IntakeType {
+    WG_NONE = 0;
+    WG_DEFAULT = 1;
+    WG_TURBO = 2;
+    WG_CHARGER = 3;
+}
+
+message EnginePoint {
+    float rpm = 1;
+    float torque = 2;
+}
+
+message BaseEngine {
+    BaseUpgrade base = 1;
+    float volume = 2;
+    float cutOffRpm = 3;
+    repeated EnginePoint dynoPoints = 4;
+}
+
+message BaseTools {
+    BaseItem base = 1;
+    float bonus = 2;
+}
+
+message BaseBlueprint {
+    BaseItem base = 1;
+    UpgradeType upgradeType = 2;
+    UpgradeGrade grade = 3;
+}
+
+message BaseItem {
+    int32 baseId = 1;
+    ItemType type = 2;
+    Money price = 3;
+    string icon = 4;
+    int32 shopIndex = 5;
+}
+
+enum TrackType {
+    NONE = 0;
+    ASPHALT = 1;
+    DIRT = 2;
+    DUST = 3;
+    SNOW = 4;
+}
+
+message BaseTrackBackground {
+    string name = 1;
+    float offsetFactor = 2;
+    float width = 3;
+    float height = 4;
+    float offset = 5;
+}
+
+message BaseTrack {
+    int32 baseId = 1;
+    string ground = 2;
+    float groundWidth = 3;
+    float groundHeight = 4;
+    float groundOffset = 5;
+    float groundFriction = 6;
+    float groundStep = 7;
+    TrackType type = 8;
+    repeated BaseTrackBackground backgrounds = 9;
+    float frequency = 10;
+    int32 octaveCount = 11;
+    float lacunarity = 12;
+    float persistence = 13;
+    bool autoTimesOfDay = 14;
+    float finishLineY1 = 15;
+    float finishLineY2 = 16;
+}
+
+message BaseChallengeTrack {
+    int32 baseId = 1;
+    int32 challengeId = 2;
+    int32 trackId = 3;
+    float time = 4;
+    int32 level = 5;
+    Money award = 6;
+    int32 lootId = 7;
+    int32 distance = 8;
+    string image = 9;
+}
+
+message BaseChallenge {
+    int32 baseId = 1;
+    int32 day = 2;
+    repeated string classes = 3;
+    DriveType driveType = 4;
+    string image = 5;
+}
+
+enum DriveType {
+    ALL = 0;
+    FRONT = 1;
+    REAR = 2;
+    FULL = 3;
+}
+
+message BaseDifferential {
+    BaseUpgrade base = 1;
+    float driveTraction = 2;
+    //repeated string classes = 3;//check
+    bool driveChange = 3;
+}
+
+message LootList {
+    int32 id = 1;
+    repeated BaseLoot loot = 2;
+}
+
+message BaseLoot {
+    int32 baseId = 1;
+    string upgradeType = 2;
+    string itemType = 3;
+    float chance = 4;
+    int32 maxCount = 5;
+    int32 groupID = 6;
+    int32 inventoryLimit = 7;
+}
+
+message BaseTournament {
+    int32 id = 1;
+    RaceType type = 2;
+    int32 monthNumber = 3;
+    int32 dayOfMonth = 4;
+    int32 dayOfWeek = 5;
+    int32 hourOfDay = 6;
+    int32 minutes = 7;
+    int32 duration = 8;
+    int32 tryesCount = 9;
+    int32 tryeCost = 10;
+    repeated string carClass = 11;
+    Money firstPlaceAward = 12;
+    Money secondPlaceAward = 13;
+    Money thirdPlaceAward = 14;
+    Money topPlaceAward = 15;
+    int32 firstPlaceItems = 16;
+    int32 secondsPlaceItems = 17;
+    int32 thirdPlaceItems = 18;
+    int32 fuelToRace = 19;
+    int32 trackSize = 20;
+    int32 hpt = 21;
+}
+
+message BaseColor {
+    int32 baseId = 1;
+    Money price = 2;
+    ColorType type = 4;
+    int32 shopIndex = 5;
+    repeated ColorItem colors = 7;
+}
+
+enum ColorType {
+    COLOR = 0;
+    TINT = 1;
+}
+
+message ColorItem {
+    int32 color = 1;
+    float delta = 2;
+}
+message GearPoint {
+    int32 gearNumber = 1;
+    float gearValue = 2;
+}
+
+message BaseTransmission {
+    BaseUpgrade base = 1;
+    repeated GearPoint gears = 2;
+    float mainGear = 3;
+    float shiftSpeed = 4;
+}
+
+message BaseQuest {
+    int32 id = 1;
+    int32 maxCounter = 2;
+    string ico = 3;
+    int32 exp = 4;
+    QuestType type = 5;
+    Money money = 6;
+    repeated QuestHandlerType handlers = 7;
+    repeated QuestPostProcessorType postprocessors = 9;
+    int32 showTime = 10;
+    int32 hideTime = 11;
+    int32 lootId = 12;
+}
+
+enum QuestType {
+    SPECIAL = 0;
+    DAILY = 1;
+}
+
+enum QuestHandlerType {
+    REENTER = 0;
+    DEFAULT_RACE = 1;
+    TIME_RACE = 11;
+    RATING_RACE = 12;
+    WIN_RACE = 2;
+    WIN_IN_ROW = 3;
+    LOST_RACE = 4;
+    CHAT_RACE = 19;
+    TOURNAMENT_RACE = 20;
+    UPGRADE_ENGINE = 5;
+    LOGIN = 6;
+    CRAFT_UPGRADE = 16;
+    INAPP_PURCHASE = 17;
+    EXCHANGE = 21;
+    PURCHASE_6000 = 22;
+    DAY = 7;
+    NIGHT = 8;
+    EVENING = 9;
+    MORNING = 10;
+    TIME_7_9 = 18;
+    TIME_12_14 = 13;
+    TIME_18_20 = 14;
+    TIME_21_23 = 15;
+}
+
+enum QuestPostProcessorType {
+    UNKNOWN = 0;
+    FUEL = 1;
+}
+
+message BaseDecal {
+    int32 baseId = 1;
+    bool isPainted = 2;
+    bool isScaling = 3;
+    Money price = 4;
+    string image = 5;
+    string icon = 6;
+    float minScale = 7;
+    float maxScale = 8;
+    int32 shopIndex = 9;
+    bool isMirror = 10;
+    int32 type = 11;
+}
+
+message BaseTurbo2 {
+    BaseUpgrade base = 1;
+    float psi = 2;
+    float startRpm = 3;
+    float endRpm = 4;
+}
+
+message BaseTurbo1 {
+    BaseUpgrade base = 1;
+    float psi = 2;
+    float startRpm = 3;
+    float endRpm = 4;
+}
+
+message BaseTuning {
+    BaseUpgrade base = 1;
+    string type = 2;
+    int32 baseCarId = 3;
+    string image = 4;
+    bool isPainting = 5;
+    float tuningClirence = 6;
+    bool isShowIntercooler = 7;
+}
+
+message BaseParts {
+    BaseUpgrade base = 1;
+    string type = 2;
+    float rimSize = 3;
+    float rimRazval = 4;
+    float weightDelta = 5;
+}
+
+message BaseBrakePad {
+    BaseUpgrade base = 1;
+    float coefficient = 2;
+}
+
+message BasePneumo {
+    BaseUpgrade base = 1;
+    float clirence = 2;
+}
+
+message BaseSuspension {
+    BaseUpgrade base = 1;
+    float damping = 2;
+    string cylinderImage = 3;
+    string pistonImage = 4;
+}
+
+message BaseSpring {
+    BaseUpgrade base = 1;
+    float frequency = 2;
+    string image = 3;
+}
+
+message BaseDisk {
+    BaseUpgrade base = 1;
+    float radius = 2;
+    string image = 3;
+}
+
+message BaseUpgrade {
+    int32 baseId = 1;
+    float weight = 2;
+    float min = 3;
+    float max = 4;
+    Money price = 5;
+    string icon = 6;
+    int32 shopIndex = 7;
+    UpgradeGrade grade = 8;
+    float control = 9;
+    int32 level = 10;
+}
+
+message BaseTires {
+    BaseUpgrade base = 1;
+    float radius = 2;
+    float width = 3;
+    float side = 4;
+    float friction = 5;
+    string image = 6;
+    float frictionCoefficient = 7;
+    float temperatureCoefficient = 8;
+    int32 color = 9;
+}
+
+message BaseCar {
+    float chassisWidth = 1;
+    float arcRadius = 2;
+    float carMass = 3;
+    float massClierence = 4;
+    float massBalance = 5;
+    float clirence = 6;
+    float brakeTraction = 7;
+    float driveTraction = 8;
+    int32 diskBaseId = 13;
+    int32 tiresBaseId = 14;
+    int32 frontSuspensionBaseId = 15;
+    int32 frontSpringBaseId = 16;
+    int32 frontBrakeBaseId = 17;
+    int32 rearSuspensionBaseId = 18;
+    int32 rearSpringBaseId = 19;
+    int32 rearBrakeBaseId = 20;
+    string image = 21;
+    int32 baseId = 27;
+    Money price = 28;
+    int32 level = 29;
+    string carClass = 30;
+    int32 shopIndex = 31;
+    int32 baseColor = 32;
+    int32 rearBumperBaseId = 34;
+    int32 centerBumperBaseId = 35;
+    int32 frontBumperBaseId = 36;
+    int32 engineBaseId = 37;
+    float cx = 38;
+    float square = 39;
+    SupportAlign frontSupportAlign = 40;
+    SupportAlign rearSupportAlign = 41;
+    int32 transmissionBaseId = 42;
+    int32 maxDiskSize = 43;
+    float carMassDelta = 44;
+    float gripBonus = 45;
+}
+
+enum SupportAlign {
+    LEFT = 0;
+    RIGHT = 1;
+}
+
+message BaseRadiator {
+    BaseUpgrade base = 1;
+    float coolingRatio = 2;
+}

@@ -1,0 +1,39 @@
+syntax = "proto3";
+
+import "userCar.proto";
+import "userInfo.proto";
+
+option go_package = "./pb";
+
+package srserver;
+
+message TopItem {
+    int64 id = 1;
+    UserInfo info = 2;
+    UserCar car = 3;
+    int32 points = 4;
+    int32 place = 6;
+    float time804 = 7;
+}
+
+message Top {
+    repeated TopItem pointsTop = 1;
+    repeated TopItem ratingTop = 2;
+    int32 place = 3;
+    int32 rating = 4;
+    int32 minRating = 5;
+    int32 maxRating = 6;
+    repeated TopItem timeTop = 7;
+    repeated TopItem timeTopA = 8;
+    repeated TopItem timeTopB = 9;
+    repeated TopItem timeTopC = 10;
+    repeated TopItem timeTopD = 11;
+    repeated TopItem timeTopE = 12;
+    repeated TopItem timeTopF = 13;
+    repeated TopItem timeTopG = 14;
+    repeated TopItem timeTopH = 15;
+    repeated TopItem timeTopI = 16;
+    repeated TopItem timeTopJ = 17;
+    repeated TopItem timeTopK = 18;
+    repeated TopItem timeTopL = 19;
+}

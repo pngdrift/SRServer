@@ -1,0 +1,126 @@
+
+Gai.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+registration_menu_bg
+  rotate: false
+  xy: 1, 464
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+hint_bg
+  rotate: false
+  xy: 1, 415
+  size: 1096, 47
+  orig: 1096, 47
+  offset: 0, 0
+  index: -1
+button_number_shop
+  rotate: false
+  xy: 1, 13
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+button_number_shop_disabled
+  rotate: false
+  xy: 963, 604
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+button_registration
+  rotate: false
+  xy: 403, 13
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+button_registration_disabled
+  rotate: false
+  xy: 1365, 604
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+button_swap_numbers
+  rotate: false
+  xy: 805, 13
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+button_swap_numbers_disabled
+  rotate: false
+  xy: 1207, 202
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+round_button_disabled
+  rotate: false
+  xy: 1767, 747
+  size: 248, 257
+  orig: 248, 257
+  offset: 0, 0
+  index: -1
+price_tag_orange_bg
+  rotate: false
+  xy: 1207, 88
+  size: 374, 112
+  orig: 374, 112
+  offset: 0, 0
+  index: -1
+round_button_down
+  rotate: false
+  xy: 1609, 345
+  size: 248, 257
+  orig: 248, 257
+  offset: 0, 0
+  index: -1
+round_button_up
+  rotate: false
+  xy: 1609, 86
+  size: 248, 257
+  orig: 248, 257
+  offset: 0, 0
+  index: -1
+message_menu_bg
+  rotate: false
+  xy: 1859, 115
+  size: 28, 630
+  split: 9, 8, 8, 8
+  orig: 28, 630
+  offset: 0, 0
+  index: -1
+message_menu_bg
+  rotate: false
+  xy: 1859, 115
+  size: 28, 630
+  orig: 28, 630
+  offset: 0, 0
+  index: -1
+arrow_down
+  rotate: false
+  xy: 963, 517
+  size: 211, 85
+  orig: 211, 85
+  offset: 0, 0
+  index: -1
+arrow_up
+  rotate: false
+  xy: 1207, 1
+  size: 211, 85
+  orig: 211, 85
+  offset: 0, 0
+  index: -1
+orange_bg
+  rotate: false
+  xy: 1767, 701
+  size: 44, 44
+  split: 14, 13, 15, 14
+  orig: 44, 44
+  offset: 0, 0
+  index: -1

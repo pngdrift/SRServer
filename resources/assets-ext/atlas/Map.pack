@@ -1,0 +1,104 @@
+
+Map.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_frame
+  rotate: false
+  xy: 1, 205
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+icon_title_bg
+  rotate: false
+  xy: 253, 331
+  size: 355, 124
+  split: 39, 40, 24, 47
+  orig: 355, 124
+  offset: 0, 0
+  index: -1
+icon_shadow
+  rotate: false
+  xy: 1, 33
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+icon_carsale
+  rotate: false
+  xy: 253, 179
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+icon_carwash
+  rotate: false
+  xy: 405, 179
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+icon_challenge
+  rotate: false
+  xy: 610, 305
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+icon_empty
+  rotate: false
+  xy: 762, 305
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+icon_gai
+  rotate: false
+  xy: 557, 153
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+icon_locked
+  rotate: false
+  xy: 709, 153
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+icon_paint
+  rotate: false
+  xy: 173, 27
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+icon_race_time
+  rotate: false
+  xy: 325, 27
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+icon_race_top
+  rotate: false
+  xy: 861, 153
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+icon_shop
+  rotate: false
+  xy: 477, 1
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+icon_tournament_shop
+  rotate: false
+  xy: 629, 1
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,544 @@
+
+SubaruImprezaWRX2005.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arcs
+  rotate: false
+  xy: 2, 256
+  size: 559, 113
+  orig: 786, 223
+  offset: 111, 35
+  index: -1
+arcs_shadow
+  rotate: false
+  xy: 2, 167
+  size: 563, 87
+  orig: 786, 223
+  offset: 106, 25
+  index: -1
+back_details
+  rotate: false
+  xy: 2, 371
+  size: 655, 102
+  orig: 786, 223
+  offset: 60, 26
+  index: -1
+base
+  rotate: false
+  xy: 2, 832
+  size: 645, 190
+  orig: 786, 223
+  offset: 64, 33
+  index: -1
+cabin
+  rotate: false
+  xy: 2, 51
+  size: 418, 114
+  orig: 786, 223
+  offset: 126, 104
+  index: -1
+center_bumper_id2
+  rotate: false
+  xy: 422, 50
+  size: 288, 24
+  orig: 786, 223
+  offset: 241, 21
+  index: -1
+center_bumper_id2_light
+  rotate: false
+  xy: 2, 25
+  size: 295, 24
+  orig: 786, 223
+  offset: 237, 23
+  index: -1
+center_bumper_id2_shadow
+  rotate: false
+  xy: 390, 24
+  size: 288, 24
+  orig: 786, 223
+  offset: 241, 21
+  index: -1
+center_bumper_id3
+  rotate: false
+  xy: 2, 3
+  size: 288, 20
+  orig: 786, 223
+  offset: 242, 24
+  index: -1
+center_bumper_id3_shadow
+  rotate: false
+  xy: 390, 2
+  size: 288, 20
+  orig: 786, 223
+  offset: 242, 24
+  index: -1
+details
+  rotate: false
+  xy: 649, 847
+  size: 345, 175
+  orig: 786, 223
+  offset: 198, 39
+  index: -1
+front_bumper_id1
+  rotate: false
+  xy: 563, 280
+  size: 96, 89
+  orig: 786, 223
+  offset: 630, 15
+  index: -1
+front_bumper_id1_light
+  rotate: false
+  xy: 890, 231
+  size: 96, 83
+  orig: 786, 223
+  offset: 630, 21
+  index: -1
+front_bumper_id1_shadow
+  rotate: false
+  xy: 558, 76
+  size: 96, 89
+  orig: 786, 223
+  offset: 630, 15
+  index: -1
+front_bumper_id2
+  rotate: false
+  xy: 567, 194
+  size: 100, 84
+  orig: 786, 223
+  offset: 630, 23
+  index: -1
+front_bumper_id2_light
+  rotate: false
+  xy: 790, 248
+  size: 98, 83
+  orig: 786, 223
+  offset: 632, 24
+  index: -1
+front_bumper_id2_shadow
+  rotate: false
+  xy: 923, 563
+  size: 99, 84
+  orig: 786, 223
+  offset: 631, 23
+  index: -1
+front_bumper_id3
+  rotate: false
+  xy: 902, 316
+  size: 106, 83
+  orig: 786, 223
+  offset: 630, 22
+  index: -1
+front_bumper_id3_light
+  rotate: false
+  xy: 669, 150
+  size: 103, 82
+  orig: 786, 223
+  offset: 633, 23
+  index: -1
+front_bumper_id3_shadow
+  rotate: false
+  xy: 669, 234
+  size: 105, 83
+  orig: 786, 223
+  offset: 631, 22
+  index: -1
+front_lights_off
+  rotate: false
+  xy: 969, 775
+  size: 46, 32
+  orig: 786, 223
+  offset: 666, 83
+  index: -1
+front_lights_on
+  rotate: false
+  xy: 649, 651
+  size: 195, 194
+  orig: 786, 223
+  offset: 591, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 475
+  size: 645, 170
+  orig: 786, 223
+  offset: 64, 53
+  index: -1
+rear_bumper_id1
+  rotate: false
+  xy: 846, 649
+  size: 121, 77
+  orig: 786, 223
+  offset: 43, 37
+  index: -1
+rear_bumper_id1_light
+  rotate: false
+  xy: 910, 401
+  size: 112, 76
+  orig: 786, 223
+  offset: 43, 38
+  index: -1
+rear_bumper_id1_shadow
+  rotate: false
+  xy: 805, 479
+  size: 121, 77
+  orig: 786, 223
+  offset: 43, 37
+  index: -1
+rear_bumper_id2
+  rotate: false
+  xy: 659, 406
+  size: 127, 85
+  orig: 786, 223
+  offset: 45, 29
+  index: -1
+rear_bumper_id2_light
+  rotate: false
+  xy: 790, 333
+  size: 110, 82
+  orig: 786, 223
+  offset: 45, 31
+  index: -1
+rear_bumper_id2_shadow
+  rotate: false
+  xy: 661, 319
+  size: 127, 85
+  orig: 786, 223
+  offset: 45, 29
+  index: -1
+rear_bumper_id3
+  rotate: false
+  xy: 805, 558
+  size: 116, 89
+  orig: 786, 223
+  offset: 40, 25
+  index: -1
+rear_bumper_id3_light
+  rotate: false
+  xy: 788, 417
+  size: 120, 60
+  orig: 786, 223
+  offset: 45, 54
+  index: -1
+rear_bumper_id3_shadow
+  rotate: false
+  xy: 422, 76
+  size: 134, 89
+  orig: 786, 223
+  offset: 40, 25
+  index: -1
+rear_lights_off
+  rotate: false
+  xy: 969, 732
+  size: 35, 41
+  orig: 786, 223
+  offset: 59, 109
+  index: -1
+rear_lights_on
+  rotate: false
+  xy: 846, 728
+  size: 121, 117
+  orig: 786, 223
+  offset: 16, 81
+  index: -1
+rear_lights_stop
+  rotate: false
+  xy: 649, 493
+  size: 154, 156
+  orig: 786, 223
+  offset: 0, 58
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 647
+  size: 645, 183
+  orig: 786, 223
+  offset: 64, 33
+  index: -1
+spoiler_id1
+  rotate: false
+  xy: 776, 220
+  size: 98, 26
+  orig: 786, 223
+  offset: 49, 174
+  index: -1
+spoiler_id19
+  rotate: false
+  xy: 928, 479
+  size: 89, 45
+  orig: 786, 223
+  offset: 48, 161
+  index: -1
+spoiler_id19_light
+  rotate: false
+  xy: 767, 20
+  size: 89, 45
+  orig: 786, 223
+  offset: 48, 161
+  index: -1
+spoiler_id19_shadow
+  rotate: false
+  xy: 299, 2
+  size: 89, 47
+  orig: 786, 223
+  offset: 48, 159
+  index: -1
+spoiler_id1_light
+  rotate: false
+  xy: 752, 67
+  size: 97, 14
+  orig: 786, 223
+  offset: 50, 185
+  index: -1
+spoiler_id1_shadow
+  rotate: false
+  xy: 656, 98
+  size: 98, 50
+  orig: 786, 223
+  offset: 49, 150
+  index: -1
+spoiler_id2
+  rotate: false
+  xy: 969, 702
+  size: 50, 28
+  orig: 786, 223
+  offset: 61, 157
+  index: -1
+spoiler_id20
+  rotate: false
+  xy: 774, 125
+  size: 91, 42
+  orig: 786, 223
+  offset: 55, 160
+  index: -1
+spoiler_id20_light
+  rotate: false
+  xy: 756, 83
+  size: 90, 40
+  orig: 786, 223
+  offset: 55, 161
+  index: -1
+spoiler_id20_shadow
+  rotate: false
+  xy: 774, 169
+  size: 91, 49
+  orig: 786, 223
+  offset: 55, 153
+  index: -1
+spoiler_id21
+  rotate: false
+  xy: 867, 104
+  size: 67, 35
+  orig: 786, 223
+  offset: 54, 162
+  index: -1
+spoiler_id21_light
+  rotate: false
+  xy: 851, 67
+  size: 67, 35
+  orig: 786, 223
+  offset: 54, 162
+  index: -1
+spoiler_id21_shadow
+  rotate: false
+  xy: 867, 141
+  size: 67, 41
+  orig: 786, 223
+  offset: 54, 156
+  index: -1
+spoiler_id2_light
+  rotate: false
+  xy: 969, 674
+  size: 43, 26
+  orig: 786, 223
+  offset: 62, 159
+  index: -1
+spoiler_id2_shadow
+  rotate: false
+  xy: 969, 809
+  size: 53, 36
+  orig: 786, 223
+  offset: 61, 149
+  index: -1
+spoiler_id3
+  rotate: false
+  xy: 963, 212
+  size: 46, 17
+  orig: 786, 223
+  offset: 65, 157
+  index: -1
+spoiler_id3_light
+  rotate: false
+  xy: 767, 6
+  size: 46, 12
+  orig: 786, 223
+  offset: 65, 162
+  index: -1
+spoiler_id3_shadow
+  rotate: false
+  xy: 969, 652
+  size: 45, 20
+  orig: 786, 223
+  offset: 65, 154
+  index: -1
+spoiler_id4
+  rotate: false
+  xy: 876, 184
+  size: 85, 45
+  orig: 786, 223
+  offset: 45, 156
+  index: -1
+spoiler_id4_light
+  rotate: false
+  xy: 858, 11
+  size: 83, 21
+  orig: 786, 223
+  offset: 47, 180
+  index: -1
+spoiler_id4_shadow
+  rotate: false
+  xy: 680, 2
+  size: 85, 46
+  orig: 786, 223
+  offset: 45, 155
+  index: -1
+spoiler_id5
+  rotate: false
+  xy: 935, 64
+  size: 64, 18
+  orig: 786, 223
+  offset: 70, 154
+  index: -1
+spoiler_id5_light
+  rotate: false
+  xy: 935, 44
+  size: 64, 18
+  orig: 786, 223
+  offset: 70, 154
+  index: -1
+spoiler_id5_shadow
+  rotate: false
+  xy: 943, 25
+  size: 65, 17
+  orig: 786, 223
+  offset: 69, 154
+  index: -1
+spoiler_id6
+  rotate: false
+  xy: 656, 76
+  size: 94, 20
+  orig: 786, 223
+  offset: 30, 169
+  index: -1
+spoiler_id6_light
+  rotate: false
+  xy: 567, 173
+  size: 94, 19
+  orig: 786, 223
+  offset: 30, 170
+  index: -1
+spoiler_id6_shadow
+  rotate: false
+  xy: 928, 526
+  size: 94, 35
+  orig: 786, 223
+  offset: 30, 154
+  index: -1
+spoiler_id7
+  rotate: false
+  xy: 936, 153
+  size: 73, 29
+  orig: 786, 223
+  offset: 65, 160
+  index: -1
+spoiler_id7_light
+  rotate: false
+  xy: 936, 124
+  size: 73, 27
+  orig: 786, 223
+  offset: 65, 162
+  index: -1
+spoiler_id7_shadow
+  rotate: false
+  xy: 858, 34
+  size: 75, 31
+  orig: 786, 223
+  offset: 65, 158
+  index: -1
+spoiler_id8
+  rotate: false
+  xy: 920, 84
+  size: 65, 18
+  orig: 786, 223
+  offset: 66, 154
+  index: -1
+spoiler_id8_light
+  rotate: false
+  xy: 943, 6
+  size: 60, 17
+  orig: 786, 223
+  offset: 66, 155
+  index: -1
+spoiler_id8_shadow
+  rotate: false
+  xy: 936, 104
+  size: 67, 18
+  orig: 786, 223
+  offset: 66, 154
+  index: -1
+
+SubaruImprezaWRX20052.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+center_bumper_id1
+  rotate: false
+  xy: 2, 63
+  size: 288, 19
+  orig: 786, 223
+  offset: 242, 25
+  index: -1
+center_bumper_id1_light
+  rotate: false
+  xy: 2, 22
+  size: 288, 18
+  orig: 786, 223
+  offset: 242, 26
+  index: -1
+center_bumper_id1_shadow
+  rotate: false
+  xy: 2, 42
+  size: 288, 19
+  orig: 786, 223
+  offset: 242, 25
+  index: -1
+center_bumper_id3_light
+  rotate: false
+  xy: 2, 2
+  size: 286, 18
+  orig: 786, 223
+  offset: 243, 26
+  index: -1
+glass_notint
+  rotate: false
+  xy: 2, 84
+  size: 401, 75
+  orig: 786, 223
+  offset: 138, 141
+  index: -1
+glass_tint
+  rotate: false
+  xy: 406, 162
+  size: 401, 75
+  orig: 786, 223
+  offset: 138, 141
+  index: -1
+glass_tint_base
+  rotate: false
+  xy: 2, 161
+  size: 402, 76
+  orig: 786, 223
+  offset: 137, 140
+  index: -1

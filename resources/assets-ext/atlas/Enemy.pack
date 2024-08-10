@@ -1,0 +1,118 @@
+
+Enemy.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leader_title_bg
+  rotate: false
+  xy: 1, 852
+  size: 1920, 148
+  orig: 1920, 148
+  offset: 0, 0
+  index: -1
+enemy_info_bg_disabled_down
+  rotate: false
+  xy: 1, 627
+  size: 646, 223
+  orig: 646, 223
+  offset: 0, 0
+  index: -1
+enemy_info_bg_disabled_up
+  rotate: false
+  xy: 1, 402
+  size: 646, 223
+  orig: 646, 223
+  offset: 0, 0
+  index: -1
+enemy_info_bg_down
+  rotate: false
+  xy: 649, 627
+  size: 646, 223
+  orig: 646, 223
+  offset: 0, 0
+  index: -1
+enemy_info_bg_up
+  rotate: false
+  xy: 1, 177
+  size: 646, 223
+  orig: 646, 223
+  offset: 0, 0
+  index: -1
+leader_flash
+  rotate: false
+  xy: 649, 441
+  size: 641, 184
+  orig: 641, 184
+  offset: 0, 0
+  index: -1
+leader_arm
+  rotate: false
+  xy: 649, 102
+  size: 337, 337
+  orig: 337, 337
+  offset: 0, 0
+  index: -1
+leader_round1
+  rotate: false
+  xy: 988, 102
+  size: 337, 337
+  orig: 337, 337
+  offset: 0, 0
+  index: -1
+leader_round2
+  rotate: false
+  xy: 1297, 513
+  size: 337, 337
+  orig: 337, 337
+  offset: 0, 0
+  index: -1
+leader_line
+  rotate: false
+  xy: 1, 33
+  size: 240, 142
+  orig: 240, 142
+  offset: 0, 0
+  index: -1
+enemy_info_arrow
+  rotate: false
+  xy: 1636, 678
+  size: 81, 172
+  orig: 81, 172
+  offset: 0, 0
+  index: -1
+enemy_info_avatar_mask
+  rotate: false
+  xy: 1923, 864
+  size: 102, 136
+  orig: 102, 136
+  offset: 0, 0
+  index: -1
+enemy_info_mark_empty
+  rotate: false
+  xy: 243, 115
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+enemy_info_mark_lose
+  rotate: false
+  xy: 1636, 616
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+enemy_info_mark_win
+  rotate: false
+  xy: 1719, 790
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+frame_blue_bg
+  rotate: false
+  xy: 1, 1
+  size: 30, 30
+  split: 9, 9, 10, 10
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

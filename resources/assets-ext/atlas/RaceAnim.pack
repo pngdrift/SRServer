@@ -1,0 +1,68 @@
+
+RaceAnim.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+finish_race_effect_flare_l1
+  rotate: false
+  xy: 1, 191
+  size: 883, 798
+  orig: 883, 798
+  offset: 0, 0
+  index: -1
+finish_race_effect_flare_l9
+  rotate: false
+  xy: 886, 581
+  size: 451, 408
+  orig: 883, 798
+  offset: 216, 195
+  index: -1
+finish_race_effect_flare_l2
+  rotate: false
+  xy: 886, 355
+  size: 223, 224
+  orig: 883, 798
+  offset: 330, 287
+  index: -1
+finish_race_effect_flare_l5
+  rotate: false
+  xy: 1, 26
+  size: 159, 163
+  orig: 883, 798
+  offset: 363, 318
+  index: -1
+finish_race_effect_flare_l3
+  rotate: false
+  xy: 1339, 919
+  size: 88, 70
+  orig: 883, 798
+  offset: 397, 364
+  index: -1
+finish_race_effect_flare_l4
+  rotate: false
+  xy: 886, 290
+  size: 84, 63
+  orig: 883, 798
+  offset: 399, 367
+  index: -1
+finish_race_effect_flare_l6
+  rotate: false
+  xy: 1111, 542
+  size: 40, 37
+  orig: 883, 798
+  offset: 422, 380
+  index: -1
+finish_race_effect_flare_l7
+  rotate: false
+  xy: 1, 1
+  size: 23, 23
+  orig: 883, 798
+  offset: 430, 387
+  index: -1
+finish_race_effect_flare_l8
+  rotate: false
+  xy: 162, 171
+  size: 17, 18
+  orig: 883, 798
+  offset: 433, 390
+  index: -1

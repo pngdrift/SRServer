@@ -1,0 +1,614 @@
+
+Nissan350z.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_details
+  rotate: false
+  xy: 2, 923
+  size: 703, 99
+  orig: 784, 233
+  offset: 62, 27
+  index: -1
+base
+  rotate: false
+  xy: 2, 729
+  size: 691, 192
+  orig: 784, 233
+  offset: 57, 31
+  index: -1
+cabin
+  rotate: false
+  xy: 261, 73
+  size: 391, 112
+  orig: 784, 233
+  offset: 147, 104
+  index: -1
+center_bumper_id1
+  rotate: false
+  xy: 695, 642
+  size: 325, 44
+  orig: 784, 233
+  offset: 246, 19
+  index: -1
+center_bumper_id1_light
+  rotate: false
+  xy: 695, 596
+  size: 325, 44
+  orig: 784, 233
+  offset: 246, 19
+  index: -1
+center_bumper_id1_shadow
+  rotate: false
+  xy: 695, 550
+  size: 325, 44
+  orig: 784, 233
+  offset: 246, 19
+  index: -1
+center_bumper_id2
+  rotate: false
+  xy: 695, 784
+  size: 325, 46
+  orig: 784, 233
+  offset: 246, 14
+  index: -1
+center_bumper_id2_light
+  rotate: false
+  xy: 695, 736
+  size: 325, 46
+  orig: 784, 233
+  offset: 246, 14
+  index: -1
+center_bumper_id2_shadow
+  rotate: false
+  xy: 695, 688
+  size: 325, 46
+  orig: 784, 233
+  offset: 246, 14
+  index: -1
+center_bumper_id3
+  rotate: false
+  xy: 362, 304
+  size: 330, 44
+  orig: 784, 233
+  offset: 242, 17
+  index: -1
+center_bumper_id3_shadow
+  rotate: false
+  xy: 362, 258
+  size: 330, 44
+  orig: 784, 233
+  offset: 242, 17
+  index: -1
+front_bumper_id1
+  rotate: false
+  xy: 927, 928
+  size: 95, 94
+  orig: 784, 233
+  offset: 673, 21
+  index: -1
+front_bumper_id1_light
+  rotate: false
+  xy: 795, 78
+  size: 94, 84
+  orig: 784, 233
+  offset: 674, 31
+  index: -1
+front_bumper_id1_lights_off
+  rotate: false
+  xy: 891, 116
+  size: 11, 37
+  orig: 784, 233
+  offset: 728, 43
+  index: -1
+front_bumper_id1_lights_on
+  rotate: false
+  xy: 848, 164
+  size: 58, 85
+  orig: 784, 233
+  offset: 706, 20
+  index: -1
+front_bumper_id1_shadow
+  rotate: false
+  xy: 927, 832
+  size: 95, 94
+  orig: 784, 233
+  offset: 673, 21
+  index: -1
+front_bumper_id3_lights_off
+  rotate: false
+  xy: 891, 155
+  size: 15, 7
+  orig: 784, 233
+  offset: 753, 76
+  index: -1
+front_bumper_id3_lights_on
+  rotate: false
+  xy: 2, 2
+  size: 111, 160
+  orig: 784, 233
+  offset: 673, 0
+  index: -1
+front_lights_on
+  rotate: false
+  xy: 654, 73
+  size: 139, 112
+  orig: 784, 233
+  offset: 629, 58
+  index: -1
+glass_notint
+  rotate: false
+  xy: 632, 6
+  size: 389, 62
+  orig: 784, 233
+  offset: 149, 152
+  index: -1
+light
+  rotate: false
+  xy: 2, 535
+  size: 691, 192
+  orig: 784, 233
+  offset: 57, 31
+  index: -1
+rear_bumper_id1
+  rotate: false
+  xy: 915, 412
+  size: 99, 98
+  orig: 784, 233
+  offset: 47, 28
+  index: -1
+rear_bumper_id1_light
+  rotate: false
+  xy: 913, 218
+  size: 98, 98
+  orig: 784, 233
+  offset: 47, 28
+  index: -1
+rear_bumper_id1_lights_off
+  rotate: false
+  xy: 795, 174
+  size: 24, 11
+  orig: 784, 233
+  offset: 51, 87
+  index: -1
+rear_bumper_id1_lights_on
+  rotate: false
+  xy: 695, 187
+  size: 151, 174
+  orig: 784, 233
+  offset: 0, 6
+  index: -1
+rear_bumper_id2
+  rotate: false
+  xy: 249, 243
+  size: 111, 105
+  orig: 784, 233
+  offset: 41, 20
+  index: -1
+rear_bumper_id2_lights_off
+  rotate: false
+  xy: 115, 135
+  size: 19, 12
+  orig: 784, 233
+  offset: 50, 84
+  index: -1
+rear_bumper_id2_lights_on
+  rotate: false
+  xy: 140, 72
+  size: 119, 113
+  orig: 784, 233
+  offset: 2, 32
+  index: -1
+rear_bumper_id3
+  rotate: false
+  xy: 908, 70
+  size: 113, 113
+  orig: 784, 233
+  offset: 35, 14
+  index: -1
+rear_bumper_id3_light
+  rotate: false
+  xy: 915, 318
+  size: 99, 92
+  orig: 784, 233
+  offset: 40, 35
+  index: -1
+rear_bumper_id3_lights_off
+  rotate: false
+  xy: 115, 149
+  size: 19, 14
+  orig: 784, 233
+  offset: 48, 83
+  index: -1
+rear_bumper_id3_lights_on
+  rotate: false
+  xy: 2, 200
+  size: 130, 148
+  orig: 784, 233
+  offset: 0, 14
+  index: -1
+rear_bumper_id3_shadow
+  rotate: false
+  xy: 134, 237
+  size: 113, 111
+  orig: 784, 233
+  offset: 35, 14
+  index: -1
+rear_lights_off
+  rotate: false
+  xy: 915, 512
+  size: 106, 36
+  orig: 784, 233
+  offset: 58, 122
+  index: -1
+rear_lights_on
+  rotate: false
+  xy: 707, 837
+  size: 218, 185
+  orig: 784, 233
+  offset: 2, 48
+  index: -1
+rear_lights_stop
+  rotate: false
+  xy: 695, 363
+  size: 218, 185
+  orig: 784, 233
+  offset: 2, 48
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 350
+  size: 691, 183
+  orig: 784, 233
+  offset: 57, 31
+  index: -1
+spoiler_id19_shadow
+  rotate: false
+  xy: 362, 187
+  size: 124, 69
+  orig: 784, 233
+  offset: 40, 153
+  index: -1
+spoiler_id1_light
+  rotate: false
+  xy: 2, 165
+  size: 136, 20
+  orig: 784, 233
+  offset: 41, 196
+  index: -1
+spoiler_id1_shadow
+  rotate: false
+  xy: 115, 2
+  size: 137, 66
+  orig: 784, 233
+  offset: 40, 151
+  index: -1
+spoiler_id2
+  rotate: false
+  xy: 608, 190
+  size: 70, 40
+  orig: 784, 233
+  offset: 64, 158
+  index: -1
+spoiler_id20
+  rotate: false
+  xy: 503, 4
+  size: 127, 64
+  orig: 784, 233
+  offset: 47, 153
+  index: -1
+spoiler_id20_shadow
+  rotate: false
+  xy: 254, 2
+  size: 127, 66
+  orig: 784, 233
+  offset: 47, 151
+  index: -1
+spoiler_id21
+  rotate: false
+  xy: 134, 187
+  size: 97, 48
+  orig: 784, 233
+  offset: 51, 161
+  index: -1
+spoiler_id21_light
+  rotate: false
+  xy: 233, 188
+  size: 95, 47
+  orig: 784, 233
+  offset: 52, 161
+  index: -1
+spoiler_id2_light
+  rotate: false
+  xy: 848, 251
+  size: 60, 36
+  orig: 784, 233
+  offset: 65, 162
+  index: -1
+spoiler_id3
+  rotate: false
+  xy: 848, 337
+  size: 63, 24
+  orig: 784, 233
+  offset: 75, 158
+  index: -1
+spoiler_id3_light
+  rotate: false
+  xy: 848, 317
+  size: 63, 18
+  orig: 784, 233
+  offset: 75, 164
+  index: -1
+spoiler_id3_shadow
+  rotate: false
+  xy: 848, 289
+  size: 61, 26
+  orig: 784, 233
+  offset: 75, 155
+  index: -1
+spoiler_id4
+  rotate: false
+  xy: 488, 192
+  size: 118, 64
+  orig: 784, 233
+  offset: 31, 155
+  index: -1
+spoiler_id4_light
+  rotate: false
+  xy: 908, 185
+  size: 114, 31
+  orig: 784, 233
+  offset: 35, 188
+  index: -1
+spoiler_id4_shadow
+  rotate: false
+  xy: 383, 2
+  size: 118, 66
+  orig: 784, 233
+  offset: 31, 153
+  index: -1
+spoiler_id8
+  rotate: false
+  xy: 608, 232
+  size: 83, 24
+  orig: 784, 233
+  offset: 67, 152
+  index: -1
+
+Nissan350z2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arcs
+  rotate: false
+  xy: 2, 406
+  size: 646, 104
+  orig: 784, 233
+  offset: 96, 38
+  index: -1
+arcs_shadow
+  rotate: false
+  xy: 2, 329
+  size: 630, 75
+  orig: 784, 233
+  offset: 85, 54
+  index: -1
+center_bumper_id3_light
+  rotate: false
+  xy: 650, 468
+  size: 330, 42
+  orig: 784, 233
+  offset: 242, 19
+  index: -1
+details
+  rotate: false
+  xy: 2, 155
+  size: 481, 172
+  orig: 784, 233
+  offset: 64, 40
+  index: -1
+front_bumper_id2
+  rotate: false
+  xy: 485, 224
+  size: 120, 103
+  orig: 784, 233
+  offset: 664, 11
+  index: -1
+front_bumper_id2_light
+  rotate: false
+  xy: 634, 300
+  size: 120, 102
+  orig: 784, 233
+  offset: 664, 12
+  index: -1
+front_bumper_id2_shadow
+  rotate: false
+  xy: 902, 363
+  size: 120, 103
+  orig: 784, 233
+  offset: 664, 11
+  index: -1
+front_bumper_id3
+  rotate: false
+  xy: 756, 299
+  size: 113, 103
+  orig: 784, 233
+  offset: 667, 11
+  index: -1
+front_bumper_id3_light
+  rotate: false
+  xy: 607, 195
+  size: 113, 103
+  orig: 784, 233
+  offset: 667, 11
+  index: -1
+front_bumper_id3_shadow
+  rotate: false
+  xy: 722, 194
+  size: 113, 103
+  orig: 784, 233
+  offset: 667, 11
+  index: -1
+front_lights_off
+  rotate: false
+  xy: 717, 34
+  size: 92, 36
+  orig: 784, 233
+  offset: 655, 100
+  index: -1
+glass_tint
+  rotate: false
+  xy: 2, 91
+  size: 389, 62
+  orig: 784, 233
+  offset: 149, 152
+  index: -1
+glass_tint_base
+  rotate: false
+  xy: 2, 27
+  size: 389, 62
+  orig: 784, 233
+  offset: 149, 152
+  index: -1
+rear_bumper_id1_shadow
+  rotate: false
+  xy: 619, 95
+  size: 98, 98
+  orig: 784, 233
+  offset: 47, 28
+  index: -1
+rear_bumper_id2_light
+  rotate: false
+  xy: 393, 48
+  size: 111, 105
+  orig: 784, 233
+  offset: 41, 20
+  index: -1
+rear_bumper_id2_shadow
+  rotate: false
+  xy: 506, 60
+  size: 111, 105
+  orig: 784, 233
+  offset: 41, 20
+  index: -1
+spoiler_id1
+  rotate: false
+  xy: 719, 101
+  size: 137, 36
+  orig: 784, 233
+  offset: 40, 181
+  index: -1
+spoiler_id19
+  rotate: false
+  xy: 650, 404
+  size: 124, 62
+  orig: 784, 233
+  offset: 40, 160
+  index: -1
+spoiler_id19_light
+  rotate: false
+  xy: 776, 404
+  size: 124, 62
+  orig: 784, 233
+  offset: 40, 160
+  index: -1
+spoiler_id20_light
+  rotate: false
+  xy: 485, 167
+  size: 120, 55
+  orig: 784, 233
+  offset: 53, 161
+  index: -1
+spoiler_id21_shadow
+  rotate: false
+  xy: 619, 43
+  size: 96, 50
+  orig: 784, 233
+  offset: 52, 158
+  index: -1
+spoiler_id2_shadow
+  rotate: false
+  xy: 837, 222
+  size: 74, 50
+  orig: 784, 233
+  offset: 64, 148
+  index: -1
+spoiler_id5
+  rotate: false
+  xy: 837, 196
+  size: 74, 24
+  orig: 784, 233
+  offset: 71, 151
+  index: -1
+spoiler_id5_light
+  rotate: false
+  xy: 852, 170
+  size: 74, 24
+  orig: 784, 233
+  offset: 71, 151
+  index: -1
+spoiler_id5_shadow
+  rotate: false
+  xy: 706, 5
+  size: 74, 27
+  orig: 784, 233
+  offset: 71, 148
+  index: -1
+spoiler_id6
+  rotate: false
+  xy: 719, 72
+  size: 131, 27
+  orig: 784, 233
+  offset: 16, 174
+  index: -1
+spoiler_id6_light
+  rotate: false
+  xy: 393, 20
+  size: 131, 26
+  orig: 784, 233
+  offset: 16, 175
+  index: -1
+spoiler_id6_shadow
+  rotate: false
+  xy: 719, 139
+  size: 131, 53
+  orig: 784, 233
+  offset: 16, 148
+  index: -1
+spoiler_id7
+  rotate: false
+  xy: 526, 15
+  size: 88, 43
+  orig: 784, 233
+  offset: 65, 157
+  index: -1
+spoiler_id7_light
+  rotate: false
+  xy: 871, 274
+  size: 88, 40
+  orig: 784, 233
+  offset: 66, 160
+  index: -1
+spoiler_id7_shadow
+  rotate: false
+  xy: 871, 316
+  size: 88, 45
+  orig: 784, 233
+  offset: 65, 155
+  index: -1
+spoiler_id8_light
+  rotate: false
+  xy: 2, 2
+  size: 82, 23
+  orig: 784, 233
+  offset: 67, 153
+  index: -1
+spoiler_id8_shadow
+  rotate: false
+  xy: 616, 6
+  size: 88, 35
+  orig: 784, 233
+  offset: 67, 141
+  index: -1

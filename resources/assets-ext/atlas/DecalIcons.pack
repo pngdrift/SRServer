@@ -1,0 +1,2969 @@
+
+DecalIcons.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+decal_id0312
+  rotate: false
+  xy: 1, 1506
+  size: 200, 541
+  orig: 200, 541
+  offset: 0, 0
+  index: -1
+decal_id0263
+  rotate: false
+  xy: 1, 1068
+  size: 200, 436
+  orig: 200, 436
+  offset: 0, 0
+  index: -1
+decal_id0282
+  rotate: false
+  xy: 203, 1666
+  size: 200, 381
+  orig: 200, 381
+  offset: 0, 0
+  index: -1
+decal_id0311
+  rotate: false
+  xy: 1, 705
+  size: 200, 361
+  orig: 200, 361
+  offset: 0, 0
+  index: -1
+decal_id0280
+  rotate: false
+  xy: 203, 1305
+  size: 200, 359
+  orig: 200, 359
+  offset: 0, 0
+  index: -1
+decal_id0300
+  rotate: false
+  xy: 405, 1700
+  size: 200, 347
+  orig: 200, 347
+  offset: 0, 0
+  index: -1
+decal_id0289
+  rotate: false
+  xy: 1, 363
+  size: 200, 340
+  orig: 200, 340
+  offset: 0, 0
+  index: -1
+decal_id0293
+  rotate: false
+  xy: 203, 995
+  size: 200, 308
+  orig: 200, 308
+  offset: 0, 0
+  index: -1
+decal_id0353
+  rotate: false
+  xy: 405, 1398
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+decal_id0264
+  rotate: false
+  xy: 607, 1751
+  size: 200, 296
+  orig: 200, 296
+  offset: 0, 0
+  index: -1
+decal_id0330
+  rotate: false
+  xy: 1, 68
+  size: 200, 293
+  orig: 200, 293
+  offset: 0, 0
+  index: -1
+decal_id0337
+  rotate: false
+  xy: 203, 700
+  size: 200, 293
+  orig: 200, 293
+  offset: 0, 0
+  index: -1
+decal_id0348
+  rotate: false
+  xy: 405, 1103
+  size: 200, 293
+  orig: 200, 293
+  offset: 0, 0
+  index: -1
+decal_id0314
+  rotate: false
+  xy: 607, 1461
+  size: 200, 288
+  orig: 200, 288
+  offset: 0, 0
+  index: -1
+decal_id0307
+  rotate: false
+  xy: 809, 1765
+  size: 200, 282
+  orig: 200, 282
+  offset: 0, 0
+  index: -1
+decal_id0328
+  rotate: false
+  xy: 203, 419
+  size: 200, 279
+  orig: 200, 279
+  offset: 0, 0
+  index: -1
+decal_id0345
+  rotate: false
+  xy: 405, 822
+  size: 200, 279
+  orig: 200, 279
+  offset: 0, 0
+  index: -1
+decal_id0273
+  rotate: false
+  xy: 607, 1183
+  size: 200, 276
+  orig: 200, 276
+  offset: 0, 0
+  index: -1
+decal_id0350
+  rotate: false
+  xy: 809, 1487
+  size: 200, 276
+  orig: 200, 276
+  offset: 0, 0
+  index: -1
+decal_id0254
+  rotate: false
+  xy: 1011, 1772
+  size: 200, 275
+  orig: 200, 275
+  offset: 0, 0
+  index: -1
+decal_id10
+  rotate: false
+  xy: 1, 1
+  size: 200, 65
+  orig: 200, 65
+  offset: 0, 0
+  index: -1
+decal_id0358
+  rotate: false
+  xy: 203, 155
+  size: 200, 262
+  orig: 200, 262
+  offset: 0, 0
+  index: -1
+decal_id0391
+  rotate: false
+  xy: 203, 1
+  size: 200, 152
+  orig: 200, 152
+  offset: 0, 0
+  index: -1
+decal_id0327
+  rotate: false
+  xy: 405, 564
+  size: 200, 256
+  orig: 200, 256
+  offset: 0, 0
+  index: -1
+decal_id0276
+  rotate: false
+  xy: 607, 929
+  size: 200, 252
+  orig: 200, 252
+  offset: 0, 0
+  index: -1
+decal_id0272
+  rotate: false
+  xy: 809, 1234
+  size: 200, 251
+  orig: 200, 251
+  offset: 0, 0
+  index: -1
+decal_id0290
+  rotate: false
+  xy: 1011, 1520
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+decal_id0283
+  rotate: false
+  xy: 1213, 1753
+  size: 155, 294
+  orig: 200, 300
+  offset: 22, 4
+  index: -1
+decal_id0269
+  rotate: false
+  xy: 405, 314
+  size: 200, 248
+  orig: 200, 248
+  offset: 0, 0
+  index: -1
+decal_id0265
+  rotate: false
+  xy: 607, 694
+  size: 200, 233
+  orig: 200, 233
+  offset: 0, 0
+  index: -1
+decal_id0341
+  rotate: false
+  xy: 809, 1001
+  size: 200, 231
+  orig: 200, 231
+  offset: 0, 0
+  index: -1
+decal_id0271
+  rotate: false
+  xy: 1011, 1292
+  size: 200, 226
+  orig: 200, 226
+  offset: 0, 0
+  index: -1
+decal_id0344
+  rotate: false
+  xy: 1370, 1821
+  size: 200, 226
+  orig: 200, 226
+  offset: 0, 0
+  index: -1
+decal_id0278
+  rotate: false
+  xy: 405, 88
+  size: 200, 224
+  orig: 200, 224
+  offset: 0, 0
+  index: -1
+decal_id85
+  rotate: false
+  xy: 405, 1
+  size: 200, 85
+  orig: 200, 85
+  offset: 0, 0
+  index: -1
+decal_id0355
+  rotate: false
+  xy: 607, 468
+  size: 200, 224
+  orig: 200, 224
+  offset: 0, 0
+  index: -1
+decal_id0357
+  rotate: false
+  xy: 809, 760
+  size: 183, 239
+  orig: 183, 239
+  offset: 0, 0
+  index: -1
+decal_id0359
+  rotate: false
+  xy: 1011, 1068
+  size: 200, 222
+  orig: 200, 222
+  offset: 0, 0
+  index: -1
+decal_id0286
+  rotate: false
+  xy: 1572, 1826
+  size: 200, 221
+  orig: 200, 221
+  offset: 0, 0
+  index: -1
+decal_id0310
+  rotate: false
+  xy: 607, 252
+  size: 200, 214
+  orig: 200, 214
+  offset: 0, 0
+  index: -1
+decal_id0308
+  rotate: false
+  xy: 1774, 1834
+  size: 200, 213
+  orig: 200, 213
+  offset: 0, 0
+  index: -1
+decal_id0334
+  rotate: false
+  xy: 607, 38
+  size: 200, 212
+  orig: 200, 212
+  offset: 0, 0
+  index: -1
+decal_id123
+  rotate: false
+  xy: 607, 1
+  size: 200, 35
+  orig: 200, 35
+  offset: 0, 0
+  index: -1
+decal_id0253
+  rotate: false
+  xy: 809, 548
+  size: 200, 210
+  orig: 200, 210
+  offset: 0, 0
+  index: -1
+decal_id0320
+  rotate: false
+  xy: 809, 337
+  size: 200, 209
+  orig: 200, 209
+  offset: 0, 0
+  index: -1
+decal_id0268
+  rotate: false
+  xy: 809, 127
+  size: 200, 208
+  orig: 200, 208
+  offset: 0, 0
+  index: -1
+decal_id0442
+  rotate: false
+  xy: 809, 1
+  size: 127, 124
+  orig: 127, 125
+  offset: 0, 1
+  index: -1
+decal_id0342
+  rotate: false
+  xy: 1213, 1545
+  size: 200, 206
+  orig: 200, 206
+  offset: 0, 0
+  index: -1
+decal_id0299
+  rotate: false
+  xy: 1213, 1338
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+decal_id0347
+  rotate: false
+  xy: 1213, 1131
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+decal_id0441
+  rotate: false
+  xy: 938, 1
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+decal_id30
+  rotate: false
+  xy: 1370, 1753
+  size: 200, 66
+  orig: 200, 66
+  offset: 0, 0
+  index: -1
+decal_id0354
+  rotate: false
+  xy: 1415, 1546
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+decal_id0251
+  rotate: false
+  xy: 1415, 1341
+  size: 200, 203
+  orig: 200, 203
+  offset: 0, 0
+  index: -1
+decal_id0315
+  rotate: false
+  xy: 1415, 1138
+  size: 200, 201
+  orig: 200, 201
+  offset: 0, 0
+  index: -1
+decal_id0428
+  rotate: false
+  xy: 1572, 1753
+  size: 200, 71
+  orig: 200, 71
+  offset: 0, 0
+  index: -1
+decal_id0279
+  rotate: false
+  xy: 1617, 1551
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+decal_id0363
+  rotate: false
+  xy: 1617, 1349
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+decal_id0371
+  rotate: false
+  xy: 1617, 1147
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+decal_id127
+  rotate: false
+  xy: 1774, 1753
+  size: 200, 79
+  orig: 200, 79
+  offset: 0, 0
+  index: -1
+decal_id0331
+  rotate: false
+  xy: 1819, 1551
+  size: 196, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+decal_id0378
+  rotate: false
+  xy: 1819, 1349
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+decal_id0380
+  rotate: false
+  xy: 1819, 1147
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+decal_id0250
+  rotate: false
+  xy: 1011, 933
+  size: 200, 133
+  orig: 200, 133
+  offset: 0, 0
+  index: -1
+decal_id0258
+  rotate: false
+  xy: 1213, 930
+  size: 200, 199
+  orig: 200, 199
+  offset: 0, 0
+  index: -1
+decal_id0381
+  rotate: false
+  xy: 1415, 936
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+decal_id0387
+  rotate: false
+  xy: 1617, 945
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+decal_id0404
+  rotate: false
+  xy: 1819, 945
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+decal_id0409
+  rotate: false
+  xy: 994, 761
+  size: 200, 170
+  orig: 200, 170
+  offset: 0, 0
+  index: -1
+decal_id0368
+  rotate: false
+  xy: 1011, 559
+  size: 185, 200
+  orig: 185, 200
+  offset: 0, 0
+  index: -1
+decal_id0405
+  rotate: false
+  xy: 1011, 357
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+decal_id0406
+  rotate: false
+  xy: 1011, 155
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+decal_id70
+  rotate: false
+  xy: 1058, 1
+  size: 200, 152
+  orig: 200, 152
+  offset: 0, 0
+  index: -1
+decal_id67
+  rotate: false
+  xy: 1196, 761
+  size: 200, 167
+  orig: 200, 167
+  offset: 0, 0
+  index: -1
+decal_id0407
+  rotate: false
+  xy: 1198, 559
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+decal_id0411
+  rotate: false
+  xy: 1213, 357
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+decal_id0421
+  rotate: false
+  xy: 1213, 155
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+decal_id170
+  rotate: false
+  xy: 1260, 4
+  size: 200, 149
+  orig: 200, 149
+  offset: 0, 0
+  index: -1
+decal_id0430
+  rotate: false
+  xy: 1617, 916
+  size: 250, 27
+  orig: 250, 27
+  offset: 0, 0
+  index: -1
+decal_id32
+  rotate: false
+  xy: 1869, 743
+  size: 178, 200
+  orig: 178, 200
+  offset: 0, 0
+  index: -1
+decal_id0399
+  rotate: false
+  xy: 1976, 1847
+  size: 56, 200
+  orig: 56, 200
+  offset: 0, 0
+  index: -1
+decal_id0255
+  rotate: false
+  xy: 1415, 850
+  size: 200, 84
+  orig: 200, 84
+  offset: 0, 0
+  index: -1
+decal_id0436
+  rotate: false
+  xy: 1617, 856
+  size: 250, 58
+  orig: 250, 58
+  offset: 0, 0
+  index: -1
+decal_id0422
+  rotate: false
+  xy: 1400, 648
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+decal_id91
+  rotate: false
+  xy: 1400, 559
+  size: 200, 87
+  orig: 200, 87
+  offset: 0, 0
+  index: -1
+decal_id100
+  rotate: false
+  xy: 1415, 357
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+decal_id148
+  rotate: false
+  xy: 1415, 155
+  size: 197, 200
+  orig: 197, 200
+  offset: 0, 0
+  index: -1
+decal_id47
+  rotate: false
+  xy: 1462, 4
+  size: 200, 149
+  orig: 200, 149
+  offset: 0, 0
+  index: -1
+decal_id0434
+  rotate: false
+  xy: 1617, 815
+  size: 248, 39
+  orig: 248, 39
+  offset: 0, 0
+  index: -1
+decal_id149
+  rotate: false
+  xy: 1602, 613
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+decal_id151
+  rotate: false
+  xy: 1607, 411
+  size: 195, 200
+  orig: 195, 200
+  offset: 0, 0
+  index: -1
+decal_id153
+  rotate: false
+  xy: 1804, 541
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+decal_id150
+  rotate: false
+  xy: 1614, 209
+  size: 193, 200
+  orig: 193, 200
+  offset: 0, 0
+  index: -1
+decal_id171
+  rotate: false
+  xy: 1804, 411
+  size: 200, 128
+  orig: 200, 128
+  offset: 0, 0
+  index: -1
+decal_id163
+  rotate: false
+  xy: 1809, 209
+  size: 197, 200
+  orig: 197, 200
+  offset: 0, 0
+  index: -1
+decal_id166
+  rotate: false
+  xy: 1664, 7
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+decal_id0383
+  rotate: false
+  xy: 1866, 7
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+decal_id160
+  rotate: false
+  xy: 2006, 554
+  size: 28, 187
+  orig: 200, 200
+  offset: 86, 6
+  index: -1
+decal_id245
+  rotate: false
+  xy: 2006, 506
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+decal_id211
+  rotate: false
+  xy: 2006, 460
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+decal_id217
+  rotate: false
+  xy: 2006, 415
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+decal_id221
+  rotate: false
+  xy: 2008, 367
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+decal_id244
+  rotate: false
+  xy: 2008, 319
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+decal_id220
+  rotate: false
+  xy: 2008, 275
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+decal_id196
+  rotate: false
+  xy: 1614, 155
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+decal_id237
+  rotate: false
+  xy: 1976, 1785
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+decal_id205
+  rotate: false
+  xy: 2016, 1797
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+decal_id204
+  rotate: false
+  xy: 1804, 756
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+decal_id207
+  rotate: false
+  xy: 2008, 217
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+decal_id225
+  rotate: false
+  xy: 2021, 1749
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+decal_id202
+  rotate: false
+  xy: 2017, 1688
+  size: 24, 59
+  orig: 24, 59
+  offset: 0, 0
+  index: -1
+decal_id200
+  rotate: false
+  xy: 2017, 1629
+  size: 25, 57
+  orig: 25, 57
+  offset: 0, 0
+  index: -1
+decal_id206
+  rotate: false
+  xy: 2017, 1575
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+decal_id213
+  rotate: false
+  xy: 1844, 770
+  size: 21, 43
+  orig: 21, 43
+  offset: 0, 0
+  index: -1
+decal_id201
+  rotate: false
+  xy: 2021, 1523
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+decal_id230
+  rotate: false
+  xy: 2021, 1474
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+
+DecalIcons2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+decal_id29
+  rotate: false
+  xy: 1, 1847
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+decal_id64
+  rotate: false
+  xy: 1, 1645
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+decal_id81
+  rotate: false
+  xy: 203, 1847
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+decal_id98
+  rotate: false
+  xy: 1, 1443
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+decal_id89
+  rotate: false
+  xy: 203, 1646
+  size: 200, 199
+  orig: 200, 199
+  offset: 0, 0
+  index: -1
+decal_id95
+  rotate: false
+  xy: 405, 1847
+  size: 199, 200
+  orig: 199, 200
+  offset: 0, 0
+  index: -1
+decal_id96
+  rotate: false
+  xy: 1, 1241
+  size: 199, 200
+  orig: 199, 200
+  offset: 0, 0
+  index: -1
+decal_id97
+  rotate: false
+  xy: 203, 1444
+  size: 199, 200
+  orig: 199, 200
+  offset: 0, 0
+  index: -1
+decal_id167
+  rotate: false
+  xy: 606, 1847
+  size: 198, 200
+  orig: 198, 200
+  offset: 0, 0
+  index: -1
+decal_id168
+  rotate: false
+  xy: 405, 1647
+  size: 200, 198
+  orig: 200, 198
+  offset: 0, 0
+  index: -1
+decal_id31
+  rotate: false
+  xy: 806, 1849
+  size: 200, 198
+  orig: 200, 198
+  offset: 0, 0
+  index: -1
+decal_id63
+  rotate: false
+  xy: 1, 1039
+  size: 198, 200
+  orig: 198, 200
+  offset: 0, 0
+  index: -1
+decal_id0260
+  rotate: false
+  xy: 1008, 1850
+  size: 200, 197
+  orig: 200, 197
+  offset: 0, 0
+  index: -1
+decal_id0367
+  rotate: false
+  xy: 1210, 1850
+  size: 200, 197
+  orig: 200, 197
+  offset: 0, 0
+  index: -1
+decal_id0392
+  rotate: false
+  xy: 1412, 1850
+  size: 200, 197
+  orig: 200, 197
+  offset: 0, 0
+  index: -1
+decal_id0408
+  rotate: false
+  xy: 1, 838
+  size: 198, 199
+  orig: 200, 200
+  offset: 1, 0
+  index: -1
+decal_id0270
+  rotate: false
+  xy: 1614, 1851
+  size: 200, 196
+  orig: 200, 196
+  offset: 0, 0
+  index: -1
+decal_id110
+  rotate: false
+  xy: 1816, 1851
+  size: 200, 196
+  orig: 200, 196
+  offset: 0, 0
+  index: -1
+decal_id33
+  rotate: false
+  xy: 1, 636
+  size: 195, 200
+  orig: 195, 200
+  offset: 0, 0
+  index: -1
+decal_id152
+  rotate: false
+  xy: 607, 1650
+  size: 200, 195
+  orig: 200, 195
+  offset: 0, 0
+  index: -1
+decal_id69
+  rotate: false
+  xy: 1, 434
+  size: 191, 200
+  orig: 191, 200
+  offset: 0, 0
+  index: -1
+decal_id20
+  rotate: false
+  xy: 1, 232
+  size: 189, 200
+  orig: 189, 200
+  offset: 0, 0
+  index: -1
+decal_id162
+  rotate: false
+  xy: 809, 1651
+  size: 194, 196
+  orig: 200, 200
+  offset: 2, 2
+  index: -1
+decal_id61
+  rotate: false
+  xy: 1, 30
+  size: 188, 200
+  orig: 188, 200
+  offset: 0, 0
+  index: -1
+decal_id0451
+  rotate: false
+  xy: 1008, 1795
+  size: 241, 53
+  orig: 241, 53
+  offset: 0, 0
+  index: -1
+decal_id0275
+  rotate: false
+  xy: 1005, 1627
+  size: 200, 166
+  orig: 200, 166
+  offset: 0, 0
+  index: -1
+decal_id0444
+  rotate: false
+  xy: 1251, 1784
+  size: 233, 64
+  orig: 233, 64
+  offset: 0, 0
+  index: -1
+decal_id0297
+  rotate: false
+  xy: 1207, 1608
+  size: 200, 174
+  orig: 200, 174
+  offset: 0, 0
+  index: -1
+decal_id0302
+  rotate: false
+  xy: 1409, 1597
+  size: 200, 185
+  orig: 200, 187
+  offset: 0, 2
+  index: -1
+decal_id126
+  rotate: false
+  xy: 1486, 1784
+  size: 200, 64
+  orig: 200, 64
+  offset: 0, 0
+  index: -1
+decal_id0439
+  rotate: false
+  xy: 1688, 1775
+  size: 230, 74
+  orig: 230, 74
+  offset: 0, 0
+  index: -1
+decal_id0309
+  rotate: false
+  xy: 1611, 1590
+  size: 200, 183
+  orig: 200, 183
+  offset: 0, 0
+  index: -1
+decal_id0319
+  rotate: false
+  xy: 1813, 1584
+  size: 200, 189
+  orig: 200, 189
+  offset: 0, 0
+  index: -1
+decal_id135
+  rotate: false
+  xy: 1, 2
+  size: 198, 26
+  orig: 200, 26
+  offset: 1, 0
+  index: -1
+decal_id0362
+  rotate: false
+  xy: 191, 30
+  size: 135, 200
+  orig: 200, 200
+  offset: 65, 0
+  index: -1
+decal_id0384
+  rotate: false
+  xy: 192, 232
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+decal_id0385
+  rotate: false
+  xy: 194, 434
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+decal_id0386
+  rotate: false
+  xy: 198, 636
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+decal_id0377
+  rotate: false
+  xy: 328, 30
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+decal_id0397
+  rotate: false
+  xy: 354, 232
+  size: 110, 200
+  orig: 110, 200
+  offset: 0, 0
+  index: -1
+decal_id0398
+  rotate: false
+  xy: 356, 434
+  size: 110, 200
+  orig: 110, 200
+  offset: 0, 0
+  index: -1
+decal_id37
+  rotate: false
+  xy: 201, 2
+  size: 200, 26
+  orig: 200, 26
+  offset: 0, 0
+  index: -1
+decal_id0402
+  rotate: false
+  xy: 458, 30
+  size: 153, 200
+  orig: 153, 200
+  offset: 0, 0
+  index: -1
+decal_id0403
+  rotate: false
+  xy: 466, 232
+  size: 153, 200
+  orig: 153, 200
+  offset: 0, 0
+  index: -1
+decal_id116
+  rotate: false
+  xy: 403, 4
+  size: 200, 24
+  orig: 200, 24
+  offset: 0, 0
+  index: -1
+decal_id0412
+  rotate: false
+  xy: 613, 30
+  size: 162, 200
+  orig: 162, 200
+  offset: 0, 0
+  index: -1
+decal_id0256
+  rotate: false
+  xy: 607, 1509
+  size: 200, 139
+  orig: 200, 139
+  offset: 0, 0
+  index: -1
+decal_id0284
+  rotate: false
+  xy: 405, 1508
+  size: 200, 137
+  orig: 200, 137
+  offset: 0, 0
+  index: -1
+decal_id154
+  rotate: false
+  xy: 809, 1457
+  size: 191, 192
+  orig: 200, 200
+  offset: 4, 4
+  index: -1
+decal_id0306
+  rotate: false
+  xy: 1002, 1450
+  size: 200, 175
+  orig: 200, 175
+  offset: 0, 0
+  index: -1
+decal_id0333
+  rotate: false
+  xy: 1204, 1417
+  size: 200, 189
+  orig: 200, 189
+  offset: 0, 0
+  index: -1
+decal_id0349
+  rotate: false
+  xy: 1406, 1410
+  size: 200, 185
+  orig: 200, 185
+  offset: 0, 0
+  index: -1
+decal_id0365
+  rotate: false
+  xy: 1608, 1401
+  size: 200, 187
+  orig: 200, 187
+  offset: 0, 0
+  index: -1
+decal_id0375
+  rotate: false
+  xy: 1810, 1393
+  size: 200, 189
+  orig: 200, 189
+  offset: 0, 0
+  index: -1
+decal_id0443
+  rotate: false
+  xy: 404, 1434
+  size: 211, 72
+  orig: 211, 72
+  offset: 0, 0
+  index: -1
+decal_id155
+  rotate: false
+  xy: 617, 1344
+  size: 189, 163
+  orig: 200, 200
+  offset: 7, 22
+  index: -1
+decal_id0453
+  rotate: false
+  xy: 808, 1343
+  size: 188, 112
+  orig: 188, 112
+  offset: 0, 0
+  index: -1
+decal_id0257
+  rotate: false
+  xy: 998, 1314
+  size: 200, 134
+  orig: 200, 134
+  offset: 0, 0
+  index: -1
+decal_id0287
+  rotate: false
+  xy: 1200, 1270
+  size: 200, 145
+  orig: 200, 145
+  offset: 0, 0
+  index: -1
+decal_id0301
+  rotate: false
+  xy: 1402, 1266
+  size: 200, 142
+  orig: 200, 142
+  offset: 0, 0
+  index: -1
+decal_id0326
+  rotate: false
+  xy: 1604, 1264
+  size: 200, 135
+  orig: 200, 135
+  offset: 0, 0
+  index: -1
+decal_id0346
+  rotate: false
+  xy: 1806, 1216
+  size: 200, 175
+  orig: 200, 175
+  offset: 0, 0
+  index: -1
+decal_id138
+  rotate: false
+  xy: 203, 1331
+  size: 199, 111
+  orig: 200, 111
+  offset: 0, 0
+  index: -1
+decal_id0448
+  rotate: false
+  xy: 404, 1369
+  size: 211, 63
+  orig: 213, 64
+  offset: 1, 0
+  index: -1
+decal_id0295
+  rotate: false
+  xy: 202, 1222
+  size: 200, 107
+  orig: 200, 107
+  offset: 0, 0
+  index: -1
+decal_id72
+  rotate: false
+  xy: 201, 1029
+  size: 200, 191
+  orig: 200, 191
+  offset: 0, 0
+  index: -1
+decal_id0401
+  rotate: false
+  xy: 201, 839
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+decal_id0361
+  rotate: false
+  xy: 404, 1213
+  size: 200, 154
+  orig: 200, 154
+  offset: 0, 0
+  index: -1
+decal_id0376
+  rotate: false
+  xy: 403, 1021
+  size: 200, 190
+  orig: 200, 190
+  offset: 0, 0
+  index: -1
+decal_id0388
+  rotate: false
+  xy: 403, 833
+  size: 200, 186
+  orig: 200, 186
+  offset: 0, 0
+  index: -1
+decal_id93
+  rotate: false
+  xy: 360, 650
+  size: 200, 181
+  orig: 200, 181
+  offset: 0, 0
+  index: -1
+decal_id0364
+  rotate: false
+  xy: 606, 1204
+  size: 200, 138
+  orig: 200, 138
+  offset: 0, 0
+  index: -1
+decal_id28
+  rotate: false
+  xy: 605, 1002
+  size: 187, 200
+  orig: 187, 200
+  offset: 0, 0
+  index: -1
+decal_id0410
+  rotate: false
+  xy: 605, 830
+  size: 200, 170
+  orig: 200, 170
+  offset: 0, 0
+  index: -1
+decal_id90
+  rotate: false
+  xy: 562, 648
+  size: 200, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+decal_id68
+  rotate: false
+  xy: 808, 1141
+  size: 185, 200
+  orig: 185, 200
+  offset: 0, 0
+  index: -1
+decal_id76
+  rotate: false
+  xy: 995, 1137
+  size: 200, 175
+  orig: 200, 175
+  offset: 0, 0
+  index: -1
+decal_id0369
+  rotate: false
+  xy: 1197, 1111
+  size: 200, 157
+  orig: 200, 157
+  offset: 0, 0
+  index: -1
+decal_id0419
+  rotate: false
+  xy: 1399, 1094
+  size: 200, 170
+  orig: 200, 170
+  offset: 0, 0
+  index: -1
+decal_id165
+  rotate: false
+  xy: 1601, 1092
+  size: 200, 170
+  orig: 200, 170
+  offset: 0, 0
+  index: -1
+decal_id0304
+  rotate: false
+  xy: 1803, 1091
+  size: 200, 123
+  orig: 200, 123
+  offset: 0, 0
+  index: -1
+decal_id0447
+  rotate: false
+  xy: 794, 1036
+  size: 187, 103
+  orig: 187, 103
+  offset: 0, 0
+  index: -1
+decal_id0415
+  rotate: false
+  xy: 807, 834
+  size: 180, 200
+  orig: 180, 200
+  offset: 0, 0
+  index: -1
+decal_id75
+  rotate: false
+  xy: 983, 1039
+  size: 200, 96
+  orig: 200, 96
+  offset: 0, 0
+  index: -1
+decal_id0417
+  rotate: false
+  xy: 989, 837
+  size: 180, 200
+  orig: 180, 200
+  offset: 0, 0
+  index: -1
+decal_id92
+  rotate: false
+  xy: 468, 466
+  size: 199, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+decal_id0432
+  rotate: false
+  xy: 468, 434
+  size: 222, 30
+  orig: 222, 30
+  offset: 0, 0
+  index: -1
+decal_id0423
+  rotate: false
+  xy: 621, 232
+  size: 172, 200
+  orig: 172, 200
+  offset: 0, 0
+  index: -1
+decal_id157
+  rotate: false
+  xy: 669, 466
+  size: 179, 180
+  orig: 200, 200
+  offset: 13, 13
+  index: -1
+decal_id175
+  rotate: false
+  xy: 764, 648
+  size: 121, 180
+  orig: 121, 180
+  offset: 0, 0
+  index: -1
+decal_id103
+  rotate: false
+  xy: 692, 434
+  size: 200, 30
+  orig: 200, 31
+  offset: 0, 0
+  index: -1
+decal_id0413
+  rotate: false
+  xy: 795, 232
+  size: 108, 200
+  orig: 108, 200
+  offset: 0, 0
+  index: -1
+decal_id112
+  rotate: false
+  xy: 777, 30
+  size: 153, 200
+  orig: 153, 200
+  offset: 0, 0
+  index: -1
+decal_id0414
+  rotate: false
+  xy: 887, 632
+  size: 105, 200
+  orig: 105, 200
+  offset: 0, 0
+  index: -1
+decal_id19
+  rotate: false
+  xy: 994, 635
+  size: 176, 200
+  orig: 176, 200
+  offset: 0, 0
+  index: -1
+decal_id185
+  rotate: false
+  xy: 850, 467
+  size: 180, 163
+  orig: 180, 163
+  offset: 0, 0
+  index: -1
+decal_id156
+  rotate: false
+  xy: 1032, 454
+  size: 179, 179
+  orig: 200, 200
+  offset: 10, 10
+  index: -1
+decal_id27
+  rotate: false
+  xy: 905, 265
+  size: 122, 200
+  orig: 122, 200
+  offset: 0, 0
+  index: -1
+decal_id164
+  rotate: false
+  xy: 1029, 255
+  size: 177, 197
+  orig: 178, 200
+  offset: 1, 2
+  index: -1
+decal_id0450
+  rotate: false
+  xy: 1185, 1029
+  size: 207, 80
+  orig: 207, 80
+  offset: 0, 0
+  index: -1
+decal_id3
+  rotate: false
+  xy: 1171, 857
+  size: 200, 170
+  orig: 200, 170
+  offset: 0, 0
+  index: -1
+decal_id48
+  rotate: false
+  xy: 1172, 655
+  size: 174, 200
+  orig: 174, 200
+  offset: 0, 0
+  index: -1
+decal_id172
+  rotate: false
+  xy: 1213, 453
+  size: 170, 200
+  orig: 170, 200
+  offset: 0, 0
+  index: -1
+decal_id73
+  rotate: false
+  xy: 1208, 251
+  size: 168, 200
+  orig: 168, 200
+  offset: 0, 0
+  index: -1
+decal_id0418
+  rotate: false
+  xy: 1348, 655
+  size: 117, 200
+  orig: 117, 200
+  offset: 0, 0
+  index: -1
+decal_id0420
+  rotate: false
+  xy: 1385, 453
+  size: 116, 200
+  orig: 116, 200
+  offset: 0, 0
+  index: -1
+decal_id25
+  rotate: false
+  xy: 1378, 251
+  size: 145, 200
+  orig: 145, 200
+  offset: 0, 0
+  index: -1
+decal_id0259
+  rotate: false
+  xy: 1394, 1015
+  size: 200, 77
+  orig: 200, 77
+  offset: 0, 0
+  index: -1
+decal_id145
+  rotate: false
+  xy: 1373, 865
+  size: 200, 148
+  orig: 200, 148
+  offset: 0, 0
+  index: -1
+decal_id35
+  rotate: false
+  xy: 1467, 663
+  size: 117, 200
+  orig: 117, 200
+  offset: 0, 0
+  index: -1
+decal_id23
+  rotate: false
+  xy: 1503, 461
+  size: 96, 200
+  orig: 96, 200
+  offset: 0, 0
+  index: -1
+decal_id0296
+  rotate: false
+  xy: 1596, 971
+  size: 200, 119
+  orig: 200, 119
+  offset: 0, 0
+  index: -1
+decal_id0379
+  rotate: false
+  xy: 1798, 946
+  size: 200, 143
+  orig: 200, 143
+  offset: 0, 0
+  index: -1
+decal_id133
+  rotate: false
+  xy: 1575, 867
+  size: 200, 102
+  orig: 200, 102
+  offset: 0, 0
+  index: -1
+decal_id159
+  rotate: false
+  xy: 1586, 672
+  size: 167, 193
+  orig: 200, 200
+  offset: 16, 3
+  index: -1
+decal_id66
+  rotate: false
+  xy: 1601, 470
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+decal_id0452
+  rotate: false
+  xy: 1777, 868
+  size: 218, 76
+  orig: 218, 76
+  offset: 0, 0
+  index: -1
+decal_id49
+  rotate: false
+  xy: 1525, 259
+  size: 144, 200
+  orig: 144, 200
+  offset: 0, 0
+  index: -1
+decal_id74
+  rotate: false
+  xy: 1671, 268
+  size: 159, 200
+  orig: 159, 200
+  offset: 0, 0
+  index: -1
+decal_id147
+  rotate: false
+  xy: 932, 91
+  size: 200, 162
+  orig: 200, 162
+  offset: 0, 0
+  index: -1
+decal_id21
+  rotate: false
+  xy: 932, 1
+  size: 200, 88
+  orig: 200, 88
+  offset: 0, 0
+  index: -1
+decal_id60
+  rotate: false
+  xy: 1134, 87
+  size: 200, 162
+  orig: 200, 162
+  offset: 0, 0
+  index: -1
+decal_id86
+  rotate: false
+  xy: 1336, 87
+  size: 200, 162
+  orig: 200, 162
+  offset: 0, 0
+  index: -1
+decal_id186
+  rotate: false
+  xy: 1538, 77
+  size: 168, 180
+  orig: 168, 180
+  offset: 0, 0
+  index: -1
+decal_id83
+  rotate: false
+  xy: 1708, 66
+  size: 149, 200
+  orig: 149, 200
+  offset: 0, 0
+  index: -1
+decal_id0446
+  rotate: false
+  xy: 1134, 24
+  size: 231, 61
+  orig: 232, 61
+  offset: 0, 0
+  index: -1
+decal_id41
+  rotate: false
+  xy: 1367, 1
+  size: 200, 74
+  orig: 200, 74
+  offset: 0, 0
+  index: -1
+decal_id84
+  rotate: false
+  xy: 1569, 1
+  size: 200, 63
+  orig: 200, 63
+  offset: 0, 0
+  index: -1
+decal_id161
+  rotate: false
+  xy: 1859, 773
+  size: 188, 93
+  orig: 200, 200
+  offset: 6, 52
+  index: -1
+decal_id117
+  rotate: false
+  xy: 605, 4
+  size: 200, 24
+  orig: 200, 24
+  offset: 0, 0
+  index: -1
+decal_id0372
+  rotate: false
+  xy: 1134, 7
+  size: 200, 15
+  orig: 200, 15
+  offset: 0, 0
+  index: -1
+decal_id174
+  rotate: false
+  xy: 1755, 685
+  size: 51, 180
+  orig: 51, 180
+  offset: 0, 0
+  index: -1
+decal_id0313
+  rotate: false
+  xy: 1808, 660
+  size: 200, 111
+  orig: 200, 111
+  offset: 0, 0
+  index: -1
+decal_id34
+  rotate: false
+  xy: 1763, 498
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+decal_id187
+  rotate: false
+  xy: 1832, 316
+  size: 179, 180
+  orig: 179, 180
+  offset: 0, 0
+  index: -1
+decal_id188
+  rotate: false
+  xy: 1859, 134
+  size: 169, 180
+  orig: 169, 180
+  offset: 0, 0
+  index: -1
+decal_id0457
+  rotate: false
+  xy: 1859, 53
+  size: 178, 79
+  orig: 178, 79
+  offset: 0, 0
+  index: -1
+decal_id141
+  rotate: false
+  xy: 1771, 1
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+decal_id233
+  rotate: false
+  xy: 2010, 725
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+decal_id243
+  rotate: false
+  xy: 2010, 677
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+decal_id198
+  rotate: false
+  xy: 2018, 2002
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+decal_id208
+  rotate: false
+  xy: 1973, 1
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+decal_id216
+  rotate: false
+  xy: 2018, 1957
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+decal_id195
+  rotate: false
+  xy: 2012, 1527
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+decal_id218
+  rotate: false
+  xy: 2012, 1480
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+decal_id209
+  rotate: false
+  xy: 2018, 1917
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+decal_id214
+  rotate: false
+  xy: 1920, 1796
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+decal_id219
+  rotate: false
+  xy: 1965, 601
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+decal_id212
+  rotate: false
+  xy: 2012, 1424
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+decal_id242
+  rotate: false
+  xy: 1960, 1803
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+decal_id235
+  rotate: false
+  xy: 1808, 818
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+decal_id197
+  rotate: false
+  xy: 1808, 773
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+decal_id227
+  rotate: false
+  xy: 2013, 627
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+decal_id223
+  rotate: false
+  xy: 1965, 551
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+decal_id203
+  rotate: false
+  xy: 1965, 498
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+decal_id224
+  rotate: false
+  xy: 2013, 579
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+decal_id240
+  rotate: false
+  xy: 2013, 531
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+decal_id210
+  rotate: false
+  xy: 2018, 1863
+  size: 27, 52
+  orig: 27, 52
+  offset: 0, 0
+  index: -1
+decal_id239
+  rotate: false
+  xy: 2009, 3
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+decal_id228
+  rotate: false
+  xy: 2012, 1376
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+decal_id241
+  rotate: false
+  xy: 2008, 1327
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+decal_id231
+  rotate: false
+  xy: 2008, 1279
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+decal_id234
+  rotate: false
+  xy: 2008, 1231
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+decal_id222
+  rotate: false
+  xy: 2002, 1803
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+decal_id246
+  rotate: false
+  xy: 2015, 1755
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+decal_id236
+  rotate: false
+  xy: 2015, 1707
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+decal_id238
+  rotate: false
+  xy: 2015, 1659
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+decal_id199
+  rotate: false
+  xy: 2015, 1612
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+decal_id226
+  rotate: false
+  xy: 2000, 1043
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+decal_id229
+  rotate: false
+  xy: 2000, 995
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+decal_id232
+  rotate: false
+  xy: 2000, 947
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+decal_id215
+  rotate: false
+  xy: 2008, 1191
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+
+DecalIcons3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+decal_id65
+  rotate: false
+  xy: 1, 1887
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+decal_id194
+  rotate: false
+  xy: 1, 1705
+  size: 179, 180
+  orig: 179, 180
+  offset: 0, 0
+  index: -1
+decal_id106
+  rotate: false
+  xy: 203, 1889
+  size: 200, 158
+  orig: 200, 158
+  offset: 0, 0
+  index: -1
+decal_id78
+  rotate: false
+  xy: 405, 1889
+  size: 200, 158
+  orig: 200, 158
+  offset: 0, 0
+  index: -1
+decal_id191
+  rotate: false
+  xy: 1, 1523
+  size: 176, 180
+  orig: 176, 180
+  offset: 0, 0
+  index: -1
+decal_id193
+  rotate: false
+  xy: 1, 1341
+  size: 171, 180
+  orig: 171, 180
+  offset: 0, 0
+  index: -1
+decal_id24
+  rotate: false
+  xy: 607, 1899
+  size: 200, 148
+  orig: 200, 148
+  offset: 0, 0
+  index: -1
+decal_id52
+  rotate: false
+  xy: 809, 1899
+  size: 200, 148
+  orig: 200, 148
+  offset: 0, 0
+  index: -1
+decal_id51
+  rotate: false
+  xy: 1011, 1900
+  size: 200, 147
+  orig: 200, 147
+  offset: 0, 0
+  index: -1
+decal_id5
+  rotate: false
+  xy: 1213, 1905
+  size: 200, 142
+  orig: 200, 142
+  offset: 0, 0
+  index: -1
+decal_id94
+  rotate: false
+  xy: 1415, 1909
+  size: 200, 138
+  orig: 200, 138
+  offset: 0, 0
+  index: -1
+decal_id158
+  rotate: false
+  xy: 1, 1173
+  size: 175, 166
+  orig: 200, 200
+  offset: 12, 16
+  index: -1
+decal_id192
+  rotate: false
+  xy: 1, 1008
+  size: 180, 163
+  orig: 180, 163
+  offset: 0, 0
+  index: -1
+decal_id189
+  rotate: false
+  xy: 1, 826
+  size: 156, 180
+  orig: 156, 180
+  offset: 0, 0
+  index: -1
+decal_id26
+  rotate: false
+  xy: 1617, 1914
+  size: 200, 133
+  orig: 200, 133
+  offset: 0, 0
+  index: -1
+decal_id0416
+  rotate: false
+  xy: 1819, 1916
+  size: 200, 131
+  orig: 200, 131
+  offset: 0, 0
+  index: -1
+decal_id190
+  rotate: false
+  xy: 1, 644
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: -1
+decal_id177
+  rotate: false
+  xy: 1, 462
+  size: 125, 180
+  orig: 125, 180
+  offset: 0, 0
+  index: -1
+decal_id183
+  rotate: false
+  xy: 1, 280
+  size: 120, 180
+  orig: 120, 180
+  offset: 0, 0
+  index: -1
+decal_id178
+  rotate: false
+  xy: 1, 98
+  size: 118, 180
+  orig: 118, 180
+  offset: 0, 0
+  index: -1
+decal_id0400
+  rotate: false
+  xy: 1, 1
+  size: 200, 95
+  orig: 200, 95
+  offset: 0, 0
+  index: -1
+decal_id176
+  rotate: false
+  xy: 121, 98
+  size: 117, 180
+  orig: 117, 180
+  offset: 0, 0
+  index: -1
+decal_id181
+  rotate: false
+  xy: 123, 280
+  size: 118, 180
+  orig: 118, 180
+  offset: 0, 0
+  index: -1
+decal_id180
+  rotate: false
+  xy: 128, 462
+  size: 113, 180
+  orig: 113, 180
+  offset: 0, 0
+  index: -1
+decal_id179
+  rotate: false
+  xy: 143, 644
+  size: 108, 180
+  orig: 108, 180
+  offset: 0, 0
+  index: -1
+decal_id182
+  rotate: false
+  xy: 159, 826
+  size: 107, 180
+  orig: 107, 180
+  offset: 0, 0
+  index: -1
+decal_id0449
+  rotate: false
+  xy: 607, 1855
+  size: 232, 42
+  orig: 232, 42
+  offset: 0, 0
+  index: -1
+decal_id0433
+  rotate: false
+  xy: 203, 1839
+  size: 230, 48
+  orig: 230, 48
+  offset: 0, 0
+  index: -1
+decal_id4
+  rotate: false
+  xy: 182, 1715
+  size: 200, 122
+  orig: 200, 122
+  offset: 0, 0
+  index: -1
+decal_id0324
+  rotate: false
+  xy: 841, 1851
+  size: 200, 46
+  orig: 200, 46
+  offset: 0, 0
+  index: -1
+decal_id0366
+  rotate: false
+  xy: 1043, 1837
+  size: 200, 61
+  orig: 200, 61
+  offset: 0, 0
+  index: -1
+decal_id0373
+  rotate: false
+  xy: 1245, 1803
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+decal_id0393
+  rotate: false
+  xy: 1447, 1790
+  size: 200, 117
+  orig: 200, 117
+  offset: 0, 0
+  index: -1
+decal_id0427
+  rotate: false
+  xy: 1649, 1792
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+decal_id10000
+  rotate: false
+  xy: 1851, 1754
+  size: 160, 160
+  orig: 200, 200
+  offset: 19, 19
+  index: -1
+decal_id0370
+  rotate: false
+  xy: 1649, 1752
+  size: 200, 38
+  orig: 200, 38
+  offset: 0, 0
+  index: -1
+decal_id0374
+  rotate: false
+  xy: 182, 1672
+  size: 200, 41
+  orig: 200, 41
+  offset: 0, 0
+  index: -1
+decal_id169
+  rotate: false
+  xy: 179, 1553
+  size: 200, 117
+  orig: 200, 117
+  offset: 0, 0
+  index: -1
+decal_id0389
+  rotate: false
+  xy: 179, 1451
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+decal_id42
+  rotate: false
+  xy: 174, 1341
+  size: 200, 108
+  orig: 200, 108
+  offset: 0, 0
+  index: -1
+decal_id0396
+  rotate: false
+  xy: 178, 1226
+  size: 200, 113
+  orig: 200, 113
+  offset: 0, 0
+  index: -1
+decal_id0395
+  rotate: false
+  xy: 178, 1173
+  size: 200, 51
+  orig: 200, 51
+  offset: 0, 0
+  index: -1
+decal_id79
+  rotate: false
+  xy: 183, 1058
+  size: 200, 113
+  orig: 200, 113
+  offset: 0, 0
+  index: -1
+decal_id0445
+  rotate: false
+  xy: 183, 1008
+  size: 217, 48
+  orig: 217, 48
+  offset: 0, 0
+  index: -1
+decal_id0426
+  rotate: false
+  xy: 268, 877
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+decal_id0440
+  rotate: false
+  xy: 384, 1707
+  size: 125, 130
+  orig: 125, 130
+  offset: 0, 0
+  index: -1
+decal_id0394
+  rotate: false
+  xy: 511, 1742
+  size: 200, 111
+  orig: 200, 111
+  offset: 0, 0
+  index: -1
+decal_id0425
+  rotate: false
+  xy: 713, 1735
+  size: 124, 118
+  orig: 124, 118
+  offset: 0, 0
+  index: -1
+decal_id88
+  rotate: false
+  xy: 839, 1738
+  size: 200, 111
+  orig: 200, 111
+  offset: 0, 0
+  index: -1
+decal_id0390
+  rotate: false
+  xy: 1041, 1735
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+decal_id0429
+  rotate: false
+  xy: 1243, 1725
+  size: 200, 76
+  orig: 200, 76
+  offset: 0, 0
+  index: -1
+decal_id101
+  rotate: false
+  xy: 1445, 1707
+  size: 200, 81
+  orig: 200, 81
+  offset: 0, 0
+  index: -1
+decal_id0437
+  rotate: false
+  xy: 1647, 1695
+  size: 210, 55
+  orig: 210, 55
+  offset: 0, 0
+  index: -1
+decal_id102
+  rotate: false
+  xy: 511, 1659
+  size: 200, 81
+  orig: 200, 81
+  offset: 0, 0
+  index: -1
+decal_id0458
+  rotate: false
+  xy: 1859, 1692
+  size: 178, 60
+  orig: 178, 60
+  offset: 0, 0
+  index: -1
+decal_id0382
+  rotate: false
+  xy: 839, 1729
+  size: 200, 7
+  orig: 200, 7
+  offset: 0, 0
+  index: -1
+decal_id1
+  rotate: false
+  xy: 1041, 1702
+  size: 200, 31
+  orig: 200, 31
+  offset: 0, 0
+  index: -1
+decal_id104
+  rotate: false
+  xy: 1243, 1676
+  size: 200, 47
+  orig: 200, 47
+  offset: 0, 0
+  index: -1
+decal_id105
+  rotate: false
+  xy: 1445, 1634
+  size: 200, 71
+  orig: 200, 71
+  offset: 0, 0
+  index: -1
+decal_id0456
+  rotate: false
+  xy: 1647, 1641
+  size: 207, 52
+  orig: 207, 52
+  offset: 0, 0
+  index: -1
+decal_id0431
+  rotate: false
+  xy: 1647, 1611
+  size: 226, 28
+  orig: 226, 28
+  offset: 0, 0
+  index: -1
+decal_id184
+  rotate: false
+  xy: 1856, 1655
+  size: 180, 35
+  orig: 180, 35
+  offset: 0, 0
+  index: -1
+decal_id0455
+  rotate: false
+  xy: 713, 1616
+  size: 116, 117
+  orig: 116, 117
+  offset: 0, 0
+  index: -1
+decal_id58
+  rotate: false
+  xy: 831, 1620
+  size: 200, 107
+  orig: 200, 107
+  offset: 0, 0
+  index: -1
+decal_id114
+  rotate: false
+  xy: 1033, 1611
+  size: 200, 89
+  orig: 200, 89
+  offset: 0, 0
+  index: -1
+decal_id108
+  rotate: false
+  xy: 1235, 1602
+  size: 200, 72
+  orig: 200, 72
+  offset: 0, 0
+  index: -1
+decal_id107
+  rotate: false
+  xy: 1437, 1591
+  size: 200, 41
+  orig: 200, 41
+  offset: 0, 0
+  index: -1
+decal_id0435
+  rotate: false
+  xy: 1639, 1577
+  size: 226, 32
+  orig: 226, 32
+  offset: 0, 0
+  index: -1
+decal_id109
+  rotate: false
+  xy: 831, 1585
+  size: 200, 33
+  orig: 200, 33
+  offset: 0, 0
+  index: -1
+decal_id11
+  rotate: false
+  xy: 1033, 1550
+  size: 200, 59
+  orig: 200, 59
+  offset: 0, 0
+  index: -1
+decal_id111
+  rotate: false
+  xy: 1235, 1548
+  size: 200, 52
+  orig: 200, 52
+  offset: 0, 0
+  index: -1
+decal_id113
+  rotate: false
+  xy: 1437, 1517
+  size: 200, 72
+  orig: 200, 72
+  offset: 0, 0
+  index: -1
+decal_id118
+  rotate: false
+  xy: 1639, 1510
+  size: 200, 65
+  orig: 200, 65
+  offset: 0, 0
+  index: -1
+decal_id0454
+  rotate: false
+  xy: 268, 807
+  size: 195, 68
+  orig: 195, 68
+  offset: 0, 0
+  index: -1
+decal_id16
+  rotate: false
+  xy: 253, 699
+  size: 200, 106
+  orig: 200, 106
+  offset: 0, 0
+  index: -1
+decal_id119
+  rotate: false
+  xy: 253, 629
+  size: 200, 68
+  orig: 200, 68
+  offset: 0, 0
+  index: -1
+decal_id99
+  rotate: false
+  xy: 243, 525
+  size: 200, 102
+  orig: 200, 102
+  offset: 0, 0
+  index: -1
+decal_id143
+  rotate: false
+  xy: 243, 433
+  size: 200, 90
+  orig: 200, 116
+  offset: 0, 13
+  index: -1
+decal_id18
+  rotate: false
+  xy: 243, 342
+  size: 200, 89
+  orig: 200, 89
+  offset: 0, 0
+  index: -1
+decal_id122
+  rotate: false
+  xy: 243, 278
+  size: 200, 62
+  orig: 200, 62
+  offset: 0, 0
+  index: -1
+decal_id59
+  rotate: false
+  xy: 240, 188
+  size: 200, 88
+  orig: 200, 88
+  offset: 0, 0
+  index: -1
+decal_id57
+  rotate: false
+  xy: 240, 104
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+decal_id0438
+  rotate: false
+  xy: 240, 69
+  size: 222, 33
+  orig: 222, 33
+  offset: 0, 0
+  index: -1
+decal_id9
+  rotate: false
+  xy: 203, 1
+  size: 200, 66
+  orig: 200, 66
+  offset: 0, 0
+  index: -1
+decal_id12
+  rotate: false
+  xy: 465, 1601
+  size: 200, 56
+  orig: 200, 56
+  offset: 0, 0
+  index: -1
+decal_id120
+  rotate: false
+  xy: 465, 1567
+  size: 200, 32
+  orig: 200, 32
+  offset: 0, 0
+  index: -1
+decal_id121
+  rotate: false
+  xy: 465, 1510
+  size: 200, 55
+  orig: 200, 70
+  offset: 0, 15
+  index: -1
+decal_id124
+  rotate: false
+  xy: 465, 1447
+  size: 200, 61
+  orig: 200, 61
+  offset: 0, 0
+  index: -1
+decal_id125
+  rotate: false
+  xy: 465, 1388
+  size: 200, 57
+  orig: 200, 57
+  offset: 0, 0
+  index: -1
+decal_id128
+  rotate: false
+  xy: 465, 1346
+  size: 200, 40
+  orig: 200, 40
+  offset: 0, 0
+  index: -1
+decal_id129
+  rotate: false
+  xy: 465, 1312
+  size: 200, 32
+  orig: 200, 32
+  offset: 0, 0
+  index: -1
+decal_id13
+  rotate: false
+  xy: 465, 1251
+  size: 200, 59
+  orig: 200, 59
+  offset: 0, 0
+  index: -1
+decal_id130
+  rotate: false
+  xy: 465, 1206
+  size: 200, 43
+  orig: 200, 43
+  offset: 0, 0
+  index: -1
+decal_id131
+  rotate: false
+  xy: 465, 1146
+  size: 200, 58
+  orig: 200, 58
+  offset: 0, 0
+  index: -1
+decal_id136
+  rotate: false
+  xy: 385, 1064
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: -1
+decal_id134
+  rotate: false
+  xy: 402, 998
+  size: 200, 64
+  orig: 200, 64
+  offset: 0, 0
+  index: -1
+decal_id22
+  rotate: false
+  xy: 399, 918
+  size: 200, 78
+  orig: 200, 78
+  offset: 0, 0
+  index: -1
+decal_id54
+  rotate: false
+  xy: 399, 878
+  size: 200, 38
+  orig: 200, 38
+  offset: 0, 0
+  index: -1
+decal_id40
+  rotate: false
+  xy: 465, 803
+  size: 200, 73
+  orig: 200, 73
+  offset: 0, 0
+  index: -1
+decal_id50
+  rotate: false
+  xy: 455, 723
+  size: 200, 78
+  orig: 200, 78
+  offset: 0, 0
+  index: -1
+decal_id77
+  rotate: false
+  xy: 455, 644
+  size: 200, 77
+  orig: 200, 77
+  offset: 0, 0
+  index: -1
+decal_id132
+  rotate: false
+  xy: 455, 613
+  size: 200, 29
+  orig: 200, 29
+  offset: 0, 0
+  index: -1
+decal_id80
+  rotate: false
+  xy: 445, 534
+  size: 200, 77
+  orig: 200, 77
+  offset: 0, 0
+  index: -1
+decal_id71
+  rotate: false
+  xy: 445, 459
+  size: 200, 73
+  orig: 200, 73
+  offset: 0, 0
+  index: -1
+decal_id45
+  rotate: false
+  xy: 445, 387
+  size: 200, 70
+  orig: 200, 70
+  offset: 0, 0
+  index: -1
+decal_id7
+  rotate: false
+  xy: 445, 320
+  size: 200, 65
+  orig: 200, 65
+  offset: 0, 0
+  index: -1
+decal_id137
+  rotate: false
+  xy: 445, 274
+  size: 200, 44
+  orig: 200, 44
+  offset: 0, 0
+  index: -1
+decal_id53
+  rotate: false
+  xy: 442, 211
+  size: 200, 61
+  orig: 200, 61
+  offset: 0, 0
+  index: -1
+decal_id44
+  rotate: false
+  xy: 442, 153
+  size: 200, 56
+  orig: 200, 56
+  offset: 0, 0
+  index: -1
+decal_id140
+  rotate: false
+  xy: 442, 107
+  size: 200, 44
+  orig: 200, 44
+  offset: 0, 0
+  index: -1
+decal_id115
+  rotate: false
+  xy: 464, 52
+  size: 193, 53
+  orig: 200, 53
+  offset: 0, 0
+  index: -1
+decal_id173
+  rotate: false
+  xy: 405, 1
+  size: 200, 49
+  orig: 200, 49
+  offset: 0, 0
+  index: -1
+decal_id36
+  rotate: false
+  xy: 607, 1
+  size: 200, 49
+  orig: 200, 49
+  offset: 0, 0
+  index: -1
+decal_id0424
+  rotate: false
+  xy: 667, 1486
+  size: 104, 128
+  orig: 104, 128
+  offset: 0, 0
+  index: -1
+decal_id0459
+  rotate: false
+  xy: 667, 1356
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: -1
+decal_id17
+  rotate: false
+  xy: 773, 1528
+  size: 200, 55
+  orig: 200, 55
+  offset: 0, 0
+  index: -1
+decal_id142
+  rotate: false
+  xy: 773, 1483
+  size: 200, 43
+  orig: 200, 43
+  offset: 0, 0
+  index: -1
+decal_id87
+  rotate: false
+  xy: 765, 1427
+  size: 200, 54
+  orig: 200, 54
+  offset: 0, 0
+  index: -1
+decal_id62
+  rotate: false
+  xy: 765, 1374
+  size: 200, 51
+  orig: 200, 51
+  offset: 0, 0
+  index: -1
+decal_id14
+  rotate: false
+  xy: 765, 1342
+  size: 200, 30
+  orig: 200, 30
+  offset: 0, 0
+  index: -1
+decal_id43
+  rotate: false
+  xy: 975, 1498
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+decal_id144
+  rotate: false
+  xy: 975, 1464
+  size: 200, 32
+  orig: 200, 32
+  offset: 0, 0
+  index: -1
+decal_id8
+  rotate: false
+  xy: 967, 1412
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+decal_id146
+  rotate: false
+  xy: 967, 1368
+  size: 200, 42
+  orig: 200, 42
+  offset: 0, 0
+  index: -1
+decal_id2
+  rotate: false
+  xy: 967, 1331
+  size: 200, 35
+  orig: 200, 35
+  offset: 0, 0
+  index: -1
+decal_id46
+  rotate: false
+  xy: 1177, 1505
+  size: 200, 41
+  orig: 200, 41
+  offset: 0, 0
+  index: -1
+decal_id56
+  rotate: false
+  xy: 1177, 1465
+  size: 200, 38
+  orig: 200, 38
+  offset: 0, 0
+  index: -1
+decal_id15
+  rotate: false
+  xy: 1177, 1448
+  size: 200, 15
+  orig: 200, 15
+  offset: 0, 0
+  index: -1
+decal_id82
+  rotate: false
+  xy: 1169, 1412
+  size: 200, 34
+  orig: 200, 34
+  offset: 0, 0
+  index: -1
+decal_id139
+  rotate: false
+  xy: 1169, 1378
+  size: 199, 32
+  orig: 200, 32
+  offset: 1, 0
+  index: -1
+decal_id55
+  rotate: false
+  xy: 1169, 1346
+  size: 200, 30
+  orig: 200, 30
+  offset: 0, 0
+  index: -1
+decal_id38
+  rotate: false
+  xy: 1169, 1315
+  size: 200, 29
+  orig: 200, 29
+  offset: 0, 0
+  index: -1
+decal_id6
+  rotate: false
+  xy: 1379, 1485
+  size: 200, 30
+  orig: 200, 30
+  offset: 0, 0
+  index: -1
+decal_id39
+  rotate: false
+  xy: 1379, 1454
+  size: 200, 29
+  orig: 200, 29
+  offset: 0, 0
+  index: -1

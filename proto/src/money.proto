@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+option go_package = "./pb";
+
+package srserver;
+
+message Money {
+    int32 money = 1;
+    int32 gold = 2;
+    int32 tournamentPoints = 3;
+    int32 topPoints = 4;
+    int32 upgradePoints = 5;
+}
+
+message Wallet {
+    int64 id = 1;
+    repeated Transaction commonLog = 2;
+    repeated Transaction bankLog = 3;
+}
+
+message Transaction {
+    int64 id = 1;
+    TransactionType type = 2;
+    Money moneyBefore = 3;
+    Money moneyAfter = 4;
+    int32 method = 5;
+    string description = 6;
+    int64 time = 7;
+}
+
+enum TransactionType {
+    UNDEFINED = 0;
+    BUY = 1;
+    SELL = 2;
+    BANK = 3;
+    LEVEL = 4;
+    QUEST = 5;
+    MAIL = 6;
+    AWARD = 7;
+    EXCHANGES = 8;
+}

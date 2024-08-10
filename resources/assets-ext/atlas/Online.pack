@@ -1,0 +1,453 @@
+
+Online.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wait_response_background
+  rotate: false
+  xy: 1, 1152
+  size: 1920, 895
+  orig: 1920, 895
+  offset: 0, 0
+  index: -1
+counter_digit
+  rotate: false
+  xy: 1923, 1855
+  size: 108, 192
+  orig: 108, 192
+  offset: 0, 0
+  index: 0
+mine_bg_gradient
+  rotate: false
+  xy: 2033, 967
+  size: 14, 1080
+  split: 3, 2, 3, 5
+  orig: 14, 1080
+  offset: 0, 0
+  index: -1
+counter_digit
+  rotate: false
+  xy: 1923, 1661
+  size: 108, 192
+  orig: 108, 192
+  offset: 0, 0
+  index: 1
+counter_digit
+  rotate: false
+  xy: 1923, 1467
+  size: 108, 192
+  orig: 108, 192
+  offset: 0, 0
+  index: 2
+counter_digit
+  rotate: false
+  xy: 1923, 1273
+  size: 108, 192
+  orig: 108, 192
+  offset: 0, 0
+  index: 3
+counter_digit
+  rotate: false
+  xy: 1923, 1079
+  size: 108, 192
+  orig: 108, 192
+  offset: 0, 0
+  index: 4
+wallpaper
+  rotate: false
+  xy: 1, 717
+  size: 1920, 433
+  orig: 1920, 433
+  offset: 0, 0
+  index: -1
+counter_digit
+  rotate: false
+  xy: 1923, 885
+  size: 108, 192
+  orig: 108, 192
+  offset: 0, 0
+  index: 5
+bg_black
+  rotate: false
+  xy: 2033, 964
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bg_bottom
+  rotate: false
+  xy: 2036, 964
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+counter_digit
+  rotate: false
+  xy: 1923, 691
+  size: 108, 192
+  orig: 108, 192
+  offset: 0, 0
+  index: 6
+divider
+  rotate: false
+  xy: 1, 713
+  size: 1920, 2
+  orig: 1920, 2
+  offset: 0, 0
+  index: -1
+counter_shine
+  rotate: false
+  xy: 1, 59
+  size: 630, 630
+  orig: 630, 630
+  offset: 0, 0
+  index: -1
+race_request_item_text_background
+  rotate: false
+  xy: 1, 5
+  size: 189, 52
+  orig: 189, 52
+  offset: 0, 0
+  index: -1
+divider_title
+  rotate: false
+  xy: 1, 1
+  size: 1347, 2
+  orig: 1347, 2
+  offset: 0, 0
+  index: -1
+bet_plus_green
+  rotate: false
+  xy: 192, 5
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+bet_plus_yellow
+  rotate: false
+  xy: 246, 5
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+race_request_title_en
+  rotate: false
+  xy: 1350, 556
+  size: 695, 133
+  orig: 695, 133
+  offset: 0, 0
+  index: -1
+lens_line
+  rotate: false
+  xy: 300, 7
+  size: 532, 50
+  orig: 532, 50
+  offset: 0, 0
+  index: -1
+bet_minus_green
+  rotate: false
+  xy: 1, 702
+  size: 52, 9
+  orig: 52, 9
+  offset: 0, 0
+  index: -1
+bet_minus_yellow
+  rotate: false
+  xy: 1, 691
+  size: 52, 9
+  orig: 52, 9
+  offset: 0, 0
+  index: -1
+bet_green_line
+  rotate: false
+  xy: 55, 706
+  size: 279, 5
+  orig: 279, 5
+  offset: 0, 0
+  index: -1
+bet_yellow_line
+  rotate: false
+  xy: 55, 699
+  size: 279, 5
+  orig: 279, 5
+  offset: 0, 0
+  index: -1
+counter_star
+  rotate: false
+  xy: 633, 80
+  size: 471, 474
+  orig: 471, 474
+  offset: 0, 0
+  index: -1
+name_plate_flash
+  rotate: false
+  xy: 1106, 89
+  size: 941, 465
+  orig: 941, 465
+  offset: 0, 0
+  index: -1
+arrow_big
+  rotate: false
+  xy: 1350, 1
+  size: 327, 86
+  orig: 327, 86
+  offset: 0, 0
+  index: -1
+bet_marker
+  rotate: false
+  xy: 1106, 9
+  size: 194, 78
+  orig: 194, 78
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 1106, 9
+  size: 194, 78
+  orig: 194, 78
+  offset: 0, 0
+  index: -1
+bet_indicator_coins
+  rotate: false
+  xy: 1302, 46
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+arrow_right
+  rotate: false
+  xy: 1302, 7
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+bet_background_bucks
+  rotate: false
+  xy: 1679, 6
+  size: 279, 81
+  orig: 279, 81
+  offset: 0, 0
+  index: -1
+race_request_notification_button_down
+  rotate: false
+  xy: 633, 562
+  size: 388, 149
+  orig: 388, 149
+  offset: 0, 0
+  index: -1
+bet_indicator_bucks
+  rotate: false
+  xy: 834, 38
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+bet_background_coins
+  rotate: false
+  xy: 1023, 630
+  size: 279, 81
+  orig: 279, 81
+  offset: 0, 0
+  index: -1
+
+Online2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+race_request_item_background
+  rotate: false
+  xy: 1, 1909
+  size: 1717, 138
+  orig: 1717, 138
+  offset: 0, 0
+  index: -1
+race_request_item_background_on
+  rotate: false
+  xy: 1, 1769
+  size: 1717, 138
+  orig: 1717, 138
+  offset: 0, 0
+  index: -1
+shadow_background
+  rotate: false
+  xy: 1, 1334
+  size: 1224, 433
+  split: 7, 13, 16, 13
+  orig: 1224, 433
+  offset: 0, 0
+  index: -1
+connection_background
+  rotate: false
+  xy: 1, 1227
+  size: 1347, 105
+  orig: 1347, 105
+  offset: 0, 0
+  index: -1
+name_plate_glow
+  rotate: false
+  xy: 1, 905
+  size: 903, 320
+  orig: 903, 320
+  offset: 0, 0
+  index: -1
+bet_line_background
+  rotate: false
+  xy: 1, 804
+  size: 1029, 99
+  orig: 1029, 99
+  offset: 0, 0
+  index: -1
+race_request_title_ru
+  rotate: false
+  xy: 1, 660
+  size: 844, 142
+  orig: 844, 142
+  offset: 0, 0
+  index: -1
+lens_big_star
+  rotate: false
+  xy: 1, 206
+  size: 459, 452
+  orig: 459, 452
+  offset: 0, 0
+  index: -1
+lens_points
+  rotate: false
+  xy: 462, 206
+  size: 459, 452
+  orig: 459, 452
+  offset: 0, 0
+  index: -1
+bet_history_background
+  rotate: false
+  xy: 1227, 1355
+  size: 377, 412
+  orig: 377, 412
+  offset: 0, 0
+  index: -1
+name_plate
+  rotate: false
+  xy: 1, 20
+  size: 601, 184
+  orig: 601, 184
+  offset: 0, 0
+  index: -1
+bet_background
+  rotate: false
+  xy: 1720, 1613
+  size: 316, 434
+  orig: 316, 434
+  offset: 0, 0
+  index: -1
+text_VS_ru
+  rotate: false
+  xy: 906, 1078
+  size: 393, 147
+  orig: 393, 147
+  offset: 0, 0
+  index: -1
+race_request_notification_button_up
+  rotate: false
+  xy: 906, 927
+  size: 388, 149
+  orig: 388, 149
+  offset: 0, 0
+  index: -1
+counter_circle
+  rotate: false
+  xy: 1606, 1251
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+text_VS_en
+  rotate: false
+  xy: 604, 81
+  size: 369, 123
+  orig: 369, 123
+  offset: 0, 0
+  index: -1
+button_down
+  rotate: false
+  xy: 604, 1
+  size: 194, 78
+  orig: 194, 78
+  offset: 0, 0
+  index: -1
+lens_small_star
+  rotate: false
+  xy: 923, 350
+  size: 459, 452
+  orig: 459, 452
+  offset: 0, 0
+  index: -1
+bet_button
+  rotate: false
+  xy: 975, 190
+  size: 279, 158
+  orig: 279, 158
+  offset: 0, 0
+  index: -1
+bet_button_disabled
+  rotate: false
+  xy: 975, 30
+  size: 279, 158
+  orig: 279, 158
+  offset: 0, 0
+  index: -1
+counter_digit
+  rotate: false
+  xy: 1256, 156
+  size: 108, 192
+  orig: 108, 192
+  offset: 0, 0
+  index: 7
+loading_inner
+  rotate: false
+  xy: 1350, 1184
+  size: 169, 169
+  orig: 169, 169
+  offset: 0, 0
+  index: -1
+lens_splash
+  rotate: false
+  xy: 1521, 797
+  size: 459, 452
+  orig: 459, 452
+  offset: 0, 0
+  index: -1
+bet_button_down
+  rotate: false
+  xy: 1384, 637
+  size: 279, 158
+  orig: 279, 158
+  offset: 0, 0
+  index: -1
+loading_middle
+  rotate: false
+  xy: 1384, 466
+  size: 169, 169
+  orig: 169, 169
+  offset: 0, 0
+  index: -1
+loading_outer
+  rotate: false
+  xy: 1665, 626
+  size: 169, 169
+  orig: 169, 169
+  offset: 0, 0
+  index: -1
+counter_digit
+  rotate: false
+  xy: 1555, 443
+  size: 108, 192
+  orig: 108, 192
+  offset: 0, 0
+  index: 8
+counter_digit
+  rotate: false
+  xy: 1665, 432
+  size: 108, 192
+  orig: 108, 192
+  offset: 0, 0
+  index: 9

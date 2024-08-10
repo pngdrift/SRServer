@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+option go_package = "./pb";
+
+package srserver;
+
+enum RaceResult {
+    NOT_CLEAR = 0;
+    WIN = 1;
+    LOST = 2;
+    DRAW = 3;
+}
+
+enum RaceType {
+    None = 0;
+    RACE = 1;
+    TOURNAMENT = 2;
+    CLAN = 3;
+    BOSS = 4;
+    POINTS = 5;
+    TIME = 6;
+    CHALLENGE = 7;
+    TEST804 = 8;
+    TEST402 = 9;
+    CHAT = 10;
+    SHADOW = 11;
+    ONLINE = 12;
+}

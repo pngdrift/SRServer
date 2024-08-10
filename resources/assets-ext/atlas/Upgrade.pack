@@ -1,0 +1,654 @@
+
+Upgrade.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+neon_blue_down
+  rotate: false
+  xy: 1, 1870
+  size: 800, 176
+  orig: 800, 176
+  offset: 0, 0
+  index: -1
+neon_blue_up
+  rotate: false
+  xy: 1, 1692
+  size: 800, 176
+  orig: 800, 176
+  offset: 0, 0
+  index: -1
+neon_cyan_down
+  rotate: false
+  xy: 803, 1870
+  size: 800, 176
+  orig: 800, 176
+  offset: 0, 0
+  index: -1
+neon_cyan_up
+  rotate: false
+  xy: 1, 1514
+  size: 800, 176
+  orig: 800, 176
+  offset: 0, 0
+  index: -1
+neon_green_down
+  rotate: false
+  xy: 803, 1692
+  size: 800, 176
+  orig: 800, 176
+  offset: 0, 0
+  index: -1
+neon_green_up
+  rotate: false
+  xy: 1, 1336
+  size: 800, 176
+  orig: 800, 176
+  offset: 0, 0
+  index: -1
+neon_green_yellow_down
+  rotate: false
+  xy: 803, 1514
+  size: 800, 176
+  orig: 800, 176
+  offset: 0, 0
+  index: -1
+neon_green_yellow_up
+  rotate: false
+  xy: 1, 1158
+  size: 800, 176
+  orig: 800, 176
+  offset: 0, 0
+  index: -1
+neon_light_blue_down
+  rotate: false
+  xy: 803, 1336
+  size: 800, 176
+  orig: 800, 176
+  offset: 0, 0
+  index: -1
+neon_light_blue_up
+  rotate: false
+  xy: 1, 980
+  size: 800, 176
+  orig: 800, 176
+  offset: 0, 0
+  index: -1
+neon_orange_down
+  rotate: false
+  xy: 803, 1158
+  size: 800, 176
+  orig: 800, 176
+  offset: 0, 0
+  index: -1
+neon_orange_up
+  rotate: false
+  xy: 1, 802
+  size: 800, 176
+  orig: 800, 176
+  offset: 0, 0
+  index: -1
+neon_pink_down
+  rotate: false
+  xy: 803, 980
+  size: 800, 176
+  orig: 800, 176
+  offset: 0, 0
+  index: -1
+neon_pink_up
+  rotate: false
+  xy: 1, 624
+  size: 800, 176
+  orig: 800, 176
+  offset: 0, 0
+  index: -1
+neon_purple_down
+  rotate: false
+  xy: 803, 802
+  size: 800, 176
+  orig: 800, 176
+  offset: 0, 0
+  index: -1
+neon_purple_red_down
+  rotate: false
+  xy: 1, 446
+  size: 800, 176
+  orig: 800, 176
+  offset: 0, 0
+  index: -1
+neon_purple_red_up
+  rotate: false
+  xy: 803, 624
+  size: 800, 176
+  orig: 800, 176
+  offset: 0, 0
+  index: -1
+neon_purple_up
+  rotate: false
+  xy: 1, 268
+  size: 800, 176
+  orig: 800, 176
+  offset: 0, 0
+  index: -1
+neon_red_down
+  rotate: false
+  xy: 803, 446
+  size: 800, 176
+  orig: 800, 176
+  offset: 0, 0
+  index: -1
+neon_red_up
+  rotate: false
+  xy: 1, 90
+  size: 800, 176
+  orig: 800, 176
+  offset: 0, 0
+  index: -1
+neon_yellow_down
+  rotate: false
+  xy: 803, 268
+  size: 800, 176
+  orig: 800, 176
+  offset: 0, 0
+  index: -1
+neon_yellow_up
+  rotate: false
+  xy: 803, 90
+  size: 800, 176
+  orig: 800, 176
+  offset: 0, 0
+  index: -1
+shadow_day
+  rotate: false
+  xy: 1, 36
+  size: 900, 52
+  orig: 900, 52
+  offset: 0, 0
+  index: -1
+shadow_night
+  rotate: false
+  xy: 903, 36
+  size: 900, 52
+  orig: 900, 52
+  offset: 0, 0
+  index: -1
+muffler_id1
+  rotate: false
+  xy: 1605, 1846
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+muffler_id2
+  rotate: false
+  xy: 1605, 1644
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+muffler_id3
+  rotate: false
+  xy: 1605, 1442
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+muffler_id4
+  rotate: false
+  xy: 1605, 1240
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+muffler_id5
+  rotate: false
+  xy: 1605, 1038
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+headlight_id1
+  rotate: false
+  xy: 1605, 786
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+headlight_id2
+  rotate: false
+  xy: 1605, 534
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+headlight_id3
+  rotate: false
+  xy: 1605, 282
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+intercooler_id1
+  rotate: false
+  xy: 1857, 915
+  size: 100, 121
+  orig: 100, 121
+  offset: 0, 0
+  index: -1
+intercooler_id2
+  rotate: false
+  xy: 1605, 159
+  size: 100, 121
+  orig: 100, 121
+  offset: 0, 0
+  index: -1
+intercooler_id3
+  rotate: false
+  xy: 1857, 792
+  size: 100, 121
+  orig: 100, 121
+  offset: 0, 0
+  index: -1
+intercooler_id4
+  rotate: false
+  xy: 1707, 159
+  size: 100, 121
+  orig: 100, 121
+  offset: 0, 0
+  index: -1
+intercooler_id5
+  rotate: false
+  xy: 1857, 669
+  size: 100, 121
+  orig: 100, 121
+  offset: 0, 0
+  index: -1
+intercooler_id6
+  rotate: false
+  xy: 1857, 546
+  size: 100, 121
+  orig: 100, 121
+  offset: 0, 0
+  index: -1
+intercooler_id7
+  rotate: false
+  xy: 1857, 423
+  size: 100, 121
+  orig: 100, 121
+  offset: 0, 0
+  index: -1
+suspension_id68_down
+  rotate: false
+  xy: 1959, 866
+  size: 46, 170
+  orig: 46, 170
+  offset: 0, 0
+  index: -1
+suspension_id68_up
+  rotate: false
+  xy: 1959, 694
+  size: 46, 170
+  orig: 46, 170
+  offset: 0, 0
+  index: -1
+suspension_id69_down
+  rotate: false
+  xy: 1959, 522
+  size: 46, 170
+  orig: 46, 170
+  offset: 0, 0
+  index: -1
+spring_id128
+  rotate: false
+  xy: 2007, 1960
+  size: 40, 86
+  orig: 40, 86
+  offset: 0, 0
+  index: -1
+spring_id132
+  rotate: false
+  xy: 2007, 1872
+  size: 40, 86
+  orig: 40, 86
+  offset: 0, 0
+  index: -1
+sm
+  rotate: false
+  xy: 1857, 321
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+suspension_id69_up
+  rotate: false
+  xy: 1959, 350
+  size: 46, 170
+  orig: 46, 170
+  offset: 0, 0
+  index: -1
+suspension_id109_down
+  rotate: false
+  xy: 2007, 1705
+  size: 32, 165
+  orig: 32, 165
+  offset: 0, 0
+  index: -1
+suspension_id109_up
+  rotate: false
+  xy: 2007, 1538
+  size: 32, 165
+  orig: 32, 165
+  offset: 0, 0
+  index: -1
+suspension_id94_down
+  rotate: false
+  xy: 2007, 1366
+  size: 26, 170
+  orig: 26, 170
+  offset: 0, 0
+  index: -1
+suspension_id94_up
+  rotate: false
+  xy: 2007, 1194
+  size: 26, 170
+  orig: 26, 170
+  offset: 0, 0
+  index: -1
+suspension_id10_down
+  rotate: false
+  xy: 2007, 1032
+  size: 36, 160
+  orig: 36, 160
+  offset: 0, 0
+  index: -1
+suspension_id10_up
+  rotate: false
+  xy: 2007, 870
+  size: 36, 160
+  orig: 36, 160
+  offset: 0, 0
+  index: -1
+suspension_id11_up
+  rotate: false
+  xy: 2007, 870
+  size: 36, 160
+  orig: 36, 160
+  offset: 0, 0
+  index: -1
+suspension_id12_up
+  rotate: false
+  xy: 2007, 870
+  size: 36, 160
+  orig: 36, 160
+  offset: 0, 0
+  index: -1
+suspension_id13_up
+  rotate: false
+  xy: 2007, 870
+  size: 36, 160
+  orig: 36, 160
+  offset: 0, 0
+  index: -1
+suspension_id14_up
+  rotate: false
+  xy: 2007, 870
+  size: 36, 160
+  orig: 36, 160
+  offset: 0, 0
+  index: -1
+suspension_id15_up
+  rotate: false
+  xy: 2007, 870
+  size: 36, 160
+  orig: 36, 160
+  offset: 0, 0
+  index: -1
+suspension_id11_down
+  rotate: false
+  xy: 2007, 708
+  size: 36, 160
+  orig: 36, 160
+  offset: 0, 0
+  index: -1
+suspension_id12_down
+  rotate: false
+  xy: 2007, 546
+  size: 36, 160
+  orig: 36, 160
+  offset: 0, 0
+  index: -1
+suspension_id13_down
+  rotate: false
+  xy: 2007, 384
+  size: 36, 160
+  orig: 36, 160
+  offset: 0, 0
+  index: -1
+suspension_id14_down
+  rotate: false
+  xy: 1809, 120
+  size: 36, 160
+  orig: 36, 160
+  offset: 0, 0
+  index: -1
+suspension_id15_down
+  rotate: false
+  xy: 1847, 120
+  size: 36, 160
+  orig: 36, 160
+  offset: 0, 0
+  index: -1
+suspension_id1_down
+  rotate: false
+  xy: 1885, 158
+  size: 25, 161
+  orig: 25, 161
+  offset: 0, 0
+  index: -1
+suspension_id1_up
+  rotate: false
+  xy: 1912, 158
+  size: 25, 161
+  orig: 25, 161
+  offset: 0, 0
+  index: -1
+suspension_id9_down
+  rotate: false
+  xy: 1939, 158
+  size: 25, 161
+  orig: 25, 161
+  offset: 0, 0
+  index: -1
+suspension_id9_up
+  rotate: false
+  xy: 1966, 187
+  size: 25, 161
+  orig: 25, 161
+  offset: 0, 0
+  index: -1
+suspension_id26_down
+  rotate: false
+  xy: 1993, 188
+  size: 25, 160
+  orig: 25, 160
+  offset: 0, 0
+  index: -1
+suspension_id26_up
+  rotate: false
+  xy: 2020, 222
+  size: 25, 160
+  orig: 25, 160
+  offset: 0, 0
+  index: -1
+brake_id4_support
+  rotate: false
+  xy: 2020, 155
+  size: 27, 65
+  orig: 27, 65
+  offset: 0, 0
+  index: -1
+brake_id1_disk
+  rotate: false
+  xy: 1805, 42
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+brake_id3_disk
+  rotate: false
+  xy: 1885, 80
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+brake_id5_disk
+  rotate: false
+  xy: 1883, 2
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+brake_id2_disk
+  rotate: false
+  xy: 1963, 78
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+brake_id4_disk
+  rotate: false
+  xy: 1961, 1
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+brake_id3_support
+  rotate: false
+  xy: 1605, 95
+  size: 28, 62
+  orig: 28, 62
+  offset: 0, 0
+  index: -1
+brake_id5_support
+  rotate: false
+  xy: 1635, 92
+  size: 20, 65
+  orig: 20, 65
+  offset: 0, 0
+  index: -1
+hub
+  rotate: false
+  xy: 1657, 120
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+
+Upgrade2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+headlight_id4
+  rotate: false
+  xy: 1, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+headlight_id5
+  rotate: false
+  xy: 253, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+headlight_id6
+  rotate: false
+  xy: 505, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+headlight_id7
+  rotate: false
+  xy: 757, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+brake_id6
+  rotate: false
+  xy: 1009, 176
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+spring_id1
+  rotate: false
+  xy: 1009, 94
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+spring_id13
+  rotate: false
+  xy: 1009, 12
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+spring_id14
+  rotate: false
+  xy: 1086, 171
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+spring_id15
+  rotate: false
+  xy: 1141, 171
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+spring_id5
+  rotate: false
+  xy: 1196, 171
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+spring_id9
+  rotate: false
+  xy: 1251, 171
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+spring_id16
+  rotate: false
+  xy: 1306, 168
+  size: 39, 83
+  orig: 39, 83
+  offset: 0, 0
+  index: -1
+spring_id23
+  rotate: false
+  xy: 1347, 168
+  size: 39, 83
+  orig: 39, 83
+  offset: 0, 0
+  index: -1
+brake_id1_support
+  rotate: false
+  xy: 1388, 180
+  size: 24, 71
+  orig: 24, 71
+  offset: 0, 0
+  index: -1
+brake_id2_support
+  rotate: false
+  xy: 1414, 181
+  size: 22, 70
+  orig: 22, 70
+  offset: 0, 0
+  index: -1

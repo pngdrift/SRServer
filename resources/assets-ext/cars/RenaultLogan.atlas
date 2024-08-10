@@ -1,0 +1,572 @@
+
+RenaultLogan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arcs
+  rotate: false
+  xy: 2, 264
+  size: 553, 78
+  orig: 735, 225
+  offset: 95, 29
+  index: -1
+arcs_shadow
+  rotate: false
+  xy: 2, 188
+  size: 544, 74
+  orig: 735, 225
+  offset: 92, 42
+  index: -1
+back_details
+  rotate: false
+  xy: 2, 344
+  size: 604, 87
+  orig: 735, 225
+  offset: 63, 39
+  index: -1
+base
+  rotate: false
+  xy: 2, 822
+  size: 611, 200
+  orig: 735, 225
+  offset: 61, 25
+  index: -1
+cabin
+  rotate: false
+  xy: 608, 325
+  size: 412, 96
+  orig: 735, 225
+  offset: 120, 126
+  index: -1
+center_bumper_id1
+  rotate: false
+  xy: 615, 644
+  size: 298, 24
+  orig: 735, 225
+  offset: 221, 24
+  index: -1
+center_bumper_id1_light
+  rotate: false
+  xy: 615, 580
+  size: 285, 13
+  orig: 735, 225
+  offset: 227, 34
+  index: -1
+center_bumper_id1_shadow
+  rotate: false
+  xy: 615, 618
+  size: 298, 24
+  orig: 735, 225
+  offset: 221, 24
+  index: -1
+center_bumper_id2
+  rotate: false
+  xy: 615, 798
+  size: 301, 38
+  orig: 735, 225
+  offset: 219, 14
+  index: -1
+center_bumper_id2_light
+  rotate: false
+  xy: 615, 595
+  size: 298, 21
+  orig: 735, 225
+  offset: 221, 31
+  index: -1
+center_bumper_id2_shadow
+  rotate: false
+  xy: 615, 758
+  size: 301, 38
+  orig: 735, 225
+  offset: 219, 14
+  index: -1
+center_bumper_id3
+  rotate: false
+  xy: 615, 728
+  size: 299, 28
+  orig: 735, 225
+  offset: 220, 16
+  index: -1
+center_bumper_id3_light
+  rotate: false
+  xy: 615, 670
+  size: 298, 26
+  orig: 735, 225
+  offset: 221, 18
+  index: -1
+center_bumper_id3_shadow
+  rotate: false
+  xy: 615, 698
+  size: 299, 28
+  orig: 735, 225
+  offset: 220, 16
+  index: -1
+details
+  rotate: false
+  xy: 615, 838
+  size: 339, 184
+  orig: 735, 225
+  offset: 199, 38
+  index: -1
+front_bumper_id1_light
+  rotate: false
+  xy: 956, 797
+  size: 59, 42
+  orig: 735, 225
+  offset: 619, 27
+  index: -1
+front_bumper_id1_lights_on
+  rotate: false
+  xy: 224, 96
+  size: 94, 90
+  orig: 735, 225
+  offset: 629, 0
+  index: -1
+front_bumper_id2
+  rotate: false
+  xy: 831, 117
+  size: 87, 80
+  orig: 735, 225
+  offset: 593, 11
+  index: -1
+front_bumper_id2_lights_on
+  rotate: false
+  xy: 163, 2
+  size: 94, 91
+  orig: 735, 225
+  offset: 629, 0
+  index: -1
+front_bumper_id3
+  rotate: false
+  xy: 939, 715
+  size: 83, 80
+  orig: 735, 225
+  offset: 593, 11
+  index: -1
+front_lights_off
+  rotate: false
+  xy: 918, 811
+  size: 32, 25
+  orig: 735, 225
+  offset: 634, 87
+  index: -1
+front_lights_on
+  rotate: false
+  xy: 615, 424
+  size: 149, 154
+  orig: 735, 225
+  offset: 586, 19
+  index: -1
+glass_notint
+  rotate: false
+  xy: 557, 226
+  size: 418, 86
+  orig: 735, 225
+  offset: 117, 130
+  index: -1
+glass_tint
+  rotate: false
+  xy: 259, 8
+  size: 418, 86
+  orig: 735, 225
+  offset: 117, 130
+  index: -1
+glass_tint_base
+  rotate: false
+  xy: 320, 100
+  size: 418, 86
+  orig: 735, 225
+  offset: 117, 130
+  index: -1
+light
+  rotate: false
+  xy: 2, 433
+  size: 611, 187
+  orig: 735, 225
+  offset: 61, 38
+  index: -1
+parking_lights_off
+  rotate: false
+  xy: 939, 802
+  size: 12, 7
+  orig: 735, 225
+  offset: 510, 100
+  index: -1
+parking_lights_on
+  rotate: false
+  xy: 773, 28
+  size: 82, 83
+  orig: 735, 225
+  offset: 477, 61
+  index: -1
+rear_bumper_id1
+  rotate: false
+  xy: 920, 145
+  size: 99, 79
+  orig: 735, 225
+  offset: 54, 29
+  index: -1
+rear_bumper_id1_light
+  rotate: false
+  xy: 956, 841
+  size: 62, 73
+  orig: 735, 225
+  offset: 54, 34
+  index: -1
+rear_bumper_id1_shadow
+  rotate: false
+  xy: 920, 64
+  size: 99, 79
+  orig: 735, 225
+  offset: 54, 29
+  index: -1
+rear_bumper_id2
+  rotate: false
+  xy: 914, 440
+  size: 100, 91
+  orig: 735, 225
+  offset: 54, 17
+  index: -1
+rear_bumper_id2_light
+  rotate: false
+  xy: 740, 113
+  size: 89, 84
+  orig: 735, 225
+  offset: 54, 24
+  index: -1
+rear_bumper_id2_shadow
+  rotate: false
+  xy: 123, 95
+  size: 99, 91
+  orig: 735, 225
+  offset: 54, 17
+  index: -1
+rear_bumper_id3
+  rotate: false
+  xy: 916, 624
+  size: 102, 89
+  orig: 735, 225
+  offset: 51, 19
+  index: -1
+rear_bumper_id3_light
+  rotate: false
+  xy: 679, 12
+  size: 92, 86
+  orig: 735, 225
+  offset: 51, 22
+  index: -1
+rear_bumper_id3_shadow
+  rotate: false
+  xy: 915, 533
+  size: 102, 89
+  orig: 735, 225
+  offset: 51, 19
+  index: -1
+rear_lights_off
+  rotate: false
+  xy: 918, 755
+  size: 19, 54
+  orig: 735, 225
+  offset: 61, 106
+  index: -1
+rear_lights_on
+  rotate: false
+  xy: 2, 44
+  size: 119, 142
+  orig: 735, 225
+  offset: 17, 58
+  index: -1
+rear_lights_stop
+  rotate: false
+  xy: 766, 423
+  size: 146, 155
+  orig: 735, 225
+  offset: 0, 53
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 622
+  size: 611, 198
+  orig: 735, 225
+  offset: 61, 25
+  index: -1
+spoiler_id1
+  rotate: false
+  xy: 669, 199
+  size: 94, 25
+  orig: 735, 225
+  offset: 38, 177
+  index: -1
+spoiler_id1_light
+  rotate: false
+  xy: 914, 425
+  size: 93, 13
+  orig: 735, 225
+  offset: 39, 188
+  index: -1
+spoiler_id1_shadow
+  rotate: false
+  xy: 915, 16
+  size: 94, 46
+  orig: 735, 225
+  offset: 38, 156
+  index: -1
+spoiler_id2
+  rotate: false
+  xy: 557, 314
+  size: 48, 28
+  orig: 735, 225
+  offset: 59, 160
+  index: -1
+spoiler_id21
+  rotate: false
+  xy: 956, 951
+  size: 65, 33
+  orig: 735, 225
+  offset: 47, 162
+  index: -1
+spoiler_id21_light
+  rotate: false
+  xy: 956, 916
+  size: 65, 33
+  orig: 735, 225
+  offset: 47, 162
+  index: -1
+spoiler_id21_shadow
+  rotate: false
+  xy: 956, 986
+  size: 65, 36
+  orig: 735, 225
+  offset: 47, 159
+  index: -1
+spoiler_id23
+  rotate: false
+  xy: 857, 95
+  size: 58, 20
+  orig: 735, 225
+  offset: 56, 159
+  index: -1
+spoiler_id23_light
+  rotate: false
+  xy: 857, 77
+  size: 57, 16
+  orig: 735, 225
+  offset: 56, 163
+  index: -1
+spoiler_id23_shadow
+  rotate: false
+  xy: 773, 4
+  size: 58, 22
+  orig: 735, 225
+  offset: 56, 157
+  index: -1
+spoiler_id2_light
+  rotate: false
+  xy: 977, 259
+  size: 41, 25
+  orig: 735, 225
+  offset: 60, 163
+  index: -1
+spoiler_id2_shadow
+  rotate: false
+  xy: 617, 195
+  size: 50, 29
+  orig: 735, 225
+  offset: 59, 159
+  index: -1
+spoiler_id3
+  rotate: false
+  xy: 977, 306
+  size: 45, 17
+  orig: 735, 225
+  offset: 60, 160
+  index: -1
+spoiler_id3_light
+  rotate: false
+  xy: 915, 2
+  size: 46, 12
+  orig: 735, 225
+  offset: 60, 165
+  index: -1
+spoiler_id3_shadow
+  rotate: false
+  xy: 857, 56
+  size: 46, 19
+  orig: 735, 225
+  offset: 60, 158
+  index: -1
+spoiler_id4_light
+  rotate: false
+  xy: 833, 5
+  size: 80, 21
+  orig: 735, 225
+  offset: 30, 181
+  index: -1
+spoiler_id6_shadow
+  rotate: false
+  xy: 2, 11
+  size: 90, 31
+  orig: 735, 225
+  offset: 20, 158
+  index: -1
+spoiler_id7
+  rotate: false
+  xy: 94, 13
+  size: 67, 29
+  orig: 735, 225
+  offset: 56, 158
+  index: -1
+spoiler_id7_light
+  rotate: false
+  xy: 765, 199
+  size: 67, 25
+  orig: 735, 225
+  offset: 56, 162
+  index: -1
+spoiler_id7_shadow
+  rotate: false
+  xy: 548, 195
+  size: 67, 29
+  orig: 735, 225
+  offset: 56, 158
+  index: -1
+spoiler_id8
+  rotate: false
+  xy: 857, 35
+  size: 46, 19
+  orig: 735, 225
+  offset: 61, 154
+  index: -1
+spoiler_id8_light
+  rotate: false
+  xy: 977, 286
+  size: 42, 18
+  orig: 735, 225
+  offset: 61, 155
+  index: -1
+spoiler_id8_shadow
+  rotate: false
+  xy: 834, 204
+  size: 48, 20
+  orig: 735, 225
+  offset: 61, 153
+  index: -1
+
+RenaultLogan2.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front_bumper_id1
+  rotate: false
+  xy: 176, 56
+  size: 85, 69
+  orig: 735, 225
+  offset: 593, 22
+  index: -1
+front_bumper_id1_shadow
+  rotate: false
+  xy: 263, 56
+  size: 85, 69
+  orig: 735, 225
+  offset: 593, 22
+  index: -1
+front_bumper_id2_light
+  rotate: false
+  xy: 350, 51
+  size: 71, 74
+  orig: 735, 225
+  offset: 609, 16
+  index: -1
+front_bumper_id2_shadow
+  rotate: false
+  xy: 2, 45
+  size: 87, 80
+  orig: 735, 225
+  offset: 593, 11
+  index: -1
+front_bumper_id3_light
+  rotate: false
+  xy: 423, 48
+  size: 67, 77
+  orig: 735, 225
+  offset: 609, 13
+  index: -1
+front_bumper_id3_shadow
+  rotate: false
+  xy: 91, 45
+  size: 83, 80
+  orig: 735, 225
+  offset: 593, 11
+  index: -1
+spoiler_id19
+  rotate: false
+  xy: 672, 82
+  size: 85, 43
+  orig: 735, 225
+  offset: 34, 160
+  index: -1
+spoiler_id19_light
+  rotate: false
+  xy: 759, 82
+  size: 85, 43
+  orig: 735, 225
+  offset: 34, 160
+  index: -1
+spoiler_id19_shadow
+  rotate: false
+  xy: 846, 80
+  size: 85, 45
+  orig: 735, 225
+  offset: 34, 158
+  index: -1
+spoiler_id20
+  rotate: false
+  xy: 582, 82
+  size: 88, 43
+  orig: 735, 225
+  offset: 43, 159
+  index: -1
+spoiler_id20_light
+  rotate: false
+  xy: 2, 2
+  size: 86, 41
+  orig: 735, 225
+  offset: 44, 160
+  index: -1
+spoiler_id20_shadow
+  rotate: false
+  xy: 492, 81
+  size: 88, 44
+  orig: 735, 225
+  offset: 43, 158
+  index: -1
+spoiler_id4
+  rotate: false
+  xy: 933, 81
+  size: 82, 44
+  orig: 735, 225
+  offset: 28, 158
+  index: -1
+spoiler_id4_shadow
+  rotate: false
+  xy: 492, 35
+  size: 82, 44
+  orig: 735, 225
+  offset: 28, 158
+  index: -1
+spoiler_id6
+  rotate: false
+  xy: 90, 24
+  size: 90, 19
+  orig: 735, 225
+  offset: 20, 170
+  index: -1
+spoiler_id6_light
+  rotate: false
+  xy: 90, 4
+  size: 90, 18
+  orig: 735, 225
+  offset: 20, 171
+  index: -1

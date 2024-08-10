@@ -1,0 +1,6742 @@
+{
+  "tournamentDatabase": {
+    "items": [
+      {
+        "id": 1,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 1,
+        "hourOfDay": 4,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "A"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 402,
+        "hpt": 0
+      },
+      {
+        "id": 2,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 1,
+        "hourOfDay": 11,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "A"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 402,
+        "hpt": 0
+      },
+      {
+        "id": 3,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 1,
+        "hourOfDay": 16,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "A"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 402,
+        "hpt": 0
+      },
+      {
+        "id": 4,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 1,
+        "hourOfDay": 4,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "H"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 5,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 1,
+        "hourOfDay": 11,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "H"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 6,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 1,
+        "hourOfDay": 16,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "H"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 7,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 1,
+        "hourOfDay": 4,
+        "minutes": 15,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "A"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 402,
+        "hpt": 0
+      },
+      {
+        "id": 8,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 1,
+        "hourOfDay": 11,
+        "minutes": 15,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "A"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 402,
+        "hpt": 0
+      },
+      {
+        "id": 9,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 1,
+        "hourOfDay": 16,
+        "minutes": 15,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "A"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 402,
+        "hpt": 0
+      },
+      {
+        "id": 10,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 1,
+        "hourOfDay": 4,
+        "minutes": 50,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "H"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 11,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 1,
+        "hourOfDay": 11,
+        "minutes": 50,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "H"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 12,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 1,
+        "hourOfDay": 16,
+        "minutes": 50,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "H"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 13,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 1,
+        "hourOfDay": 5,
+        "minutes": 10,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "R"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 14,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 1,
+        "hourOfDay": 12,
+        "minutes": 10,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "R"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 15,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 1,
+        "hourOfDay": 17,
+        "minutes": 10,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "R"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 16,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 2,
+        "hourOfDay": 4,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "B"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 17,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 2,
+        "hourOfDay": 11,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "B"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 18,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 2,
+        "hourOfDay": 16,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "B"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 19,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 2,
+        "hourOfDay": 4,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "I"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 20,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 2,
+        "hourOfDay": 11,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "I"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 21,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 2,
+        "hourOfDay": 16,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "I"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 22,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 2,
+        "hourOfDay": 5,
+        "minutes": 10,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "N"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 23,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 2,
+        "hourOfDay": 12,
+        "minutes": 10,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "N"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 24,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 2,
+        "hourOfDay": 17,
+        "minutes": 10,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "N"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 25,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 2,
+        "hourOfDay": 4,
+        "minutes": 15,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "B"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 26,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 2,
+        "hourOfDay": 11,
+        "minutes": 15,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "B"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 27,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 2,
+        "hourOfDay": 16,
+        "minutes": 15,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "B"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 28,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 2,
+        "hourOfDay": 4,
+        "minutes": 50,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "I"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 29,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 2,
+        "hourOfDay": 11,
+        "minutes": 50,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "I"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 30,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 2,
+        "hourOfDay": 16,
+        "minutes": 50,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "I"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 31,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 2,
+        "hourOfDay": 5,
+        "minutes": 25,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "N"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 32,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 2,
+        "hourOfDay": 12,
+        "minutes": 25,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "N"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 33,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 2,
+        "hourOfDay": 17,
+        "minutes": 25,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "N"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 34,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 3,
+        "hourOfDay": 4,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "C"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 35,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 3,
+        "hourOfDay": 11,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "C"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 36,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 3,
+        "hourOfDay": 16,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "C"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 37,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 3,
+        "hourOfDay": 4,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "J"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 38,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 3,
+        "hourOfDay": 11,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "J"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 39,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 3,
+        "hourOfDay": 16,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "J"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 40,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 3,
+        "hourOfDay": 5,
+        "minutes": 10,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "P"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 41,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 3,
+        "hourOfDay": 12,
+        "minutes": 10,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "P"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 42,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 3,
+        "hourOfDay": 17,
+        "minutes": 10,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "P"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 43,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 3,
+        "hourOfDay": 4,
+        "minutes": 15,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "C"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 44,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 3,
+        "hourOfDay": 11,
+        "minutes": 15,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "C"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 45,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 3,
+        "hourOfDay": 16,
+        "minutes": 15,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "C"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 46,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 3,
+        "hourOfDay": 4,
+        "minutes": 50,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "J"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 47,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 3,
+        "hourOfDay": 11,
+        "minutes": 50,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "J"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 48,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 3,
+        "hourOfDay": 16,
+        "minutes": 50,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "J"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 49,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 3,
+        "hourOfDay": 5,
+        "minutes": 25,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "P"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 50,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 3,
+        "hourOfDay": 12,
+        "minutes": 25,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "P"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 51,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 3,
+        "hourOfDay": 17,
+        "minutes": 25,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "P"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 52,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 4,
+        "hourOfDay": 4,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "D"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 53,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 4,
+        "hourOfDay": 11,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "D"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 54,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 4,
+        "hourOfDay": 16,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "D"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 55,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 4,
+        "hourOfDay": 4,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "K"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 56,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 4,
+        "hourOfDay": 11,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "K"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 57,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 4,
+        "hourOfDay": 16,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "K"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 58,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 4,
+        "hourOfDay": 5,
+        "minutes": 10,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "Q"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 59,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 4,
+        "hourOfDay": 12,
+        "minutes": 10,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "Q"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 60,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 4,
+        "hourOfDay": 17,
+        "minutes": 10,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "Q"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 61,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 4,
+        "hourOfDay": 4,
+        "minutes": 15,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "D"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 62,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 4,
+        "hourOfDay": 11,
+        "minutes": 15,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "D"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 63,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 4,
+        "hourOfDay": 16,
+        "minutes": 15,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "D"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 64,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 4,
+        "hourOfDay": 4,
+        "minutes": 50,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "K"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 65,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 4,
+        "hourOfDay": 11,
+        "minutes": 50,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "K"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 66,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 4,
+        "hourOfDay": 16,
+        "minutes": 50,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "K"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 67,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 4,
+        "hourOfDay": 5,
+        "minutes": 25,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "Q"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 68,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 4,
+        "hourOfDay": 12,
+        "minutes": 25,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "Q"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 69,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 4,
+        "hourOfDay": 17,
+        "minutes": 25,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "Q"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 70,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 1,
+        "hourOfDay": 5,
+        "minutes": 25,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "R"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 71,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 1,
+        "hourOfDay": 12,
+        "minutes": 25,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "R"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 72,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 1,
+        "hourOfDay": 17,
+        "minutes": 25,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "R"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 73,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 5,
+        "hourOfDay": 4,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "E"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 74,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 5,
+        "hourOfDay": 11,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "E"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 75,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 5,
+        "hourOfDay": 16,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "E"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 76,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 5,
+        "hourOfDay": 4,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "L"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 77,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 5,
+        "hourOfDay": 11,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "L"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 78,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 5,
+        "hourOfDay": 16,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "L"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 79,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 5,
+        "hourOfDay": 5,
+        "minutes": 10,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "M"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 80,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 5,
+        "hourOfDay": 12,
+        "minutes": 10,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "M"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 81,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 5,
+        "hourOfDay": 17,
+        "minutes": 10,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "M"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 82,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 5,
+        "hourOfDay": 4,
+        "minutes": 15,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "E"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 83,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 5,
+        "hourOfDay": 11,
+        "minutes": 15,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "E"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 84,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 5,
+        "hourOfDay": 16,
+        "minutes": 15,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "E"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 85,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 5,
+        "hourOfDay": 4,
+        "minutes": 50,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "L"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 86,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 5,
+        "hourOfDay": 11,
+        "minutes": 50,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "L"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 87,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 5,
+        "hourOfDay": 16,
+        "minutes": 50,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "L"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 88,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 5,
+        "hourOfDay": 5,
+        "minutes": 25,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "M"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 89,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 5,
+        "hourOfDay": 12,
+        "minutes": 25,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "M"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 90,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 5,
+        "hourOfDay": 17,
+        "minutes": 25,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "M"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 94,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 6,
+        "hourOfDay": 4,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "F"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 95,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 6,
+        "hourOfDay": 11,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "F"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 96,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 6,
+        "hourOfDay": 16,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "F"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 97,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 6,
+        "hourOfDay": 4,
+        "minutes": 15,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "F"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 98,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 6,
+        "hourOfDay": 11,
+        "minutes": 15,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "F"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 99,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 6,
+        "hourOfDay": 16,
+        "minutes": 15,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "F"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 100,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 6,
+        "hourOfDay": 5,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "J"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 101,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 6,
+        "hourOfDay": 12,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "J"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 102,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 6,
+        "hourOfDay": 17,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "J"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 103,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 6,
+        "hourOfDay": 5,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "Q"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 104,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 6,
+        "hourOfDay": 12,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "Q"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 105,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 6,
+        "hourOfDay": 17,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "Q"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 109,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 7,
+        "hourOfDay": 4,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "G"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 110,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 7,
+        "hourOfDay": 11,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "G"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 111,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 7,
+        "hourOfDay": 16,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "G"
+        ],
+        "firstPlaceAward": {
+          "money": 30000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 20000,
+          "gold": 150,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 10000,
+          "gold": 100,
+          "tournamentPoints": 50,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 4000,
+          "gold": 40,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 112,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 7,
+        "hourOfDay": 4,
+        "minutes": 15,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "G"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 113,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 7,
+        "hourOfDay": 11,
+        "minutes": 15,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "G"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 114,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 7,
+        "hourOfDay": 16,
+        "minutes": 15,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "G"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 115,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 7,
+        "hourOfDay": 5,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "J"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 116,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 7,
+        "hourOfDay": 12,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "J"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 117,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 7,
+        "hourOfDay": 17,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "J"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 118,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 7,
+        "hourOfDay": 5,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "Q"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 119,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 7,
+        "hourOfDay": 12,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "Q"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 120,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 7,
+        "hourOfDay": 17,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "carClass": [
+          "Q"
+        ],
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 0
+      },
+      {
+        "id": 124,
+        "type": 14,
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 1,
+        "hourOfDay": 6,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 350
+      },
+      {
+        "id": 125,
+        "type": 14,
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 1,
+        "hourOfDay": 13,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 350
+      },
+      {
+        "id": 126,
+        "type": 14,
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 1,
+        "hourOfDay": 18,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 350
+      },
+      {
+        "id": 154,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 4,
+        "hourOfDay": 6,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 402,
+        "hpt": 500
+      },
+      {
+        "id": 155,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 4,
+        "hourOfDay": 13,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 402,
+        "hpt": 500
+      },
+      {
+        "id": 156,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 4,
+        "hourOfDay": 18,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 402,
+        "hpt": 500
+      },
+      {
+        "id": 184,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 5,
+        "hourOfDay": 6,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 900
+      },
+      {
+        "id": 185,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 5,
+        "hourOfDay": 13,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 900
+      },
+      {
+        "id": 186,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 5,
+        "hourOfDay": 18,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 900
+      },
+      {
+        "id": 190,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 6,
+        "hourOfDay": 6,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 1500
+      },
+      {
+        "id": 191,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 6,
+        "hourOfDay": 13,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 1500
+      },
+      {
+        "id": 192,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 6,
+        "hourOfDay": 18,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 1500
+      },
+      {
+        "id": 196,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 7,
+        "hourOfDay": 6,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 2100
+      },
+      {
+        "id": 197,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 7,
+        "hourOfDay": 13,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 2100
+      },
+      {
+        "id": 198,
+        "type": "TOURNAMENT",
+        "monthNumber": -1,
+        "dayOfMonth": -1,
+        "dayOfWeek": 7,
+        "hourOfDay": 18,
+        "minutes": 35,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 2100
+      },
+      {
+        "id": 214,
+        "type": "TOURNAMENT",
+        "monthNumber": 11,
+        "dayOfMonth": 29,
+        "dayOfWeek": -1,
+        "hourOfDay": 18,
+        "minutes": 0,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 2023
+      },
+      {
+        "id": 215,
+        "type": "TOURNAMENT",
+        "monthNumber": 11,
+        "dayOfMonth": 30,
+        "dayOfWeek": -1,
+        "hourOfDay": 15,
+        "minutes": 30,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 2023
+      },
+      {
+        "id": 216,
+        "type": "TOURNAMENT",
+        "monthNumber": 11,
+        "dayOfMonth": 31,
+        "dayOfWeek": -1,
+        "hourOfDay": 15,
+        "minutes": 30,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 2023
+      },
+      {
+        "id": 217,
+        "type": "TOURNAMENT",
+        "monthNumber": 0,
+        "dayOfMonth": 1,
+        "dayOfWeek": -1,
+        "hourOfDay": 15,
+        "minutes": 30,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 2023
+      },
+      {
+        "id": 218,
+        "type": "TOURNAMENT",
+        "monthNumber": 0,
+        "dayOfMonth": 2,
+        "dayOfWeek": -1,
+        "hourOfDay": 15,
+        "minutes": 30,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 2023
+      },
+      {
+        "id": 219,
+        "type": "TOURNAMENT",
+        "monthNumber": 0,
+        "dayOfMonth": 3,
+        "dayOfWeek": -1,
+        "hourOfDay": 15,
+        "minutes": 30,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 2023
+      },
+      {
+        "id": 220,
+        "type": "TOURNAMENT",
+        "monthNumber": 0,
+        "dayOfMonth": 4,
+        "dayOfWeek": -1,
+        "hourOfDay": 15,
+        "minutes": 30,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 804,
+        "hpt": 2023
+      },
+      {
+        "id": 230,
+        "type": "TOURNAMENT",
+        "monthNumber": 3,
+        "dayOfMonth": 3,
+        "dayOfWeek": -1,
+        "hourOfDay": 15,
+        "minutes": 30,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 201,
+        "hpt": 15
+      },
+      {
+        "id": 231,
+        "type": "TOURNAMENT",
+        "monthNumber": 3,
+        "dayOfMonth": 4,
+        "dayOfWeek": -1,
+        "hourOfDay": 15,
+        "minutes": 30,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 201,
+        "hpt": 15
+      },
+      {
+        "id": 232,
+        "type": "TOURNAMENT",
+        "monthNumber": 3,
+        "dayOfMonth": 5,
+        "dayOfWeek": -1,
+        "hourOfDay": 15,
+        "minutes": 30,
+        "duration": 30,
+        "tryesCount": 3,
+        "tryeCost": 10,
+        "firstPlaceAward": {
+          "money": 50000,
+          "gold": 450,
+          "tournamentPoints": 400,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "secondPlaceAward": {
+          "money": 40000,
+          "gold": 250,
+          "tournamentPoints": 200,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "thirdPlaceAward": {
+          "money": 30000,
+          "gold": 170,
+          "tournamentPoints": 100,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "topPlaceAward": {
+          "money": 10000,
+          "gold": 50,
+          "tournamentPoints": 20,
+          "topPoints": 0,
+          "upgradePoints": 0
+        },
+        "firstPlaceItems": 0,
+        "secondsPlaceItems": 0,
+        "thirdPlaceItems": 0,
+        "fuelToRace": 3,
+        "trackSize": 201,
+        "hpt": 15
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "questDatabase": {
+    "items": [
+      {
+        "id": 7,
+        "maxCounter": 100,
+        "ico": "icon_beer",
+        "exp": 500,
+        "type": "DAILY",
+        "money": {
+          "money": 2800,
+          "gold": 0,
+          "tournamentPoints": 0,
+          "topPoints": 0,
+          "upgradePoints": 10
+        },
+        "handlers": ["EXCHANGE"],
+        "postprocessors": ["FUEL"],
+        "showTime": -1,
+        "hideTime": -1,
+        "lootId": 2
+      }
+    ]
+  }
+}

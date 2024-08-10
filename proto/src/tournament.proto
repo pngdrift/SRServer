@@ -1,0 +1,55 @@
+syntax = "proto3";
+
+import "enemy.proto";
+import "userInfo.proto";
+import "userCar.proto";
+import "money.proto";
+import "carUpgrade.proto";
+import "item.proto";
+
+option go_package = "./pb";
+
+package srserver;
+
+message UserTournaments {
+    repeated UserTournament activeTournaments = 1;
+    repeated Tournament finishedTournaments = 2;
+}
+
+message UserTournament {
+    int64 tournamentId = 1;
+    int32 tryesLeft = 2;
+    int32 points = 3;
+    Enemy enemy = 4;
+    bool isLost = 5;
+    Tournament tournament = 6;
+    bool isRegistered = 7;
+}
+
+message Tournament {
+    int64 id = 1;
+    int32 baseId = 2;
+    TournamentStatus status = 3;
+    int64 taskTime = 4;
+    repeated TournamentTopItem top = 5;
+    string name = 6;
+    int64 endTime = 7;
+}
+
+message TournamentTopItem {
+    int64 id = 1;
+    int32 place = 2;
+    int32 points = 3;
+    UserInfo info = 4;
+    UserCar car = 5;
+    Money award = 6;
+    repeated CarUpgrade upgrades = 7;
+    repeated Item items = 8;
+}
+
+enum TournamentStatus {
+    BUGGED = 0;
+    SCHEDULED = 1;
+    IN_PROGRESS = 2;
+    FINISHED = 3;
+}

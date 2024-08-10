@@ -1,0 +1,165 @@
+syntax = "proto3";
+
+import "base.proto";
+
+option go_package = "./pb";
+
+package srserver;
+
+message Database {
+    CarDatabase carDatabase = 1;
+    DiskDatabase diskDatabase = 2;
+    TiresDatabase tiresDatabase = 3;
+    SpringDatabase springDatabase = 4;
+    SuspensionDatabase suspensionDatabase = 5;
+    PneumoDatabase pneumoDatabase = 6;
+    BrakeDatabase brakeDatabase = 7;
+    BrakePadDatabase brakePadDatabase = 8;
+    PartsDatabase partsDatabase = 9;
+    TuningDatabase tuningDatabase = 10;
+    Turbo1Database turbo1Database = 11;
+    Turbo2Database turbo2Database = 12;
+    DecalDatabase decalDatabase = 13;
+    QuestDatabase questDatabase = 14;
+    TransmissionDatabase transmissionDatabase = 15;
+    ColorDatabase colorDatabase = 16;
+    TournamentDatabase tournamentDatabase = 17;
+    LootDatabase lootDatabase = 18;
+    DifferentialDatabase differentialDatabase = 19;
+    ChallengeDatabase challengeDatabase = 20;
+    ChallengeTrackDatabase challengeTrackDatabase = 21;
+    TrackDatabase trackDatabase = 23;
+    BlueprintDatabase blueprintDatabase = 24;
+    ToolsDatabase toolsDatabase = 25;
+    EngineDatabase engineDatabase = 26;
+    IntakeDatabase intakeDatabase = 27;
+    ExhaustDatabase exhaustDatabase = 28;
+    TimingGearDatabase timingGearDatabase = 29;
+    CamshaftDatabase camshaftDatabase = 30;
+    EcuDatabase ecuDatabase = 31;
+    RadiatorDatabase radiatorDatabase = 34;
+}
+
+message RadiatorDatabase {
+    repeated BaseRadiator items = 1;
+}
+
+message BrakeDatabase {
+    repeated BaseBrake items = 1;
+}
+
+message EcuDatabase {
+    repeated BaseECU items = 1;
+}
+
+message CamshaftDatabase {
+    repeated BaseCamshaft items = 1;
+}
+
+message TimingGearDatabase {
+    repeated BaseTimingGear items = 1;
+}
+
+message IntakeDatabase {
+    repeated BaseIntake items = 1;
+}
+
+message EngineDatabase {
+    repeated BaseEngine items = 1;
+}
+
+message ToolsDatabase {
+    repeated BaseTools items = 1;
+}
+
+message BlueprintDatabase {
+    repeated BaseBlueprint items = 1;
+}
+
+message TrackDatabase {
+    repeated BaseTrack items = 1;
+}
+
+message ChallengeTrackDatabase {
+    repeated BaseChallengeTrack items = 1;
+}
+
+message ChallengeDatabase {
+    repeated BaseChallenge items = 1;
+}
+
+message LootDatabase {
+    repeated LootList items = 1;
+}
+
+message ExhaustDatabase {
+    repeated BaseExhaust items = 1;
+}
+
+message DifferentialDatabase {
+    repeated BaseDifferential items = 1;
+}
+
+message TournamentDatabase {
+    repeated BaseTournament items = 1;
+}
+
+message ColorDatabase {
+    repeated BaseColor items = 1;
+}
+
+message TransmissionDatabase {
+    repeated BaseTransmission items = 1;
+}
+
+message QuestDatabase {
+    repeated BaseQuest items = 1;
+}
+
+message DecalDatabase {
+    repeated BaseDecal items = 1;
+}
+
+message Turbo1Database {
+    repeated BaseTurbo1 items = 1;
+}
+
+message Turbo2Database {
+    repeated BaseTurbo2 items = 1;
+}
+
+message TuningDatabase {
+    repeated BaseTuning items = 1;
+}
+
+message PartsDatabase {
+    repeated BaseParts items = 1;
+}
+
+message BrakePadDatabase {
+    repeated BaseBrakePad items = 1;
+}
+
+message PneumoDatabase {
+    repeated BasePneumo items = 1;
+}
+
+message SuspensionDatabase {
+    repeated BaseSuspension items = 1;
+}
+
+message SpringDatabase {
+    repeated BaseSpring items = 1;
+}
+
+message DiskDatabase {
+    repeated BaseDisk items = 1;
+}
+
+message TiresDatabase {
+    repeated BaseTires items = 1;
+}
+
+message CarDatabase {
+    repeated BaseCar items = 1;
+}

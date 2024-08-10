@@ -1,0 +1,84 @@
+syntax = "proto3";
+
+import "carUpgrade.proto";
+import "userInfo.proto";
+import "chat.proto";
+import "mail.proto";
+import "inventory.proto";
+import "enemy.proto";
+import "top.proto";
+import "quest.proto";
+import "money.proto";
+import "garage.proto";
+import "tournament.proto";
+import "dyno.proto";
+import "paint.proto";
+import "challenge.proto";
+
+option go_package = "./pb";
+
+package srserver;
+
+message User {
+    int64 id = 1;
+    int32 level = 2;
+    int32 exp = 3;
+    Money money = 4;
+    Fuel fuel = 5;
+    UserInfo info = 6;
+    Garage garage = 7;
+    Inventory inventory = 8;
+    UserEnemies enemies = 9;
+    UserQuests quests = 10;
+    World world = 11;
+    MailBox mail = 12;
+    Chat chat = 13;
+    UserTournaments tournaments = 14;
+    Top top = 15;
+    int64 dailyBonusTime = 16;
+    PointsEnemies pointsEnemies = 17;
+    TimersAndCounters timersAndCounters = 18;
+    Challenges challenges = 19;
+    SocialType socialType = 20;
+    Dyno dyno = 21;
+    UserPaints paints = 22;
+}
+
+enum SocialType {
+    GPGS = 0; // Google Play Games Service
+    OK = 1; // Odnoklassniki
+    VK = 2; // VKontakte
+    DEBUG = 3;
+}
+
+message TimersAndCounters {
+    int64 resetTime = 1;
+    int32 timeCount = 2;
+    int64 timeTimer = 3;
+    int32 ratingCount = 4;
+    int64 ratingTimer = 5;
+    int32 challengeCount = 6;
+    int64 challengeTimer = 7;
+    int32 refuelCount = 8;
+    int32 exchangeCount = 9;
+    int64 exchangeTimer = 10;
+}
+
+message World {
+    int64 time = 1;
+    string zoneId = 2;
+    int64 timeDelta = 3;
+}
+
+message Fuel {
+    int32 addition = 1;
+    int32 fuelTime = 2;
+    int32 fuel = 3;
+}
+
+message LevelUpAward {
+    int32 level = 1;
+    Money money = 2;
+    Fuel fuel = 3;
+    repeated CarUpgrade upgrades = 4;
+}

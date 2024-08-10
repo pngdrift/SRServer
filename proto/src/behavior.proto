@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+option go_package = "./pb";
+
+package srserver;
+
+message Behavior {
+    float tiresHeat = 1;
+    int32 transmissionType = 2;
+    repeated RaceEventItem events = 3;
+    float frontTiresHeat = 4;
+    float rearTiresHeat = 5;
+    int32 startRpm = 6;
+}
+
+message RaceEventItem {
+    RaceEvent event = 1;
+    float time = 2;
+}
+
+enum RaceEvent {
+    GAS_DOWN = 0;
+    GAS_UP = 1;
+    BRAKE_DOWN = 2;
+    BRAKE_UP = 3;
+    SHIFT_DOWN = 4;
+    SHIFT_UP = 5;
+    CLUTCH_DOWN = 6;
+    CLUTCH_UP = 7;
+}

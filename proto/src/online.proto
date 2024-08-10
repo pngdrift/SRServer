@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+import "userInfo.proto";
+import "userCar.proto";
+
+option go_package = "./pb";
+
+package srserver;
+
+message OnlineMember {
+    int64 id = 1;
+    OnlineMemberType type = 2;
+    MemberLobbyStatus lobbyStatus = 3;
+    MemberRaceStatus raceStatus = 4;
+    UserInfo userInfo = 5;
+    UserCar userCar = 6;
+}
+
+enum OnlineMemberType {
+    CLIENT = 0;
+    HOST = 1;
+    TEST = 2;
+    SPECTATOR = 3;
+}
+
+enum MemberLobbyStatus {
+    JOINING = 0;
+    // 1 null
+    WAITING = 2;
+    OFFLINE = 3;
+    READY = 4;
+}
+
+enum MemberRaceStatus {
+    LOADING = 0;
+    LOADED = 1;
+    HEATING = 2;
+    READY_TO_RACE = 3;
+    RACING = 4;
+    ENDED = 5;
+    DISQUALIFICATION = 6;
+    DISCONNECTED = 7;
+}

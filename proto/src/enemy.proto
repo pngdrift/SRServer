@@ -1,0 +1,37 @@
+syntax = "proto3";
+
+import "userInfo.proto";
+import "raceEnums.proto";
+import "carUpgrade.proto";
+import "behavior.proto";
+import "userCar.proto";
+
+option go_package = "./pb";
+
+package srserver;
+
+message UserEnemies {
+    int64 carId = 1;
+    repeated Enemy list = 2;
+}
+
+message Enemy {
+    int64 id = 1;
+    UserInfo info = 2;
+    UserCar car = 3;
+    RaceType type = 4;
+    EnemyType enemyType = 5;
+    Behavior behavior = 6;
+}
+
+message EnemyType {
+    int32 raceCount = 1;
+    repeated RaceResult races = 2;
+    repeated CarUpgrade loot = 3;
+    int32 placeInTop = 4;
+}
+
+message PointsEnemies {
+    repeated Enemy list = 1;
+    bool isNeedUpdate = 2;
+}

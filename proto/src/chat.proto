@@ -1,0 +1,38 @@
+syntax = "proto3";
+
+import "userInfo.proto";
+
+option go_package = "./pb";
+
+package srserver;
+
+message Chat {
+    repeated ChatRoom rooms = 1;
+}
+
+enum ChatRoomType {
+    LOCKED = 0;
+    PUBLIC = 1;
+    TAXI = 2;
+    PRIVATE = 3;
+}
+
+message ChatRoom {
+    string id = 1;
+    ChatRoomType type = 2;
+    repeated ChatMessage messages = 3;
+    bool isLoaded = 4;
+    bool isLocked = 5;
+    bool isBanned = 6;
+}
+
+message ChatMessage {
+    int64 id = 1;
+    int64 time = 2;
+    int64 fromUid = 3;
+    string message = 4;
+    UserInfo userInfo = 5;
+    int64 toUid = 6;
+    UserInfo toUserInfo = 7;
+    bool registred = 8;
+}

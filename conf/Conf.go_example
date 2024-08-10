@@ -1,0 +1,15 @@
+package conf
+
+const (
+	LOGIC_SERVER_ADDRESS = "192.168.43.223"
+
+	MIN_CLIENT_VERSION = 35 //v1.8.1, v1.8.2
+	MAX_CLIENT_VERSION = 37 //v1.8.6
+
+	DATABASE_ADDRESS  = "localhost:3306"
+	DATABASE_USERNAME = "sruser"
+	DATABASE_PASSWORD = "srserver"
+	DATABASE_NAME     = "SRDatabase"
+
+	TECHNICAL_WORKS = false
+)

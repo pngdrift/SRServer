@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option go_package = "./pb";
+
+package srserver;
+
+message GameException {
+    string errorMessage = 1;
+    string errorDescription = 2;
+    int32 error = 3;
+    ErrorLevel errorLevel = 4;
+}
+
+enum ErrorLevel {
+    NO = 0;
+    INFO = 1;
+    WARNING = 2;
+    ERROR = 3;
+    CRITICAL = 4;
+}

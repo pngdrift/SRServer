@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option go_package = "./pb";
+
+package srserver;
+
+message PatchContainer {
+    repeated PatchFile files = 1;
+}
+
+message PatchFile {
+    string path = 1;
+    int64 hash = 2;
+    int64 size = 3;
+}

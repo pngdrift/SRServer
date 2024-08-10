@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option go_package = "./pb";
+
+package srserver;
+
+enum ItemType {
+    HIDDEN = 0;
+    BLUEPRINT = 1;
+    TOOLS = 2;
+}

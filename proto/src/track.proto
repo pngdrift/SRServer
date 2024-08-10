@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+import "base.proto";
+
+option go_package = "./pb";
+
+package srserver;
+
+message Track {
+    float distanse = 1;
+    float brakeDistance = 2;
+    string ground = 3;
+    float groundWidth = 4;
+    float groundHeight = 5;
+    float groundOffset = 6;
+    float groundFriction = 7;
+    float groundStep = 8;
+    TrackType type = 9;
+    repeated BaseTrackBackground backgrounds = 10;
+    float frequency = 11;
+    int32 octaveCount = 12;
+    float lacunarity = 13;
+    float persistence = 14;
+    float finishLineY1 = 15;
+    float finishLineY2 = 16;
+    int32 baseId = 17;
+}

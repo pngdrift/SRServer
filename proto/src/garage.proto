@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "userCar.proto";
+
+option go_package = "./pb";
+
+package srserver;
+
+message Garage {
+    int64 currentId = 1;
+    repeated UserCar cars = 2;
+}

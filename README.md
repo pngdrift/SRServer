@@ -1,4 +1,7 @@
 # SRServer
+
+[![Discord](https://img.shields.io/discord/1340027267304390769?label=Discord&style=plastic&link=https%3A%2F%2Fdiscord.gg%2F3gRGmyUJvx)](https://discord.gg/3gRGmyUJvx)
+
 Open-source server for the android game "Drag Racing: Streets" aka "Street racing".
 
 

@@ -18,13 +18,6 @@ jobs:
       with:
         go-version: '1.24'
 
-    - name: Set up MariaDB
-      uses: getong/mariadb-action@v1.11
-      with:
-        mysql database: 'SRDatabase'
-        mysql user: 'sruser'
-        mysql password: 'srserver'
-
     - name: Prepare Conf.go
       run: |
         mv ./conf/Conf.go_example ./conf/Conf.go

@@ -3,6 +3,7 @@ package logic
 import (
 	"bufio"
 	"encoding/binary"
+	"fmt"
 	"io"
 	"log"
 	"net"
@@ -50,6 +51,7 @@ func (s *LogicServer) Shutdown() {
 			pack.SetMethod(common.OnShutdown)
 			pack.WriteInt(second)
 			handlers.Broadcast(pack.ToByteBuff())
+			fmt.Printf("pack: %v\n", pack)
 		})
 	}
 }

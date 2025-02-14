@@ -66,8 +66,6 @@ func (s *ContentServer) handleConnection(conn net.Conn) {
 	}
 }
 
-const assetsDir = "resources/assets-ext/"
-
 func (s *ContentServer) processPacket(pack *common.Pack, conn net.Conn) {
 	response := common.NewResponse(pack)
 	switch pack.GetMethod() {
@@ -87,7 +85,7 @@ func (s *ContentServer) processPacket(pack *common.Pack, conn net.Conn) {
 		pathUrl := pack.ReadString()
 		filePosition := pack.ReadInt()
 		size := pack.ReadInt()
-		data, err := os.ReadFile(assetsDir + pathUrl)
+		data, err := os.ReadFile(conf.ASSETS_PATH + pathUrl)
 		if err != nil {
 			response.SetError(true)
 			response.WriteProto(&pb.GameException{
@@ -112,7 +110,7 @@ func (s *ContentServer) processPacket(pack *common.Pack, conn net.Conn) {
 func (s *ContentServer) CreatePatchContainer() {
 	var patchFiles []*pb.PatchFile
 	var totalSize int64
-	err := filepath.Walk(assetsDir, func(filePath string, info os.FileInfo, err error) error {
+	err := filepath.Walk(conf.ASSETS_PATH, func(filePath string, info os.FileInfo, err error) error {
 		if err != nil {
 			return err
 		}
@@ -122,7 +120,7 @@ func (s *ContentServer) CreatePatchContainer() {
 				return err
 			}
 			crc32Value := crc32.ChecksumIEEE(fileData)
-			relativePath, err := filepath.Rel(assetsDir, filePath)
+			relativePath, err := filepath.Rel(conf.ASSETS_PATH, filePath)
 			if err != nil {
 				return err
 			}

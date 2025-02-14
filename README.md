@@ -1,7 +1,6 @@
 # SRServer
 Open-source server for the android game "Drag Racing: Streets" aka "Street racing".
 
-(WIP?)
 
 ## Supported game versions
 |APK Version|Client version|Obfuscated|Link|
@@ -18,7 +17,7 @@ The APK needs be modified, for e.g., using [MT Manager](https://mt2.cn).
 * In the SRConfig class to replace the content server address from "85.25.237.169" to yours.
 * If needed, clone the APK.
 * Initially, the login works only through [Odnoklassniki](https://ok.ru) and [Facebook](https://www.facebook.com), in order for [VKontakte](https://vk.com) to work
-you need to change in file  resources.arsc `vk_api_version` from `5.60` to `5.90` or higher.
+you need to change in file resources.arsc `vk_api_version` from `5.60` to `5.90` or higher.
 Unfortunately, login via Google Play Games Service is not available in any way.
 
 ## Building proto files
@@ -42,5 +41,5 @@ The resources and items are not fully consistent with game version 1.8.x.
 ## Screenshot
 ![](https://i.imgur.com/qmRFEJp.png)
 
-## Why Golang?
-I was just interested in trying this language.
+## Using Git LFS
+Please note that this repository uses [Git LFS](https://git-lfs.com/).

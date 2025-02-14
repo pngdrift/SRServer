@@ -6,6 +6,8 @@ const (
 	MIN_CLIENT_VERSION = 35 //v1.8.1, v1.8.2
 	MAX_CLIENT_VERSION = 37 //v1.8.6
 
+	ASSETS_PATH = "resources/assets-ext"
+
 	DATABASE_ADDRESS  = "localhost:3306"
 	DATABASE_USERNAME = "sruser"
 	DATABASE_PASSWORD = "srserver"

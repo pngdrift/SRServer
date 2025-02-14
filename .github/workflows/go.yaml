@@ -1,0 +1,46 @@
+name: Go
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Go
+      uses: actions/setup-go@v4
+      with:
+        go-version: '1.24'
+
+    - name: Set up MariaDB
+      uses: getong/mariadb-action@v1.11
+      with:
+        mysql database: 'SRDatabase'
+        mysql user: 'sruser'
+        mysql password: 'srserver'
+
+    - name: Prepare Conf.go
+      run: |
+        mv ./conf/Conf.go_example ./conf/Conf.go
+
+    - name: Set up Protoc
+      uses: arduino/setup-protoc@v3
+      with:
+        version: "29.2"
+
+    - name: Install protoc-gen-go
+      run: go install google.golang.org/protobuf/cmd/protoc-gen-go@latest
+    
+    - name: Generate proto files
+      run: |
+        mkdir "./proto/out"
+        protoc --proto_path=proto/src --go_out=./proto/out --go_opt=paths=source_relative proto/src/*.proto
+
+    - name: Build
+      run: go build -v ./...

@@ -2,4 +2,7 @@
 
 /proto/out/*
 /main
+/srserver
 *.exe
+
+*.log

@@ -25,11 +25,11 @@ func NewContentServer() *ContentServer {
 }
 
 func (s *ContentServer) Start() {
-	ln, err := net.Listen("tcp", ":8993")
+	ln, err := net.Listen("tcp", ":"+conf.CONTENT_SERVER_PORT)
 	if err != nil {
 		log.Fatalf("Failed to start content server: %v", err)
 	}
-	log.Println("Content server is listening on port 8993")
+	log.Println("Content server is listening on port", conf.CONTENT_SERVER_PORT)
 
 	for {
 		conn, err := ln.Accept()

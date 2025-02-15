@@ -8,6 +8,7 @@ import (
 	"net"
 	"os"
 	"srserver/common"
+	"srserver/conf"
 	"srserver/logic/clients"
 	"srserver/logic/db"
 	"srserver/logic/handlers"
@@ -23,11 +24,11 @@ func NewLogicServer() *LogicServer {
 
 func (s *LogicServer) Start() error {
 	db.InitDb()
-	ln, err := net.Listen("tcp", ":8992")
+	ln, err := net.Listen("tcp", ":"+conf.LOGIC_SERVER_PORT)
 	if err != nil {
-		log.Fatalf("Failed to start content Logic: %v", err)
+		log.Fatalf("Failed to start logic server: %v", err)
 	}
-	log.Println("Logic server is listening on port 8992")
+	log.Println("Logic server is listening on port", conf.LOGIC_SERVER_PORT)
 
 	for {
 		conn, err := ln.Accept()

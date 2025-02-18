@@ -8,6 +8,7 @@ import (
 	"log"
 	"net"
 	"os"
+	"path"
 	"path/filepath"
 	"srserver/common"
 	"srserver/conf"
@@ -85,7 +86,7 @@ func (s *ContentServer) processPacket(pack *common.Pack, conn net.Conn) {
 		pathUrl := pack.ReadString()
 		filePosition := pack.ReadInt()
 		size := pack.ReadInt()
-		data, err := os.ReadFile(conf.ASSETS_PATH + pathUrl)
+		data, err := os.ReadFile(path.Join(conf.ASSETS_PATH, pathUrl))
 		if err != nil {
 			response.SetError(true)
 			response.WriteProto(&pb.GameException{

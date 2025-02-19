@@ -125,8 +125,8 @@ func ConfigMuffler(pack *common.Pack, client *clients.Client) {
 	offsetY := pack.ReadFloat()
 	userCar := client.Player.FindUserCarById(carId)
 	if userCar == nil ||
-		offsetX < -0.05 || offsetY < -0.05 ||
-		offsetX > 0.1 || offsetY > 0.15 {
+		offsetX < conf.MIN_MUFFLER_OFFSET_X || offsetY < conf.MIN_MUFFLER_OFFSET_Y ||
+		offsetX > conf.MAX_MUFFLER_OFFSET_X || offsetY > conf.MAX_MUFFLER_OFFSET_Y {
 		return
 	}
 	userCar.Settings.MufflerOffsetX = offsetX

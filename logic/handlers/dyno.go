@@ -20,6 +20,9 @@ func SaveDynoTest(pack *common.Pack, client *clients.Client) {
 }
 
 func StartDynoTest(pack *common.Pack, client *clients.Client) {
+	if !client.Player.CheckMoney(conf.MONEY_FOR_DYNO_TEST) {
+		return
+	}
 	response := common.NewResponse(pack)
 	client.Write(response.ToByteBuff())
 	client.Player.Withdraw(conf.MONEY_FOR_DYNO_TEST)

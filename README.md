@@ -43,6 +43,3 @@ The resources and items are not fully consistent with game version 1.8.x.
 
 ## Screenshot
 ![](https://i.imgur.com/qmRFEJp.png)
-
-## Using Git LFS
-Please note that this repository uses [Git LFS](https://git-lfs.com/).
